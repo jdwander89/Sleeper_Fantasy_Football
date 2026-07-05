@@ -27,7 +27,7 @@ def main(argv: Sequence[str] | None = None) -> int:
     parser.add_argument(
         "--skip-validation",
         action="store_true",
-        help="Run exporters and finalization only; skip validation scripts.",
+        help="Run exporters, finalization, and summary only; skip validation scripts.",
     )
     args = parser.parse_args(argv)
 
@@ -39,6 +39,7 @@ def main(argv: Sequence[str] | None = None) -> int:
         [python, "scripts/sleeper_transactions.py", *refresh_flag],
         [python, "scripts/sleeper_drafts.py", *refresh_flag],
         [python, "scripts/finalize_snapshot.py"],
+        [python, "scripts/build_summary.py"],
     ]
 
     if not args.skip_validation:
