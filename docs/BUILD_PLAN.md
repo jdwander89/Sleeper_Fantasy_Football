@@ -4,7 +4,7 @@ This project should be built incrementally. Accuracy and inspectability are high
 
 ## Phase 0: Foundation
 
-Status: in progress
+Status: complete
 
 Create repository documentation and configuration only.
 
@@ -22,7 +22,9 @@ No GitHub Actions workflow yet.
 
 ## Phase 1: Minimal snapshot script
 
-Create `scripts/sleeper_snapshot.py`.
+Status: initial implementation complete; first real snapshot run and review still pending
+
+Created `scripts/sleeper_snapshot.py`.
 
 Initial scope:
 
@@ -44,6 +46,18 @@ Initial scope:
   - `data/current/chatgpt_bundle.json`
 
 Validation goal: confirm that current teams, owners, rosters, and player names are accurate.
+
+Manual command for local testing:
+
+```bash
+python scripts/sleeper_snapshot.py
+```
+
+Optional player-cache refresh:
+
+```bash
+python scripts/sleeper_snapshot.py --force-refresh-players
+```
 
 ## Phase 2: Validation script
 
