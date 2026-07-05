@@ -89,8 +89,6 @@ Created:
 - `scripts/sleeper_transactions.py`
 - `scripts/validate_transactions.py`
 
-Reason for separate extension: the connector blocked a large direct replacement of the main snapshot script. The transaction exporter is therefore implemented as a second standard-library script that runs after the main snapshot and updates the current files.
-
 Implemented logic:
 
 - read `data/current/manifest.json` to reuse included weeks
@@ -103,30 +101,42 @@ Implemented logic:
 - update `data/current/chatgpt_bundle.json`
 - update transaction counts in `data/current/manifest.json`
 
-Manual command sequence:
-
-```bash
-python scripts/sleeper_snapshot.py
-python scripts/sleeper_transactions.py
-python scripts/validate_snapshot.py
-python scripts/validate_transactions.py
-```
-
-Validation goal: enable trade, waiver, roster-movement, FAAB, and manager-tendency analysis.
-
 ## Phase 5: Drafts and traded picks
 
-Add draft and pick context.
+Status: implemented as a post-snapshot extension; first real run and review still pending
 
-Logic:
+Created:
+
+- `scripts/sleeper_drafts.py`
+- `scripts/validate_drafts.py`
+
+Implemented logic:
 
 - fetch all league drafts
 - fetch each draft's picks
 - fetch each draft's traded picks
 - fetch league traded future picks
-- normalize draft assets by roster
+- normalize draft assets by roster/team label
+- collect player IDs from draft picks
+- use the same local full-player cache strategy to resolve newly referenced drafted players
+- write `data/current/drafts.json`
+- write `data/current/traded_picks.json`
+- update `data/current/player_lookup_compact.json`
+- update `data/current/chatgpt_bundle.json`
+- update draft and traded-pick counts in `data/current/manifest.json`
 
-Validation goal: support dynasty, keeper, draft-result, and pick-value analysis.
+Current full manual command sequence:
+
+```bash
+python scripts/sleeper_snapshot.py
+python scripts/sleeper_transactions.py
+python scripts/sleeper_drafts.py
+python scripts/validate_snapshot.py
+python scripts/validate_transactions.py
+python scripts/validate_drafts.py
+```
+
+Validation goal: support dynasty, keeper, draft-result, pick-asset, and trade-value analysis.
 
 ## Phase 6: GitHub Actions workflow
 
@@ -142,8 +152,10 @@ The workflow should:
 - install Python
 - run the snapshot script
 - run the transaction extension
+- run the draft/traded-pick extension
 - validate the snapshot
 - validate transactions
+- validate drafts/traded picks
 - commit changed files under `data/current/` when there are actual changes
 
 ## Phase 7: Refinement after first real snapshot
