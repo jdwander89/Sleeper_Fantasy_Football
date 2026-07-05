@@ -6,19 +6,13 @@ This project should be built incrementally. Accuracy and inspectability are high
 
 Status: complete
 
-Create repository documentation and configuration only.
-
-Files:
+Created repository documentation and configuration:
 
 - `README.md`
 - `.gitignore`
 - `config/league_config.json`
 - `docs/DATA_SCHEMA.md`
 - `docs/BUILD_PLAN.md`
-
-No API calls yet.
-No generated Sleeper data yet.
-No GitHub Actions workflow yet.
 
 ## Phase 1: Minimal snapshot script
 
@@ -36,27 +30,12 @@ Implemented scope:
 - collect required player IDs from rosters
 - cache full Sleeper NFL player database locally if missing or stale
 - emit compact player lookup for referenced players
-- write:
-  - `data/current/manifest.json`
-  - `data/current/league_context.json`
-  - `data/current/teams.json`
-  - `data/current/rosters.json`
-  - `data/current/player_lookup_compact.json`
-  - `data/current/player_id_index.json`
-  - `data/current/chatgpt_bundle.json`
+- write core current snapshot files under `data/current/`
 
-Validation goal: confirm that current teams, owners, rosters, and player names are accurate.
-
-Manual command for local testing:
+Manual command:
 
 ```bash
 python scripts/sleeper_snapshot.py
-```
-
-Optional player-cache refresh:
-
-```bash
-python scripts/sleeper_snapshot.py --force-refresh-players
 ```
 
 ## Phase 2: Validation script
@@ -67,7 +46,7 @@ Created `scripts/validate_snapshot.py`.
 
 Validation checks:
 
-- required files exist
+- required core files exist
 - JSON files parse correctly
 - league ID matches config
 - each roster has a roster ID
@@ -77,7 +56,7 @@ Validation checks:
 - `chatgpt_bundle.json` matches topic-file roster, matchup, and player references
 - manifest counts match generated files where applicable
 
-Manual command after snapshot generation:
+Manual command:
 
 ```bash
 python scripts/validate_snapshot.py
@@ -101,21 +80,39 @@ Implemented logic:
 - add matchup summaries to `data/current/chatgpt_bundle.json`
 - include matchup counts and included weeks in `data/current/manifest.json`
 
-Validation goal: enable weekly matchup previews and prior-week recaps.
-
 ## Phase 4: Transactions
 
-Add season-to-date transaction export.
+Status: implemented as a post-snapshot extension; first real run and review still pending
 
-Logic:
+Created:
 
-- fetch transactions by week
-- normalize trades, waivers, and free-agent moves
+- `scripts/sleeper_transactions.py`
+- `scripts/validate_transactions.py`
+
+Reason for separate extension: the connector blocked a large direct replacement of the main snapshot script. The transaction exporter is therefore implemented as a second standard-library script that runs after the main snapshot and updates the current files.
+
+Implemented logic:
+
+- read `data/current/manifest.json` to reuse included weeks
+- fetch transactions for each included week
+- normalize trades, waivers, free-agent moves, commissioner moves, waiver budget, and draft-pick movement embedded in transactions
 - collect player IDs from adds and drops
-- collect draft-pick movement from transactions
-- enrich summaries with team labels and player display names
+- use the same local full-player cache strategy to resolve newly referenced transaction players
+- write `data/current/transactions.json`
+- update `data/current/player_lookup_compact.json`
+- update `data/current/chatgpt_bundle.json`
+- update transaction counts in `data/current/manifest.json`
 
-Validation goal: enable trade, waiver, and roster-movement analysis.
+Manual command sequence:
+
+```bash
+python scripts/sleeper_snapshot.py
+python scripts/sleeper_transactions.py
+python scripts/validate_snapshot.py
+python scripts/validate_transactions.py
+```
+
+Validation goal: enable trade, waiver, roster-movement, FAAB, and manager-tendency analysis.
 
 ## Phase 5: Drafts and traded picks
 
@@ -144,7 +141,9 @@ The workflow should:
 
 - install Python
 - run the snapshot script
+- run the transaction extension
 - validate the snapshot
+- validate transactions
 - commit changed files under `data/current/` when there are actual changes
 
 ## Phase 7: Refinement after first real snapshot
