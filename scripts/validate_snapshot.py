@@ -2,57 +2,65 @@
 """
 Validate generated Sleeper current snapshot files.
 
-Phase 2 scope:
-- Confirm required generated JSON files exist and parse.
-- Confirm league IDs match config.
-- Confirm teams, rosters, player lookup, indexes, and bundle are internally consistent.
-- Report missing player IDs and malformed records before later phases add more data.
-
-This script intentionally uses only the Python standard library.
+This validator is intentionally dependency-free and focused on current snapshot
+integrity across required topic files and the ChatGPT bundle.
 """
 
 from __future__ import annotations
 
 import argparse
 import json
-import sys
 from dataclasses import dataclass, field
 from pathlib import Path
-from typing import Any, Dict, Iterable, List, Optional, Sequence, Set, Tuple
+from typing import Any, Dict, List, Optional, Sequence, Set
 
 
 DEFAULT_CONFIG_PATH = Path("config/league_config.json")
-DEFAULT_REQUIRED_FILES = [
+REQUIRED_FILES = [
     "manifest.json",
     "league_context.json",
     "teams.json",
     "rosters.json",
+    "matchups.json",
     "player_lookup_compact.json",
     "player_id_index.json",
     "chatgpt_bundle.json",
 ]
 
 
-JsonObject = Dict[str, Any]
-
-
 @dataclass
-class ValidationResult:
+class Result:
     errors: List[str] = field(default_factory=list)
     warnings: List[str] = field(default_factory=list)
-
-    def error(self, message: str) -> None:
-        self.errors.append(message)
-
-    def warning(self, message: str) -> None:
-        self.warnings.append(message)
 
     @property
     def ok(self) -> bool:
         return not self.errors
 
+    def error(self, text: str) -> None:
+        self.errors.append(text)
 
-def read_json(path: Path, result: ValidationResult) -> Any:
+    def warning(self, text: str) -> None:
+        self.warnings.append(text)
+
+
+def as_str(value: Any) -> Optional[str]:
+    if value is None:
+        return None
+    text = str(value).strip()
+    return text or None
+
+
+def nested(payload: Any, keys: Sequence[str], default: Any = None) -> Any:
+    value = payload
+    for key in keys:
+        if not isinstance(value, dict):
+            return default
+        value = value.get(key, default)
+    return value
+
+
+def read_json(path: Path, result: Result) -> Any:
     try:
         with path.open("r", encoding="utf-8") as f:
             return json.load(f)
@@ -65,401 +73,191 @@ def read_json(path: Path, result: ValidationResult) -> Any:
     return None
 
 
-def get_nested(payload: Any, keys: Sequence[str], default: Any = None) -> Any:
-    value = payload
-    for key in keys:
-        if not isinstance(value, dict) or key not in value:
-            return default
-        value = value[key]
-    return value
+def collect_ids_from_list(values: Any) -> Set[str]:
+    if not isinstance(values, list):
+        return set()
+    return {text for text in (as_str(value) for value in values) if text}
 
 
-def as_str(value: Any) -> Optional[str]:
-    if value is None:
-        return None
-    text = str(value).strip()
-    return text or None
-
-
-def require_type(
-    payload: Any,
-    expected_type: type,
-    label: str,
-    result: ValidationResult,
-) -> bool:
-    if not isinstance(payload, expected_type):
-        result.error(f"{label} must be {expected_type.__name__}; got {type(payload).__name__}")
-        return False
-    return True
-
-
-def load_config(config_path: Path, result: ValidationResult) -> Optional[JsonObject]:
-    config = read_json(config_path, result)
-    if config is None:
-        return None
-    if not require_type(config, dict, str(config_path), result):
-        return None
-    return config
-
-
-def collect_roster_player_ids(rosters: Iterable[JsonObject]) -> Set[str]:
-    player_ids: Set[str] = set()
+def collect_roster_player_ids(rosters: Any) -> Set[str]:
+    ids: Set[str] = set()
+    if not isinstance(rosters, list):
+        return ids
     for roster in rosters:
         if not isinstance(roster, dict):
             continue
-        for field_name in ("players", "starters", "bench", "reserve", "taxi"):
-            values = roster.get(field_name)
-            if isinstance(values, list):
-                for value in values:
-                    player_id = as_str(value)
-                    if player_id:
-                        player_ids.add(player_id)
-    return player_ids
+        for key in ("players", "starters", "bench", "reserve", "taxi"):
+            ids.update(collect_ids_from_list(roster.get(key)))
+    return ids
 
 
-def validate_required_files(snapshot_dir: Path, result: ValidationResult) -> Dict[str, Any]:
-    loaded: Dict[str, Any] = {}
-
-    for filename in DEFAULT_REQUIRED_FILES:
-        path = snapshot_dir / filename
-        if not path.exists():
-            result.error(f"Missing required snapshot file: {path}")
+def collect_matchup_player_ids(matchups: Any) -> Set[str]:
+    ids: Set[str] = set()
+    by_week = nested(matchups, ["by_week"], {})
+    if not isinstance(by_week, dict):
+        return ids
+    for week_payload in by_week.values():
+        if not isinstance(week_payload, dict):
             continue
-        loaded[filename] = read_json(path, result)
-
-    return loaded
-
-
-def validate_league_ids(config: JsonObject, loaded: Dict[str, Any], result: ValidationResult) -> None:
-    expected_league_id = as_str(get_nested(config, ["league", "league_id"]))
-
-    if not expected_league_id:
-        result.error("config league.league_id is missing")
-        return
-
-    comparisons = [
-        ("manifest.json league_id", get_nested(loaded.get("manifest.json"), ["league_id"])),
-        ("league_context.json league_id", get_nested(loaded.get("league_context.json"), ["league_id"])),
-        ("chatgpt_bundle.json metadata.league_id", get_nested(loaded.get("chatgpt_bundle.json"), ["metadata", "league_id"])),
-        ("chatgpt_bundle.json league.league_id", get_nested(loaded.get("chatgpt_bundle.json"), ["league", "league_id"])),
-    ]
-
-    for label, actual in comparisons:
-        actual_str = as_str(actual)
-        if actual_str != expected_league_id:
-            result.error(f"{label} mismatch: expected {expected_league_id!r}, got {actual_str!r}")
-
-
-def validate_manifest(snapshot_dir: Path, loaded: Dict[str, Any], result: ValidationResult) -> None:
-    manifest = loaded.get("manifest.json")
-    if not require_type(manifest, dict, "manifest.json", result):
-        return
-
-    required_keys = ["schema_version", "generated_at", "league_id", "sport", "snapshot_mode", "files", "counts", "data_quality"]
-    for key in required_keys:
-        if key not in manifest:
-            result.error(f"manifest.json missing required key: {key}")
-
-    files = manifest.get("files")
-    if isinstance(files, list):
-        manifest_paths = {as_str(item.get("path")) for item in files if isinstance(item, dict)}
-        for filename in DEFAULT_REQUIRED_FILES:
-            expected_path = str(snapshot_dir / filename)
-            if expected_path not in manifest_paths:
-                result.warning(f"manifest.json files list does not include {expected_path}")
-    else:
-        result.error("manifest.json files must be a list")
-
-    data_quality = manifest.get("data_quality")
-    if isinstance(data_quality, dict):
-        manifest_errors = data_quality.get("errors")
-        if manifest_errors:
-            result.error(f"manifest.json data_quality.errors is not empty: {manifest_errors}")
-    else:
-        result.error("manifest.json data_quality must be an object")
-
-
-def validate_teams_and_rosters(loaded: Dict[str, Any], result: ValidationResult) -> Tuple[Set[str], Set[str]]:
-    teams = loaded.get("teams.json")
-    rosters = loaded.get("rosters.json")
-
-    team_roster_ids: Set[str] = set()
-    roster_ids: Set[str] = set()
-
-    if require_type(teams, list, "teams.json", result):
-        for index, team in enumerate(teams):
-            if not isinstance(team, dict):
-                result.error(f"teams.json item {index} must be an object")
+        for result in week_payload.get("roster_results", []):
+            if not isinstance(result, dict):
                 continue
-
-            roster_id = as_str(team.get("roster_id"))
-            if not roster_id:
-                result.error(f"teams.json item {index} missing roster_id")
-                continue
-
-            if roster_id in team_roster_ids:
-                result.error(f"Duplicate team roster_id in teams.json: {roster_id}")
-            team_roster_ids.add(roster_id)
-
-            if not team.get("display_label"):
-                result.warning(f"Team roster_id {roster_id} has no display_label")
-
-    if require_type(rosters, list, "rosters.json", result):
-        for index, roster in enumerate(rosters):
-            if not isinstance(roster, dict):
-                result.error(f"rosters.json item {index} must be an object")
-                continue
-
-            roster_id = as_str(roster.get("roster_id"))
-            if not roster_id:
-                result.error(f"rosters.json item {index} missing roster_id")
-                continue
-
-            if roster_id in roster_ids:
-                result.error(f"Duplicate roster_id in rosters.json: {roster_id}")
-            roster_ids.add(roster_id)
-
-            players = roster.get("players")
-            starters = roster.get("starters")
-            bench = roster.get("bench")
-            reserve = roster.get("reserve")
-            taxi = roster.get("taxi")
-
-            for field_name, value in [
-                ("players", players),
-                ("starters", starters),
-                ("bench", bench),
-                ("reserve", reserve),
-                ("taxi", taxi),
-            ]:
-                if not isinstance(value, list):
-                    result.error(f"Roster {roster_id} field {field_name} must be a list")
-
-            if isinstance(players, list) and isinstance(starters, list):
-                player_set = {as_str(player_id) for player_id in players}
-                starter_set = {as_str(player_id) for player_id in starters}
-                missing_starters = sorted(pid for pid in starter_set - player_set if pid)
-                if missing_starters:
-                    result.warning(f"Roster {roster_id} has starters not listed in players: {missing_starters}")
-
-            if isinstance(players, list) and isinstance(bench, list) and isinstance(starters, list):
-                player_set = {as_str(player_id) for player_id in players if as_str(player_id)}
-                grouped = set()
-                for group in (starters, bench, reserve if isinstance(reserve, list) else [], taxi if isinstance(taxi, list) else []):
-                    for player_id in group:
-                        player_id_str = as_str(player_id)
-                        if player_id_str:
-                            grouped.add(player_id_str)
-
-                ungrouped = sorted(player_set - grouped)
-                if ungrouped:
-                    result.warning(f"Roster {roster_id} has players not classified as starter/bench/reserve/taxi: {ungrouped}")
-
-    if team_roster_ids and roster_ids:
-        missing_teams = sorted(roster_ids - team_roster_ids)
-        extra_teams = sorted(team_roster_ids - roster_ids)
-        if missing_teams:
-            result.error(f"Rosters without matching teams: {missing_teams}")
-        if extra_teams:
-            result.error(f"Teams without matching rosters: {extra_teams}")
-
-    return team_roster_ids, roster_ids
+            for key in ("players", "starters", "bench"):
+                ids.update(collect_ids_from_list(result.get(key)))
+            for key in ("players_points", "starters_points"):
+                point_map = result.get(key)
+                if isinstance(point_map, dict):
+                    ids.update(str(player_id) for player_id in point_map.keys())
+    return ids
 
 
-def validate_players(loaded: Dict[str, Any], result: ValidationResult) -> Set[str]:
-    rosters = loaded.get("rosters.json")
-    player_lookup = loaded.get("player_lookup_compact.json")
-    player_id_index = loaded.get("player_id_index.json")
-
-    referenced_ids = collect_roster_player_ids(rosters if isinstance(rosters, list) else [])
-
-    if not require_type(player_lookup, dict, "player_lookup_compact.json", result):
-        return referenced_ids
-
-    lookup_ids = set(str(player_id) for player_id in player_lookup.keys())
-
-    missing_from_lookup = sorted(referenced_ids - lookup_ids)
-    if missing_from_lookup:
-        result.error(f"Referenced roster player IDs missing from player_lookup_compact.json: {missing_from_lookup}")
-
-    empty_names = []
-    for player_id, player in player_lookup.items():
-        if not isinstance(player, dict):
-            result.error(f"player_lookup_compact.json player {player_id} must be an object")
-            continue
-
-        if as_str(player.get("player_id")) != str(player_id):
-            result.error(f"player_lookup_compact.json key/player_id mismatch for key {player_id}")
-
-        if not as_str(player.get("name")):
-            empty_names.append(str(player_id))
-
-    if empty_names:
-        result.warning(f"Player lookup entries without names: {empty_names}")
-
-    if require_type(player_id_index, dict, "player_id_index.json", result):
-        counts = player_id_index.get("counts")
-        if isinstance(counts, dict):
-            expected_required = len(referenced_ids)
-            actual_required = counts.get("required_player_ids")
-            if actual_required != expected_required:
-                result.warning(
-                    "player_id_index.json counts.required_player_ids mismatch: "
-                    f"expected {expected_required}, got {actual_required}"
-                )
-        else:
-            result.error("player_id_index.json counts must be an object")
-
-        missing_ids = player_id_index.get("missing_ids")
-        if not isinstance(missing_ids, list):
-            result.error("player_id_index.json missing_ids must be a list")
-
-    return referenced_ids
-
-
-def validate_chatgpt_bundle(
-    loaded: Dict[str, Any],
-    roster_ids: Set[str],
-    referenced_player_ids: Set[str],
-    result: ValidationResult,
-) -> None:
-    bundle = loaded.get("chatgpt_bundle.json")
-    if not require_type(bundle, dict, "chatgpt_bundle.json", result):
-        return
-
-    for key in ["metadata", "league", "teams", "rosters", "players", "matchups", "transactions", "drafts", "traded_picks", "analysis_indexes"]:
-        if key not in bundle:
-            result.error(f"chatgpt_bundle.json missing top-level key: {key}")
-
-    bundle_teams = bundle.get("teams")
-    bundle_rosters = bundle.get("rosters")
-    bundle_players = get_nested(bundle, ["players", "by_id"])
-
-    if isinstance(bundle_teams, list):
-        if len(bundle_teams) != len(loaded.get("teams.json") or []):
-            result.warning("chatgpt_bundle.json teams count differs from teams.json")
-    else:
-        result.error("chatgpt_bundle.json teams must be a list")
-
-    if isinstance(bundle_rosters, list):
-        bundle_roster_ids = {as_str(roster.get("roster_id")) for roster in bundle_rosters if isinstance(roster, dict)}
-        bundle_roster_ids = {roster_id for roster_id in bundle_roster_ids if roster_id}
-        if bundle_roster_ids != roster_ids:
-            result.error(
-                "chatgpt_bundle.json roster IDs do not match rosters.json: "
-                f"bundle={sorted(bundle_roster_ids)}, rosters={sorted(roster_ids)}"
-            )
-    else:
-        result.error("chatgpt_bundle.json rosters must be a list")
-
-    if isinstance(bundle_players, dict):
-        missing_from_bundle = sorted(referenced_player_ids - set(str(player_id) for player_id in bundle_players.keys()))
-        if missing_from_bundle:
-            result.error(f"Referenced player IDs missing from chatgpt_bundle players.by_id: {missing_from_bundle}")
-    else:
-        result.error("chatgpt_bundle.json players.by_id must be an object")
-
-    indexes = bundle.get("analysis_indexes")
-    if isinstance(indexes, dict):
-        roster_index = indexes.get("roster_id_to_team")
-        if isinstance(roster_index, dict):
-            missing_roster_index = sorted(roster_ids - set(str(key) for key in roster_index.keys()))
-            if missing_roster_index:
-                result.warning(f"analysis_indexes.roster_id_to_team missing roster IDs: {missing_roster_index}")
-        else:
-            result.warning("analysis_indexes.roster_id_to_team missing or not an object")
-    else:
-        result.error("chatgpt_bundle.json analysis_indexes must be an object")
-
-
-def validate_counts(loaded: Dict[str, Any], result: ValidationResult) -> None:
-    manifest = loaded.get("manifest.json")
-    rosters = loaded.get("rosters.json")
-    player_lookup = loaded.get("player_lookup_compact.json")
-
-    if not isinstance(manifest, dict):
-        return
-
-    counts = manifest.get("counts")
-    if not isinstance(counts, dict):
-        result.error("manifest.json counts must be an object")
-        return
-
-    comparisons = [
-        ("rosters", len(rosters) if isinstance(rosters, list) else None),
-        ("compact_player_lookup", len(player_lookup) if isinstance(player_lookup, dict) else None),
-    ]
-
-    for key, expected in comparisons:
-        actual = counts.get(key)
-        if expected is not None and actual != expected:
-            result.warning(f"manifest.json counts.{key} mismatch: expected {expected}, got {actual}")
-
-    users_count = counts.get("users")
-    if not isinstance(users_count, int):
-        result.warning("manifest.json counts.users should be an integer")
-
-
-def validate_snapshot(config_path: Path, snapshot_dir_override: Optional[Path]) -> ValidationResult:
-    result = ValidationResult()
-    config = load_config(config_path, result)
-    if config is None:
+def validate(config_path: Path, snapshot_dir_override: Optional[Path]) -> Result:
+    result = Result()
+    config = read_json(config_path, result)
+    if not isinstance(config, dict):
+        result.error(f"Config must be a JSON object: {config_path}")
         return result
 
-    snapshot_dir = snapshot_dir_override or Path(get_nested(config, ["snapshot", "output_dir"], "data/current"))
+    snapshot_dir = snapshot_dir_override or Path(nested(config, ["snapshot", "output_dir"], "data/current"))
+    loaded: Dict[str, Any] = {}
+    for filename in REQUIRED_FILES:
+        loaded[filename] = read_json(snapshot_dir / filename, result)
 
-    loaded = validate_required_files(snapshot_dir, result)
+    expected_league_id = as_str(nested(config, ["league", "league_id"]))
+    for label, value in [
+        ("manifest.json league_id", nested(loaded["manifest.json"], ["league_id"])),
+        ("league_context.json league_id", nested(loaded["league_context.json"], ["league_id"])),
+        ("chatgpt_bundle.json metadata.league_id", nested(loaded["chatgpt_bundle.json"], ["metadata", "league_id"])),
+        ("chatgpt_bundle.json league.league_id", nested(loaded["chatgpt_bundle.json"], ["league", "league_id"])),
+    ]:
+        if as_str(value) != expected_league_id:
+            result.error(f"{label} mismatch: expected {expected_league_id!r}, got {as_str(value)!r}")
 
-    # Continue with any parsed files so validation returns as many actionable issues as possible.
-    validate_league_ids(config, loaded, result)
-    validate_manifest(snapshot_dir, loaded, result)
-    _, roster_ids = validate_teams_and_rosters(loaded, result)
-    referenced_player_ids = validate_players(loaded, result)
-    validate_chatgpt_bundle(loaded, roster_ids, referenced_player_ids, result)
-    validate_counts(loaded, result)
+    manifest = loaded["manifest.json"]
+    if isinstance(manifest, dict):
+        for key in ("schema_version", "generated_at", "league_id", "included_weeks", "files", "counts", "data_quality"):
+            if key not in manifest:
+                result.error(f"manifest.json missing key: {key}")
+        if nested(manifest, ["data_quality", "errors"], []):
+            result.error(f"manifest.json data_quality.errors is not empty: {nested(manifest, ['data_quality', 'errors'])}")
+    else:
+        result.error("manifest.json must be an object")
+
+    teams = loaded["teams.json"]
+    rosters = loaded["rosters.json"]
+    team_roster_ids = {as_str(team.get("roster_id")) for team in teams if isinstance(team, dict)} if isinstance(teams, list) else set()
+    roster_ids = {as_str(roster.get("roster_id")) for roster in rosters if isinstance(roster, dict)} if isinstance(rosters, list) else set()
+    team_roster_ids.discard(None)
+    roster_ids.discard(None)
+
+    if not isinstance(teams, list):
+        result.error("teams.json must be a list")
+    if not isinstance(rosters, list):
+        result.error("rosters.json must be a list")
+    if roster_ids and team_roster_ids and roster_ids != team_roster_ids:
+        result.error(f"Roster/team ID mismatch: teams={sorted(team_roster_ids)}, rosters={sorted(roster_ids)}")
+
+    if isinstance(rosters, list):
+        for roster in rosters:
+            if not isinstance(roster, dict):
+                result.error("rosters.json contains a non-object item")
+                continue
+            roster_id = as_str(roster.get("roster_id"))
+            for key in ("players", "starters", "bench", "reserve", "taxi"):
+                if not isinstance(roster.get(key), list):
+                    result.error(f"Roster {roster_id} field {key} must be a list")
+
+    matchups = loaded["matchups.json"]
+    if isinstance(matchups, dict):
+        if not isinstance(matchups.get("included_weeks"), list):
+            result.error("matchups.json included_weeks must be a list")
+        by_week = matchups.get("by_week")
+        if not isinstance(by_week, dict):
+            result.error("matchups.json by_week must be an object")
+        else:
+            for week, week_payload in by_week.items():
+                if not isinstance(week_payload, dict):
+                    result.error(f"matchups.json week {week} must be an object")
+                    continue
+                for key in ("matchups", "roster_results", "counts"):
+                    if key not in week_payload:
+                        result.error(f"matchups.json week {week} missing {key}")
+    else:
+        result.error("matchups.json must be an object")
+
+    referenced_player_ids = collect_roster_player_ids(rosters) | collect_matchup_player_ids(matchups)
+    player_lookup = loaded["player_lookup_compact.json"]
+    if isinstance(player_lookup, dict):
+        missing_ids = sorted(referenced_player_ids - set(str(player_id) for player_id in player_lookup.keys()))
+        if missing_ids:
+            result.error(f"Referenced player IDs missing from player_lookup_compact.json: {missing_ids}")
+        for key, player in player_lookup.items():
+            if not isinstance(player, dict):
+                result.error(f"Player lookup entry {key} must be an object")
+            elif as_str(player.get("player_id")) != str(key):
+                result.error(f"Player lookup key/player_id mismatch for {key}")
+    else:
+        result.error("player_lookup_compact.json must be an object")
+
+    bundle = loaded["chatgpt_bundle.json"]
+    if isinstance(bundle, dict):
+        for key in ("metadata", "league", "teams", "rosters", "players", "matchups", "transactions", "drafts", "traded_picks", "analysis_indexes"):
+            if key not in bundle:
+                result.error(f"chatgpt_bundle.json missing key: {key}")
+        bundle_player_lookup = nested(bundle, ["players", "by_id"], {})
+        if isinstance(bundle_player_lookup, dict):
+            missing_bundle_ids = sorted(referenced_player_ids - set(str(player_id) for player_id in bundle_player_lookup.keys()))
+            if missing_bundle_ids:
+                result.error(f"Referenced player IDs missing from chatgpt_bundle players.by_id: {missing_bundle_ids}")
+        else:
+            result.error("chatgpt_bundle.json players.by_id must be an object")
+        if nested(bundle, ["matchups", "counts"]) != nested(matchups, ["counts"]):
+            result.warning("chatgpt_bundle.json matchups.counts differs from matchups.json")
+    else:
+        result.error("chatgpt_bundle.json must be an object")
+
+    counts = nested(manifest, ["counts"], {})
+    if isinstance(counts, dict):
+        comparisons = [
+            ("rosters", len(rosters) if isinstance(rosters, list) else None),
+            ("compact_player_lookup", len(player_lookup) if isinstance(player_lookup, dict) else None),
+            ("matchups", nested(matchups, ["counts", "matchups"])),
+            ("matchup_roster_results", nested(matchups, ["counts", "roster_results"])),
+        ]
+        for key, expected in comparisons:
+            if expected is not None and counts.get(key) != expected:
+                result.warning(f"manifest.json counts.{key} mismatch: expected {expected}, got {counts.get(key)}")
+    else:
+        result.error("manifest.json counts must be an object")
 
     return result
 
 
-def print_result(result: ValidationResult) -> None:
+def print_result(result: Result) -> None:
+    print("Snapshot validation passed." if result.ok else "Snapshot validation failed.")
     if result.errors:
-        print("Snapshot validation failed.")
         print("\nErrors:")
         for error in result.errors:
             print(f"- {error}")
-    else:
-        print("Snapshot validation passed.")
-
     if result.warnings:
         print("\nWarnings:")
         for warning in result.warnings:
             print(f"- {warning}")
-
     print(f"\nSummary: {len(result.errors)} error(s), {len(result.warnings)} warning(s)")
 
 
 def parse_args(argv: Optional[Sequence[str]] = None) -> argparse.Namespace:
     parser = argparse.ArgumentParser(description="Validate generated Sleeper current snapshot files.")
-    parser.add_argument(
-        "--config",
-        default=str(DEFAULT_CONFIG_PATH),
-        help=f"Path to league config JSON. Default: {DEFAULT_CONFIG_PATH}",
-    )
-    parser.add_argument(
-        "--snapshot-dir",
-        default=None,
-        help="Override generated snapshot directory. Default comes from config snapshot.output_dir.",
-    )
+    parser.add_argument("--config", default=str(DEFAULT_CONFIG_PATH), help=f"Path to config JSON. Default: {DEFAULT_CONFIG_PATH}")
+    parser.add_argument("--snapshot-dir", default=None, help="Override generated snapshot directory.")
     return parser.parse_args(argv)
 
 
 def main(argv: Optional[Sequence[str]] = None) -> int:
     args = parse_args(argv)
     snapshot_dir = Path(args.snapshot_dir) if args.snapshot_dir else None
-
-    result = validate_snapshot(Path(args.config), snapshot_dir)
+    result = validate(Path(args.config), snapshot_dir)
     print_result(result)
-
     return 0 if result.ok else 1
 
 
