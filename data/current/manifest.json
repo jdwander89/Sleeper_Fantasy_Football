@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-05T21:28:11.513852Z",
+  "generated_at": "2026-07-05T21:32:36.513778Z",
   "league_id": "1312581067286282240",
   "sport": "nfl",
   "season": "2026",
@@ -43,7 +43,7 @@
     {
       "path": "data/current/manifest.json",
       "exists": true,
-      "size_bytes": 2111
+      "size_bytes": 2418
     },
     {
       "path": "data/current/league_context.json",
@@ -91,6 +91,11 @@
       "size_bytes": 20195
     },
     {
+      "path": "data/current/chatgpt_summary.json",
+      "exists": true,
+      "size_bytes": 107183
+    },
+    {
       "path": "data/current/chatgpt_bundle.json",
       "exists": true,
       "size_bytes": 1286653
@@ -112,11 +117,13 @@
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
-    "league_traded_picks": 13
+    "league_traded_picks": 13,
+    "summary_teams": 12
   },
   "data_quality": {
     "warnings": [],
     "errors": [],
     "missing_player_ids": []
-  }
+  },
+  "summary_generated_at": "2026-07-05T21:32:37.848789Z"
 }

@@ -1,0 +1,4283 @@
+{
+  "metadata": {
+    "generated_at": "2026-07-05T21:32:37.848789Z",
+    "source_snapshot_generated_at": "2026-07-05T21:32:36.513778Z",
+    "league_id": "1312581067286282240",
+    "season": "2026",
+    "season_type": "regular",
+    "purpose": "compact first-read file for ChatGPT league analysis"
+  },
+  "league": {
+    "name": "Schwieters",
+    "status": "in_season",
+    "total_rosters": 12,
+    "roster_positions": [
+      "QB",
+      "RB",
+      "RB",
+      "WR",
+      "WR",
+      "TE",
+      "FLEX",
+      "FLEX",
+      "FLEX",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN",
+      "BN"
+    ],
+    "settings": {
+      "type": 2,
+      "num_teams": 12,
+      "playoff_teams": 6,
+      "trade_deadline": 12,
+      "waiver_budget": 100,
+      "max_keepers": 1,
+      "draft_rounds": 5
+    }
+  },
+  "counts": {
+    "users": 12,
+    "rosters": 12,
+    "included_weeks": 18,
+    "matchups": 108,
+    "matchup_roster_results": 216,
+    "required_player_ids": 284,
+    "compact_player_lookup": 300,
+    "missing_player_ids": 0,
+    "transactions": 26,
+    "trades": 4,
+    "waivers": 0,
+    "free_agent_moves": 21,
+    "drafts": 1,
+    "draft_picks": 60,
+    "draft_traded_picks": 8,
+    "league_traded_picks": 13
+  },
+  "data_quality": {
+    "warnings": [],
+    "errors": [],
+    "missing_player_ids": []
+  },
+  "teams": [
+    {
+      "roster_id": 1,
+      "team_label": "It’s Herbie Hancock",
+      "owner_user_id": "464915162038530048",
+      "record": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+      },
+      "points": {
+        "points_for": 0.0,
+        "points_against": null,
+        "raw_fpts": 0,
+        "raw_fpts_decimal": 0,
+        "raw_fpts_against": null,
+        "raw_fpts_against_decimal": null
+      },
+      "counts": {
+        "players": 23,
+        "starters": 9,
+        "bench": 14,
+        "reserve": 0
+      },
+      "position_counts": {
+        "QB": 3,
+        "RB": 9,
+        "TE": 4,
+        "WR": 7
+      },
+      "starters": [
+        {
+          "player_id": "11566",
+          "name": "Jayden Daniels",
+          "team": "WAS",
+          "position": "QB",
+          "injury_status": null
+        },
+        {
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
+          "team": "NE",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
+          "team": "WAS",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "8112",
+          "name": "Drake London",
+          "team": "ATL",
+          "position": "WR",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "team": "MIN",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "10236",
+          "name": "Dalton Kincaid",
+          "team": "BUF",
+          "position": "TE",
+          "injury_status": null
+        },
+        {
+          "player_id": "13281",
+          "name": "Jordyn Tyson",
+          "team": "NO",
+          "position": "WR",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "team": "KC",
+          "position": "WR",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "12501",
+          "name": "Matthew Golden",
+          "team": "GB",
+          "position": "WR",
+          "injury_status": null
+        }
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 2,
+      "team_label": "A B CeeDee",
+      "owner_user_id": "471403228244733952",
+      "record": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+      },
+      "points": {
+        "points_for": 0.0,
+        "points_against": null,
+        "raw_fpts": 0,
+        "raw_fpts_decimal": 0,
+        "raw_fpts_against": null,
+        "raw_fpts_against_decimal": null
+      },
+      "counts": {
+        "players": 23,
+        "starters": 9,
+        "bench": 14,
+        "reserve": 0
+      },
+      "position_counts": {
+        "QB": 2,
+        "RB": 7,
+        "TE": 3,
+        "WR": 11
+      },
+      "starters": [
+        {
+          "player_id": "6904",
+          "name": "Jalen Hurts",
+          "team": "PHI",
+          "position": "QB",
+          "injury_status": null
+        },
+        {
+          "player_id": "5850",
+          "name": "Josh Jacobs",
+          "team": "GB",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "7588",
+          "name": "Javonte Williams",
+          "team": "DAL",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "6786",
+          "name": "CeeDee Lamb",
+          "team": "DAL",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "team": "NE",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "12517",
+          "name": "Colston Loveland",
+          "team": "CHI",
+          "position": "TE",
+          "injury_status": null
+        },
+        {
+          "player_id": "5892",
+          "name": "David Montgomery",
+          "team": "HOU",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "1466",
+          "name": "Travis Kelce",
+          "team": "KC",
+          "position": "TE",
+          "injury_status": null
+        },
+        {
+          "player_id": "9487",
+          "name": "Parker Washington",
+          "team": "JAX",
+          "position": "WR",
+          "injury_status": null
+        }
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 3,
+      "team_label": "Pol Hol",
+      "owner_user_id": "471415197991432192",
+      "record": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+      },
+      "points": {
+        "points_for": 0.0,
+        "points_against": null,
+        "raw_fpts": 0,
+        "raw_fpts_decimal": 0,
+        "raw_fpts_against": null,
+        "raw_fpts_against_decimal": null
+      },
+      "counts": {
+        "players": 23,
+        "starters": 9,
+        "bench": 14,
+        "reserve": 0
+      },
+      "position_counts": {
+        "QB": 4,
+        "RB": 7,
+        "TE": 3,
+        "WR": 9
+      },
+      "starters": [
+        {
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
+          "team": "KC",
+          "position": "QB",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "9509",
+          "name": "Bijan Robinson",
+          "team": "ATL",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "6813",
+          "name": "Jonathan Taylor",
+          "team": "IND",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "7525",
+          "name": "DeVonta Smith",
+          "team": "PHI",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "2216",
+          "name": "Mike Evans",
+          "team": "SF",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "10859",
+          "name": "Sam LaPorta",
+          "team": "DET",
+          "position": "TE",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "11584",
+          "name": "Bucky Irving",
+          "team": "TB",
+          "position": "RB",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "8121",
+          "name": "Romeo Doubs",
+          "team": "NE",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "6819",
+          "name": "Michael Pittman",
+          "team": "PIT",
+          "position": "WR",
+          "injury_status": null
+        }
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 4,
+      "team_label": "Puka Troopas",
+      "owner_user_id": "471415316501491712",
+      "record": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+      },
+      "points": {
+        "points_for": 0.0,
+        "points_against": null,
+        "raw_fpts": 0,
+        "raw_fpts_decimal": 0,
+        "raw_fpts_against": null,
+        "raw_fpts_against_decimal": null
+      },
+      "counts": {
+        "players": 24,
+        "starters": 9,
+        "bench": 15,
+        "reserve": 0
+      },
+      "position_counts": {
+        "QB": 2,
+        "RB": 8,
+        "TE": 5,
+        "WR": 9
+      },
+      "starters": [
+        {
+          "player_id": "8183",
+          "name": "Brock Purdy",
+          "team": "SF",
+          "position": "QB",
+          "injury_status": null
+        },
+        {
+          "player_id": "8155",
+          "name": "Breece Hall",
+          "team": "NYJ",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "5967",
+          "name": "Tony Pollard",
+          "team": "TEN",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "9493",
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "12519",
+          "name": "Luther Burden",
+          "team": "CHI",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "team": "JAX",
+          "position": "TE",
+          "injury_status": null
+        },
+        {
+          "player_id": "13279",
+          "name": "Carnell Tate",
+          "team": "TEN",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "7594",
+          "name": "Chuba Hubbard",
+          "team": "CAR",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "11631",
+          "name": "Brian Thomas",
+          "team": "JAX",
+          "position": "WR",
+          "injury_status": null
+        }
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 5,
+      "team_label": "White Ice",
+      "owner_user_id": "471424563457028096",
+      "record": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+      },
+      "points": {
+        "points_for": 0.0,
+        "points_against": null,
+        "raw_fpts": 0,
+        "raw_fpts_decimal": 0,
+        "raw_fpts_against": null,
+        "raw_fpts_against_decimal": null
+      },
+      "counts": {
+        "players": 25,
+        "starters": 9,
+        "bench": 14,
+        "reserve": 2
+      },
+      "position_counts": {
+        "QB": 2,
+        "RB": 8,
+        "TE": 3,
+        "WR": 12
+      },
+      "starters": [
+        {
+          "player_id": "11560",
+          "name": "Caleb Williams",
+          "team": "CHI",
+          "position": "QB",
+          "injury_status": null
+        },
+        {
+          "player_id": "9221",
+          "name": "Jahmyr Gibbs",
+          "team": "DET",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "9224",
+          "name": "Chase Brown",
+          "team": "CIN",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "7569",
+          "name": "Nico Collins",
+          "team": "HOU",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "8137",
+          "name": "George Pickens",
+          "team": "DAL",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "5001",
+          "name": "Dalton Schultz",
+          "team": "HOU",
+          "position": "TE",
+          "injury_status": null
+        },
+        {
+          "player_id": "8148",
+          "name": "Jameson Williams",
+          "team": "DET",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "11620",
+          "name": "Rome Odunze",
+          "team": "CHI",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "11586",
+          "name": "Blake Corum",
+          "team": "LAR",
+          "position": "RB",
+          "injury_status": null
+        }
+      ],
+      "reserve": [
+        {
+          "player_id": "11589",
+          "name": "Trey Benson",
+          "team": "ARI",
+          "position": "RB",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "12497",
+          "name": "Tory Horton",
+          "team": "SEA",
+          "position": "WR",
+          "injury_status": "Questionable"
+        }
+      ]
+    },
+    {
+      "roster_id": 6,
+      "team_label": "andrewwelle",
+      "owner_user_id": "471451909446692864",
+      "record": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+      },
+      "points": {
+        "points_for": 0.0,
+        "points_against": null,
+        "raw_fpts": 0,
+        "raw_fpts_decimal": 0,
+        "raw_fpts_against": null,
+        "raw_fpts_against_decimal": null
+      },
+      "counts": {
+        "players": 24,
+        "starters": 9,
+        "bench": 14,
+        "reserve": 1
+      },
+      "position_counts": {
+        "QB": 2,
+        "RB": 7,
+        "TE": 2,
+        "WR": 13
+      },
+      "starters": [
+        {
+          "player_id": "12508",
+          "name": "Jaxson Dart",
+          "team": "NYG",
+          "position": "QB",
+          "injury_status": null
+        },
+        {
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
+          "team": "SF",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "12527",
+          "name": "Ashton Jeanty",
+          "team": "LV",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "8146",
+          "name": "Garrett Wilson",
+          "team": "NYJ",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "11628",
+          "name": "Marvin Harrison",
+          "team": "ARI",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "12506",
+          "name": "Harold Fannin",
+          "team": "CLE",
+          "position": "TE",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "12534",
+          "name": "Kyle Monangai",
+          "team": "CHI",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "team": "DEN",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "4199",
+          "name": "Aaron Jones",
+          "team": "MIN",
+          "position": "RB",
+          "injury_status": null
+        }
+      ],
+      "reserve": [
+        {
+          "player_id": "6803",
+          "name": "Brandon Aiyuk",
+          "team": "SF",
+          "position": "WR",
+          "injury_status": "DNR"
+        }
+      ]
+    },
+    {
+      "roster_id": 7,
+      "team_label": "Commish is a bitch",
+      "owner_user_id": "459751268567478272",
+      "record": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+      },
+      "points": {
+        "points_for": 0.0,
+        "points_against": null,
+        "raw_fpts": 0,
+        "raw_fpts_decimal": 0,
+        "raw_fpts_against": null,
+        "raw_fpts_against_decimal": null
+      },
+      "counts": {
+        "players": 23,
+        "starters": 9,
+        "bench": 14,
+        "reserve": 0
+      },
+      "position_counts": {
+        "QB": 5,
+        "RB": 6,
+        "TE": 2,
+        "WR": 10
+      },
+      "starters": [
+        {
+          "player_id": "4892",
+          "name": "Baker Mayfield",
+          "team": "TB",
+          "position": "QB",
+          "injury_status": null
+        },
+        {
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
+          "team": "TB",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "12474",
+          "name": "Woody Marks",
+          "team": "HOU",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "9488",
+          "name": "Jaxon Smith-Njigba",
+          "team": "SEA",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "11632",
+          "name": "Malik Nabers",
+          "team": "NYG",
+          "position": "WR",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "12518",
+          "name": "Tyler Warren",
+          "team": "IND",
+          "position": "TE",
+          "injury_status": null
+        },
+        {
+          "player_id": "8167",
+          "name": "Christian Watson",
+          "team": "GB",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "12526",
+          "name": "Tetairoa McMillan",
+          "team": "CAR",
+          "position": "WR",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "13298",
+          "name": "KC Concepcion",
+          "team": "CLE",
+          "position": "WR",
+          "injury_status": null
+        }
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 8,
+      "team_label": "Back to the Future",
+      "owner_user_id": "471457570825957376",
+      "record": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+      },
+      "points": {
+        "points_for": 0.0,
+        "points_against": null,
+        "raw_fpts": 0,
+        "raw_fpts_decimal": 0,
+        "raw_fpts_against": null,
+        "raw_fpts_against_decimal": null
+      },
+      "counts": {
+        "players": 24,
+        "starters": 8,
+        "bench": 15,
+        "reserve": 1
+      },
+      "position_counts": {
+        "QB": 2,
+        "RB": 8,
+        "TE": 3,
+        "WR": 11
+      },
+      "starters": [
+        {
+          "player_id": "11564",
+          "name": "Drake Maye",
+          "team": "NE",
+          "position": "QB",
+          "injury_status": null
+        },
+        {
+          "player_id": "8151",
+          "name": "Kenneth Walker",
+          "team": "KC",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "8150",
+          "name": "Kyren Williams",
+          "team": "LAR",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "6794",
+          "name": "Justin Jefferson",
+          "team": "MIN",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "team": "TB",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "8130",
+          "name": "Trey McBride",
+          "team": "ARI",
+          "position": "TE",
+          "injury_status": null
+        },
+        {
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
+          "team": "NE",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "8142",
+          "name": "Alec Pierce",
+          "team": "IND",
+          "position": "WR",
+          "injury_status": "Questionable"
+        }
+      ],
+      "reserve": [
+        {
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "team": "SEA",
+          "position": "RB",
+          "injury_status": "Questionable"
+        }
+      ]
+    },
+    {
+      "roster_id": 9,
+      "team_label": "off",
+      "owner_user_id": "471501409838166016",
+      "record": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+      },
+      "points": {
+        "points_for": 0.0,
+        "points_against": null,
+        "raw_fpts": 0,
+        "raw_fpts_decimal": 0,
+        "raw_fpts_against": null,
+        "raw_fpts_against_decimal": null
+      },
+      "counts": {
+        "players": 23,
+        "starters": 9,
+        "bench": 14,
+        "reserve": 0
+      },
+      "position_counts": {
+        "QB": 5,
+        "RB": 7,
+        "TE": 4,
+        "WR": 7
+      },
+      "starters": [
+        {
+          "player_id": "5849",
+          "name": "Kyler Murray",
+          "team": "MIN",
+          "position": "QB",
+          "injury_status": null
+        },
+        {
+          "player_id": "9226",
+          "name": "De'Von Achane",
+          "team": "MIA",
+          "position": "RB",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "12507",
+          "name": "Omarion Hampton",
+          "team": "LAC",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "7564",
+          "name": "Ja'Marr Chase",
+          "team": "CIN",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "8144",
+          "name": "Chris Olave",
+          "team": "NO",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "7553",
+          "name": "Kyle Pitts",
+          "team": "ATL",
+          "position": "TE",
+          "injury_status": null
+        },
+        {
+          "player_id": "10229",
+          "name": "Rashee Rice",
+          "team": "KC",
+          "position": "WR",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "12489",
+          "name": "RJ Harvey",
+          "team": "DEN",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "12493",
+          "name": "Oronde Gadsden",
+          "team": "LAC",
+          "position": "TE",
+          "injury_status": null
+        }
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 10,
+      "team_label": "Goin in Ra",
+      "owner_user_id": "471717089472671744",
+      "record": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+      },
+      "points": {
+        "points_for": 0.0,
+        "points_against": null,
+        "raw_fpts": 0,
+        "raw_fpts_decimal": 0,
+        "raw_fpts_against": null,
+        "raw_fpts_against_decimal": null
+      },
+      "counts": {
+        "players": 24,
+        "starters": 9,
+        "bench": 15,
+        "reserve": 0
+      },
+      "position_counts": {
+        "QB": 2,
+        "RB": 8,
+        "TE": 4,
+        "WR": 10
+      },
+      "starters": [
+        {
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "team": "BAL",
+          "position": "QB",
+          "injury_status": null
+        },
+        {
+          "player_id": "3198",
+          "name": "Derrick Henry",
+          "team": "BAL",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
+          "team": "JAX",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "7547",
+          "name": "Amon-Ra St. Brown",
+          "team": "DET",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "5927",
+          "name": "Terry McLaurin",
+          "team": "WAS",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "9484",
+          "name": "Tucker Kraft",
+          "team": "GB",
+          "position": "TE",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "6790",
+          "name": "D'Andre Swift",
+          "team": "CHI",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "team": "PIT",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "team": "JAX",
+          "position": "WR",
+          "injury_status": null
+        }
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 11,
+      "team_label": "MOJO",
+      "owner_user_id": "471724614532198400",
+      "record": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+      },
+      "points": {
+        "points_for": 0.0,
+        "points_against": null,
+        "raw_fpts": 0,
+        "raw_fpts_decimal": 0,
+        "raw_fpts_against": null,
+        "raw_fpts_against_decimal": null
+      },
+      "counts": {
+        "players": 23,
+        "starters": 9,
+        "bench": 14,
+        "reserve": 0
+      },
+      "position_counts": {
+        "QB": 3,
+        "RB": 8,
+        "TE": 4,
+        "WR": 8
+      },
+      "starters": [
+        {
+          "player_id": "4984",
+          "name": "Josh Allen",
+          "team": "BUF",
+          "position": "QB",
+          "injury_status": null
+        },
+        {
+          "player_id": "8138",
+          "name": "James Cook",
+          "team": "BUF",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "team": "NYG",
+          "position": "RB",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "6801",
+          "name": "Tee Higgins",
+          "team": "CIN",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
+          "team": "DEN",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "11604",
+          "name": "Brock Bowers",
+          "team": "LV",
+          "position": "TE",
+          "injury_status": null
+        },
+        {
+          "player_id": "2133",
+          "name": "Davante Adams",
+          "team": "LAR",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "8228",
+          "name": "Jaylen Warren",
+          "team": "PIT",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "team": "PIT",
+          "position": "RB",
+          "injury_status": null
+        }
+      ],
+      "reserve": []
+    },
+    {
+      "roster_id": 12,
+      "team_label": "gullickson",
+      "owner_user_id": "471744678006353920",
+      "record": {
+        "wins": 0,
+        "losses": 0,
+        "ties": 0
+      },
+      "points": {
+        "points_for": 0.0,
+        "points_against": null,
+        "raw_fpts": 0,
+        "raw_fpts_decimal": 0,
+        "raw_fpts_against": null,
+        "raw_fpts_against_decimal": null
+      },
+      "counts": {
+        "players": 23,
+        "starters": 9,
+        "bench": 14,
+        "reserve": 0
+      },
+      "position_counts": {
+        "QB": 3,
+        "RB": 7,
+        "TE": 4,
+        "WR": 9
+      },
+      "starters": [
+        {
+          "player_id": "6770",
+          "name": "Joe Burrow",
+          "team": "CIN",
+          "position": "QB",
+          "injury_status": null
+        },
+        {
+          "player_id": "4866",
+          "name": "Saquon Barkley",
+          "team": "PHI",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "team": "ARI",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "team": "LAC",
+          "position": "WR",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "9997",
+          "name": "Zay Flowers",
+          "team": "BAL",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "team": "PHI",
+          "position": "TE",
+          "injury_status": null
+        },
+        {
+          "player_id": "7543",
+          "name": "Travis Etienne",
+          "team": "NO",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "12512",
+          "name": "Quinshon Judkins",
+          "team": "CLE",
+          "position": "RB",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "4983",
+          "name": "DJ Moore",
+          "team": "BUF",
+          "position": "WR",
+          "injury_status": null
+        }
+      ],
+      "reserve": []
+    }
+  ],
+  "matchups": {
+    "included_weeks": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18
+    ],
+    "by_week": {
+      "1": {
+        "week": 1,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "2": {
+        "week": 2,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "3": {
+        "week": 3,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "4": {
+        "week": 4,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "5": {
+        "week": 5,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "6": {
+        "week": 6,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "7": {
+        "week": 7,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "8": {
+        "week": 8,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "9": {
+        "week": 9,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "10": {
+        "week": 10,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "11": {
+        "week": 11,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "12": {
+        "week": 12,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "13": {
+        "week": 13,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "14": {
+        "week": 14,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "15": {
+        "week": 15,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "16": {
+        "week": 16,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "17": {
+        "week": 17,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "18": {
+        "week": 18,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      }
+    },
+    "counts": {
+      "weeks": 18,
+      "matchups": 108,
+      "roster_results": 216
+    }
+  },
+  "transactions": {
+    "counts": {
+      "weeks": 18,
+      "transactions": 26,
+      "trades": 4,
+      "waivers": 0,
+      "free_agent_moves": 21,
+      "by_type": {
+        "commissioner": 1,
+        "free_agent": 21,
+        "trade": 4
+      },
+      "by_status": {
+        "complete": 26
+      }
+    },
+    "activity_by_roster_id": {
+      "9": {
+        "transactions": 3,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 3
+      },
+      "12": {
+        "transactions": 3,
+        "trades": 1,
+        "waivers": 0,
+        "free_agent_moves": 2
+      },
+      "7": {
+        "transactions": 3,
+        "trades": 1,
+        "waivers": 0,
+        "free_agent_moves": 2
+      },
+      "1": {
+        "transactions": 5,
+        "trades": 2,
+        "waivers": 0,
+        "free_agent_moves": 3
+      },
+      "11": {
+        "transactions": 6,
+        "trades": 1,
+        "waivers": 0,
+        "free_agent_moves": 5
+      },
+      "2": {
+        "transactions": 6,
+        "trades": 2,
+        "waivers": 0,
+        "free_agent_moves": 3
+      },
+      "10": {
+        "transactions": 1,
+        "trades": 1,
+        "waivers": 0,
+        "free_agent_moves": 0
+      },
+      "3": {
+        "transactions": 2,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 2
+      },
+      "6": {
+        "transactions": 1,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 1
+      }
+    },
+    "recent_transactions": [
+      {
+        "week": 1,
+        "transaction_id": "1375650962533806080",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-24T23:20:57.128000Z",
+        "team_labels": [
+          "andrewwelle"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "6130",
+            "player_name": "Devin Singletary",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1371669336439164928",
+        "type": "commissioner",
+        "status": "complete",
+        "created_at": "2026-06-13T23:39:23.493000Z",
+        "team_labels": [
+          "A B CeeDee"
+        ],
+        "adds": [
+          {
+            "player_id": "5850",
+            "player_name": "Josh Jacobs",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1371667902909939712",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-13T23:33:41.712000Z",
+        "team_labels": [
+          "A B CeeDee"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "5850",
+            "player_name": "Josh Jacobs",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370636600928669696",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-11T03:15:40.160000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "13411",
+            "player_name": "Zavion Thomas",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "6271",
+            "player_name": "Olamide Zaccheaus",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370429368752422912",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-10T13:32:12.158000Z",
+        "team_labels": [
+          "A B CeeDee"
+        ],
+        "adds": [
+          {
+            "player_id": "8800",
+            "player_name": "Malik Davis",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "12455",
+            "player_name": "Brashard Smith",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370199337103024128",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-09T22:18:08.340000Z",
+        "team_labels": [
+          "off"
+        ],
+        "adds": [
+          {
+            "player_id": "13303",
+            "player_name": "Cade Klubnik",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "10444",
+            "player_name": "Cedric Tillman",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370169980426936320",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-09T20:21:29.162000Z",
+        "team_labels": [
+          "Commish is a bitch"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "12471",
+            "player_name": "DJ Giddens",
+            "roster_id": 7,
+            "team_label": "Commish is a bitch"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370168806407700480",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-09T20:16:49.255000Z",
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "9479",
+            "player_name": "Darnell Washington",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "12540",
+            "player_name": "Chimere Dike",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370168095481565184",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-09T20:13:59.756000Z",
+        "team_labels": [
+          "Pol Hol"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "96",
+            "player_name": "Aaron Rodgers",
+            "roster_id": 3,
+            "team_label": "Pol Hol"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370167993950035968",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-09T20:13:35.549000Z",
+        "team_labels": [
+          "Pol Hol"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "2505",
+            "player_name": "Darren Waller",
+            "roster_id": 3,
+            "team_label": "Pol Hol"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370167491719868416",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-09T20:11:35.809000Z",
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "12485",
+            "player_name": "Tez Johnson",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370166809898000384",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-09T20:08:53.249000Z",
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "12503",
+            "player_name": "Isaiah Bond",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370166119096139776",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-09T20:06:08.549000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "13424",
+            "player_name": "Seth McGowan",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "4177",
+            "player_name": "Mack Hollins",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370165353530793984",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-09T20:03:06.024000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "6271",
+            "player_name": "Olamide Zaccheaus",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "12472",
+            "player_name": "Raheim Sanders",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370164941369122816",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-09T20:01:27.757000Z",
+        "team_labels": [
+          "A B CeeDee"
+        ],
+        "adds": [
+          {
+            "player_id": "13413",
+            "player_name": "Cyrus Allen",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13338",
+            "player_name": "Kevin Coleman",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370164070111535104",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-09T19:58:00.034000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "6865",
+            "player_name": "Colby Parkinson",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1370164047051259904",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-06-09T19:57:54.535000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "4381",
+            "player_name": "Taysom Hill",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1366107338628403200",
+        "type": "trade",
+        "status": "complete",
+        "created_at": "2026-05-29T15:17:59.878000Z",
+        "team_labels": [
+          "A B CeeDee",
+          "Goin in Ra"
+        ],
+        "adds": [],
+        "drops": [],
+        "draft_picks": [
+          {
+            "season": "2026",
+            "round": 3,
+            "original_roster_id": 10,
+            "original_team_label": "Goin in Ra",
+            "previous_owner_id": 10,
+            "previous_owner_team_label": "Goin in Ra",
+            "owner_id": 2,
+            "owner_team_label": "A B CeeDee"
+          },
+          {
+            "season": "2026",
+            "round": 5,
+            "original_roster_id": 2,
+            "original_team_label": "A B CeeDee",
+            "previous_owner_id": 2,
+            "previous_owner_team_label": "A B CeeDee",
+            "owner_id": 10,
+            "owner_team_label": "Goin in Ra"
+          },
+          {
+            "season": "2028",
+            "round": 3,
+            "original_roster_id": 2,
+            "original_team_label": "A B CeeDee",
+            "previous_owner_id": 2,
+            "previous_owner_team_label": "A B CeeDee",
+            "owner_id": 10,
+            "owner_team_label": "Goin in Ra"
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "transaction_id": "1365775464500576256",
+        "type": "trade",
+        "status": "complete",
+        "created_at": "2026-05-28T17:19:14.920000Z",
+        "team_labels": [
+          "It’s Herbie Hancock",
+          "A B CeeDee"
+        ],
+        "adds": [
+          {
+            "player_id": "8408",
+            "player_name": "Jordan Mason",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "8408",
+            "player_name": "Jordan Mason",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": [
+          {
+            "season": "2026",
+            "round": 5,
+            "original_roster_id": 1,
+            "original_team_label": "It’s Herbie Hancock",
+            "previous_owner_id": 1,
+            "previous_owner_team_label": "It’s Herbie Hancock",
+            "owner_id": 2,
+            "owner_team_label": "A B CeeDee"
+          },
+          {
+            "season": "2026",
+            "round": 3,
+            "original_roster_id": 2,
+            "original_team_label": "A B CeeDee",
+            "previous_owner_id": 2,
+            "previous_owner_team_label": "A B CeeDee",
+            "owner_id": 1,
+            "owner_team_label": "It’s Herbie Hancock"
+          },
+          {
+            "season": "2026",
+            "round": 4,
+            "original_roster_id": 2,
+            "original_team_label": "A B CeeDee",
+            "previous_owner_id": 2,
+            "previous_owner_team_label": "A B CeeDee",
+            "owner_id": 1,
+            "owner_team_label": "It’s Herbie Hancock"
+          },
+          {
+            "season": "2027",
+            "round": 3,
+            "original_roster_id": 2,
+            "original_team_label": "A B CeeDee",
+            "previous_owner_id": 2,
+            "previous_owner_team_label": "A B CeeDee",
+            "owner_id": 1,
+            "owner_team_label": "It’s Herbie Hancock"
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "transaction_id": "1365529922608566272",
+        "type": "trade",
+        "status": "complete",
+        "created_at": "2026-05-28T01:03:33.170000Z",
+        "team_labels": [
+          "Commish is a bitch",
+          "gullickson"
+        ],
+        "adds": [],
+        "drops": [],
+        "draft_picks": [
+          {
+            "season": "2026",
+            "round": 3,
+            "original_roster_id": 12,
+            "original_team_label": "gullickson",
+            "previous_owner_id": 12,
+            "previous_owner_team_label": "gullickson",
+            "owner_id": 7,
+            "owner_team_label": "Commish is a bitch"
+          },
+          {
+            "season": "2026",
+            "round": 3,
+            "original_roster_id": 7,
+            "original_team_label": "Commish is a bitch",
+            "previous_owner_id": 7,
+            "previous_owner_team_label": "Commish is a bitch",
+            "owner_id": 12,
+            "owner_team_label": "gullickson"
+          },
+          {
+            "season": "2027",
+            "round": 4,
+            "original_roster_id": 7,
+            "original_team_label": "Commish is a bitch",
+            "previous_owner_id": 7,
+            "previous_owner_team_label": "Commish is a bitch",
+            "owner_id": 12,
+            "owner_team_label": "gullickson"
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "transaction_id": "1364777189010059264",
+        "type": "trade",
+        "status": "complete",
+        "created_at": "2026-05-25T23:12:27.496000Z",
+        "team_labels": [
+          "It’s Herbie Hancock",
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "7526",
+            "player_name": "Jaylen Waddle",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "7526",
+            "player_name": "Jaylen Waddle",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": [
+          {
+            "season": "2027",
+            "round": 2,
+            "original_roster_id": 1,
+            "original_team_label": "It’s Herbie Hancock",
+            "previous_owner_id": 1,
+            "previous_owner_team_label": "It’s Herbie Hancock",
+            "owner_id": 11,
+            "owner_team_label": "MOJO"
+          },
+          {
+            "season": "2026",
+            "round": 2,
+            "original_roster_id": 11,
+            "original_team_label": "MOJO",
+            "previous_owner_id": 11,
+            "previous_owner_team_label": "MOJO",
+            "owner_id": 1,
+            "owner_team_label": "It’s Herbie Hancock"
+          },
+          {
+            "season": "2027",
+            "round": 1,
+            "original_roster_id": 11,
+            "original_team_label": "MOJO",
+            "previous_owner_id": 11,
+            "previous_owner_team_label": "MOJO",
+            "owner_id": 1,
+            "owner_team_label": "It’s Herbie Hancock"
+          }
+        ]
+      },
+      {
+        "week": 1,
+        "transaction_id": "1363699257793589248",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-05-22T23:49:08.667000Z",
+        "team_labels": [
+          "Commish is a bitch"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "4098",
+            "player_name": "Kareem Hunt",
+            "roster_id": 7,
+            "team_label": "Commish is a bitch"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1363659964362534912",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-05-22T21:13:00.383000Z",
+        "team_labels": [
+          "gullickson"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "4018",
+            "player_name": "Joe Mixon",
+            "roster_id": 12,
+            "team_label": "gullickson"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1363659907554906112",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-05-22T21:12:46.839000Z",
+        "team_labels": [
+          "gullickson"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "5970",
+            "player_name": "Greg Dortch",
+            "roster_id": 12,
+            "team_label": "gullickson"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1346145125503348736",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-04-04T13:15:17.388000Z",
+        "team_labels": [
+          "off"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "11647",
+            "player_name": "Kimani Vidal",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "draft_picks": []
+      }
+    ]
+  },
+  "drafts": {
+    "counts": {
+      "drafts": 1,
+      "draft_picks": 60,
+      "draft_traded_picks": 8
+    },
+    "drafts": [
+      {
+        "draft_id": "1312581067298836480",
+        "status": "complete",
+        "season": "2026",
+        "type": "linear",
+        "counts": {
+          "picks": 60,
+          "traded_picks": 8
+        },
+        "first_round": [
+          {
+            "pick_no": 1,
+            "roster_id": 12,
+            "team_label": "gullickson",
+            "player_id": "13287",
+            "player_name": "Jeremiyah Love"
+          },
+          {
+            "pick_no": 2,
+            "roster_id": 4,
+            "team_label": "Puka Troopas",
+            "player_id": "13279",
+            "player_name": "Carnell Tate"
+          },
+          {
+            "pick_no": 3,
+            "roster_id": 10,
+            "team_label": "Goin in Ra",
+            "player_id": "13286",
+            "player_name": "Jadarian Price"
+          },
+          {
+            "pick_no": 4,
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock",
+            "player_id": "13281",
+            "player_name": "Jordyn Tyson"
+          },
+          {
+            "pick_no": 5,
+            "roster_id": 2,
+            "team_label": "A B CeeDee",
+            "player_id": "13294",
+            "player_name": "Makai Lemon"
+          },
+          {
+            "pick_no": 6,
+            "roster_id": 7,
+            "team_label": "Commish is a bitch",
+            "player_id": "13298",
+            "player_name": "KC Concepcion"
+          },
+          {
+            "pick_no": 7,
+            "roster_id": 8,
+            "team_label": "Back to the Future",
+            "player_id": "13346",
+            "player_name": "Denzel Boston"
+          },
+          {
+            "pick_no": 8,
+            "roster_id": 6,
+            "team_label": "andrewwelle",
+            "player_id": "13276",
+            "player_name": "Omar Cooper"
+          },
+          {
+            "pick_no": 9,
+            "roster_id": 9,
+            "team_label": "off",
+            "player_id": "13330",
+            "player_name": "Kenyon Sadiq"
+          },
+          {
+            "pick_no": 10,
+            "roster_id": 5,
+            "team_label": "White Ice",
+            "player_id": "13288",
+            "player_name": "Nicholas Singleton"
+          },
+          {
+            "pick_no": 11,
+            "roster_id": 3,
+            "team_label": "Pol Hol",
+            "player_id": "13269",
+            "player_name": "Fernando Mendoza"
+          },
+          {
+            "pick_no": 12,
+            "roster_id": 11,
+            "team_label": "MOJO",
+            "player_id": "13320",
+            "player_name": "Zachariah Branch"
+          }
+        ],
+        "picks_by_roster_id": {
+          "12": 5,
+          "4": 5,
+          "10": 5,
+          "1": 7,
+          "2": 4,
+          "7": 5,
+          "8": 5,
+          "6": 5,
+          "9": 5,
+          "5": 5,
+          "3": 5,
+          "11": 4
+        }
+      }
+    ],
+    "traded_picks": {
+      "league_traded_picks": 13,
+      "draft_traded_picks": 8
+    }
+  },
+  "file_guidance": {
+    "start_here": "data/current/chatgpt_summary.json",
+    "full_bundle": "data/current/chatgpt_bundle.json",
+    "topic_files": [
+      "data/current/teams.json",
+      "data/current/rosters.json",
+      "data/current/matchups.json",
+      "data/current/transactions.json",
+      "data/current/drafts.json",
+      "data/current/traded_picks.json",
+      "data/current/player_lookup_compact.json"
+    ]
+  }
+}
