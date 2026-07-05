@@ -16,7 +16,7 @@ Created repository documentation and configuration:
 
 ## Phase 1: Minimal snapshot script
 
-Status: implemented; first real snapshot run and review still pending
+Status: implemented
 
 Created `scripts/sleeper_snapshot.py`.
 
@@ -32,15 +32,9 @@ Implemented scope:
 - emit compact player lookup for referenced players
 - write core current snapshot files under `data/current/`
 
-Manual command:
-
-```bash
-python scripts/sleeper_snapshot.py
-```
-
 ## Phase 2: Validation script
 
-Status: implemented; first validation run still pending
+Status: implemented
 
 Created `scripts/validate_snapshot.py`.
 
@@ -56,15 +50,9 @@ Validation checks:
 - `chatgpt_bundle.json` matches topic-file roster, matchup, and player references
 - manifest counts match generated files where applicable
 
-Manual command:
-
-```bash
-python scripts/validate_snapshot.py
-```
-
 ## Phase 3: Matchups
 
-Status: implemented; first real snapshot run and review still pending
+Status: implemented
 
 Added season-to-date weekly matchup export to `scripts/sleeper_snapshot.py`.
 
@@ -82,7 +70,7 @@ Implemented logic:
 
 ## Phase 4: Transactions
 
-Status: implemented as a post-snapshot extension; first real run and review still pending
+Status: implemented as a post-snapshot extension
 
 Created:
 
@@ -103,7 +91,7 @@ Implemented logic:
 
 ## Phase 5: Drafts and traded picks
 
-Status: implemented as a post-snapshot extension; first real run and review still pending
+Status: implemented as a post-snapshot extension
 
 Created:
 
@@ -127,7 +115,7 @@ Implemented logic:
 
 ## Phase 6: GitHub Actions workflow
 
-Status: implemented; first workflow run still pending
+Status: implemented and manually tested
 
 Created:
 
@@ -143,44 +131,62 @@ Note: GitHub Actions cron is UTC. This maps to 6:17 AM Central during daylight t
 Workflow behavior:
 
 - uses Python 3.12
-- runs the base snapshot script
-- runs the transaction extension
-- runs the draft/traded-pick extension
-- validates base snapshot output
-- validates transaction output
-- validates draft/traded-pick output
+- runs `scripts/run_all.py`
 - commits changed files under `data/current/` only when generated output changes
 
 Manual workflow option:
 
 - `force_refresh_players`: when true, forces refresh of the local Sleeper NFL player cache
 
+## Phase 7: First-run refinement
+
+Status: partially implemented
+
+First live run findings:
+
+- generated snapshot committed successfully
+- placeholder player IDs such as `0` and `off` needed cleanup
+- manifest file inventory needed to be recalculated after all extension files existed
+- `chatgpt_bundle.json` is usable but large enough that a smaller first-read file is valuable
+
+Created:
+
+- `scripts/finalize_snapshot.py`
+- `scripts/build_summary.py`
+
+Implemented refinements:
+
+- remove invalid placeholder player IDs
+- rebuild player index after cleanup
+- recompute manifest file inventory and sizes after all generated files exist
+- create `data/current/chatgpt_summary.json` as the recommended first-read file for ChatGPT analysis
+- keep `chatgpt_bundle.json` available for full-context analysis
+
 Current full local command sequence:
+
+```bash
+python scripts/run_all.py
+```
+
+Expanded sequence:
 
 ```bash
 python scripts/sleeper_snapshot.py
 python scripts/sleeper_transactions.py
 python scripts/sleeper_drafts.py
+python scripts/finalize_snapshot.py
+python scripts/build_summary.py
 python scripts/validate_snapshot.py
 python scripts/validate_transactions.py
 python scripts/validate_drafts.py
 ```
 
-## Phase 7: Refinement after first real snapshot
+Next review items:
 
-Status: next
-
-Review generated data for:
-
-- file size
-- missing fields
-- missing player IDs
-- unnecessary fields
-- bundle readability
-- analysis quality
-- whether the post-snapshot extension scripts should eventually be consolidated into one exporter
-
-Refine schema and script based on actual output.
+- run the workflow after the summary-builder change
+- verify `data/current/chatgpt_summary.json` size and readability
+- decide whether future/offseason matchup data should be compacted further in `matchups.json`
+- consider consolidating post-snapshot extension scripts into a single exporter once behavior is stable
 
 ## Non-goals for initial build
 
