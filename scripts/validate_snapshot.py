@@ -3,7 +3,7 @@
 Validate generated Sleeper current snapshot files.
 
 This validator is intentionally dependency-free and focused on current snapshot
-integrity across required topic files and the ChatGPT bundle.
+integrity across required topic files, the compact summary, and the ChatGPT bundle.
 """
 
 from __future__ import annotations
@@ -24,6 +24,7 @@ REQUIRED_FILES = [
     "matchups.json",
     "player_lookup_compact.json",
     "player_id_index.json",
+    "chatgpt_summary.json",
     "chatgpt_bundle.json",
 ]
 
@@ -127,6 +128,7 @@ def validate(config_path: Path, snapshot_dir_override: Optional[Path]) -> Result
     for label, value in [
         ("manifest.json league_id", nested(loaded["manifest.json"], ["league_id"])),
         ("league_context.json league_id", nested(loaded["league_context.json"], ["league_id"])),
+        ("chatgpt_summary.json metadata.league_id", nested(loaded["chatgpt_summary.json"], ["metadata", "league_id"])),
         ("chatgpt_bundle.json metadata.league_id", nested(loaded["chatgpt_bundle.json"], ["metadata", "league_id"])),
         ("chatgpt_bundle.json league.league_id", nested(loaded["chatgpt_bundle.json"], ["league", "league_id"])),
     ]:
@@ -199,6 +201,18 @@ def validate(config_path: Path, snapshot_dir_override: Optional[Path]) -> Result
     else:
         result.error("player_lookup_compact.json must be an object")
 
+    summary = loaded["chatgpt_summary.json"]
+    if isinstance(summary, dict):
+        for key in ("metadata", "league", "counts", "data_quality", "teams", "file_guidance"):
+            if key not in summary:
+                result.error(f"chatgpt_summary.json missing key: {key}")
+        if isinstance(summary.get("teams"), list) and isinstance(rosters, list) and len(summary["teams"]) != len(rosters):
+            result.warning("chatgpt_summary.json teams count differs from rosters.json")
+        if nested(summary, ["counts", "compact_player_lookup"]) != (len(player_lookup) if isinstance(player_lookup, dict) else None):
+            result.warning("chatgpt_summary.json counts.compact_player_lookup differs from player_lookup_compact.json")
+    else:
+        result.error("chatgpt_summary.json must be an object")
+
     bundle = loaded["chatgpt_bundle.json"]
     if isinstance(bundle, dict):
         for key in ("metadata", "league", "teams", "rosters", "players", "matchups", "transactions", "drafts", "traded_picks", "analysis_indexes"):
@@ -220,9 +234,11 @@ def validate(config_path: Path, snapshot_dir_override: Optional[Path]) -> Result
     if isinstance(counts, dict):
         comparisons = [
             ("rosters", len(rosters) if isinstance(rosters, list) else None),
+            ("required_player_ids", len(player_lookup) if isinstance(player_lookup, dict) else None),
             ("compact_player_lookup", len(player_lookup) if isinstance(player_lookup, dict) else None),
             ("matchups", nested(matchups, ["counts", "matchups"])),
             ("matchup_roster_results", nested(matchups, ["counts", "roster_results"])),
+            ("summary_teams", len(summary.get("teams")) if isinstance(summary, dict) and isinstance(summary.get("teams"), list) else None),
         ]
         for key, expected in comparisons:
             if expected is not None and counts.get(key) != expected:
