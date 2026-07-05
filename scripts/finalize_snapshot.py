@@ -250,6 +250,7 @@ def main() -> int:
         manifest["phase"] = "finalized_current_snapshot"
         manifest.setdefault("counts", {}).update(
             {
+                "required_player_ids": len(lookup),
                 "compact_player_lookup": len(lookup),
                 "missing_player_ids": len(player_index["missing_ids"]),
                 "transactions": get_nested(transactions, ["counts", "transactions"], 0),
