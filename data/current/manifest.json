@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-05T21:32:36.513778Z",
+  "generated_at": "2026-07-05T21:36:25.602107Z",
   "league_id": "1312581067286282240",
   "sport": "nfl",
   "season": "2026",
@@ -107,7 +107,7 @@
     "included_weeks": 18,
     "matchups": 108,
     "matchup_roster_results": 216,
-    "required_player_ids": 284,
+    "required_player_ids": 300,
     "compact_player_lookup": 300,
     "missing_player_ids": 0,
     "transactions": 26,
@@ -125,5 +125,5 @@
     "errors": [],
     "missing_player_ids": []
   },
-  "summary_generated_at": "2026-07-05T21:32:37.848789Z"
+  "summary_generated_at": "2026-07-05T21:36:28.310538Z"
 }
