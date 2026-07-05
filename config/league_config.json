@@ -1,0 +1,85 @@
+{
+  "schema_version": "1.0.0",
+  "league": {
+    "league_id": "1312581067286282240",
+    "sport": "nfl"
+  },
+  "snapshot": {
+    "mode": "current_only",
+    "output_dir": "data/current",
+    "overwrite_existing_outputs": true,
+    "keep_historical_snapshots": false
+  },
+  "raw_cache": {
+    "enabled": true,
+    "directory": "raw_cache",
+    "commit_to_git": false
+  },
+  "player_cache": {
+    "enabled": true,
+    "full_players_endpoint": "https://api.sleeper.app/v1/players/nfl",
+    "full_cache_filename": "players_nfl_full.json",
+    "max_age_hours": 24,
+    "commit_full_cache_to_git": false,
+    "compact_lookup_output": "data/current/player_lookup_compact.json",
+    "id_index_output": "data/current/player_id_index.json",
+    "include_only_required_player_ids": true,
+    "compact_fields": [
+      "player_id",
+      "name",
+      "first_name",
+      "last_name",
+      "team",
+      "position",
+      "fantasy_positions",
+      "status",
+      "injury_status",
+      "years_exp",
+      "age",
+      "depth_chart_position",
+      "search_rank"
+    ],
+    "excluded_field_groups": [
+      "birth_date",
+      "high_school",
+      "hometown",
+      "physical_attributes",
+      "athletic_testing",
+      "headshots_visuals",
+      "avatars_media"
+    ]
+  },
+  "export": {
+    "weeks": {
+      "mode": "season_to_date",
+      "fallback_start_week": 1,
+      "fallback_end_week": 18
+    },
+    "include": {
+      "nfl_state": true,
+      "league_metadata": true,
+      "league_users": true,
+      "rosters": true,
+      "matchups": true,
+      "transactions": true,
+      "winners_bracket": true,
+      "losers_bracket": true,
+      "traded_picks": true,
+      "league_drafts": true,
+      "draft_picks": true,
+      "draft_traded_picks": true,
+      "trending_players": false
+    },
+    "outputs": {
+      "split_topic_files": true,
+      "chatgpt_bundle": true,
+      "pretty_json": true,
+      "sort_keys": false
+    }
+  },
+  "github_actions": {
+    "manual_dispatch": true,
+    "daily_schedule_central_time": "06:17",
+    "commit_generated_current_snapshot": true
+  }
+}
