@@ -1,6 +1,6 @@
 # Sleeper Fantasy Football Snapshot Exporter
 
-This repository is designed to store the latest current-state snapshot of a Sleeper fantasy football league in a format that is efficient for ChatGPT to read and analyze.
+This repository stores the latest current-state snapshot of a Sleeper fantasy football league in a format that is efficient for ChatGPT to read and analyze.
 
 ## League
 
@@ -17,9 +17,9 @@ This repository is designed to store the latest current-state snapshot of a Slee
 5. Cache the full Sleeper NFL player database outside version control.
 6. Preserve enough IDs and indexes for accurate analysis without duplicating full objects everywhere.
 
-## Intended output files
+## Output files
 
-Generated files will eventually be written to:
+Generated files are written to:
 
 ```text
 data/current/
@@ -36,7 +36,7 @@ data/current/
 └─ chatgpt_bundle.json
 ```
 
-The primary ChatGPT-facing file will be:
+The primary ChatGPT-facing file is:
 
 ```text
 data/current/chatgpt_bundle.json
@@ -57,8 +57,65 @@ players_nfl_full.json
 
 The full Sleeper players endpoint is used as a local/cache source for compact player lookups, not as a committed data file.
 
-## Build status
+## Run locally
 
-Current phase: repository foundation.
+Run the full exporter and validator pipeline:
 
-No data-pull script has been added yet. See `docs/BUILD_PLAN.md` for the incremental build sequence.
+```bash
+python scripts/run_all.py
+```
+
+Force a refresh of the local Sleeper NFL player cache:
+
+```bash
+python scripts/run_all.py --force-refresh-players
+```
+
+Run exporters only and skip validation:
+
+```bash
+python scripts/run_all.py --skip-validation
+```
+
+## Run individual steps
+
+```bash
+python scripts/sleeper_snapshot.py
+python scripts/sleeper_transactions.py
+python scripts/sleeper_drafts.py
+python scripts/validate_snapshot.py
+python scripts/validate_transactions.py
+python scripts/validate_drafts.py
+```
+
+## GitHub Actions
+
+The workflow is defined at:
+
+```text
+.github/workflows/sleeper_snapshot.yml
+```
+
+It supports:
+
+- manual `workflow_dispatch`
+- daily scheduled runs
+- optional manual player-cache refresh
+- automatic commit of changed files under `data/current/`
+
+The workflow uses `scripts/run_all.py` so local and automated runs follow the same sequence.
+
+## Current build status
+
+Implemented:
+
+- foundation documentation/configuration
+- base current snapshot exporter
+- matchup export
+- transaction extension
+- draft and traded-pick extension
+- validators
+- one-command local runner
+- GitHub Actions workflow
+
+Next step: run the workflow once, then review the generated `data/current/` files for file size, missing fields, player resolution, and ChatGPT readability.
