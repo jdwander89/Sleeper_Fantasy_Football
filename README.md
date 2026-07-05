@@ -16,6 +16,7 @@ This repository stores the latest current-state snapshot of a Sleeper fantasy fo
 4. Do not commit large raw API responses.
 5. Cache the full Sleeper NFL player database outside version control.
 6. Preserve enough IDs and indexes for accurate analysis without duplicating full objects everywhere.
+7. Start most ChatGPT analysis from the compact summary, then open topic files only when needed.
 
 ## Output files
 
@@ -33,14 +34,15 @@ data/current/
 ├─ traded_picks.json
 ├─ player_lookup_compact.json
 ├─ player_id_index.json
+├─ chatgpt_summary.json
 └─ chatgpt_bundle.json
 ```
 
-The primary ChatGPT-facing file is:
+Recommended read order for analysis:
 
-```text
-data/current/chatgpt_bundle.json
-```
+1. `data/current/chatgpt_summary.json`
+2. relevant split topic file, such as `rosters.json`, `transactions.json`, or `drafts.json`
+3. `data/current/chatgpt_bundle.json` only when broad all-in-one context is needed
 
 The split topic files exist so specific analysis can be done without reading the full bundle every time.
 
@@ -59,7 +61,7 @@ The full Sleeper players endpoint is used as a local/cache source for compact pl
 
 ## Run locally
 
-Run the full exporter, finalizer, and validator pipeline:
+Run the full exporter, finalizer, summary builder, and validator pipeline:
 
 ```bash
 python scripts/run_all.py
@@ -71,7 +73,7 @@ Force a refresh of the local Sleeper NFL player cache:
 python scripts/run_all.py --force-refresh-players
 ```
 
-Run exporters and finalization only, then skip validation:
+Run exporters, finalization, and summary only, then skip validation:
 
 ```bash
 python scripts/run_all.py --skip-validation
@@ -84,6 +86,7 @@ python scripts/sleeper_snapshot.py
 python scripts/sleeper_transactions.py
 python scripts/sleeper_drafts.py
 python scripts/finalize_snapshot.py
+python scripts/build_summary.py
 python scripts/validate_snapshot.py
 python scripts/validate_transactions.py
 python scripts/validate_drafts.py
@@ -116,8 +119,9 @@ Implemented:
 - transaction extension
 - draft and traded-pick extension
 - final snapshot cleanup/finalization
+- compact ChatGPT summary output
 - validators
 - one-command local runner
 - GitHub Actions workflow
 
-Next step: run the workflow again after the finalizer change, then review the refreshed `data/current/` files for file size, missing fields, player resolution, and ChatGPT readability.
+Next step: run the workflow again after the summary-builder change, then use `data/current/chatgpt_summary.json` as the first file for league analysis.
