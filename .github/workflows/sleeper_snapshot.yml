@@ -34,44 +34,15 @@ jobs:
         with:
           python-version: ${{ env.PYTHON_VERSION }}
 
-      - name: Generate base snapshot
+      - name: Generate and validate current snapshot
         env:
           FORCE_REFRESH_PLAYERS: ${{ github.event_name == 'workflow_dispatch' && inputs.force_refresh_players || 'false' }}
         run: |
           if [ "$FORCE_REFRESH_PLAYERS" = "true" ]; then
-            python scripts/sleeper_snapshot.py --force-refresh-players
+            python scripts/run_all.py --force-refresh-players
           else
-            python scripts/sleeper_snapshot.py
+            python scripts/run_all.py
           fi
-
-      - name: Add transaction data
-        env:
-          FORCE_REFRESH_PLAYERS: ${{ github.event_name == 'workflow_dispatch' && inputs.force_refresh_players || 'false' }}
-        run: |
-          if [ "$FORCE_REFRESH_PLAYERS" = "true" ]; then
-            python scripts/sleeper_transactions.py --force-refresh-players
-          else
-            python scripts/sleeper_transactions.py
-          fi
-
-      - name: Add draft and traded-pick data
-        env:
-          FORCE_REFRESH_PLAYERS: ${{ github.event_name == 'workflow_dispatch' && inputs.force_refresh_players || 'false' }}
-        run: |
-          if [ "$FORCE_REFRESH_PLAYERS" = "true" ]; then
-            python scripts/sleeper_drafts.py --force-refresh-players
-          else
-            python scripts/sleeper_drafts.py
-          fi
-
-      - name: Validate base snapshot
-        run: python scripts/validate_snapshot.py
-
-      - name: Validate transactions
-        run: python scripts/validate_transactions.py
-
-      - name: Validate drafts and traded picks
-        run: python scripts/validate_drafts.py
 
       - name: Commit current snapshot changes
         run: |
