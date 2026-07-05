@@ -1,0 +1,747 @@
+[
+  {
+    "roster_id": 1,
+    "owner_user_id": "464915162038530048",
+    "team_name": "It’s Herbie Hancock",
+    "display_label": "It’s Herbie Hancock",
+    "owner": {
+      "user_id": "464915162038530048",
+      "username": null,
+      "display_name": "jwander",
+      "team_name": "It’s Herbie Hancock",
+      "is_owner": true,
+      "metadata": {
+        "allow_sms": "on",
+        "allow_pn": "on",
+        "mascot_item_type_id_leg_13": "trash",
+        "team_name_update": "off",
+        "transaction_free_agent": "off",
+        "mascot_item_type_id_leg_17": "trash",
+        "mascot_item_type_id_leg_12": "trash",
+        "mascot_item_type_id_leg_1": "trash",
+        "player_like_pn": "on",
+        "mascot_item_type_id_leg_9": "trash",
+        "mascot_item_type_id_leg_4": "trash",
+        "transaction_commissioner": "off",
+        "mascot_item_type_id_leg_3": "trash",
+        "mascot_item_type_id_leg_10": "trash",
+        "mascot_item_type_id_leg_5": "trash",
+        "mascot_message": "off",
+        "trade_block_pn": "off",
+        "mascot_item_type_id_leg_7": "trash",
+        "archived": "off",
+        "mascot_item_type_id_leg_14": "trash",
+        "mascot_item_type_id_leg_6": "trash",
+        "user_message_pn": "off",
+        "mascot_item_type_id_leg_11": "trash",
+        "mascot_item_type_id_leg_2": "trash",
+        "mention_pn": "on",
+        "player_nickname_update": "off",
+        "transaction_waiver": "off",
+        "mascot_item_type_id_leg_15": "trash",
+        "mascot_message_emotion_leg_1": "idle_happy",
+        "team_name": "It’s Herbie Hancock",
+        "mascot_item_type_id_leg_8": "trash",
+        "avatar": "https://sleepercdn.com/uploads/767f3c92b105c7db52d491b3da4d6c44.jpg",
+        "mascot_item_type_id_leg_16": "trash",
+        "transaction_trade": "off"
+      }
+    },
+    "record": {
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "points": {
+      "points_for": 0.0,
+      "points_against": null,
+      "raw_fpts": 0,
+      "raw_fpts_decimal": 0,
+      "raw_fpts_against": null,
+      "raw_fpts_against_decimal": null
+    },
+    "waivers": {
+      "waiver_position": 9,
+      "waiver_budget_used": 0
+    },
+    "activity": {
+      "total_moves": 0
+    },
+    "settings": {
+      "fpts": 0,
+      "fpts_decimal": 0,
+      "losses": 0,
+      "ties": 0,
+      "total_moves": 0,
+      "waiver_budget_used": 0,
+      "waiver_position": 9,
+      "wins": 0
+    },
+    "metadata": {
+      "allow_pn_inactive_starters": "off",
+      "allow_pn_player_injury_status": "off",
+      "allow_pn_scoring": "off",
+      "restrict_pn_scoring_starters_only": "off"
+    }
+  },
+  {
+    "roster_id": 2,
+    "owner_user_id": "471403228244733952",
+    "team_name": "A B CeeDee",
+    "display_label": "A B CeeDee",
+    "owner": {
+      "user_id": "471403228244733952",
+      "username": null,
+      "display_name": "Logs24",
+      "team_name": "A B CeeDee",
+      "is_owner": false,
+      "metadata": {
+        "allow_pn": "on",
+        "allow_sms": "on",
+        "archived": "off",
+        "mascot_item_type_id_leg_1": "jessica",
+        "mascot_item_type_id_leg_10": "jessica",
+        "mascot_item_type_id_leg_11": "jessica",
+        "mascot_item_type_id_leg_12": "jessica",
+        "mascot_item_type_id_leg_13": "jessica",
+        "mascot_item_type_id_leg_14": "jessica",
+        "mascot_item_type_id_leg_15": "jessica",
+        "mascot_item_type_id_leg_16": "jessica",
+        "mascot_item_type_id_leg_17": "jessica",
+        "mascot_item_type_id_leg_2": "jessica",
+        "mascot_item_type_id_leg_3": "jessica",
+        "mascot_item_type_id_leg_4": "jessica",
+        "mascot_item_type_id_leg_5": "jessica",
+        "mascot_item_type_id_leg_6": "jessica",
+        "mascot_item_type_id_leg_7": "jessica",
+        "mascot_item_type_id_leg_8": "jessica",
+        "mascot_item_type_id_leg_9": "jessica",
+        "mascot_message_emotion_leg_1": "idle_happy",
+        "mascot_message_emotion_leg_6": "idle",
+        "mascot_message_leg_6": "No clue",
+        "mention_pn": "on",
+        "team_name": "A B CeeDee"
+      }
+    },
+    "record": {
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "points": {
+      "points_for": 0.0,
+      "points_against": null,
+      "raw_fpts": 0,
+      "raw_fpts_decimal": 0,
+      "raw_fpts_against": null,
+      "raw_fpts_against_decimal": null
+    },
+    "waivers": {
+      "waiver_position": 8,
+      "waiver_budget_used": 0
+    },
+    "activity": {
+      "total_moves": 0
+    },
+    "settings": {
+      "fpts": 0,
+      "fpts_decimal": 0,
+      "losses": 0,
+      "ties": 0,
+      "total_moves": 0,
+      "waiver_budget_used": 0,
+      "waiver_position": 8,
+      "wins": 0
+    },
+    "metadata": {}
+  },
+  {
+    "roster_id": 3,
+    "owner_user_id": "471415197991432192",
+    "team_name": "Pol Hol",
+    "display_label": "Pol Hol",
+    "owner": {
+      "user_id": "471415197991432192",
+      "username": null,
+      "display_name": "GarrettHol",
+      "team_name": "Pol Hol",
+      "is_owner": false,
+      "metadata": {
+        "allow_pn": "on",
+        "allow_sms": "on",
+        "mention_pn": "on",
+        "team_name": "Pol Hol"
+      }
+    },
+    "record": {
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "points": {
+      "points_for": 0.0,
+      "points_against": null,
+      "raw_fpts": 0,
+      "raw_fpts_decimal": 0,
+      "raw_fpts_against": null,
+      "raw_fpts_against_decimal": null
+    },
+    "waivers": {
+      "waiver_position": 2,
+      "waiver_budget_used": 0
+    },
+    "activity": {
+      "total_moves": 0
+    },
+    "settings": {
+      "fpts": 0,
+      "fpts_decimal": 0,
+      "losses": 0,
+      "ties": 0,
+      "total_moves": 0,
+      "waiver_budget_used": 0,
+      "waiver_position": 2,
+      "wins": 0
+    },
+    "metadata": {}
+  },
+  {
+    "roster_id": 4,
+    "owner_user_id": "471415316501491712",
+    "team_name": "Puka Troopas",
+    "display_label": "Puka Troopas",
+    "owner": {
+      "user_id": "471415316501491712",
+      "username": null,
+      "display_name": "TonsOfBuns",
+      "team_name": "Puka Troopas",
+      "is_owner": false,
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on",
+        "team_name": "Puka Troopas"
+      }
+    },
+    "record": {
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "points": {
+      "points_for": 0.0,
+      "points_against": null,
+      "raw_fpts": 0,
+      "raw_fpts_decimal": 0,
+      "raw_fpts_against": null,
+      "raw_fpts_against_decimal": null
+    },
+    "waivers": {
+      "waiver_position": 11,
+      "waiver_budget_used": 0
+    },
+    "activity": {
+      "total_moves": 0
+    },
+    "settings": {
+      "fpts": 0,
+      "fpts_decimal": 0,
+      "losses": 0,
+      "ties": 0,
+      "total_moves": 0,
+      "waiver_budget_used": 0,
+      "waiver_position": 11,
+      "wins": 0
+    },
+    "metadata": {
+      "allow_pn_news": "off",
+      "allow_pn_scoring": "off"
+    }
+  },
+  {
+    "roster_id": 5,
+    "owner_user_id": "471424563457028096",
+    "team_name": "White Ice",
+    "display_label": "White Ice",
+    "owner": {
+      "user_id": "471424563457028096",
+      "username": null,
+      "display_name": "jchrz",
+      "team_name": "White Ice",
+      "is_owner": false,
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on",
+        "team_name": "White Ice"
+      }
+    },
+    "record": {
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "points": {
+      "points_for": 0.0,
+      "points_against": null,
+      "raw_fpts": 0,
+      "raw_fpts_decimal": 0,
+      "raw_fpts_against": null,
+      "raw_fpts_against_decimal": null
+    },
+    "waivers": {
+      "waiver_position": 3,
+      "waiver_budget_used": 0
+    },
+    "activity": {
+      "total_moves": 0
+    },
+    "settings": {
+      "fpts": 0,
+      "fpts_decimal": 0,
+      "losses": 0,
+      "ties": 0,
+      "total_moves": 0,
+      "waiver_budget_used": 0,
+      "waiver_position": 3,
+      "wins": 0
+    },
+    "metadata": {}
+  },
+  {
+    "roster_id": 6,
+    "owner_user_id": "471451909446692864",
+    "team_name": null,
+    "display_label": "andrewwelle",
+    "owner": {
+      "user_id": "471451909446692864",
+      "username": null,
+      "display_name": "andrewwelle",
+      "team_name": null,
+      "is_owner": false,
+      "metadata": {
+        "allow_pn": "on",
+        "mention_pn": "on"
+      }
+    },
+    "record": {
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "points": {
+      "points_for": 0.0,
+      "points_against": null,
+      "raw_fpts": 0,
+      "raw_fpts_decimal": 0,
+      "raw_fpts_against": null,
+      "raw_fpts_against_decimal": null
+    },
+    "waivers": {
+      "waiver_position": 5,
+      "waiver_budget_used": 0
+    },
+    "activity": {
+      "total_moves": 0
+    },
+    "settings": {
+      "fpts": 0,
+      "fpts_decimal": 0,
+      "losses": 0,
+      "ties": 0,
+      "total_moves": 0,
+      "waiver_budget_used": 0,
+      "waiver_position": 5,
+      "wins": 0
+    },
+    "metadata": {}
+  },
+  {
+    "roster_id": 7,
+    "owner_user_id": "459751268567478272",
+    "team_name": "Commish is a bitch",
+    "display_label": "Commish is a bitch",
+    "owner": {
+      "user_id": "459751268567478272",
+      "username": null,
+      "display_name": "lex11",
+      "team_name": "Commish is a bitch",
+      "is_owner": false,
+      "metadata": {
+        "allow_pn": "on",
+        "mascot_item_type_id_leg_1": "trash",
+        "mascot_item_type_id_leg_10": "trash",
+        "mascot_item_type_id_leg_11": "trash",
+        "mascot_item_type_id_leg_12": "trash",
+        "mascot_item_type_id_leg_13": "trash",
+        "mascot_item_type_id_leg_14": "trash",
+        "mascot_item_type_id_leg_15": "trash",
+        "mascot_item_type_id_leg_16": "trash",
+        "mascot_item_type_id_leg_17": "trash",
+        "mascot_item_type_id_leg_2": "trash",
+        "mascot_item_type_id_leg_3": "trash",
+        "mascot_item_type_id_leg_4": "trash",
+        "mascot_item_type_id_leg_5": "trash",
+        "mascot_item_type_id_leg_6": "trash",
+        "mascot_item_type_id_leg_7": "trash",
+        "mascot_item_type_id_leg_8": "trash",
+        "mascot_item_type_id_leg_9": "trash",
+        "mascot_message_emotion_leg_1": "action_joy01",
+        "mascot_message_emotion_leg_6": "taunting",
+        "mention_pn": "on",
+        "team_name": "Commish is a bitch"
+      }
+    },
+    "record": {
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "points": {
+      "points_for": 0.0,
+      "points_against": null,
+      "raw_fpts": 0,
+      "raw_fpts_decimal": 0,
+      "raw_fpts_against": null,
+      "raw_fpts_against_decimal": null
+    },
+    "waivers": {
+      "waiver_position": 7,
+      "waiver_budget_used": 0
+    },
+    "activity": {
+      "total_moves": 0
+    },
+    "settings": {
+      "fpts": 0,
+      "fpts_decimal": 0,
+      "losses": 0,
+      "ties": 0,
+      "total_moves": 0,
+      "waiver_budget_used": 0,
+      "waiver_position": 7,
+      "wins": 0
+    },
+    "metadata": {
+      "p_nick_3164": "ZEEK"
+    }
+  },
+  {
+    "roster_id": 8,
+    "owner_user_id": "471457570825957376",
+    "team_name": "Back to the Future",
+    "display_label": "Back to the Future",
+    "owner": {
+      "user_id": "471457570825957376",
+      "username": null,
+      "display_name": "johnwander",
+      "team_name": "Back to the Future",
+      "is_owner": false,
+      "metadata": {
+        "allow_pn": "on",
+        "archived": "off",
+        "avatar": "https://sleepercdn.com/uploads/14badf5875e056e335a9f6c77ba45fe3.jpg",
+        "mascot_item_type_id_leg_1": "smoothie",
+        "mascot_item_type_id_leg_10": "smoothie",
+        "mascot_item_type_id_leg_11": "smoothie",
+        "mascot_item_type_id_leg_12": "smoothie",
+        "mascot_item_type_id_leg_13": "smoothie",
+        "mascot_item_type_id_leg_14": "smoothie",
+        "mascot_item_type_id_leg_15": "smoothie",
+        "mascot_item_type_id_leg_16": "smoothie",
+        "mascot_item_type_id_leg_17": "smoothie",
+        "mascot_item_type_id_leg_2": "smoothie",
+        "mascot_item_type_id_leg_3": "smoothie",
+        "mascot_item_type_id_leg_4": "smoothie",
+        "mascot_item_type_id_leg_5": "smoothie",
+        "mascot_item_type_id_leg_6": "smoothie",
+        "mascot_item_type_id_leg_7": "smoothie",
+        "mascot_item_type_id_leg_8": "smoothie",
+        "mascot_item_type_id_leg_9": "smoothie",
+        "mascot_message_emotion_leg_1": "idle_happy",
+        "mention_pn": "on",
+        "team_name": "Back to the Future"
+      }
+    },
+    "record": {
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "points": {
+      "points_for": 0.0,
+      "points_against": null,
+      "raw_fpts": 0,
+      "raw_fpts_decimal": 0,
+      "raw_fpts_against": null,
+      "raw_fpts_against_decimal": null
+    },
+    "waivers": {
+      "waiver_position": 6,
+      "waiver_budget_used": 0
+    },
+    "activity": {
+      "total_moves": 0
+    },
+    "settings": {
+      "fpts": 0,
+      "fpts_decimal": 0,
+      "losses": 0,
+      "ties": 0,
+      "total_moves": 0,
+      "waiver_budget_used": 0,
+      "waiver_position": 6,
+      "wins": 0
+    },
+    "metadata": {
+      "allow_pn_news": "on",
+      "allow_pn_scoring": "on"
+    }
+  },
+  {
+    "roster_id": 9,
+    "owner_user_id": "471501409838166016",
+    "team_name": "off",
+    "display_label": "off",
+    "owner": {
+      "user_id": "471501409838166016",
+      "username": null,
+      "display_name": "alexwelle",
+      "team_name": "off",
+      "is_owner": false,
+      "metadata": {
+        "allow_pn": "on",
+        "archived": "off",
+        "league_report_pn": "off",
+        "mascot_message": "off",
+        "mention_pn": "on",
+        "player_like_pn": "off",
+        "player_nickname_update": "off",
+        "team_name_update": "off",
+        "trade_block_pn": "off",
+        "transaction_commissioner": "off",
+        "transaction_free_agent": "off",
+        "transaction_trade": "off",
+        "transaction_waiver": "off",
+        "user_message_pn": "off"
+      }
+    },
+    "record": {
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "points": {
+      "points_for": 0.0,
+      "points_against": null,
+      "raw_fpts": 0,
+      "raw_fpts_decimal": 0,
+      "raw_fpts_against": null,
+      "raw_fpts_against_decimal": null
+    },
+    "waivers": {
+      "waiver_position": 4,
+      "waiver_budget_used": 0
+    },
+    "activity": {
+      "total_moves": 0
+    },
+    "settings": {
+      "fpts": 0,
+      "fpts_decimal": 0,
+      "losses": 0,
+      "ties": 0,
+      "total_moves": 0,
+      "waiver_budget_used": 0,
+      "waiver_position": 4,
+      "wins": 0
+    },
+    "metadata": {
+      "allow_pn_inactive_starters": "off",
+      "allow_pn_player_injury_status": "off",
+      "allow_pn_scoring": "off",
+      "restrict_pn_scoring_starters_only": "on"
+    }
+  },
+  {
+    "roster_id": 10,
+    "owner_user_id": "471717089472671744",
+    "team_name": "Goin in Ra",
+    "display_label": "Goin in Ra",
+    "owner": {
+      "user_id": "471717089472671744",
+      "username": null,
+      "display_name": "NC79",
+      "team_name": "Goin in Ra",
+      "is_owner": false,
+      "metadata": {
+        "allow_pn": "on",
+        "archived": "off",
+        "mascot_item_type_id_leg_10": "goat",
+        "mascot_item_type_id_leg_11": "goat",
+        "mascot_item_type_id_leg_12": "goat",
+        "mascot_item_type_id_leg_13": "goat",
+        "mascot_item_type_id_leg_14": "goat",
+        "mascot_item_type_id_leg_15": "goat",
+        "mascot_item_type_id_leg_16": "goat",
+        "mascot_item_type_id_leg_17": "goat",
+        "mascot_item_type_id_leg_9": "goat",
+        "mascot_message_emotion_leg_11": "dancing",
+        "mascot_message_emotion_leg_9": "idle",
+        "mention_pn": "on",
+        "team_name": "Goin in Ra"
+      }
+    },
+    "record": {
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "points": {
+      "points_for": 0.0,
+      "points_against": null,
+      "raw_fpts": 0,
+      "raw_fpts_decimal": 0,
+      "raw_fpts_against": null,
+      "raw_fpts_against_decimal": null
+    },
+    "waivers": {
+      "waiver_position": 10,
+      "waiver_budget_used": 0
+    },
+    "activity": {
+      "total_moves": 0
+    },
+    "settings": {
+      "fpts": 0,
+      "fpts_decimal": 0,
+      "losses": 0,
+      "ties": 0,
+      "total_moves": 0,
+      "waiver_budget_used": 0,
+      "waiver_position": 10,
+      "wins": 0
+    },
+    "metadata": {}
+  },
+  {
+    "roster_id": 11,
+    "owner_user_id": "471724614532198400",
+    "team_name": "MOJO",
+    "display_label": "MOJO",
+    "owner": {
+      "user_id": "471724614532198400",
+      "username": null,
+      "display_name": "amoritko",
+      "team_name": "MOJO",
+      "is_owner": false,
+      "metadata": {
+        "allow_pn": "on",
+        "allow_sms": "on",
+        "avatar": "https://sleepercdn.com/uploads/efaa12e3d93d10c1e96020ba362f6a5f.jpg",
+        "mascot_item_type_id_leg_11": "taco",
+        "mascot_message_emotion_leg_11": "idle",
+        "mention_pn": "on",
+        "team_name": "MOJO"
+      }
+    },
+    "record": {
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "points": {
+      "points_for": 0.0,
+      "points_against": null,
+      "raw_fpts": 0,
+      "raw_fpts_decimal": 0,
+      "raw_fpts_against": null,
+      "raw_fpts_against_decimal": null
+    },
+    "waivers": {
+      "waiver_position": 1,
+      "waiver_budget_used": 0
+    },
+    "activity": {
+      "total_moves": 0
+    },
+    "settings": {
+      "fpts": 0,
+      "fpts_decimal": 0,
+      "losses": 0,
+      "ties": 0,
+      "total_moves": 0,
+      "waiver_budget_used": 0,
+      "waiver_position": 1,
+      "wins": 0
+    },
+    "metadata": {}
+  },
+  {
+    "roster_id": 12,
+    "owner_user_id": "471744678006353920",
+    "team_name": null,
+    "display_label": "gullickson",
+    "owner": {
+      "user_id": "471744678006353920",
+      "username": null,
+      "display_name": "gullickson",
+      "team_name": null,
+      "is_owner": false,
+      "metadata": {
+        "allow_pn": "on",
+        "allow_sms": "on",
+        "mascot_item_type_id_leg_1": "chum",
+        "mascot_item_type_id_leg_10": "chum",
+        "mascot_item_type_id_leg_11": "chum",
+        "mascot_item_type_id_leg_12": "chum",
+        "mascot_item_type_id_leg_13": "chum",
+        "mascot_item_type_id_leg_14": "chum",
+        "mascot_item_type_id_leg_15": "chum",
+        "mascot_item_type_id_leg_16": "chum",
+        "mascot_item_type_id_leg_17": "chum",
+        "mascot_item_type_id_leg_2": "chum",
+        "mascot_item_type_id_leg_3": "chum",
+        "mascot_item_type_id_leg_4": "chum",
+        "mascot_item_type_id_leg_5": "chum",
+        "mascot_item_type_id_leg_6": "chum",
+        "mascot_item_type_id_leg_7": "chum",
+        "mascot_item_type_id_leg_8": "chum",
+        "mascot_item_type_id_leg_9": "chum",
+        "mascot_message_emotion_leg_1": "idle_happy",
+        "mascot_message_emotion_leg_6": "idle",
+        "mascot_message_leg_6": "",
+        "mention_pn": "on"
+      }
+    },
+    "record": {
+      "wins": 0,
+      "losses": 0,
+      "ties": 0
+    },
+    "points": {
+      "points_for": 0.0,
+      "points_against": null,
+      "raw_fpts": 0,
+      "raw_fpts_decimal": 0,
+      "raw_fpts_against": null,
+      "raw_fpts_against_decimal": null
+    },
+    "waivers": {
+      "waiver_position": 12,
+      "waiver_budget_used": 0
+    },
+    "activity": {
+      "total_moves": 0
+    },
+    "settings": {
+      "fpts": 0,
+      "fpts_decimal": 0,
+      "losses": 0,
+      "ties": 0,
+      "total_moves": 0,
+      "waiver_budget_used": 0,
+      "waiver_position": 12,
+      "wins": 0
+    },
+    "metadata": {}
+  }
+]

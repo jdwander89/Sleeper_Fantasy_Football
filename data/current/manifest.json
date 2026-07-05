@@ -1,0 +1,109 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at": "2026-07-05T21:24:03.724746Z",
+  "league_id": "1312581067286282240",
+  "sport": "nfl",
+  "season": "2026",
+  "season_type": "regular",
+  "snapshot_mode": "current_only",
+  "nfl_state": {
+    "week": 0,
+    "leg": 0,
+    "season": "2026",
+    "season_type": "off",
+    "league_season": "2026",
+    "previous_season": "2025",
+    "season_start_date": null,
+    "display_week": 0,
+    "league_create_season": "2026",
+    "season_has_scores": true
+  },
+  "included_weeks": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
+  ],
+  "phase": "phase_5_drafts_extension",
+  "files": [
+    {
+      "path": "data/current/manifest.json",
+      "exists": false,
+      "size_bytes": 0
+    },
+    {
+      "path": "data/current/league_context.json",
+      "exists": true,
+      "size_bytes": 4836
+    },
+    {
+      "path": "data/current/teams.json",
+      "exists": true,
+      "size_bytes": 19545
+    },
+    {
+      "path": "data/current/rosters.json",
+      "exists": true,
+      "size_bytes": 30610
+    },
+    {
+      "path": "data/current/matchups.json",
+      "exists": true,
+      "size_bytes": 817376
+    },
+    {
+      "path": "data/current/player_lookup_compact.json",
+      "exists": true,
+      "size_bytes": 101398
+    },
+    {
+      "path": "data/current/player_id_index.json",
+      "exists": true,
+      "size_bytes": 19539
+    },
+    {
+      "path": "data/current/chatgpt_bundle.json",
+      "exists": true,
+      "size_bytes": 1076105
+    }
+  ],
+  "counts": {
+    "users": 12,
+    "rosters": 12,
+    "included_weeks": 18,
+    "matchups": 108,
+    "matchup_roster_results": 216,
+    "required_player_ids": 284,
+    "compact_player_lookup": 302,
+    "missing_player_ids": 1,
+    "transactions": 26,
+    "trades": 4,
+    "waivers": 0,
+    "free_agent_moves": 22,
+    "drafts": 1,
+    "draft_picks": 60,
+    "draft_traded_picks": 8,
+    "league_traded_picks": 13
+  },
+  "data_quality": {
+    "warnings": [],
+    "errors": [],
+    "missing_player_ids": [
+      "0"
+    ]
+  }
+}

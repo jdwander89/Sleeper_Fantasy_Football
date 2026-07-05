@@ -1,0 +1,243 @@
+{
+  "league_traded_picks": [
+    {
+      "season": "2026",
+      "round": 5,
+      "draft_id": null,
+      "original_roster_id": 1,
+      "original_team_label": "It’s Herbie Hancock",
+      "previous_owner_id": 1,
+      "previous_owner_team_label": "It’s Herbie Hancock",
+      "owner_id": 2,
+      "owner_team_label": "A B CeeDee"
+    },
+    {
+      "season": "2027",
+      "round": 2,
+      "draft_id": null,
+      "original_roster_id": 1,
+      "original_team_label": "It’s Herbie Hancock",
+      "previous_owner_id": 1,
+      "previous_owner_team_label": "It’s Herbie Hancock",
+      "owner_id": 11,
+      "owner_team_label": "MOJO"
+    },
+    {
+      "season": "2026",
+      "round": 3,
+      "draft_id": null,
+      "original_roster_id": 2,
+      "original_team_label": "A B CeeDee",
+      "previous_owner_id": 2,
+      "previous_owner_team_label": "A B CeeDee",
+      "owner_id": 1,
+      "owner_team_label": "It’s Herbie Hancock"
+    },
+    {
+      "season": "2026",
+      "round": 4,
+      "draft_id": null,
+      "original_roster_id": 2,
+      "original_team_label": "A B CeeDee",
+      "previous_owner_id": 2,
+      "previous_owner_team_label": "A B CeeDee",
+      "owner_id": 1,
+      "owner_team_label": "It’s Herbie Hancock"
+    },
+    {
+      "season": "2026",
+      "round": 5,
+      "draft_id": null,
+      "original_roster_id": 2,
+      "original_team_label": "A B CeeDee",
+      "previous_owner_id": 2,
+      "previous_owner_team_label": "A B CeeDee",
+      "owner_id": 10,
+      "owner_team_label": "Goin in Ra"
+    },
+    {
+      "season": "2027",
+      "round": 3,
+      "draft_id": null,
+      "original_roster_id": 2,
+      "original_team_label": "A B CeeDee",
+      "previous_owner_id": 2,
+      "previous_owner_team_label": "A B CeeDee",
+      "owner_id": 1,
+      "owner_team_label": "It’s Herbie Hancock"
+    },
+    {
+      "season": "2028",
+      "round": 3,
+      "draft_id": null,
+      "original_roster_id": 2,
+      "original_team_label": "A B CeeDee",
+      "previous_owner_id": 2,
+      "previous_owner_team_label": "A B CeeDee",
+      "owner_id": 10,
+      "owner_team_label": "Goin in Ra"
+    },
+    {
+      "season": "2026",
+      "round": 3,
+      "draft_id": null,
+      "original_roster_id": 7,
+      "original_team_label": "Commish is a bitch",
+      "previous_owner_id": 7,
+      "previous_owner_team_label": "Commish is a bitch",
+      "owner_id": 12,
+      "owner_team_label": "gullickson"
+    },
+    {
+      "season": "2027",
+      "round": 4,
+      "draft_id": null,
+      "original_roster_id": 7,
+      "original_team_label": "Commish is a bitch",
+      "previous_owner_id": 7,
+      "previous_owner_team_label": "Commish is a bitch",
+      "owner_id": 12,
+      "owner_team_label": "gullickson"
+    },
+    {
+      "season": "2026",
+      "round": 3,
+      "draft_id": null,
+      "original_roster_id": 10,
+      "original_team_label": "Goin in Ra",
+      "previous_owner_id": 10,
+      "previous_owner_team_label": "Goin in Ra",
+      "owner_id": 2,
+      "owner_team_label": "A B CeeDee"
+    },
+    {
+      "season": "2026",
+      "round": 2,
+      "draft_id": null,
+      "original_roster_id": 11,
+      "original_team_label": "MOJO",
+      "previous_owner_id": 11,
+      "previous_owner_team_label": "MOJO",
+      "owner_id": 1,
+      "owner_team_label": "It’s Herbie Hancock"
+    },
+    {
+      "season": "2027",
+      "round": 1,
+      "draft_id": null,
+      "original_roster_id": 11,
+      "original_team_label": "MOJO",
+      "previous_owner_id": 11,
+      "previous_owner_team_label": "MOJO",
+      "owner_id": 1,
+      "owner_team_label": "It’s Herbie Hancock"
+    },
+    {
+      "season": "2026",
+      "round": 3,
+      "draft_id": null,
+      "original_roster_id": 12,
+      "original_team_label": "gullickson",
+      "previous_owner_id": 12,
+      "previous_owner_team_label": "gullickson",
+      "owner_id": 7,
+      "owner_team_label": "Commish is a bitch"
+    }
+  ],
+  "draft_traded_picks_by_draft_id": {
+    "1312581067298836480": [
+      {
+        "season": "2026",
+        "round": 5,
+        "draft_id": 1312581067298836480,
+        "original_roster_id": 1,
+        "original_team_label": "It’s Herbie Hancock",
+        "previous_owner_id": 1,
+        "previous_owner_team_label": "It’s Herbie Hancock",
+        "owner_id": 2,
+        "owner_team_label": "A B CeeDee"
+      },
+      {
+        "season": "2026",
+        "round": 3,
+        "draft_id": 1312581067298836480,
+        "original_roster_id": 2,
+        "original_team_label": "A B CeeDee",
+        "previous_owner_id": 2,
+        "previous_owner_team_label": "A B CeeDee",
+        "owner_id": 1,
+        "owner_team_label": "It’s Herbie Hancock"
+      },
+      {
+        "season": "2026",
+        "round": 4,
+        "draft_id": 1312581067298836480,
+        "original_roster_id": 2,
+        "original_team_label": "A B CeeDee",
+        "previous_owner_id": 2,
+        "previous_owner_team_label": "A B CeeDee",
+        "owner_id": 1,
+        "owner_team_label": "It’s Herbie Hancock"
+      },
+      {
+        "season": "2026",
+        "round": 5,
+        "draft_id": 1312581067298836480,
+        "original_roster_id": 2,
+        "original_team_label": "A B CeeDee",
+        "previous_owner_id": 2,
+        "previous_owner_team_label": "A B CeeDee",
+        "owner_id": 10,
+        "owner_team_label": "Goin in Ra"
+      },
+      {
+        "season": "2026",
+        "round": 3,
+        "draft_id": 1312581067298836480,
+        "original_roster_id": 7,
+        "original_team_label": "Commish is a bitch",
+        "previous_owner_id": 7,
+        "previous_owner_team_label": "Commish is a bitch",
+        "owner_id": 12,
+        "owner_team_label": "gullickson"
+      },
+      {
+        "season": "2026",
+        "round": 3,
+        "draft_id": 1312581067298836480,
+        "original_roster_id": 10,
+        "original_team_label": "Goin in Ra",
+        "previous_owner_id": 10,
+        "previous_owner_team_label": "Goin in Ra",
+        "owner_id": 2,
+        "owner_team_label": "A B CeeDee"
+      },
+      {
+        "season": "2026",
+        "round": 2,
+        "draft_id": 1312581067298836480,
+        "original_roster_id": 11,
+        "original_team_label": "MOJO",
+        "previous_owner_id": 11,
+        "previous_owner_team_label": "MOJO",
+        "owner_id": 1,
+        "owner_team_label": "It’s Herbie Hancock"
+      },
+      {
+        "season": "2026",
+        "round": 3,
+        "draft_id": 1312581067298836480,
+        "original_roster_id": 12,
+        "original_team_label": "gullickson",
+        "previous_owner_id": 12,
+        "previous_owner_team_label": "gullickson",
+        "owner_id": 7,
+        "owner_team_label": "Commish is a bitch"
+      }
+    ]
+  },
+  "counts": {
+    "league_traded_picks": 13,
+    "draft_traded_picks": 8
+  }
+}

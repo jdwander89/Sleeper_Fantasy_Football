@@ -1,0 +1,3600 @@
+{
+  "by_week": {
+    "1": {
+      "week": 1,
+      "transactions": [
+        {
+          "week": 1,
+          "transaction_id": "1346143735632625664",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1775308186018,
+          "created_at": "2026-04-04T13:09:46.018000Z",
+          "status_updated": 1775308186018,
+          "status_updated_at": "2026-04-04T13:09:46.018000Z",
+          "creator_user_id": "471501409838166016",
+          "roster_ids": [
+            9
+          ],
+          "team_labels": [
+            "off"
+          ],
+          "consenter_ids": [
+            9
+          ],
+          "consenter_team_labels": [
+            "off"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "7607",
+              "player_name": "Michael Carter",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1346145125503348736",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1775308517388,
+          "created_at": "2026-04-04T13:15:17.388000Z",
+          "status_updated": 1775308517388,
+          "status_updated_at": "2026-04-04T13:15:17.388000Z",
+          "creator_user_id": "471501409838166016",
+          "roster_ids": [
+            9
+          ],
+          "team_labels": [
+            "off"
+          ],
+          "consenter_ids": [
+            9
+          ],
+          "consenter_team_labels": [
+            "off"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "11647",
+              "player_name": "Kimani Vidal",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1363659907554906112",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1779484366839,
+          "created_at": "2026-05-22T21:12:46.839000Z",
+          "status_updated": 1779484366839,
+          "status_updated_at": "2026-05-22T21:12:46.839000Z",
+          "creator_user_id": "471744678006353920",
+          "roster_ids": [
+            12
+          ],
+          "team_labels": [
+            "gullickson"
+          ],
+          "consenter_ids": [
+            12
+          ],
+          "consenter_team_labels": [
+            "gullickson"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "5970",
+              "player_name": "Greg Dortch",
+              "roster_id": 12,
+              "team_label": "gullickson"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1363659964362534912",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1779484380383,
+          "created_at": "2026-05-22T21:13:00.383000Z",
+          "status_updated": 1779484380383,
+          "status_updated_at": "2026-05-22T21:13:00.383000Z",
+          "creator_user_id": "471744678006353920",
+          "roster_ids": [
+            12
+          ],
+          "team_labels": [
+            "gullickson"
+          ],
+          "consenter_ids": [
+            12
+          ],
+          "consenter_team_labels": [
+            "gullickson"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "4018",
+              "player_name": "Joe Mixon",
+              "roster_id": 12,
+              "team_label": "gullickson"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1363699257793589248",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1779493748667,
+          "created_at": "2026-05-22T23:49:08.667000Z",
+          "status_updated": 1779493748667,
+          "status_updated_at": "2026-05-22T23:49:08.667000Z",
+          "creator_user_id": "459751268567478272",
+          "roster_ids": [
+            7
+          ],
+          "team_labels": [
+            "Commish is a bitch"
+          ],
+          "consenter_ids": [
+            7
+          ],
+          "consenter_team_labels": [
+            "Commish is a bitch"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "4098",
+              "player_name": "Kareem Hunt",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1364777189010059264",
+          "type": "trade",
+          "status": "complete",
+          "created": 1779750747496,
+          "created_at": "2026-05-25T23:12:27.496000Z",
+          "status_updated": 1779765717644,
+          "status_updated_at": "2026-05-26T03:21:57.644000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1,
+            11
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock",
+            "MOJO"
+          ],
+          "consenter_ids": [
+            1,
+            11
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock",
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "7526",
+              "player_name": "Jaylen Waddle",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "7526",
+              "player_name": "Jaylen Waddle",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2027",
+              "round": 2,
+              "original_roster_id": 1,
+              "original_team_label": "It’s Herbie Hancock",
+              "previous_owner_id": 1,
+              "previous_owner_team_label": "It’s Herbie Hancock",
+              "owner_id": 11,
+              "owner_team_label": "MOJO"
+            },
+            {
+              "season": "2026",
+              "round": 2,
+              "original_roster_id": 11,
+              "original_team_label": "MOJO",
+              "previous_owner_id": 11,
+              "previous_owner_team_label": "MOJO",
+              "owner_id": 1,
+              "owner_team_label": "It’s Herbie Hancock"
+            },
+            {
+              "season": "2027",
+              "round": 1,
+              "original_roster_id": 11,
+              "original_team_label": "MOJO",
+              "previous_owner_id": 11,
+              "previous_owner_team_label": "MOJO",
+              "owner_id": 1,
+              "owner_team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1365529922608566272",
+          "type": "trade",
+          "status": "complete",
+          "created": 1779930213170,
+          "created_at": "2026-05-28T01:03:33.170000Z",
+          "status_updated": 1779970619086,
+          "status_updated_at": "2026-05-28T12:16:59.086000Z",
+          "creator_user_id": "459751268567478272",
+          "roster_ids": [
+            7,
+            12
+          ],
+          "team_labels": [
+            "Commish is a bitch",
+            "gullickson"
+          ],
+          "consenter_ids": [
+            7,
+            12
+          ],
+          "consenter_team_labels": [
+            "Commish is a bitch",
+            "gullickson"
+          ],
+          "adds": [],
+          "drops": [],
+          "draft_picks": [
+            {
+              "season": "2026",
+              "round": 3,
+              "original_roster_id": 12,
+              "original_team_label": "gullickson",
+              "previous_owner_id": 12,
+              "previous_owner_team_label": "gullickson",
+              "owner_id": 7,
+              "owner_team_label": "Commish is a bitch"
+            },
+            {
+              "season": "2026",
+              "round": 3,
+              "original_roster_id": 7,
+              "original_team_label": "Commish is a bitch",
+              "previous_owner_id": 7,
+              "previous_owner_team_label": "Commish is a bitch",
+              "owner_id": 12,
+              "owner_team_label": "gullickson"
+            },
+            {
+              "season": "2027",
+              "round": 4,
+              "original_roster_id": 7,
+              "original_team_label": "Commish is a bitch",
+              "previous_owner_id": 7,
+              "previous_owner_team_label": "Commish is a bitch",
+              "owner_id": 12,
+              "owner_team_label": "gullickson"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1365775464500576256",
+          "type": "trade",
+          "status": "complete",
+          "created": 1779988754920,
+          "created_at": "2026-05-28T17:19:14.920000Z",
+          "status_updated": 1779988775688,
+          "status_updated_at": "2026-05-28T17:19:35.688000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            1,
+            2
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock",
+            "A B CeeDee"
+          ],
+          "consenter_ids": [
+            1,
+            2
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock",
+            "A B CeeDee"
+          ],
+          "adds": [
+            {
+              "player_id": "8408",
+              "player_name": "Jordan Mason",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "8408",
+              "player_name": "Jordan Mason",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2026",
+              "round": 5,
+              "original_roster_id": 1,
+              "original_team_label": "It’s Herbie Hancock",
+              "previous_owner_id": 1,
+              "previous_owner_team_label": "It’s Herbie Hancock",
+              "owner_id": 2,
+              "owner_team_label": "A B CeeDee"
+            },
+            {
+              "season": "2026",
+              "round": 3,
+              "original_roster_id": 2,
+              "original_team_label": "A B CeeDee",
+              "previous_owner_id": 2,
+              "previous_owner_team_label": "A B CeeDee",
+              "owner_id": 1,
+              "owner_team_label": "It’s Herbie Hancock"
+            },
+            {
+              "season": "2026",
+              "round": 4,
+              "original_roster_id": 2,
+              "original_team_label": "A B CeeDee",
+              "previous_owner_id": 2,
+              "previous_owner_team_label": "A B CeeDee",
+              "owner_id": 1,
+              "owner_team_label": "It’s Herbie Hancock"
+            },
+            {
+              "season": "2027",
+              "round": 3,
+              "original_roster_id": 2,
+              "original_team_label": "A B CeeDee",
+              "previous_owner_id": 2,
+              "previous_owner_team_label": "A B CeeDee",
+              "owner_id": 1,
+              "owner_team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1366107338628403200",
+          "type": "trade",
+          "status": "complete",
+          "created": 1780067879878,
+          "created_at": "2026-05-29T15:17:59.878000Z",
+          "status_updated": 1780073585757,
+          "status_updated_at": "2026-05-29T16:53:05.757000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2,
+            10
+          ],
+          "team_labels": [
+            "A B CeeDee",
+            "Goin in Ra"
+          ],
+          "consenter_ids": [
+            2,
+            10
+          ],
+          "consenter_team_labels": [
+            "A B CeeDee",
+            "Goin in Ra"
+          ],
+          "adds": [],
+          "drops": [],
+          "draft_picks": [
+            {
+              "season": "2026",
+              "round": 3,
+              "original_roster_id": 10,
+              "original_team_label": "Goin in Ra",
+              "previous_owner_id": 10,
+              "previous_owner_team_label": "Goin in Ra",
+              "owner_id": 2,
+              "owner_team_label": "A B CeeDee"
+            },
+            {
+              "season": "2026",
+              "round": 5,
+              "original_roster_id": 2,
+              "original_team_label": "A B CeeDee",
+              "previous_owner_id": 2,
+              "previous_owner_team_label": "A B CeeDee",
+              "owner_id": 10,
+              "owner_team_label": "Goin in Ra"
+            },
+            {
+              "season": "2028",
+              "round": 3,
+              "original_roster_id": 2,
+              "original_team_label": "A B CeeDee",
+              "previous_owner_id": 2,
+              "previous_owner_team_label": "A B CeeDee",
+              "owner_id": 10,
+              "owner_team_label": "Goin in Ra"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370164047051259904",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781035074535,
+          "created_at": "2026-06-09T19:57:54.535000Z",
+          "status_updated": 1781035074535,
+          "status_updated_at": "2026-06-09T19:57:54.535000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "4381",
+              "player_name": "Taysom Hill",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370164070111535104",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781035080034,
+          "created_at": "2026-06-09T19:58:00.034000Z",
+          "status_updated": 1781035080034,
+          "status_updated_at": "2026-06-09T19:58:00.034000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "6865",
+              "player_name": "Colby Parkinson",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370164941369122816",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781035287757,
+          "created_at": "2026-06-09T20:01:27.757000Z",
+          "status_updated": 1781035287757,
+          "status_updated_at": "2026-06-09T20:01:27.757000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "A B CeeDee"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "A B CeeDee"
+          ],
+          "adds": [
+            {
+              "player_id": "13413",
+              "player_name": "Cyrus Allen",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "13338",
+              "player_name": "Kevin Coleman",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370165353530793984",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781035386024,
+          "created_at": "2026-06-09T20:03:06.024000Z",
+          "status_updated": 1781035386024,
+          "status_updated_at": "2026-06-09T20:03:06.024000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "6271",
+              "player_name": "Olamide Zaccheaus",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "12472",
+              "player_name": "Raheim Sanders",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370166119096139776",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781035568549,
+          "created_at": "2026-06-09T20:06:08.549000Z",
+          "status_updated": 1781035568549,
+          "status_updated_at": "2026-06-09T20:06:08.549000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "13424",
+              "player_name": "Seth McGowan",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "4177",
+              "player_name": "Mack Hollins",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370166809898000384",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781035733249,
+          "created_at": "2026-06-09T20:08:53.249000Z",
+          "status_updated": 1781035733249,
+          "status_updated_at": "2026-06-09T20:08:53.249000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "12503",
+              "player_name": "Isaiah Bond",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370167491719868416",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781035895809,
+          "created_at": "2026-06-09T20:11:35.809000Z",
+          "status_updated": 1781035895809,
+          "status_updated_at": "2026-06-09T20:11:35.809000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "12485",
+              "player_name": "Tez Johnson",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370167993950035968",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781036015549,
+          "created_at": "2026-06-09T20:13:35.549000Z",
+          "status_updated": 1781036015549,
+          "status_updated_at": "2026-06-09T20:13:35.549000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Pol Hol"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Pol Hol"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "2505",
+              "player_name": "Darren Waller",
+              "roster_id": 3,
+              "team_label": "Pol Hol"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370168095481565184",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781036039756,
+          "created_at": "2026-06-09T20:13:59.756000Z",
+          "status_updated": 1781036039756,
+          "status_updated_at": "2026-06-09T20:13:59.756000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Pol Hol"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Pol Hol"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "96",
+              "player_name": "Aaron Rodgers",
+              "roster_id": 3,
+              "team_label": "Pol Hol"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370168806407700480",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781036209255,
+          "created_at": "2026-06-09T20:16:49.255000Z",
+          "status_updated": 1781036209255,
+          "status_updated_at": "2026-06-09T20:16:49.255000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [
+            {
+              "player_id": "9479",
+              "player_name": "Darnell Washington",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "12540",
+              "player_name": "Chimere Dike",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370169980426936320",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781036489162,
+          "created_at": "2026-06-09T20:21:29.162000Z",
+          "status_updated": 1781036489162,
+          "status_updated_at": "2026-06-09T20:21:29.162000Z",
+          "creator_user_id": "459751268567478272",
+          "roster_ids": [
+            7
+          ],
+          "team_labels": [
+            "Commish is a bitch"
+          ],
+          "consenter_ids": [
+            7
+          ],
+          "consenter_team_labels": [
+            "Commish is a bitch"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "12471",
+              "player_name": "DJ Giddens",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370199337103024128",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781043488340,
+          "created_at": "2026-06-09T22:18:08.340000Z",
+          "status_updated": 1781043488340,
+          "status_updated_at": "2026-06-09T22:18:08.340000Z",
+          "creator_user_id": "471501409838166016",
+          "roster_ids": [
+            9
+          ],
+          "team_labels": [
+            "off"
+          ],
+          "consenter_ids": [
+            9
+          ],
+          "consenter_team_labels": [
+            "off"
+          ],
+          "adds": [
+            {
+              "player_id": "13303",
+              "player_name": "Cade Klubnik",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "10444",
+              "player_name": "Cedric Tillman",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370429368752422912",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781098332158,
+          "created_at": "2026-06-10T13:32:12.158000Z",
+          "status_updated": 1781098332158,
+          "status_updated_at": "2026-06-10T13:32:12.158000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "A B CeeDee"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "A B CeeDee"
+          ],
+          "adds": [
+            {
+              "player_id": "8800",
+              "player_name": "Malik Davis",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "12455",
+              "player_name": "Brashard Smith",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1370636600928669696",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781147740160,
+          "created_at": "2026-06-11T03:15:40.160000Z",
+          "status_updated": 1781147740160,
+          "status_updated_at": "2026-06-11T03:15:40.160000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "13411",
+              "player_name": "Zavion Thomas",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "6271",
+              "player_name": "Olamide Zaccheaus",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1371667902909939712",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1781393621712,
+          "created_at": "2026-06-13T23:33:41.712000Z",
+          "status_updated": 1781393621712,
+          "status_updated_at": "2026-06-13T23:33:41.712000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "A B CeeDee"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "A B CeeDee"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "5850",
+              "player_name": "Josh Jacobs",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1371669336439164928",
+          "type": "commissioner",
+          "status": "complete",
+          "created": 1781393963493,
+          "created_at": "2026-06-13T23:39:23.493000Z",
+          "status_updated": 1781393963493,
+          "status_updated_at": "2026-06-13T23:39:23.493000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "A B CeeDee"
+          ],
+          "consenter_ids": [],
+          "consenter_team_labels": [],
+          "adds": [
+            {
+              "player_id": "5850",
+              "player_name": "Josh Jacobs",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1375650962533806080",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1782343257128,
+          "created_at": "2026-06-24T23:20:57.128000Z",
+          "status_updated": 1782343257128,
+          "status_updated_at": "2026-06-24T23:20:57.128000Z",
+          "creator_user_id": "471451909446692864",
+          "roster_ids": [
+            6
+          ],
+          "team_labels": [
+            "andrewwelle"
+          ],
+          "consenter_ids": [
+            6
+          ],
+          "consenter_team_labels": [
+            "andrewwelle"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "6130",
+              "player_name": "Devin Singletary",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        }
+      ],
+      "counts": {
+        "transactions": 26,
+        "trades": 4,
+        "waivers": 0,
+        "free_agent_moves": 21
+      }
+    },
+    "2": {
+      "week": 2,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "3": {
+      "week": 3,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "4": {
+      "week": 4,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "5": {
+      "week": 5,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "6": {
+      "week": 6,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "7": {
+      "week": 7,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "8": {
+      "week": 8,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "9": {
+      "week": 9,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "10": {
+      "week": 10,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "11": {
+      "week": 11,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "12": {
+      "week": 12,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "13": {
+      "week": 13,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "14": {
+      "week": 14,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "15": {
+      "week": 15,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "16": {
+      "week": 16,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "17": {
+      "week": 17,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "18": {
+      "week": 18,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    }
+  },
+  "all": [
+    {
+      "week": 1,
+      "transaction_id": "1346143735632625664",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1775308186018,
+      "created_at": "2026-04-04T13:09:46.018000Z",
+      "status_updated": 1775308186018,
+      "status_updated_at": "2026-04-04T13:09:46.018000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "7607",
+          "player_name": "Michael Carter",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1346145125503348736",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1775308517388,
+      "created_at": "2026-04-04T13:15:17.388000Z",
+      "status_updated": 1775308517388,
+      "status_updated_at": "2026-04-04T13:15:17.388000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11647",
+          "player_name": "Kimani Vidal",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1363659907554906112",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1779484366839,
+      "created_at": "2026-05-22T21:12:46.839000Z",
+      "status_updated": 1779484366839,
+      "status_updated_at": "2026-05-22T21:12:46.839000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "5970",
+          "player_name": "Greg Dortch",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1363659964362534912",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1779484380383,
+      "created_at": "2026-05-22T21:13:00.383000Z",
+      "status_updated": 1779484380383,
+      "status_updated_at": "2026-05-22T21:13:00.383000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4018",
+          "player_name": "Joe Mixon",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1363699257793589248",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1779493748667,
+      "created_at": "2026-05-22T23:49:08.667000Z",
+      "status_updated": 1779493748667,
+      "status_updated_at": "2026-05-22T23:49:08.667000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4098",
+          "player_name": "Kareem Hunt",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1364777189010059264",
+      "type": "trade",
+      "status": "complete",
+      "created": 1779750747496,
+      "created_at": "2026-05-25T23:12:27.496000Z",
+      "status_updated": 1779765717644,
+      "status_updated_at": "2026-05-26T03:21:57.644000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1,
+        11
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "MOJO"
+      ],
+      "consenter_ids": [
+        1,
+        11
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "7526",
+          "player_name": "Jaylen Waddle",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7526",
+          "player_name": "Jaylen Waddle",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 11,
+          "owner_team_label": "MOJO"
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 11,
+          "previous_owner_team_label": "MOJO",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 11,
+          "previous_owner_team_label": "MOJO",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1365529922608566272",
+      "type": "trade",
+      "status": "complete",
+      "created": 1779930213170,
+      "created_at": "2026-05-28T01:03:33.170000Z",
+      "status_updated": 1779970619086,
+      "status_updated_at": "2026-05-28T12:16:59.086000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7,
+        12
+      ],
+      "team_labels": [
+        "Commish is a bitch",
+        "gullickson"
+      ],
+      "consenter_ids": [
+        7,
+        12
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch",
+        "gullickson"
+      ],
+      "adds": [],
+      "drops": [],
+      "draft_picks": [
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 12,
+          "original_team_label": "gullickson",
+          "previous_owner_id": 12,
+          "previous_owner_team_label": "gullickson",
+          "owner_id": 7,
+          "owner_team_label": "Commish is a bitch"
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 7,
+          "original_team_label": "Commish is a bitch",
+          "previous_owner_id": 7,
+          "previous_owner_team_label": "Commish is a bitch",
+          "owner_id": 12,
+          "owner_team_label": "gullickson"
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 7,
+          "original_team_label": "Commish is a bitch",
+          "previous_owner_id": 7,
+          "previous_owner_team_label": "Commish is a bitch",
+          "owner_id": 12,
+          "owner_team_label": "gullickson"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1365775464500576256",
+      "type": "trade",
+      "status": "complete",
+      "created": 1779988754920,
+      "created_at": "2026-05-28T17:19:14.920000Z",
+      "status_updated": 1779988775688,
+      "status_updated_at": "2026-05-28T17:19:35.688000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        1,
+        2
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        1,
+        2
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "8408",
+          "player_name": "Jordan Mason",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8408",
+          "player_name": "Jordan Mason",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2026",
+          "round": 5,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 2,
+          "owner_team_label": "A B CeeDee"
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team_label": "A B CeeDee",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "A B CeeDee",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 2,
+          "original_team_label": "A B CeeDee",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "A B CeeDee",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team_label": "A B CeeDee",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "A B CeeDee",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1366107338628403200",
+      "type": "trade",
+      "status": "complete",
+      "created": 1780067879878,
+      "created_at": "2026-05-29T15:17:59.878000Z",
+      "status_updated": 1780073585757,
+      "status_updated_at": "2026-05-29T16:53:05.757000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2,
+        10
+      ],
+      "team_labels": [
+        "A B CeeDee",
+        "Goin in Ra"
+      ],
+      "consenter_ids": [
+        2,
+        10
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee",
+        "Goin in Ra"
+      ],
+      "adds": [],
+      "drops": [],
+      "draft_picks": [
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 10,
+          "original_team_label": "Goin in Ra",
+          "previous_owner_id": 10,
+          "previous_owner_team_label": "Goin in Ra",
+          "owner_id": 2,
+          "owner_team_label": "A B CeeDee"
+        },
+        {
+          "season": "2026",
+          "round": 5,
+          "original_roster_id": 2,
+          "original_team_label": "A B CeeDee",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "A B CeeDee",
+          "owner_id": 10,
+          "owner_team_label": "Goin in Ra"
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team_label": "A B CeeDee",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "A B CeeDee",
+          "owner_id": 10,
+          "owner_team_label": "Goin in Ra"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370164047051259904",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035074535,
+      "created_at": "2026-06-09T19:57:54.535000Z",
+      "status_updated": 1781035074535,
+      "status_updated_at": "2026-06-09T19:57:54.535000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4381",
+          "player_name": "Taysom Hill",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370164070111535104",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035080034,
+      "created_at": "2026-06-09T19:58:00.034000Z",
+      "status_updated": 1781035080034,
+      "status_updated_at": "2026-06-09T19:58:00.034000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6865",
+          "player_name": "Colby Parkinson",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370164941369122816",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035287757,
+      "created_at": "2026-06-09T20:01:27.757000Z",
+      "status_updated": 1781035287757,
+      "status_updated_at": "2026-06-09T20:01:27.757000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "13413",
+          "player_name": "Cyrus Allen",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13338",
+          "player_name": "Kevin Coleman",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370165353530793984",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035386024,
+      "created_at": "2026-06-09T20:03:06.024000Z",
+      "status_updated": 1781035386024,
+      "status_updated_at": "2026-06-09T20:03:06.024000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "6271",
+          "player_name": "Olamide Zaccheaus",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12472",
+          "player_name": "Raheim Sanders",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370166119096139776",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035568549,
+      "created_at": "2026-06-09T20:06:08.549000Z",
+      "status_updated": 1781035568549,
+      "status_updated_at": "2026-06-09T20:06:08.549000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "13424",
+          "player_name": "Seth McGowan",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4177",
+          "player_name": "Mack Hollins",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370166809898000384",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035733249,
+      "created_at": "2026-06-09T20:08:53.249000Z",
+      "status_updated": 1781035733249,
+      "status_updated_at": "2026-06-09T20:08:53.249000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12503",
+          "player_name": "Isaiah Bond",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370167491719868416",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035895809,
+      "created_at": "2026-06-09T20:11:35.809000Z",
+      "status_updated": 1781035895809,
+      "status_updated_at": "2026-06-09T20:11:35.809000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12485",
+          "player_name": "Tez Johnson",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370167993950035968",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781036015549,
+      "created_at": "2026-06-09T20:13:35.549000Z",
+      "status_updated": 1781036015549,
+      "status_updated_at": "2026-06-09T20:13:35.549000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Pol Hol"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Pol Hol"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "2505",
+          "player_name": "Darren Waller",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370168095481565184",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781036039756,
+      "created_at": "2026-06-09T20:13:59.756000Z",
+      "status_updated": 1781036039756,
+      "status_updated_at": "2026-06-09T20:13:59.756000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Pol Hol"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Pol Hol"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "96",
+          "player_name": "Aaron Rodgers",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370168806407700480",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781036209255,
+      "created_at": "2026-06-09T20:16:49.255000Z",
+      "status_updated": 1781036209255,
+      "status_updated_at": "2026-06-09T20:16:49.255000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "9479",
+          "player_name": "Darnell Washington",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12540",
+          "player_name": "Chimere Dike",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370169980426936320",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781036489162,
+      "created_at": "2026-06-09T20:21:29.162000Z",
+      "status_updated": 1781036489162,
+      "status_updated_at": "2026-06-09T20:21:29.162000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12471",
+          "player_name": "DJ Giddens",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370199337103024128",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781043488340,
+      "created_at": "2026-06-09T22:18:08.340000Z",
+      "status_updated": 1781043488340,
+      "status_updated_at": "2026-06-09T22:18:08.340000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "13303",
+          "player_name": "Cade Klubnik",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "10444",
+          "player_name": "Cedric Tillman",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370429368752422912",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781098332158,
+      "created_at": "2026-06-10T13:32:12.158000Z",
+      "status_updated": 1781098332158,
+      "status_updated_at": "2026-06-10T13:32:12.158000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "8800",
+          "player_name": "Malik Davis",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12455",
+          "player_name": "Brashard Smith",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370636600928669696",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781147740160,
+      "created_at": "2026-06-11T03:15:40.160000Z",
+      "status_updated": 1781147740160,
+      "status_updated_at": "2026-06-11T03:15:40.160000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "13411",
+          "player_name": "Zavion Thomas",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6271",
+          "player_name": "Olamide Zaccheaus",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1371667902909939712",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781393621712,
+      "created_at": "2026-06-13T23:33:41.712000Z",
+      "status_updated": 1781393621712,
+      "status_updated_at": "2026-06-13T23:33:41.712000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "5850",
+          "player_name": "Josh Jacobs",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1371669336439164928",
+      "type": "commissioner",
+      "status": "complete",
+      "created": 1781393963493,
+      "created_at": "2026-06-13T23:39:23.493000Z",
+      "status_updated": 1781393963493,
+      "status_updated_at": "2026-06-13T23:39:23.493000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [],
+      "consenter_team_labels": [],
+      "adds": [
+        {
+          "player_id": "5850",
+          "player_name": "Josh Jacobs",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1375650962533806080",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1782343257128,
+      "created_at": "2026-06-24T23:20:57.128000Z",
+      "status_updated": 1782343257128,
+      "status_updated_at": "2026-06-24T23:20:57.128000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6130",
+          "player_name": "Devin Singletary",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    }
+  ],
+  "trades": [
+    {
+      "week": 1,
+      "transaction_id": "1364777189010059264",
+      "type": "trade",
+      "status": "complete",
+      "created": 1779750747496,
+      "created_at": "2026-05-25T23:12:27.496000Z",
+      "status_updated": 1779765717644,
+      "status_updated_at": "2026-05-26T03:21:57.644000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1,
+        11
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "MOJO"
+      ],
+      "consenter_ids": [
+        1,
+        11
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "7526",
+          "player_name": "Jaylen Waddle",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7526",
+          "player_name": "Jaylen Waddle",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 11,
+          "owner_team_label": "MOJO"
+        },
+        {
+          "season": "2026",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 11,
+          "previous_owner_team_label": "MOJO",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 11,
+          "previous_owner_team_label": "MOJO",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1365529922608566272",
+      "type": "trade",
+      "status": "complete",
+      "created": 1779930213170,
+      "created_at": "2026-05-28T01:03:33.170000Z",
+      "status_updated": 1779970619086,
+      "status_updated_at": "2026-05-28T12:16:59.086000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7,
+        12
+      ],
+      "team_labels": [
+        "Commish is a bitch",
+        "gullickson"
+      ],
+      "consenter_ids": [
+        7,
+        12
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch",
+        "gullickson"
+      ],
+      "adds": [],
+      "drops": [],
+      "draft_picks": [
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 12,
+          "original_team_label": "gullickson",
+          "previous_owner_id": 12,
+          "previous_owner_team_label": "gullickson",
+          "owner_id": 7,
+          "owner_team_label": "Commish is a bitch"
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 7,
+          "original_team_label": "Commish is a bitch",
+          "previous_owner_id": 7,
+          "previous_owner_team_label": "Commish is a bitch",
+          "owner_id": 12,
+          "owner_team_label": "gullickson"
+        },
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 7,
+          "original_team_label": "Commish is a bitch",
+          "previous_owner_id": 7,
+          "previous_owner_team_label": "Commish is a bitch",
+          "owner_id": 12,
+          "owner_team_label": "gullickson"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1365775464500576256",
+      "type": "trade",
+      "status": "complete",
+      "created": 1779988754920,
+      "created_at": "2026-05-28T17:19:14.920000Z",
+      "status_updated": 1779988775688,
+      "status_updated_at": "2026-05-28T17:19:35.688000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        1,
+        2
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        1,
+        2
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "8408",
+          "player_name": "Jordan Mason",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8408",
+          "player_name": "Jordan Mason",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2026",
+          "round": 5,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 2,
+          "owner_team_label": "A B CeeDee"
+        },
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team_label": "A B CeeDee",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "A B CeeDee",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2026",
+          "round": 4,
+          "original_roster_id": 2,
+          "original_team_label": "A B CeeDee",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "A B CeeDee",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team_label": "A B CeeDee",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "A B CeeDee",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1366107338628403200",
+      "type": "trade",
+      "status": "complete",
+      "created": 1780067879878,
+      "created_at": "2026-05-29T15:17:59.878000Z",
+      "status_updated": 1780073585757,
+      "status_updated_at": "2026-05-29T16:53:05.757000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2,
+        10
+      ],
+      "team_labels": [
+        "A B CeeDee",
+        "Goin in Ra"
+      ],
+      "consenter_ids": [
+        2,
+        10
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee",
+        "Goin in Ra"
+      ],
+      "adds": [],
+      "drops": [],
+      "draft_picks": [
+        {
+          "season": "2026",
+          "round": 3,
+          "original_roster_id": 10,
+          "original_team_label": "Goin in Ra",
+          "previous_owner_id": 10,
+          "previous_owner_team_label": "Goin in Ra",
+          "owner_id": 2,
+          "owner_team_label": "A B CeeDee"
+        },
+        {
+          "season": "2026",
+          "round": 5,
+          "original_roster_id": 2,
+          "original_team_label": "A B CeeDee",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "A B CeeDee",
+          "owner_id": 10,
+          "owner_team_label": "Goin in Ra"
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team_label": "A B CeeDee",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "A B CeeDee",
+          "owner_id": 10,
+          "owner_team_label": "Goin in Ra"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    }
+  ],
+  "waivers": [],
+  "free_agent_moves": [
+    {
+      "week": 1,
+      "transaction_id": "1346143735632625664",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1775308186018,
+      "created_at": "2026-04-04T13:09:46.018000Z",
+      "status_updated": 1775308186018,
+      "status_updated_at": "2026-04-04T13:09:46.018000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "7607",
+          "player_name": "Michael Carter",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1346145125503348736",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1775308517388,
+      "created_at": "2026-04-04T13:15:17.388000Z",
+      "status_updated": 1775308517388,
+      "status_updated_at": "2026-04-04T13:15:17.388000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11647",
+          "player_name": "Kimani Vidal",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1363659907554906112",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1779484366839,
+      "created_at": "2026-05-22T21:12:46.839000Z",
+      "status_updated": 1779484366839,
+      "status_updated_at": "2026-05-22T21:12:46.839000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "5970",
+          "player_name": "Greg Dortch",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1363659964362534912",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1779484380383,
+      "created_at": "2026-05-22T21:13:00.383000Z",
+      "status_updated": 1779484380383,
+      "status_updated_at": "2026-05-22T21:13:00.383000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4018",
+          "player_name": "Joe Mixon",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1363699257793589248",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1779493748667,
+      "created_at": "2026-05-22T23:49:08.667000Z",
+      "status_updated": 1779493748667,
+      "status_updated_at": "2026-05-22T23:49:08.667000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4098",
+          "player_name": "Kareem Hunt",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370164047051259904",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035074535,
+      "created_at": "2026-06-09T19:57:54.535000Z",
+      "status_updated": 1781035074535,
+      "status_updated_at": "2026-06-09T19:57:54.535000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4381",
+          "player_name": "Taysom Hill",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370164070111535104",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035080034,
+      "created_at": "2026-06-09T19:58:00.034000Z",
+      "status_updated": 1781035080034,
+      "status_updated_at": "2026-06-09T19:58:00.034000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6865",
+          "player_name": "Colby Parkinson",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370164941369122816",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035287757,
+      "created_at": "2026-06-09T20:01:27.757000Z",
+      "status_updated": 1781035287757,
+      "status_updated_at": "2026-06-09T20:01:27.757000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "13413",
+          "player_name": "Cyrus Allen",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13338",
+          "player_name": "Kevin Coleman",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370165353530793984",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035386024,
+      "created_at": "2026-06-09T20:03:06.024000Z",
+      "status_updated": 1781035386024,
+      "status_updated_at": "2026-06-09T20:03:06.024000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "6271",
+          "player_name": "Olamide Zaccheaus",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12472",
+          "player_name": "Raheim Sanders",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370166119096139776",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035568549,
+      "created_at": "2026-06-09T20:06:08.549000Z",
+      "status_updated": 1781035568549,
+      "status_updated_at": "2026-06-09T20:06:08.549000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "13424",
+          "player_name": "Seth McGowan",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4177",
+          "player_name": "Mack Hollins",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370166809898000384",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035733249,
+      "created_at": "2026-06-09T20:08:53.249000Z",
+      "status_updated": 1781035733249,
+      "status_updated_at": "2026-06-09T20:08:53.249000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12503",
+          "player_name": "Isaiah Bond",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370167491719868416",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781035895809,
+      "created_at": "2026-06-09T20:11:35.809000Z",
+      "status_updated": 1781035895809,
+      "status_updated_at": "2026-06-09T20:11:35.809000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12485",
+          "player_name": "Tez Johnson",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370167993950035968",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781036015549,
+      "created_at": "2026-06-09T20:13:35.549000Z",
+      "status_updated": 1781036015549,
+      "status_updated_at": "2026-06-09T20:13:35.549000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Pol Hol"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Pol Hol"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "2505",
+          "player_name": "Darren Waller",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370168095481565184",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781036039756,
+      "created_at": "2026-06-09T20:13:59.756000Z",
+      "status_updated": 1781036039756,
+      "status_updated_at": "2026-06-09T20:13:59.756000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Pol Hol"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Pol Hol"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "96",
+          "player_name": "Aaron Rodgers",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370168806407700480",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781036209255,
+      "created_at": "2026-06-09T20:16:49.255000Z",
+      "status_updated": 1781036209255,
+      "status_updated_at": "2026-06-09T20:16:49.255000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "9479",
+          "player_name": "Darnell Washington",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12540",
+          "player_name": "Chimere Dike",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370169980426936320",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781036489162,
+      "created_at": "2026-06-09T20:21:29.162000Z",
+      "status_updated": 1781036489162,
+      "status_updated_at": "2026-06-09T20:21:29.162000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12471",
+          "player_name": "DJ Giddens",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370199337103024128",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781043488340,
+      "created_at": "2026-06-09T22:18:08.340000Z",
+      "status_updated": 1781043488340,
+      "status_updated_at": "2026-06-09T22:18:08.340000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "13303",
+          "player_name": "Cade Klubnik",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "10444",
+          "player_name": "Cedric Tillman",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370429368752422912",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781098332158,
+      "created_at": "2026-06-10T13:32:12.158000Z",
+      "status_updated": 1781098332158,
+      "status_updated_at": "2026-06-10T13:32:12.158000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "8800",
+          "player_name": "Malik Davis",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12455",
+          "player_name": "Brashard Smith",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1370636600928669696",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781147740160,
+      "created_at": "2026-06-11T03:15:40.160000Z",
+      "status_updated": 1781147740160,
+      "status_updated_at": "2026-06-11T03:15:40.160000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "13411",
+          "player_name": "Zavion Thomas",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6271",
+          "player_name": "Olamide Zaccheaus",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1371667902909939712",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1781393621712,
+      "created_at": "2026-06-13T23:33:41.712000Z",
+      "status_updated": 1781393621712,
+      "status_updated_at": "2026-06-13T23:33:41.712000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "5850",
+          "player_name": "Josh Jacobs",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1371669336439164928",
+      "type": "commissioner",
+      "status": "complete",
+      "created": 1781393963493,
+      "created_at": "2026-06-13T23:39:23.493000Z",
+      "status_updated": 1781393963493,
+      "status_updated_at": "2026-06-13T23:39:23.493000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [],
+      "consenter_team_labels": [],
+      "adds": [
+        {
+          "player_id": "5850",
+          "player_name": "Josh Jacobs",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1375650962533806080",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1782343257128,
+      "created_at": "2026-06-24T23:20:57.128000Z",
+      "status_updated": 1782343257128,
+      "status_updated_at": "2026-06-24T23:20:57.128000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6130",
+          "player_name": "Devin Singletary",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    }
+  ],
+  "counts": {
+    "weeks": 18,
+    "transactions": 26,
+    "trades": 4,
+    "waivers": 0,
+    "free_agent_moves": 22,
+    "by_type": {
+      "commissioner": 1,
+      "free_agent": 21,
+      "trade": 4
+    },
+    "by_status": {
+      "complete": 26
+    }
+  }
+}
