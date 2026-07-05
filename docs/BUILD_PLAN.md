@@ -125,7 +125,37 @@ Implemented logic:
 - update `data/current/chatgpt_bundle.json`
 - update draft and traded-pick counts in `data/current/manifest.json`
 
-Current full manual command sequence:
+## Phase 6: GitHub Actions workflow
+
+Status: implemented; first workflow run still pending
+
+Created:
+
+- `.github/workflows/sleeper_snapshot.yml`
+
+Workflow triggers:
+
+- manual `workflow_dispatch`
+- daily scheduled run using UTC cron: `17 11 * * *`
+
+Note: GitHub Actions cron is UTC. This maps to 6:17 AM Central during daylight time and 5:17 AM Central during standard time.
+
+Workflow behavior:
+
+- uses Python 3.12
+- runs the base snapshot script
+- runs the transaction extension
+- runs the draft/traded-pick extension
+- validates base snapshot output
+- validates transaction output
+- validates draft/traded-pick output
+- commits changed files under `data/current/` only when generated output changes
+
+Manual workflow option:
+
+- `force_refresh_players`: when true, forces refresh of the local Sleeper NFL player cache
+
+Current full local command sequence:
 
 ```bash
 python scripts/sleeper_snapshot.py
@@ -136,29 +166,9 @@ python scripts/validate_transactions.py
 python scripts/validate_drafts.py
 ```
 
-Validation goal: support dynasty, keeper, draft-result, pick-asset, and trade-value analysis.
-
-## Phase 6: GitHub Actions workflow
-
-Add `.github/workflows/sleeper_snapshot.yml`.
-
-Recommended triggers:
-
-- manual `workflow_dispatch`
-- daily schedule around 6:17 AM Central
-
-The workflow should:
-
-- install Python
-- run the snapshot script
-- run the transaction extension
-- run the draft/traded-pick extension
-- validate the snapshot
-- validate transactions
-- validate drafts/traded picks
-- commit changed files under `data/current/` when there are actual changes
-
 ## Phase 7: Refinement after first real snapshot
+
+Status: next
 
 Review generated data for:
 
@@ -168,6 +178,7 @@ Review generated data for:
 - unnecessary fields
 - bundle readability
 - analysis quality
+- whether the post-snapshot extension scripts should eventually be consolidated into one exporter
 
 Refine schema and script based on actual output.
 
