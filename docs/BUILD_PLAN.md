@@ -22,11 +22,11 @@ No GitHub Actions workflow yet.
 
 ## Phase 1: Minimal snapshot script
 
-Status: initial implementation complete; first real snapshot run and review still pending
+Status: implemented; first real snapshot run and review still pending
 
 Created `scripts/sleeper_snapshot.py`.
 
-Initial scope:
+Implemented scope:
 
 - read `config/league_config.json`
 - fetch NFL state
@@ -35,7 +35,7 @@ Initial scope:
 - fetch rosters
 - collect required player IDs from rosters
 - cache full Sleeper NFL player database locally if missing or stale
-- emit compact player lookup for rostered players
+- emit compact player lookup for referenced players
 - write:
   - `data/current/manifest.json`
   - `data/current/league_context.json`
@@ -61,7 +61,7 @@ python scripts/sleeper_snapshot.py --force-refresh-players
 
 ## Phase 2: Validation script
 
-Status: initial implementation complete; first validation run still pending
+Status: implemented; first validation run still pending
 
 Created `scripts/validate_snapshot.py`.
 
@@ -72,8 +72,9 @@ Validation checks:
 - league ID matches config
 - each roster has a roster ID
 - each roster has a matching team record
-- each referenced roster player ID exists in `player_lookup_compact.json`
-- `chatgpt_bundle.json` matches topic-file roster and player references
+- each referenced roster or matchup player ID exists in `player_lookup_compact.json`
+- `matchups.json` has the expected structure
+- `chatgpt_bundle.json` matches topic-file roster, matchup, and player references
 - manifest counts match generated files where applicable
 
 Manual command after snapshot generation:
@@ -84,16 +85,21 @@ python scripts/validate_snapshot.py
 
 ## Phase 3: Matchups
 
-Add season-to-date weekly matchup export.
+Status: implemented; first real snapshot run and review still pending
 
-Logic:
+Added season-to-date weekly matchup export to `scripts/sleeper_snapshot.py`.
 
-- determine included weeks from NFL state
+Implemented logic:
+
+- determine included weeks from NFL state with config fallback
 - fetch matchups for each included week
 - group teams by matchup ID
-- infer bench as players minus starters
-- preserve point maps when available
-- add matchup summaries to bundle
+- infer matchup bench as players minus starters
+- preserve player point maps and starter point maps when available
+- collect required player IDs from matchup players and point maps before compact player lookup is generated
+- write `data/current/matchups.json`
+- add matchup summaries to `data/current/chatgpt_bundle.json`
+- include matchup counts and included weeks in `data/current/manifest.json`
 
 Validation goal: enable weekly matchup previews and prior-week recaps.
 
