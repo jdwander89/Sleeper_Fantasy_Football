@@ -61,7 +61,9 @@ python scripts/sleeper_snapshot.py --force-refresh-players
 
 ## Phase 2: Validation script
 
-Create `scripts/validate_snapshot.py`.
+Status: initial implementation complete; first validation run still pending
+
+Created `scripts/validate_snapshot.py`.
 
 Validation checks:
 
@@ -69,9 +71,16 @@ Validation checks:
 - JSON files parse correctly
 - league ID matches config
 - each roster has a roster ID
-- each roster owner can be mapped to a user when available
-- each referenced player ID is resolved or reported as missing
-- manifest counts match generated files
+- each roster has a matching team record
+- each referenced roster player ID exists in `player_lookup_compact.json`
+- `chatgpt_bundle.json` matches topic-file roster and player references
+- manifest counts match generated files where applicable
+
+Manual command after snapshot generation:
+
+```bash
+python scripts/validate_snapshot.py
+```
 
 ## Phase 3: Matchups
 
