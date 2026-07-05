@@ -59,7 +59,7 @@ The full Sleeper players endpoint is used as a local/cache source for compact pl
 
 ## Run locally
 
-Run the full exporter and validator pipeline:
+Run the full exporter, finalizer, and validator pipeline:
 
 ```bash
 python scripts/run_all.py
@@ -71,7 +71,7 @@ Force a refresh of the local Sleeper NFL player cache:
 python scripts/run_all.py --force-refresh-players
 ```
 
-Run exporters only and skip validation:
+Run exporters and finalization only, then skip validation:
 
 ```bash
 python scripts/run_all.py --skip-validation
@@ -83,6 +83,7 @@ python scripts/run_all.py --skip-validation
 python scripts/sleeper_snapshot.py
 python scripts/sleeper_transactions.py
 python scripts/sleeper_drafts.py
+python scripts/finalize_snapshot.py
 python scripts/validate_snapshot.py
 python scripts/validate_transactions.py
 python scripts/validate_drafts.py
@@ -114,8 +115,9 @@ Implemented:
 - matchup export
 - transaction extension
 - draft and traded-pick extension
+- final snapshot cleanup/finalization
 - validators
 - one-command local runner
 - GitHub Actions workflow
 
-Next step: run the workflow once, then review the generated `data/current/` files for file size, missing fields, player resolution, and ChatGPT readability.
+Next step: run the workflow again after the finalizer change, then review the refreshed `data/current/` files for file size, missing fields, player resolution, and ChatGPT readability.
