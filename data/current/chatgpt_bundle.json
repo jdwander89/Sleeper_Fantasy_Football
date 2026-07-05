@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-07-05T21:24:03.665909Z",
+    "generated_at": "2026-07-05T21:28:11.462134Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -1948,8 +1948,7 @@
         "12514",
         "8130",
         "7611",
-        "8142",
-        "0"
+        "8142"
       ],
       "bench": [
         "11435",
@@ -2012,8 +2011,7 @@
           "Emeka Egbuka",
           "Trey McBride",
           "Rhamondre Stevenson",
-          "Alec Pierce",
-          "Unknown Player 0"
+          "Alec Pierce"
         ],
         "bench": [
           "Emanuel Wilson",
@@ -2584,40 +2582,6 @@
   ],
   "players": {
     "by_id": {
-      "off": {
-        "player_id": "off",
-        "name": "off Defense",
-        "first_name": "off",
-        "last_name": "Defense",
-        "team": "off",
-        "position": "DEF",
-        "fantasy_positions": [
-          "DEF"
-        ],
-        "status": null,
-        "injury_status": null,
-        "years_exp": null,
-        "age": null,
-        "depth_chart_position": null,
-        "search_rank": null,
-        "missing_from_full_cache": true
-      },
-      "0": {
-        "player_id": "0",
-        "name": "Unknown Player 0",
-        "first_name": null,
-        "last_name": null,
-        "team": null,
-        "position": null,
-        "fantasy_positions": [],
-        "status": null,
-        "injury_status": null,
-        "years_exp": null,
-        "age": null,
-        "depth_chart_position": null,
-        "search_rank": null,
-        "missing_from_full_cache": true
-      },
       "10213": {
         "player_id": "10213",
         "name": "Tre Tucker",
@@ -8903,8 +8867,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -8986,8 +8949,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -10740,8 +10702,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -10823,8 +10784,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -12577,8 +12537,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -12660,8 +12619,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -14414,8 +14372,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -14497,8 +14454,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -16251,8 +16207,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -16334,8 +16289,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -18088,8 +18042,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -18171,8 +18124,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -19925,8 +19877,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -20008,8 +19959,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -21762,8 +21712,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -21845,8 +21794,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -23599,8 +23547,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -23682,8 +23629,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -25436,8 +25382,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -25519,8 +25464,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -27273,8 +27217,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -27356,8 +27299,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -29110,8 +29052,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -29193,8 +29134,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -30947,8 +30887,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -31030,8 +30969,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -32784,8 +32722,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -32867,8 +32804,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -34621,8 +34557,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -34704,8 +34639,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -36458,8 +36392,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -36541,8 +36474,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -38295,8 +38227,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -38378,8 +38309,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -40132,8 +40062,7 @@
               "12514",
               "8130",
               "7611",
-              "8142",
-              "0"
+              "8142"
             ],
             "bench": [
               "11435",
@@ -40215,8 +40144,7 @@
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
-                "Alec Pierce",
-                "Unknown Player 0"
+                "Alec Pierce"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -44333,38 +44261,6 @@
       },
       {
         "week": 1,
-        "transaction_id": "1371669336439164928",
-        "type": "commissioner",
-        "status": "complete",
-        "created": 1781393963493,
-        "created_at": "2026-06-13T23:39:23.493000Z",
-        "status_updated": 1781393963493,
-        "status_updated_at": "2026-06-13T23:39:23.493000Z",
-        "creator_user_id": "464915162038530048",
-        "roster_ids": [
-          2
-        ],
-        "team_labels": [
-          "A B CeeDee"
-        ],
-        "consenter_ids": [],
-        "consenter_team_labels": [],
-        "adds": [
-          {
-            "player_id": "5850",
-            "player_name": "Josh Jacobs",
-            "roster_id": 2,
-            "team_label": "A B CeeDee"
-          }
-        ],
-        "drops": [],
-        "draft_picks": [],
-        "waiver_budget": [],
-        "settings": {},
-        "metadata": {}
-      },
-      {
-        "week": 1,
         "transaction_id": "1375650962533806080",
         "type": "free_agent",
         "status": "complete",
@@ -44405,7 +44301,7 @@
       "transactions": 26,
       "trades": 4,
       "waivers": 0,
-      "free_agent_moves": 22,
+      "free_agent_moves": 21,
       "by_type": {
         "commissioner": 1,
         "free_agent": 21,

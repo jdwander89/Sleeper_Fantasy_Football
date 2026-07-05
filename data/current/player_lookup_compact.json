@@ -1,38 +1,4 @@
 {
-  "off": {
-    "player_id": "off",
-    "name": "off Defense",
-    "first_name": "off",
-    "last_name": "Defense",
-    "team": "off",
-    "position": "DEF",
-    "fantasy_positions": [
-      "DEF"
-    ],
-    "status": null,
-    "injury_status": null,
-    "years_exp": null,
-    "age": null,
-    "depth_chart_position": null,
-    "search_rank": null,
-    "missing_from_full_cache": true
-  },
-  "0": {
-    "player_id": "0",
-    "name": "Unknown Player 0",
-    "first_name": null,
-    "last_name": null,
-    "team": null,
-    "position": null,
-    "fantasy_positions": [],
-    "status": null,
-    "injury_status": null,
-    "years_exp": null,
-    "age": null,
-    "depth_chart_position": null,
-    "search_rank": null,
-    "missing_from_full_cache": true
-  },
   "10213": {
     "player_id": "10213",
     "name": "Tre Tucker",

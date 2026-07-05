@@ -3515,38 +3515,6 @@
     },
     {
       "week": 1,
-      "transaction_id": "1371669336439164928",
-      "type": "commissioner",
-      "status": "complete",
-      "created": 1781393963493,
-      "created_at": "2026-06-13T23:39:23.493000Z",
-      "status_updated": 1781393963493,
-      "status_updated_at": "2026-06-13T23:39:23.493000Z",
-      "creator_user_id": "464915162038530048",
-      "roster_ids": [
-        2
-      ],
-      "team_labels": [
-        "A B CeeDee"
-      ],
-      "consenter_ids": [],
-      "consenter_team_labels": [],
-      "adds": [
-        {
-          "player_id": "5850",
-          "player_name": "Josh Jacobs",
-          "roster_id": 2,
-          "team_label": "A B CeeDee"
-        }
-      ],
-      "drops": [],
-      "draft_picks": [],
-      "waiver_budget": [],
-      "settings": {},
-      "metadata": {}
-    },
-    {
-      "week": 1,
       "transaction_id": "1375650962533806080",
       "type": "free_agent",
       "status": "complete",
@@ -3587,7 +3555,7 @@
     "transactions": 26,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 22,
+    "free_agent_moves": 21,
     "by_type": {
       "commissioner": 1,
       "free_agent": 21,
