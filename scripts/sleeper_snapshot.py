@@ -2,13 +2,10 @@
 """
 Sleeper Fantasy Football current snapshot exporter.
 
-Phase 1 scope:
+Current scope:
 - Read config/league_config.json.
-- Fetch NFL state.
-- Fetch league metadata.
-- Fetch league users.
-- Fetch league rosters.
-- Collect required player IDs from current rosters.
+- Fetch NFL state, league metadata, users, rosters, and season-to-date matchups.
+- Collect required player IDs from rosters and matchups.
 - Cache the full Sleeper NFL player database locally.
 - Write compact ChatGPT-readable current snapshot files.
 
@@ -31,8 +28,6 @@ from typing import Any, Dict, Iterable, List, Optional, Sequence, Set, Tuple
 
 BASE_URL = "https://api.sleeper.app/v1"
 DEFAULT_CONFIG_PATH = Path("config/league_config.json")
-
-
 JsonObject = Dict[str, Any]
 
 
@@ -40,12 +35,8 @@ class SnapshotError(RuntimeError):
     """Raised when the snapshot cannot be generated safely."""
 
 
-def utc_now() -> datetime:
-    return datetime.now(timezone.utc)
-
-
 def iso_now() -> str:
-    return utc_now().isoformat().replace("+00:00", "Z")
+    return datetime.now(timezone.utc).isoformat().replace("+00:00", "Z")
 
 
 def read_json(path: Path) -> Any:
@@ -58,10 +49,9 @@ def write_json(path: Path, payload: Any, *, pretty: bool = True, sort_keys: bool
     with path.open("w", encoding="utf-8") as f:
         if pretty:
             json.dump(payload, f, ensure_ascii=False, indent=2, sort_keys=sort_keys)
-            f.write("\n")
         else:
             json.dump(payload, f, ensure_ascii=False, separators=(",", ":"), sort_keys=sort_keys)
-            f.write("\n")
+        f.write("\n")
 
 
 def http_get_json(url: str, *, timeout: int = 30, retries: int = 3, backoff_seconds: float = 1.25) -> Any:
@@ -78,8 +68,7 @@ def http_get_json(url: str, *, timeout: int = 30, retries: int = 3, backoff_seco
                 status = getattr(response, "status", 200)
                 if status < 200 or status >= 300:
                     raise SnapshotError(f"GET {url} returned HTTP {status}")
-                data = response.read()
-                return json.loads(data.decode("utf-8"))
+                return json.loads(response.read().decode("utf-8"))
         except (urllib.error.HTTPError, urllib.error.URLError, TimeoutError, json.JSONDecodeError) as exc:
             last_error = exc
             if attempt == retries:
@@ -102,7 +91,7 @@ def load_config(path: Path) -> JsonObject:
     return config
 
 
-def get_nested(config: JsonObject, keys: Sequence[str], default: Any = None) -> Any:
+def get_nested(config: Any, keys: Sequence[str], default: Any = None) -> Any:
     value: Any = config
     for key in keys:
         if not isinstance(value, dict) or key not in value:
@@ -131,6 +120,17 @@ def add_player_ids(target: Set[str], values: Any) -> None:
                 target.add(player_id)
 
 
+def unique_ordered(values: Iterable[Any]) -> List[str]:
+    seen: Set[str] = set()
+    result: List[str] = []
+    for value in values:
+        player_id = normalize_player_id(value)
+        if player_id and player_id not in seen:
+            seen.add(player_id)
+            result.append(player_id)
+    return result
+
+
 def collect_required_player_ids_from_rosters(rosters: Sequence[JsonObject]) -> Set[str]:
     required: Set[str] = set()
 
@@ -140,10 +140,8 @@ def collect_required_player_ids_from_rosters(rosters: Sequence[JsonObject]) -> S
 
         metadata = roster.get("metadata")
         if isinstance(metadata, dict):
-            # Defensive: some Sleeper metadata fields may reference player IDs.
             for key, value in metadata.items():
-                lowered_key = str(key).lower()
-                if "player" in lowered_key and isinstance(value, (str, int)):
+                if "player" in str(key).lower() and isinstance(value, (str, int)):
                     player_id = normalize_player_id(value)
                     if player_id:
                         required.add(player_id)
@@ -151,11 +149,27 @@ def collect_required_player_ids_from_rosters(rosters: Sequence[JsonObject]) -> S
     return required
 
 
+def collect_required_player_ids_from_matchups(matchups_by_week: JsonObject) -> Set[str]:
+    required: Set[str] = set()
+
+    for week_payload in matchups_by_week.values():
+        if not isinstance(week_payload, dict):
+            continue
+        for result in week_payload.get("roster_results", []):
+            if not isinstance(result, dict):
+                continue
+            for field in ("players", "starters", "bench"):
+                add_player_ids(required, result.get(field))
+            add_player_ids(required, result.get("players_points"))
+            add_player_ids(required, result.get("starters_points"))
+
+    return required
+
+
 def file_age_hours(path: Path) -> Optional[float]:
     if not path.exists():
         return None
-    age_seconds = time.time() - path.stat().st_mtime
-    return age_seconds / 3600
+    return (time.time() - path.stat().st_mtime) / 3600
 
 
 def load_or_fetch_full_players(
@@ -169,8 +183,8 @@ def load_or_fetch_full_players(
     cache_dir.mkdir(parents=True, exist_ok=True)
     cache_path = cache_dir / cache_filename
     meta_path = cache_dir / "players_nfl_cache_meta.json"
-
     age_hours = file_age_hours(cache_path)
+
     cache_is_usable = (
         cache_path.exists()
         and not force_refresh
@@ -180,9 +194,9 @@ def load_or_fetch_full_players(
 
     if cache_is_usable:
         players = read_json(cache_path)
-        meta = read_json(meta_path) if meta_path.exists() else {}
         if not isinstance(players, dict):
             raise SnapshotError(f"Player cache is not a JSON object: {cache_path}")
+        meta = read_json(meta_path) if meta_path.exists() else {}
         meta.update(
             {
                 "source": "cache",
@@ -208,7 +222,6 @@ def load_or_fetch_full_players(
             "full_cache_committed": False,
             "player_count": len(players),
         }
-
         write_json(cache_path, players, pretty=False)
         write_json(meta_path, meta, pretty=True)
         return players, meta
@@ -242,9 +255,6 @@ def load_or_fetch_full_players(
 
 def compact_player(player_id: str, player: Optional[JsonObject]) -> JsonObject:
     if not player:
-        # Sleeper commonly represents team defenses by abbreviation. The players endpoint
-        # usually includes DEF entries, but this fallback keeps snapshots readable if an
-        # abbreviation is missing from the cache.
         if player_id.isalpha() and 2 <= len(player_id) <= 4:
             return {
                 "player_id": player_id,
@@ -345,11 +355,6 @@ def build_player_id_index(
         name_key = normalize_name_key(player.get("name"))
         if name_key and name_key not in by_name:
             by_name[name_key] = player_id
-
-        for name_field in ("first_name", "last_name"):
-            partial_key = normalize_name_key(player.get(name_field))
-            if partial_key and partial_key not in by_name:
-                by_name[partial_key] = player_id
 
         team = player.get("team")
         if team:
@@ -490,6 +495,14 @@ def build_teams(rosters: Sequence[JsonObject], users_by_id: Dict[str, JsonObject
     return teams
 
 
+def build_team_labels(teams: Sequence[JsonObject]) -> Dict[str, str]:
+    return {
+        str(team.get("roster_id")): str(team.get("display_label") or f"Roster {team.get('roster_id')}")
+        for team in teams
+        if team.get("roster_id") is not None
+    }
+
+
 def player_name(player_id: str, compact_players: JsonObject) -> str:
     player = compact_players.get(str(player_id))
     if isinstance(player, dict) and player.get("name"):
@@ -497,18 +510,7 @@ def player_name(player_id: str, compact_players: JsonObject) -> str:
     return str(player_id)
 
 
-def unique_ordered(values: Iterable[Any]) -> List[str]:
-    seen: Set[str] = set()
-    result: List[str] = []
-    for value in values:
-        player_id = normalize_player_id(value)
-        if player_id and player_id not in seen:
-            seen.add(player_id)
-            result.append(player_id)
-    return result
-
-
-def infer_bench(players: Sequence[str], starters: Sequence[str], reserve: Sequence[str], taxi: Sequence[str]) -> List[str]:
+def infer_bench(players: Sequence[str], starters: Sequence[str], reserve: Sequence[str] = (), taxi: Sequence[str] = ()) -> List[str]:
     unavailable = set(starters) | set(reserve) | set(taxi)
     return [player_id for player_id in players if player_id not in unavailable]
 
@@ -550,6 +552,165 @@ def build_roster_snapshots(rosters: Sequence[JsonObject], compact_players: JsonO
         )
 
     return snapshots
+
+
+def determine_included_weeks(config: JsonObject, nfl_state: JsonObject) -> List[int]:
+    weeks_config = get_nested(config, ["export", "weeks"], {})
+    if not isinstance(weeks_config, dict):
+        weeks_config = {}
+
+    explicit_weeks = weeks_config.get("weeks")
+    if isinstance(explicit_weeks, list):
+        parsed = sorted({int(week) for week in explicit_weeks if str(week).isdigit() and int(week) > 0})
+        if parsed:
+            return parsed
+
+    fallback_start = int(weeks_config.get("fallback_start_week", 1) or 1)
+    fallback_end = int(weeks_config.get("fallback_end_week", 18) or 18)
+
+    state_week = None
+    for key in ("week", "display_week", "leg"):
+        value = nfl_state.get(key)
+        try:
+            candidate = int(value)
+        except (TypeError, ValueError):
+            continue
+        if candidate > 0:
+            state_week = candidate
+            break
+
+    if state_week is None:
+        return list(range(fallback_start, fallback_end + 1))
+
+    return list(range(fallback_start, min(state_week, fallback_end) + 1))
+
+
+def fetch_matchups_by_week(league_id: str, weeks: Sequence[int], warnings: List[str]) -> JsonObject:
+    by_week: JsonObject = {}
+    for week in weeks:
+        try:
+            payload = http_get_json(endpoint(f"/league/{league_id}/matchups/{week}"))
+        except SnapshotError as exc:
+            warnings.append(f"Could not fetch matchups for week {week}: {exc}")
+            payload = []
+
+        if payload is None:
+            payload = []
+        if not isinstance(payload, list):
+            warnings.append(f"Matchups response for week {week} was not a list; skipping.")
+            payload = []
+
+        by_week[str(week)] = {
+            "week": week,
+            "raw_count": len(payload),
+            "raw": [item for item in payload if isinstance(item, dict)],
+        }
+    return by_week
+
+
+def build_matchup_snapshots(raw_matchups_by_week: JsonObject, team_labels: Dict[str, str], compact_players: JsonObject) -> JsonObject:
+    by_week: JsonObject = {}
+    all_weeks: List[int] = []
+
+    for week_key, week_payload in raw_matchups_by_week.items():
+        if not isinstance(week_payload, dict):
+            continue
+
+        week = week_payload.get("week")
+        try:
+            week_int = int(week)
+            all_weeks.append(week_int)
+        except (TypeError, ValueError):
+            week_int = 0
+
+        raw_rows = [row for row in week_payload.get("raw", []) if isinstance(row, dict)]
+        roster_results: List[JsonObject] = []
+        grouped: Dict[str, List[JsonObject]] = {}
+
+        for row in raw_rows:
+            roster_id = row.get("roster_id")
+            roster_key = str(roster_id)
+            players = unique_ordered(row.get("players") or [])
+            starters = unique_ordered(row.get("starters") or [])
+            bench = infer_bench(players, starters)
+
+            result = {
+                "week": week_int,
+                "matchup_id": row.get("matchup_id"),
+                "roster_id": roster_id,
+                "team_label": team_labels.get(roster_key, f"Roster {roster_id}"),
+                "points": row.get("points"),
+                "custom_points": row.get("custom_points"),
+                "players": players,
+                "starters": starters,
+                "bench": bench,
+                "players_points": row.get("players_points") if isinstance(row.get("players_points"), dict) else {},
+                "starters_points": row.get("starters_points") if isinstance(row.get("starters_points"), dict) else {},
+                "display": {
+                    "players": [player_name(pid, compact_players) for pid in players],
+                    "starters": [player_name(pid, compact_players) for pid in starters],
+                    "bench": [player_name(pid, compact_players) for pid in bench],
+                },
+            }
+            roster_results.append(result)
+            matchup_key = str(row.get("matchup_id") if row.get("matchup_id") is not None else f"solo_{roster_key}")
+            grouped.setdefault(matchup_key, []).append(result)
+
+        matchups: List[JsonObject] = []
+        for matchup_key, entries in sorted(grouped.items(), key=lambda item: item[0]):
+            sorted_entries = sorted(entries, key=lambda item: item.get("roster_id") or 0)
+            winner = None
+            if len(sorted_entries) >= 2:
+                with_points = [
+                    entry for entry in sorted_entries
+                    if isinstance(entry.get("points"), (int, float))
+                ]
+                if with_points:
+                    max_points = max(entry.get("points") for entry in with_points)
+                    leaders = [entry for entry in with_points if entry.get("points") == max_points]
+                    if len(leaders) == 1:
+                        winner = {
+                            "roster_id": leaders[0].get("roster_id"),
+                            "team_label": leaders[0].get("team_label"),
+                            "points": leaders[0].get("points"),
+                        }
+
+            matchups.append(
+                {
+                    "week": week_int,
+                    "matchup_id": None if matchup_key.startswith("solo_") else matchup_key,
+                    "teams": [
+                        {
+                            "roster_id": entry.get("roster_id"),
+                            "team_label": entry.get("team_label"),
+                            "points": entry.get("points"),
+                            "custom_points": entry.get("custom_points"),
+                        }
+                        for entry in sorted_entries
+                    ],
+                    "winner": winner,
+                }
+            )
+
+        by_week[str(week_int or week_key)] = {
+            "week": week_int or week_key,
+            "matchups": matchups,
+            "roster_results": sorted(roster_results, key=lambda item: item.get("roster_id") or 0),
+            "counts": {
+                "matchups": len(matchups),
+                "roster_results": len(roster_results),
+            },
+        }
+
+    return {
+        "included_weeks": sorted(set(all_weeks)),
+        "by_week": by_week,
+        "counts": {
+            "weeks": len(by_week),
+            "matchups": sum(len(week.get("matchups", [])) for week in by_week.values() if isinstance(week, dict)),
+            "roster_results": sum(len(week.get("roster_results", [])) for week in by_week.values() if isinstance(week, dict)),
+        },
+    }
 
 
 def build_league_context(league: JsonObject, nfl_state: JsonObject) -> JsonObject:
@@ -622,6 +783,8 @@ def build_manifest(
     required_player_ids: Set[str],
     compact_players: JsonObject,
     missing_player_ids: List[str],
+    included_weeks: Sequence[int],
+    matchups: JsonObject,
     output_files: Sequence[Path],
     warnings: List[str],
     errors: List[str],
@@ -635,8 +798,8 @@ def build_manifest(
         "season_type": league.get("season_type") or nfl_state.get("season_type"),
         "snapshot_mode": get_nested(config, ["snapshot", "mode"], "current_only"),
         "nfl_state": nfl_state,
-        "included_weeks": [],
-        "phase": "phase_1_minimal_roster_snapshot",
+        "included_weeks": list(included_weeks),
+        "phase": "phase_3_matchups_snapshot",
         "files": [
             {
                 "path": str(path),
@@ -648,6 +811,9 @@ def build_manifest(
         "counts": {
             "users": users_count,
             "rosters": rosters_count,
+            "included_weeks": len(included_weeks),
+            "matchups": get_nested(matchups, ["counts", "matchups"], 0),
+            "matchup_roster_results": get_nested(matchups, ["counts", "roster_results"], 0),
             "required_player_ids": len(required_player_ids),
             "compact_player_lookup": len(compact_players),
             "missing_player_ids": len(missing_player_ids),
@@ -672,6 +838,7 @@ def snapshot(config_path: Path, *, force_refresh_players: bool = False) -> None:
     raw_cache_dir = Path(get_nested(config, ["raw_cache", "directory"], "raw_cache"))
     pretty_json = bool(get_nested(config, ["export", "outputs", "pretty_json"], True))
     sort_keys = bool(get_nested(config, ["export", "outputs", "sort_keys"], False))
+    include_matchups = bool(get_nested(config, ["export", "include", "matchups"], True))
 
     warnings: List[str] = []
     errors: List[str] = []
@@ -696,7 +863,11 @@ def snapshot(config_path: Path, *, force_refresh_players: bool = False) -> None:
         str(user.get("user_id")): user for user in user_objects if user.get("user_id") is not None
     }
 
+    included_weeks = determine_included_weeks(config, nfl_state) if include_matchups else []
+    raw_matchups_by_week = fetch_matchups_by_week(league_id, included_weeks, warnings) if include_matchups else {}
+
     required_player_ids = collect_required_player_ids_from_rosters(roster_objects)
+    required_player_ids.update(collect_required_player_ids_from_matchups(raw_matchups_by_week))
 
     player_cache_config = get_nested(config, ["player_cache"], {})
     max_age_hours = int(player_cache_config.get("max_age_hours", 24)) if isinstance(player_cache_config, dict) else 24
@@ -718,7 +889,13 @@ def snapshot(config_path: Path, *, force_refresh_players: bool = False) -> None:
 
     league_context = build_league_context(league, nfl_state)
     teams = build_teams(roster_objects, users_by_id)
+    team_labels = build_team_labels(teams)
     roster_snapshots = build_roster_snapshots(roster_objects, compact_players)
+    matchups = build_matchup_snapshots(raw_matchups_by_week, team_labels, compact_players) if include_matchups else {
+        "included_weeks": [],
+        "by_week": {},
+        "counts": {"weeks": 0, "matchups": 0, "roster_results": 0},
+    }
     player_id_index = build_player_id_index(
         compact_players=compact_players,
         required_player_ids=required_player_ids,
@@ -732,7 +909,7 @@ def snapshot(config_path: Path, *, force_refresh_players: bool = False) -> None:
         "generated_at": iso_now(),
         "league_id": league_id,
         "sport": sport,
-        "phase": "phase_1_minimal_roster_snapshot",
+        "phase": "phase_3_matchups_snapshot",
     }
 
     chatgpt_bundle = {
@@ -740,13 +917,8 @@ def snapshot(config_path: Path, *, force_refresh_players: bool = False) -> None:
         "league": league_context,
         "teams": teams,
         "rosters": roster_snapshots,
-        "players": {
-            "by_id": compact_players,
-        },
-        "matchups": {
-            "by_week": {},
-            "status": "not_included_until_phase_3",
-        },
+        "players": {"by_id": compact_players},
+        "matchups": matchups,
         "transactions": {
             "by_week": {},
             "trades": [],
@@ -763,15 +935,16 @@ def snapshot(config_path: Path, *, force_refresh_players: bool = False) -> None:
         "league_context": output_dir / "league_context.json",
         "teams": output_dir / "teams.json",
         "rosters": output_dir / "rosters.json",
+        "matchups": output_dir / "matchups.json",
         "player_lookup_compact": output_dir / "player_lookup_compact.json",
         "player_id_index": output_dir / "player_id_index.json",
         "chatgpt_bundle": output_dir / "chatgpt_bundle.json",
     }
 
-    # Write topic files before manifest so the manifest can include accurate file sizes.
     write_json(output_paths["league_context"], league_context, pretty=pretty_json, sort_keys=sort_keys)
     write_json(output_paths["teams"], teams, pretty=pretty_json, sort_keys=sort_keys)
     write_json(output_paths["rosters"], roster_snapshots, pretty=pretty_json, sort_keys=sort_keys)
+    write_json(output_paths["matchups"], matchups, pretty=pretty_json, sort_keys=sort_keys)
     write_json(output_paths["player_lookup_compact"], compact_players, pretty=pretty_json, sort_keys=sort_keys)
     write_json(output_paths["player_id_index"], player_id_index, pretty=pretty_json, sort_keys=sort_keys)
     write_json(output_paths["chatgpt_bundle"], chatgpt_bundle, pretty=pretty_json, sort_keys=sort_keys)
@@ -786,15 +959,21 @@ def snapshot(config_path: Path, *, force_refresh_players: bool = False) -> None:
         required_player_ids=required_player_ids,
         compact_players=compact_players,
         missing_player_ids=missing_player_ids,
+        included_weeks=included_weeks,
+        matchups=matchups,
         output_files=[manifest_path, *output_paths.values()],
         warnings=warnings,
         errors=errors,
     )
-
     write_json(manifest_path, manifest, pretty=pretty_json, sort_keys=sort_keys)
 
     print(f"Wrote Sleeper current snapshot for league {league_id} to {output_dir}")
-    print(f"Users: {len(user_objects)} | Rosters: {len(roster_objects)} | Required player IDs: {len(required_player_ids)}")
+    print(
+        "Users: "
+        f"{len(user_objects)} | Rosters: {len(roster_objects)} | "
+        f"Weeks: {len(included_weeks)} | Matchups: {get_nested(matchups, ['counts', 'matchups'], 0)} | "
+        f"Required player IDs: {len(required_player_ids)}"
+    )
     if warnings:
         print("Warnings:")
         for warning in warnings:
