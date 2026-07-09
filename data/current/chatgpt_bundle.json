@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-07-08T12:55:22.336013Z",
+    "generated_at": "2026-07-09T14:00:12.636688Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -4024,7 +4024,7 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 1,
-        "age": 21,
+        "age": 22,
         "depth_chart_position": "RB",
         "search_rank": 999
       },
