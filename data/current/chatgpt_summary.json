@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-09T14:00:15.041445Z",
-    "source_snapshot_generated_at": "2026-07-09T14:00:12.696342Z",
+    "generated_at": "2026-07-10T13:21:23.921928Z",
+    "source_snapshot_generated_at": "2026-07-10T13:21:21.543711Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -1202,11 +1202,11 @@
           "injury_status": null
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
-          "team": "LAC",
+          "player_id": "10232",
+          "name": "Michael Wilson",
+          "team": "ARI",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "9997",
@@ -1216,9 +1216,9 @@
           "injury_status": null
         },
         {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "team": "PHI",
+          "player_id": "5012",
+          "name": "Mark Andrews",
+          "team": "BAL",
           "position": "TE",
           "injury_status": null
         },
