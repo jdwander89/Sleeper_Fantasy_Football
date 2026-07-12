@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-07-11T12:08:16.838384Z",
+    "generated_at": "2026-07-12T12:09:32.594716Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -212,9 +212,9 @@
     },
     "nfl_state": {
       "week": 0,
-      "season_type": "off",
-      "season": "2026",
       "leg": 0,
+      "season": "2026",
+      "season_type": "off",
       "league_season": "2026",
       "previous_season": "2025",
       "season_start_date": null,
