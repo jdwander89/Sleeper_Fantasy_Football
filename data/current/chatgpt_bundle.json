@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-07-13T13:31:12.117240Z",
+    "generated_at": "2026-07-14T12:41:38.137295Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -212,9 +212,9 @@
     },
     "nfl_state": {
       "week": 0,
-      "season_type": "off",
-      "season": "2026",
       "leg": 0,
+      "season": "2026",
+      "season_type": "off",
       "league_season": "2026",
       "previous_season": "2025",
       "season_start_date": null,
@@ -4483,7 +4483,7 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 0,
-        "age": 21,
+        "age": 22,
         "depth_chart_position": "SWR",
         "search_rank": 156
       },
@@ -4500,7 +4500,7 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 0,
-        "age": 21,
+        "age": 22,
         "depth_chart_position": "RB",
         "search_rank": 999
       },
