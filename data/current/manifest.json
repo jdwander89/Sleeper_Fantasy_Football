@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-14T12:41:38.152529Z",
+  "generated_at": "2026-07-15T12:45:36.299043Z",
   "league_id": "1312581067286282240",
   "sport": "nfl",
   "season": "2026",
@@ -14,19 +14,36 @@
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": null,
-    "display_week": 1,
+    "display_week": 0,
     "league_create_season": "2026",
     "season_has_scores": true
   },
   "included_weeks": [
-    1
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    16,
+    17,
+    18
   ],
   "phase": "finalized_current_snapshot",
   "files": [
     {
       "path": "data/current/manifest.json",
       "exists": true,
-      "size_bytes": 2284
+      "size_bytes": 2418
     },
     {
       "path": "data/current/league_context.json",
@@ -46,12 +63,12 @@
     {
       "path": "data/current/matchups.json",
       "exists": true,
-      "size_bytes": 45468
+      "size_bytes": 816458
     },
     {
       "path": "data/current/transactions.json",
       "exists": true,
-      "size_bytes": 87693
+      "size_bytes": 90891
     },
     {
       "path": "data/current/drafts.json",
@@ -76,20 +93,20 @@
     {
       "path": "data/current/chatgpt_summary.json",
       "exists": true,
-      "size_bytes": 55456
+      "size_bytes": 107172
     },
     {
       "path": "data/current/chatgpt_bundle.json",
       "exists": true,
-      "size_bytes": 449701
+      "size_bytes": 1286653
     }
   ],
   "counts": {
     "users": 12,
     "rosters": 12,
-    "included_weeks": 1,
-    "matchups": 6,
-    "matchup_roster_results": 12,
+    "included_weeks": 18,
+    "matchups": 108,
+    "matchup_roster_results": 216,
     "required_player_ids": 300,
     "compact_player_lookup": 300,
     "missing_player_ids": 0,
@@ -108,5 +125,5 @@
     "errors": [],
     "missing_player_ids": []
   },
-  "summary_generated_at": "2026-07-14T12:41:39.206836Z"
+  "summary_generated_at": "2026-07-15T12:45:40.759903Z"
 }
