@@ -3666,7 +3666,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 5,
     "age": 26,
     "depth_chart_position": "LWR",
