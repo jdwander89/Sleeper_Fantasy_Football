@@ -1864,7 +1864,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "SWR",
@@ -4076,7 +4076,7 @@
     "status": "Active",
     "injury_status": null,
     "years_exp": 4,
-    "age": 25,
+    "age": 26,
     "depth_chart_position": "LWR",
     "search_rank": 999
   },

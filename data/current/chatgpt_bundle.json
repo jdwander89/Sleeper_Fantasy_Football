@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-07-17T12:38:09.540533Z",
+    "generated_at": "2026-07-18T12:07:50.943469Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -4447,7 +4447,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
@@ -6659,7 +6659,7 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 4,
-        "age": 25,
+        "age": 26,
         "depth_chart_position": "LWR",
         "search_rank": 999
       },
