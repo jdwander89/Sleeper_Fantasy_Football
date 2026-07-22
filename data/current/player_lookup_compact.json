@@ -129,7 +129,7 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 3,
     "age": 25,
     "depth_chart_position": "TE",
@@ -1932,7 +1932,7 @@
       "QB"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "QB",
@@ -1966,7 +1966,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "LWR",
@@ -4059,7 +4059,7 @@
     "status": "Active",
     "injury_status": null,
     "years_exp": 4,
-    "age": 25,
+    "age": 26,
     "depth_chart_position": "RWR",
     "search_rank": 38
   },
