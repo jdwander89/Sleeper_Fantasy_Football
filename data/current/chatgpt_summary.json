@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-22T12:48:45.360567Z",
-    "source_snapshot_generated_at": "2026-07-22T12:48:42.966381Z",
+    "generated_at": "2026-07-23T12:51:39.983162Z",
+    "source_snapshot_generated_at": "2026-07-23T12:51:37.443558Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -858,7 +858,7 @@
           "name": "Zach Charbonnet",
           "team": "SEA",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": "PUP"
         }
       ]
     },
