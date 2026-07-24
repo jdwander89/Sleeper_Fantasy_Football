@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-23T12:51:39.983162Z",
-    "source_snapshot_generated_at": "2026-07-23T12:51:37.443558Z",
+    "generated_at": "2026-07-24T12:48:12.642702Z",
+    "source_snapshot_generated_at": "2026-07-24T12:48:11.004765Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -753,7 +753,7 @@
           "name": "Tetairoa McMillan",
           "team": "CAR",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "13298",
@@ -1234,7 +1234,7 @@
           "name": "Quinshon Judkins",
           "team": "CLE",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "4983",

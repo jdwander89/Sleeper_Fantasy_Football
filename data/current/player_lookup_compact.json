@@ -1234,7 +1234,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 1,
     "age": 22,
     "depth_chart_position": "RB",
@@ -1370,7 +1370,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 1,
     "age": 23,
     "depth_chart_position": "LWR",
@@ -3804,7 +3804,7 @@
     "status": "Active",
     "injury_status": "Questionable",
     "years_exp": 4,
-    "age": 24,
+    "age": 25,
     "depth_chart_position": "LWR",
     "search_rank": 14
   },
