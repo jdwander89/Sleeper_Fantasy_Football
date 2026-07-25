@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-24T12:48:12.642702Z",
-    "source_snapshot_generated_at": "2026-07-24T12:48:11.004765Z",
+    "generated_at": "2026-07-25T12:11:44.682246Z",
+    "source_snapshot_generated_at": "2026-07-25T12:11:42.172669Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -554,7 +554,7 @@
           "name": "Trey Benson",
           "team": "ARI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12497",
@@ -939,7 +939,7 @@
           "name": "Rashee Rice",
           "team": "KC",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12489",
