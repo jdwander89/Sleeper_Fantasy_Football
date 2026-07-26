@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-07-25T12:11:42.114222Z",
+    "generated_at": "2026-07-26T12:33:14.237518Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -5314,7 +5314,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "years_exp": 9,
         "age": 32,
         "depth_chart_position": "TE",
