@@ -605,7 +605,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 2,
     "age": 23,
     "depth_chart_position": "LWR",
@@ -658,7 +658,7 @@
     "status": "Active",
     "injury_status": "Questionable",
     "years_exp": 2,
-    "age": 22,
+    "age": 23,
     "depth_chart_position": "LWR",
     "search_rank": 19
   },
@@ -3071,7 +3071,7 @@
       "QB"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 7,
     "age": 29,
     "depth_chart_position": "QB",
@@ -4006,7 +4006,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "years_exp": 4,
     "age": 26,
     "depth_chart_position": "LWR",
@@ -4329,7 +4329,7 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 4,
     "age": 27,
     "depth_chart_position": "TE",
@@ -4482,7 +4482,7 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "years_exp": 3,
     "age": 25,
     "depth_chart_position": "TE",
@@ -4516,7 +4516,7 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": "PUP",
     "years_exp": 3,
     "age": 25,
     "depth_chart_position": "TE",

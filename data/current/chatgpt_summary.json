@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-27T13:45:16.309120Z",
-    "source_snapshot_generated_at": "2026-07-27T13:45:15.352706Z",
+    "generated_at": "2026-07-28T13:03:16.177356Z",
+    "source_snapshot_generated_at": "2026-07-28T13:03:14.969197Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -628,7 +628,7 @@
           "name": "Marvin Harrison",
           "team": "ARI",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12506",
@@ -849,7 +849,7 @@
           "name": "Alec Pierce",
           "team": "IND",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": "PUP"
         }
       ],
       "reserve": [
@@ -1028,7 +1028,7 @@
           "name": "Tucker Kraft",
           "team": "GB",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": "PUP"
         },
         {
           "player_id": "6790",

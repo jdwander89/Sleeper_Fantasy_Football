@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-07-27T13:45:15.352706Z",
+  "generated_at": "2026-07-28T13:03:14.969197Z",
   "league_id": "1312581067286282240",
   "sport": "nfl",
   "season": "2026",
@@ -10,10 +10,10 @@
     "week": 0,
     "leg": 0,
     "season": "2026",
-    "season_type": "off",
+    "season_type": "pre",
     "league_season": "2026",
     "previous_season": "2025",
-    "season_start_date": null,
+    "season_start_date": "2026-08-06",
     "display_week": 1,
     "league_create_season": "2026",
     "season_has_scores": true
@@ -26,12 +26,12 @@
     {
       "path": "data/current/manifest.json",
       "exists": true,
-      "size_bytes": 2284
+      "size_bytes": 2292
     },
     {
       "path": "data/current/league_context.json",
       "exists": true,
-      "size_bytes": 4836
+      "size_bytes": 4844
     },
     {
       "path": "data/current/teams.json",
@@ -66,7 +66,7 @@
     {
       "path": "data/current/player_lookup_compact.json",
       "exists": true,
-      "size_bytes": 106946
+      "size_bytes": 106909
     },
     {
       "path": "data/current/player_id_index.json",
@@ -76,12 +76,12 @@
     {
       "path": "data/current/chatgpt_summary.json",
       "exists": true,
-      "size_bytes": 55387
+      "size_bytes": 55379
     },
     {
       "path": "data/current/chatgpt_bundle.json",
       "exists": true,
-      "size_bytes": 449593
+      "size_bytes": 449564
     }
   ],
   "counts": {
@@ -108,5 +108,5 @@
     "errors": [],
     "missing_player_ids": []
   },
-  "summary_generated_at": "2026-07-27T13:45:16.309120Z"
+  "summary_generated_at": "2026-07-28T13:03:16.177356Z"
 }

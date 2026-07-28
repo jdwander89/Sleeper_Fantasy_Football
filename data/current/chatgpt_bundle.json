@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-07-27T13:45:15.336951Z",
+    "generated_at": "2026-07-28T13:03:14.953168Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -214,10 +214,10 @@
       "week": 0,
       "leg": 0,
       "season": "2026",
-      "season_type": "off",
+      "season_type": "pre",
       "league_season": "2026",
       "previous_season": "2025",
-      "season_start_date": null,
+      "season_start_date": "2026-08-06",
       "display_week": 1,
       "league_create_season": "2026",
       "season_has_scores": true
@@ -3188,7 +3188,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "LWR",
@@ -3241,7 +3241,7 @@
         "status": "Active",
         "injury_status": "Questionable",
         "years_exp": 2,
-        "age": 22,
+        "age": 23,
         "depth_chart_position": "LWR",
         "search_rank": 19
       },
@@ -5654,7 +5654,7 @@
           "QB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "QB",
@@ -6589,7 +6589,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "LWR",
@@ -6912,7 +6912,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 4,
         "age": 27,
         "depth_chart_position": "TE",
@@ -7065,7 +7065,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "TE",
@@ -7099,7 +7099,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "PUP",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "TE",
