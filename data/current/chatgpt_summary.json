@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-30T12:55:59.690939Z",
-    "source_snapshot_generated_at": "2026-07-30T12:55:56.592389Z",
+    "generated_at": "2026-07-31T13:08:53.165419Z",
+    "source_snapshot_generated_at": "2026-07-31T13:08:50.911092Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -496,7 +496,7 @@
           "name": "Jahmyr Gibbs",
           "team": "DET",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9224",
@@ -842,7 +842,7 @@
           "name": "Rhamondre Stevenson",
           "team": "NE",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8142",

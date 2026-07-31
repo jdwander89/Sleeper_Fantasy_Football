@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-07-30T12:55:56.534433Z",
+    "generated_at": "2026-07-31T13:08:50.859686Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -2610,7 +2610,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 26,
         "depth_chart_position": "RB",
@@ -4702,7 +4702,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "TE",
@@ -5665,7 +5665,7 @@
         "name": "Deebo Samuel",
         "first_name": "Deebo",
         "last_name": "Samuel",
-        "team": null,
+        "team": "SF",
         "position": "WR",
         "fantasy_positions": [
           "WR"
@@ -5674,8 +5674,8 @@
         "injury_status": null,
         "years_exp": 7,
         "age": 30,
-        "depth_chart_position": null,
-        "search_rank": 79
+        "depth_chart_position": "SWR",
+        "search_rank": 150
       },
       "5892": {
         "player_id": "5892",
@@ -5773,7 +5773,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "RWR",
@@ -6317,7 +6317,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 5,
         "age": 28,
         "depth_chart_position": "RB",
@@ -6946,7 +6946,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 24,
         "depth_chart_position": "RB",

@@ -27,7 +27,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 3,
     "age": 26,
     "depth_chart_position": "RB",
@@ -2119,7 +2119,7 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "TE",
@@ -3082,7 +3082,7 @@
     "name": "Deebo Samuel",
     "first_name": "Deebo",
     "last_name": "Samuel",
-    "team": null,
+    "team": "SF",
     "position": "WR",
     "fantasy_positions": [
       "WR"
@@ -3091,8 +3091,8 @@
     "injury_status": null,
     "years_exp": 7,
     "age": 30,
-    "depth_chart_position": null,
-    "search_rank": 79
+    "depth_chart_position": "SWR",
+    "search_rank": 150
   },
   "5892": {
     "player_id": "5892",
@@ -3190,7 +3190,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 7,
     "age": 29,
     "depth_chart_position": "RWR",
@@ -3734,7 +3734,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 5,
     "age": 28,
     "depth_chart_position": "RB",
@@ -4363,7 +4363,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 3,
     "age": 24,
     "depth_chart_position": "RB",
