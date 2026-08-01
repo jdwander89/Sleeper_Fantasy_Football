@@ -1117,7 +1117,7 @@
     "status": "Active",
     "injury_status": null,
     "years_exp": 1,
-    "age": 22,
+    "age": 23,
     "depth_chart_position": "RWR",
     "search_rank": 132
   },
@@ -1422,7 +1422,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 1,
     "age": 23,
     "depth_chart_position": "SWR",
@@ -1473,7 +1473,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 1,
     "age": 24,
     "depth_chart_position": "RB",
@@ -2135,8 +2135,8 @@
     "fantasy_positions": [
       "WR"
     ],
-    "status": "Active",
-    "injury_status": "Out",
+    "status": "Inactive",
+    "injury_status": "IR",
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "RWR",
@@ -2276,7 +2276,7 @@
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "LWR",
-    "search_rank": 202
+    "search_rank": 150
   },
   "13420": {
     "player_id": "13420",
@@ -4516,7 +4516,7 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": "PUP",
+    "injury_status": "Questionable",
     "years_exp": 3,
     "age": 25,
     "depth_chart_position": "TE",

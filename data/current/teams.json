@@ -12,7 +12,7 @@
       "is_owner": true,
       "metadata": {
         "allow_sms": "on",
-        "allow_pn": "on",
+        "allow_pn": "off",
         "mascot_item_type_id_leg_13": "trash",
         "team_name_update": "off",
         "transaction_free_agent": "off",

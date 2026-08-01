@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-07-31T13:08:50.859686Z",
+    "generated_at": "2026-08-01T12:14:51.549742Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -237,7 +237,7 @@
         "is_owner": true,
         "metadata": {
           "allow_sms": "on",
-          "allow_pn": "on",
+          "allow_pn": "off",
           "mascot_item_type_id_leg_13": "trash",
           "team_name_update": "off",
           "transaction_free_agent": "off",
@@ -3700,7 +3700,7 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 1,
-        "age": 22,
+        "age": 23,
         "depth_chart_position": "RWR",
         "search_rank": 132
       },
@@ -4005,7 +4005,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "SWR",
@@ -4056,7 +4056,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "RB",
@@ -4718,8 +4718,8 @@
         "fantasy_positions": [
           "WR"
         ],
-        "status": "Active",
-        "injury_status": "Out",
+        "status": "Inactive",
+        "injury_status": "IR",
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "RWR",
@@ -4859,7 +4859,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "LWR",
-        "search_rank": 202
+        "search_rank": 150
       },
       "13420": {
         "player_id": "13420",
@@ -7099,7 +7099,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "PUP",
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "TE",

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-07-31T13:08:53.165419Z",
-    "source_snapshot_generated_at": "2026-07-31T13:08:50.911092Z",
+    "generated_at": "2026-08-01T12:14:53.897205Z",
+    "source_snapshot_generated_at": "2026-08-01T12:14:51.611705Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -642,7 +642,7 @@
           "name": "Kyle Monangai",
           "team": "CHI",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "6806",
@@ -1028,7 +1028,7 @@
           "name": "Tucker Kraft",
           "team": "GB",
           "position": "TE",
-          "injury_status": "PUP"
+          "injury_status": "Questionable"
         },
         {
           "player_id": "6790",
