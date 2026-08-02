@@ -537,7 +537,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 2,
     "age": 23,
     "depth_chart_position": "RWR",
@@ -706,11 +706,11 @@
     "fantasy_positions": [
       "WR"
     ],
-    "status": "Active",
-    "injury_status": "Questionable",
+    "status": "Inactive",
+    "injury_status": "IR",
     "years_exp": 2,
     "age": 25,
-    "depth_chart_position": "RWR",
+    "depth_chart_position": null,
     "search_rank": 86
   },
   "11643": {
@@ -2238,7 +2238,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "SWR",
@@ -2272,7 +2272,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "LWR",
