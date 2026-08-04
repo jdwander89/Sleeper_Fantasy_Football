@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-03T13:55:20.724046Z",
-    "source_snapshot_generated_at": "2026-08-03T13:55:19.526979Z",
+    "generated_at": "2026-08-04T13:12:15.581441Z",
+    "source_snapshot_generated_at": "2026-08-04T13:12:14.356450Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -325,7 +325,7 @@
           "name": "Mike Evans",
           "team": "SF",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "10859",
@@ -554,7 +554,7 @@
           "name": "Trey Benson",
           "team": "ARI",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12497",
@@ -642,7 +642,7 @@
           "name": "Kyle Monangai",
           "team": "CHI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "6806",
@@ -760,7 +760,7 @@
           "name": "KC Concepcion",
           "team": "CLE",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": []
