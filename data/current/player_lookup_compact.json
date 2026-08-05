@@ -401,7 +401,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 2,
     "age": 24,
     "depth_chart_position": "RB",
@@ -435,7 +435,7 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 2,
     "age": 23,
     "depth_chart_position": "TE",
@@ -503,7 +503,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 2,
     "age": 24,
     "depth_chart_position": "RWR",
@@ -571,7 +571,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 2,
     "age": 25,
     "depth_chart_position": "RWR",
@@ -1543,7 +1543,7 @@
     "status": "Active",
     "injury_status": null,
     "years_exp": 1,
-    "age": 21,
+    "age": 22,
     "depth_chart_position": "RB",
     "search_rank": 999
   },
@@ -2017,7 +2017,7 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 0,
     "age": 21,
     "depth_chart_position": "TE",
@@ -2873,23 +2873,6 @@
     "depth_chart_position": "QB",
     "search_rank": 1
   },
-  "4988": {
-    "player_id": "4988",
-    "name": "Nick Chubb",
-    "first_name": "Nick",
-    "last_name": "Chubb",
-    "team": null,
-    "position": "RB",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "status": "Active",
-    "injury_status": null,
-    "years_exp": 8,
-    "age": 30,
-    "depth_chart_position": null,
-    "search_rank": 244
-  },
   "5001": {
     "player_id": "5001",
     "name": "Dalton Schultz",
@@ -3513,7 +3496,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 5,
     "age": 27,
     "depth_chart_position": "RWR",
@@ -4873,7 +4856,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 1,
     "age": 24,
     "depth_chart_position": "RWR",
@@ -4997,6 +4980,23 @@
     "age": 35,
     "depth_chart_position": null,
     "search_rank": 321
+  },
+  "4988": {
+    "player_id": "4988",
+    "name": "Nick Chubb",
+    "first_name": "Nick",
+    "last_name": "Chubb",
+    "team": null,
+    "position": "RB",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "status": "Active",
+    "injury_status": null,
+    "years_exp": 8,
+    "age": 30,
+    "depth_chart_position": null,
+    "search_rank": 244
   },
   "5970": {
     "player_id": "5970",

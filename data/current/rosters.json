@@ -410,7 +410,6 @@
       "4033",
       "4035",
       "4037",
-      "4988",
       "5870",
       "5967",
       "7571",
@@ -444,7 +443,6 @@
       "4033",
       "4035",
       "4037",
-      "4988",
       "5870",
       "7571",
       "8111",
@@ -453,9 +451,9 @@
     ],
     "reserve": [],
     "taxi": [],
-    "player_count": 24,
+    "player_count": 23,
     "starter_count": 9,
-    "bench_count": 15,
+    "bench_count": 14,
     "reserve_count": 0,
     "taxi_count": 0,
     "display": {
@@ -472,7 +470,6 @@
         "David Njoku",
         "Alvin Kamara",
         "Chris Godwin",
-        "Nick Chubb",
         "Daniel Jones",
         "Tony Pollard",
         "Rashod Bateman",
@@ -506,7 +503,6 @@
         "David Njoku",
         "Alvin Kamara",
         "Chris Godwin",
-        "Nick Chubb",
         "Daniel Jones",
         "Rashod Bateman",
         "Cade Otton",
@@ -714,27 +710,27 @@
     "bench": [
       "11571",
       "11627",
-      "11638",
       "11834",
       "12476",
       "12483",
       "13276",
-      "13353",
       "13404",
       "13420",
       "1479",
       "2374",
       "4217",
-      "5872"
+      "5872",
+      "6803"
     ],
     "reserve": [
-      "6803"
+      "11638",
+      "13353"
     ],
     "taxi": [],
     "player_count": 24,
     "starter_count": 9,
-    "bench_count": 14,
-    "reserve_count": 1,
+    "bench_count": 13,
+    "reserve_count": 2,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -777,21 +773,21 @@
       "bench": [
         "Isaiah Davis",
         "Troy Franklin",
-        "Ricky Pearsall",
         "Devaughn Vele",
         "Devin Neal",
         "Jack Bech",
         "Omar Cooper",
-        "Chris Brazzell",
         "Garrett Nussmeier",
         "Bryce Lance",
         "Keenan Allen",
         "Tyler Lockett",
         "George Kittle",
-        "Deebo Samuel"
+        "Deebo Samuel",
+        "Brandon Aiyuk"
       ],
       "reserve": [
-        "Brandon Aiyuk"
+        "Ricky Pearsall",
+        "Chris Brazzell"
       ],
       "taxi": []
     },
