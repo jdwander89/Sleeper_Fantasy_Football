@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-08-05T13:03:58.106175Z",
+    "generated_at": "2026-08-06T13:04:30.156899Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -3830,7 +3830,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "LWR",
@@ -4460,7 +4460,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 0,
         "age": 21,
         "depth_chart_position": "SWR",
@@ -4981,7 +4981,7 @@
         "name": "Stefon Diggs",
         "first_name": "Stefon",
         "last_name": "Diggs",
-        "team": null,
+        "team": "WAS",
         "position": "WR",
         "fantasy_positions": [
           "WR"
@@ -4990,8 +4990,8 @@
         "injury_status": null,
         "years_exp": 11,
         "age": 32,
-        "depth_chart_position": null,
-        "search_rank": 121
+        "depth_chart_position": "SWR",
+        "search_rank": 116
       },
       "3163": {
         "player_id": "3163",
@@ -6092,7 +6092,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 5,
         "age": 27,
         "depth_chart_position": "RWR",
@@ -6925,7 +6925,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 3,
         "age": 24,
         "depth_chart_position": "RB",
@@ -7316,7 +7316,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 24,
         "depth_chart_position": "RWR",

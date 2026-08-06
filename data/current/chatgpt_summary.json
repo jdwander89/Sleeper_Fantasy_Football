@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-05T13:04:01.998174Z",
-    "source_snapshot_generated_at": "2026-08-05T13:03:58.150917Z",
+    "generated_at": "2026-08-06T13:04:37.190088Z",
+    "source_snapshot_generated_at": "2026-08-06T13:04:30.216436Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -133,7 +133,7 @@
           "name": "Jordan Addison",
           "team": "MIN",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "10236",
@@ -496,7 +496,7 @@
           "name": "Jahmyr Gibbs",
           "team": "DET",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "9224",
@@ -767,7 +767,7 @@
           "name": "KC Concepcion",
           "team": "CLE",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": []
@@ -835,7 +835,7 @@
           "name": "Emeka Egbuka",
           "team": "TB",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8130",
@@ -1124,7 +1124,7 @@
           "name": "Jaylen Waddle",
           "team": "DEN",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11604",
