@@ -282,7 +282,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 2,
     "age": 24,
     "depth_chart_position": "RB",
@@ -435,7 +435,7 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 2,
     "age": 23,
     "depth_chart_position": "TE",
@@ -571,7 +571,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 2,
     "age": 25,
     "depth_chart_position": "RWR",
@@ -1098,7 +1098,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 1,
     "age": 23,
     "depth_chart_position": "LWR",
@@ -1251,7 +1251,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 1,
     "age": 23,
     "depth_chart_position": "LWR",
@@ -3005,7 +3005,7 @@
     "status": "Active",
     "injury_status": null,
     "years_exp": 7,
-    "age": 28,
+    "age": 29,
     "depth_chart_position": "QB",
     "search_rank": 92
   },
@@ -3020,7 +3020,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 7,
     "age": 28,
     "depth_chart_position": "RB",
@@ -3396,7 +3396,7 @@
     "status": "Active",
     "injury_status": null,
     "years_exp": 6,
-    "age": 27,
+    "age": 28,
     "depth_chart_position": "QB",
     "search_rank": 26
   },
@@ -3802,7 +3802,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 4,
     "age": 26,
     "depth_chart_position": "SWR",
@@ -4346,7 +4346,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 3,
     "age": 24,
     "depth_chart_position": "RB",
@@ -4482,7 +4482,7 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 3,
     "age": 25,
     "depth_chart_position": "TE",
