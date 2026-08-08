@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-08-07T12:00:06.630479Z",
+    "generated_at": "2026-08-08T11:47:20.578656Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -985,6 +985,7 @@
         "12522",
         "12529",
         "12533",
+        "12540",
         "12544",
         "13281",
         "13302",
@@ -995,7 +996,6 @@
         "7523",
         "8112",
         "8136",
-        "9479",
         "9504",
         "9756"
       ],
@@ -1015,6 +1015,7 @@
         "11643",
         "12498",
         "12522",
+        "12540",
         "12544",
         "13302",
         "13305",
@@ -1023,7 +1024,6 @@
         "13402",
         "7523",
         "8136",
-        "9479",
         "9504"
       ],
       "reserve": [],
@@ -1045,6 +1045,7 @@
           "Cam Ward",
           "TreVeyon Henderson",
           "Jacory Croskey-Merritt",
+          "Chimere Dike",
           "LeQuint Allen",
           "Jordyn Tyson",
           "Adam Randall",
@@ -1055,7 +1056,6 @@
           "Trevor Lawrence",
           "Drake London",
           "Rachaad White",
-          "Darnell Washington",
           "Kayshon Boutte",
           "Jordan Addison"
         ],
@@ -1075,6 +1075,7 @@
           "Jaylen Wright",
           "Mason Taylor",
           "Cam Ward",
+          "Chimere Dike",
           "LeQuint Allen",
           "Adam Randall",
           "Mike Washington",
@@ -1083,7 +1084,6 @@
           "Skyler Bell",
           "Trevor Lawrence",
           "Rachaad White",
-          "Darnell Washington",
           "Kayshon Boutte"
         ],
         "reserve": [],
@@ -1797,6 +1797,7 @@
         "13298",
         "13311",
         "13414",
+        "13533",
         "4892",
         "7567",
         "8167",
@@ -1826,16 +1827,18 @@
         "12545",
         "12547",
         "13275",
-        "13311",
         "13414",
+        "13533",
         "8205"
       ],
-      "reserve": [],
+      "reserve": [
+        "13311"
+      ],
       "taxi": [],
-      "player_count": 23,
+      "player_count": 24,
       "starter_count": 9,
       "bench_count": 14,
-      "reserve_count": 0,
+      "reserve_count": 1,
       "taxi_count": 0,
       "display": {
         "players": [
@@ -1857,6 +1860,7 @@
           "KC Concepcion",
           "Chris Bell",
           "Kaelon Black",
+          "Barion Brown",
           "Baker Mayfield",
           "Kenny Gainwell",
           "Christian Watson",
@@ -1886,11 +1890,13 @@
           "Tyler Shough",
           "Kyle Williams",
           "Ty Simpson",
-          "Chris Bell",
           "Kaelon Black",
+          "Barion Brown",
           "Isiah Pacheco"
         ],
-        "reserve": [],
+        "reserve": [
+          "Chris Bell"
+        ],
         "taxi": []
       },
       "settings": {
@@ -3677,7 +3683,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "LWR",
@@ -4086,11 +4092,28 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "PUP",
+        "injury_status": "Questionable",
         "years_exp": 1,
         "age": 23,
-        "depth_chart_position": "KR",
+        "depth_chart_position": "SWR",
         "search_rank": 190
+      },
+      "12540": {
+        "player_id": "12540",
+        "name": "Chimere Dike",
+        "first_name": "Chimere",
+        "last_name": "Dike",
+        "team": "TEN",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 1,
+        "age": 24,
+        "depth_chart_position": "SWR",
+        "search_rank": 175
       },
       "12543": {
         "player_id": "12543",
@@ -4817,7 +4840,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "SWR",
@@ -4890,6 +4913,23 @@
         "age": 24,
         "depth_chart_position": "RB",
         "search_rank": 999
+      },
+      "13533": {
+        "player_id": "13533",
+        "name": "Barion Brown",
+        "first_name": "Barion",
+        "last_name": "Brown",
+        "team": "NO",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 0,
+        "age": 22,
+        "depth_chart_position": "SWR",
+        "search_rank": 9999999
       },
       "1466": {
         "player_id": "1466",
@@ -6381,7 +6421,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "SWR",
@@ -6999,23 +7039,6 @@
         "depth_chart_position": "QB",
         "search_rank": 98
       },
-      "9479": {
-        "player_id": "9479",
-        "name": "Darnell Washington",
-        "first_name": "Darnell",
-        "last_name": "Washington",
-        "team": "PIT",
-        "position": "TE",
-        "fantasy_positions": [
-          "TE"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 3,
-        "age": 24,
-        "depth_chart_position": "TE",
-        "search_rank": 999
-      },
       "9480": {
         "player_id": "9480",
         "name": "Brenton Strange",
@@ -7231,7 +7254,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "RB",
@@ -7458,23 +7481,6 @@
         "depth_chart_position": "SWR",
         "search_rank": 999
       },
-      "12540": {
-        "player_id": "12540",
-        "name": "Chimere Dike",
-        "first_name": "Chimere",
-        "last_name": "Dike",
-        "team": "TEN",
-        "position": "WR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 1,
-        "age": 24,
-        "depth_chart_position": "SWR",
-        "search_rank": 175
-      },
       "13338": {
         "player_id": "13338",
         "name": "Kevin Coleman",
@@ -7486,7 +7492,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
@@ -7662,6 +7668,23 @@
         "depth_chart_position": "RB",
         "search_rank": 999
       },
+      "9479": {
+        "player_id": "9479",
+        "name": "Darnell Washington",
+        "first_name": "Darnell",
+        "last_name": "Washington",
+        "team": "PIT",
+        "position": "TE",
+        "fantasy_positions": [
+          "TE"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 3,
+        "age": 24,
+        "depth_chart_position": "TE",
+        "search_rank": 999
+      },
       "96": {
         "player_id": "96",
         "name": "Aaron Rodgers",
@@ -7823,6 +7846,7 @@
               "12522",
               "12529",
               "12533",
+              "12540",
               "12544",
               "13281",
               "13302",
@@ -7833,7 +7857,6 @@
               "7523",
               "8112",
               "8136",
-              "9479",
               "9504",
               "9756"
             ],
@@ -7853,6 +7876,7 @@
               "11643",
               "12498",
               "12522",
+              "12540",
               "12544",
               "13302",
               "13305",
@@ -7861,7 +7885,6 @@
               "13402",
               "7523",
               "8136",
-              "9479",
               "9504"
             ],
             "players_points": {
@@ -7875,6 +7898,7 @@
               "12522": 0.0,
               "12529": 0.0,
               "12533": 0.0,
+              "12540": 0.0,
               "12544": 0.0,
               "13281": 0.0,
               "13302": 0.0,
@@ -7885,7 +7909,6 @@
               "7523": 0.0,
               "8112": 0.0,
               "8136": 0.0,
-              "9479": 0.0,
               "9504": 0.0,
               "9756": 0.0
             },
@@ -7902,6 +7925,7 @@
                 "Cam Ward",
                 "TreVeyon Henderson",
                 "Jacory Croskey-Merritt",
+                "Chimere Dike",
                 "LeQuint Allen",
                 "Jordyn Tyson",
                 "Adam Randall",
@@ -7912,7 +7936,6 @@
                 "Trevor Lawrence",
                 "Drake London",
                 "Rachaad White",
-                "Darnell Washington",
                 "Kayshon Boutte",
                 "Jordan Addison"
               ],
@@ -7932,6 +7955,7 @@
                 "Jaylen Wright",
                 "Mason Taylor",
                 "Cam Ward",
+                "Chimere Dike",
                 "LeQuint Allen",
                 "Adam Randall",
                 "Mike Washington",
@@ -7940,7 +7964,6 @@
                 "Skyler Bell",
                 "Trevor Lawrence",
                 "Rachaad White",
-                "Darnell Washington",
                 "Kayshon Boutte"
               ]
             }
@@ -8686,6 +8709,7 @@
               "13298",
               "13311",
               "13414",
+              "13533",
               "4892",
               "7567",
               "8167",
@@ -8717,6 +8741,7 @@
               "13275",
               "13311",
               "13414",
+              "13533",
               "8205"
             ],
             "players_points": {
@@ -8738,6 +8763,7 @@
               "13298": 0.0,
               "13311": 0.0,
               "13414": 0.0,
+              "13533": 0.0,
               "4892": 0.0,
               "7567": 0.0,
               "8167": 0.0,
@@ -8765,6 +8791,7 @@
                 "KC Concepcion",
                 "Chris Bell",
                 "Kaelon Black",
+                "Barion Brown",
                 "Baker Mayfield",
                 "Kenny Gainwell",
                 "Christian Watson",
@@ -8796,6 +8823,7 @@
                 "Ty Simpson",
                 "Chris Bell",
                 "Kaelon Black",
+                "Barion Brown",
                 "Isiah Pacheco"
               ]
             }
@@ -10694,13 +10722,92 @@
             "waiver_budget": [],
             "settings": {},
             "metadata": {}
+          },
+          {
+            "week": 1,
+            "transaction_id": "1391551095993548800",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1786134144356,
+            "created_at": "2026-08-07T20:22:24.356000Z",
+            "status_updated": 1786134144356,
+            "status_updated_at": "2026-08-07T20:22:24.356000Z",
+            "creator_user_id": "459751268567478272",
+            "roster_ids": [
+              7
+            ],
+            "team_labels": [
+              "Commish is a bitch"
+            ],
+            "consenter_ids": [
+              7
+            ],
+            "consenter_team_labels": [
+              "Commish is a bitch"
+            ],
+            "adds": [
+              {
+                "player_id": "13533",
+                "player_name": "Barion Brown",
+                "roster_id": 7,
+                "team_label": "Commish is a bitch"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
+          },
+          {
+            "week": 1,
+            "transaction_id": "1391599005762338816",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1786145566935,
+            "created_at": "2026-08-07T23:32:46.935000Z",
+            "status_updated": 1786145566935,
+            "status_updated_at": "2026-08-07T23:32:46.935000Z",
+            "creator_user_id": "464915162038530048",
+            "roster_ids": [
+              1
+            ],
+            "team_labels": [
+              "It’s Herbie Hancock"
+            ],
+            "consenter_ids": [
+              1
+            ],
+            "consenter_team_labels": [
+              "It’s Herbie Hancock"
+            ],
+            "adds": [
+              {
+                "player_id": "12540",
+                "player_name": "Chimere Dike",
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "9479",
+                "player_name": "Darnell Washington",
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
           }
         ],
         "counts": {
-          "transactions": 27,
+          "transactions": 29,
           "trades": 4,
           "waivers": 0,
-          "free_agent_moves": 22
+          "free_agent_moves": 24
         }
       }
     },
@@ -11871,6 +11978,85 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 1,
+        "transaction_id": "1391551095993548800",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1786134144356,
+        "created_at": "2026-08-07T20:22:24.356000Z",
+        "status_updated": 1786134144356,
+        "status_updated_at": "2026-08-07T20:22:24.356000Z",
+        "creator_user_id": "459751268567478272",
+        "roster_ids": [
+          7
+        ],
+        "team_labels": [
+          "Commish is a bitch"
+        ],
+        "consenter_ids": [
+          7
+        ],
+        "consenter_team_labels": [
+          "Commish is a bitch"
+        ],
+        "adds": [
+          {
+            "player_id": "13533",
+            "player_name": "Barion Brown",
+            "roster_id": 7,
+            "team_label": "Commish is a bitch"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 1,
+        "transaction_id": "1391599005762338816",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1786145566935,
+        "created_at": "2026-08-07T23:32:46.935000Z",
+        "status_updated": 1786145566935,
+        "status_updated_at": "2026-08-07T23:32:46.935000Z",
+        "creator_user_id": "464915162038530048",
+        "roster_ids": [
+          1
+        ],
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "consenter_ids": [
+          1
+        ],
+        "consenter_team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "12540",
+            "player_name": "Chimere Dike",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "9479",
+            "player_name": "Darnell Washington",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "trades": [
@@ -13011,21 +13197,100 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 1,
+        "transaction_id": "1391551095993548800",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1786134144356,
+        "created_at": "2026-08-07T20:22:24.356000Z",
+        "status_updated": 1786134144356,
+        "status_updated_at": "2026-08-07T20:22:24.356000Z",
+        "creator_user_id": "459751268567478272",
+        "roster_ids": [
+          7
+        ],
+        "team_labels": [
+          "Commish is a bitch"
+        ],
+        "consenter_ids": [
+          7
+        ],
+        "consenter_team_labels": [
+          "Commish is a bitch"
+        ],
+        "adds": [
+          {
+            "player_id": "13533",
+            "player_name": "Barion Brown",
+            "roster_id": 7,
+            "team_label": "Commish is a bitch"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 1,
+        "transaction_id": "1391599005762338816",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1786145566935,
+        "created_at": "2026-08-07T23:32:46.935000Z",
+        "status_updated": 1786145566935,
+        "status_updated_at": "2026-08-07T23:32:46.935000Z",
+        "creator_user_id": "464915162038530048",
+        "roster_ids": [
+          1
+        ],
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "consenter_ids": [
+          1
+        ],
+        "consenter_team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "12540",
+            "player_name": "Chimere Dike",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "9479",
+            "player_name": "Darnell Washington",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "counts": {
       "weeks": 1,
-      "transactions": 27,
+      "transactions": 29,
       "trades": 4,
       "waivers": 0,
-      "free_agent_moves": 22,
+      "free_agent_moves": 24,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 22,
+        "free_agent": 24,
         "trade": 4
       },
       "by_status": {
-        "complete": 27
+        "complete": 29
       }
     }
   },
@@ -16660,6 +16925,7 @@
       "antonio williams": "13301",
       "ashton jeanty": "12527",
       "baker mayfield": "4892",
+      "barion brown": "13533",
       "bhayshul tuten": "12490",
       "bijan robinson": "9509",
       "blake corum": "11586",
@@ -16688,6 +16954,7 @@
       "ceedee lamb": "6786",
       "chase brown": "9224",
       "chig okonkwo": "8210",
+      "chimere dike": "12540",
       "chris bell": "13311",
       "chris brazzell": "13353",
       "chris godwin": "4037",
@@ -16710,7 +16977,6 @@
       "daniel jones": "5870",
       "darius slayton": "6149",
       "darnell mooney": "7090",
-      "darnell washington": "9479",
       "davante adams": "2133",
       "david montgomery": "5892",
       "david njoku": "4033",

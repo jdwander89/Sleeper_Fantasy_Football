@@ -13,6 +13,7 @@
       "12522",
       "12529",
       "12533",
+      "12540",
       "12544",
       "13281",
       "13302",
@@ -23,7 +24,6 @@
       "7523",
       "8112",
       "8136",
-      "9479",
       "9504",
       "9756"
     ],
@@ -43,6 +43,7 @@
       "11643",
       "12498",
       "12522",
+      "12540",
       "12544",
       "13302",
       "13305",
@@ -51,7 +52,6 @@
       "13402",
       "7523",
       "8136",
-      "9479",
       "9504"
     ],
     "reserve": [],
@@ -73,6 +73,7 @@
         "Cam Ward",
         "TreVeyon Henderson",
         "Jacory Croskey-Merritt",
+        "Chimere Dike",
         "LeQuint Allen",
         "Jordyn Tyson",
         "Adam Randall",
@@ -83,7 +84,6 @@
         "Trevor Lawrence",
         "Drake London",
         "Rachaad White",
-        "Darnell Washington",
         "Kayshon Boutte",
         "Jordan Addison"
       ],
@@ -103,6 +103,7 @@
         "Jaylen Wright",
         "Mason Taylor",
         "Cam Ward",
+        "Chimere Dike",
         "LeQuint Allen",
         "Adam Randall",
         "Mike Washington",
@@ -111,7 +112,6 @@
         "Skyler Bell",
         "Trevor Lawrence",
         "Rachaad White",
-        "Darnell Washington",
         "Kayshon Boutte"
       ],
       "reserve": [],
@@ -825,6 +825,7 @@
       "13298",
       "13311",
       "13414",
+      "13533",
       "4892",
       "7567",
       "8167",
@@ -854,16 +855,18 @@
       "12545",
       "12547",
       "13275",
-      "13311",
       "13414",
+      "13533",
       "8205"
     ],
-    "reserve": [],
+    "reserve": [
+      "13311"
+    ],
     "taxi": [],
-    "player_count": 23,
+    "player_count": 24,
     "starter_count": 9,
     "bench_count": 14,
-    "reserve_count": 0,
+    "reserve_count": 1,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -885,6 +888,7 @@
         "KC Concepcion",
         "Chris Bell",
         "Kaelon Black",
+        "Barion Brown",
         "Baker Mayfield",
         "Kenny Gainwell",
         "Christian Watson",
@@ -914,11 +918,13 @@
         "Tyler Shough",
         "Kyle Williams",
         "Ty Simpson",
-        "Chris Bell",
         "Kaelon Black",
+        "Barion Brown",
         "Isiah Pacheco"
       ],
-      "reserve": [],
+      "reserve": [
+        "Chris Bell"
+      ],
       "taxi": []
     },
     "settings": {

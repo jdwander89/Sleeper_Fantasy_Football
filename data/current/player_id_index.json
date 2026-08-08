@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-07T12:00:07.938688Z",
+  "generated_at": "2026-08-08T11:47:23.080751Z",
   "counts": {
-    "required_player_ids": 300,
-    "resolved_player_ids": 300,
+    "required_player_ids": 301,
+    "resolved_player_ids": 301,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -21,6 +21,7 @@
       "antonio williams": "13301",
       "ashton jeanty": "12527",
       "baker mayfield": "4892",
+      "barion brown": "13533",
       "bhayshul tuten": "12490",
       "bijan robinson": "9509",
       "blake corum": "11586",
@@ -550,6 +551,7 @@
         "12545",
         "13281",
         "13420",
+        "13533",
         "4035",
         "7002",
         "7543",
@@ -912,6 +914,7 @@
         "13413",
         "13417",
         "13420",
+        "13533",
         "1479",
         "2133",
         "2216",

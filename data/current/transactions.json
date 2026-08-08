@@ -1169,13 +1169,92 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1391551095993548800",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1786134144356,
+          "created_at": "2026-08-07T20:22:24.356000Z",
+          "status_updated": 1786134144356,
+          "status_updated_at": "2026-08-07T20:22:24.356000Z",
+          "creator_user_id": "459751268567478272",
+          "roster_ids": [
+            7
+          ],
+          "team_labels": [
+            "Commish is a bitch"
+          ],
+          "consenter_ids": [
+            7
+          ],
+          "consenter_team_labels": [
+            "Commish is a bitch"
+          ],
+          "adds": [
+            {
+              "player_id": "13533",
+              "player_name": "Barion Brown",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1391599005762338816",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1786145566935,
+          "created_at": "2026-08-07T23:32:46.935000Z",
+          "status_updated": 1786145566935,
+          "status_updated_at": "2026-08-07T23:32:46.935000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [
+            {
+              "player_id": "12540",
+              "player_name": "Chimere Dike",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "9479",
+              "player_name": "Darnell Washington",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 27,
+        "transactions": 29,
         "trades": 4,
         "waivers": 0,
-        "free_agent_moves": 22
+        "free_agent_moves": 24
       }
     }
   },
@@ -2346,6 +2425,85 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1391551095993548800",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786134144356,
+      "created_at": "2026-08-07T20:22:24.356000Z",
+      "status_updated": 1786134144356,
+      "status_updated_at": "2026-08-07T20:22:24.356000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "13533",
+          "player_name": "Barion Brown",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1391599005762338816",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786145566935,
+      "created_at": "2026-08-07T23:32:46.935000Z",
+      "status_updated": 1786145566935,
+      "status_updated_at": "2026-08-07T23:32:46.935000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "12540",
+          "player_name": "Chimere Dike",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9479",
+          "player_name": "Darnell Washington",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -3486,21 +3644,100 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1391551095993548800",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786134144356,
+      "created_at": "2026-08-07T20:22:24.356000Z",
+      "status_updated": 1786134144356,
+      "status_updated_at": "2026-08-07T20:22:24.356000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "13533",
+          "player_name": "Barion Brown",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1391599005762338816",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786145566935,
+      "created_at": "2026-08-07T23:32:46.935000Z",
+      "status_updated": 1786145566935,
+      "status_updated_at": "2026-08-07T23:32:46.935000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "12540",
+          "player_name": "Chimere Dike",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9479",
+          "player_name": "Darnell Washington",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 1,
-    "transactions": 27,
+    "transactions": 29,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 22,
+    "free_agent_moves": 24,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 22,
+      "free_agent": 24,
       "trade": 4
     },
     "by_status": {
-      "complete": 27
+      "complete": 29
     }
   }
 }

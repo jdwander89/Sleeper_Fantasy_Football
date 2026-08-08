@@ -140,6 +140,7 @@
             "12522",
             "12529",
             "12533",
+            "12540",
             "12544",
             "13281",
             "13302",
@@ -150,7 +151,6 @@
             "7523",
             "8112",
             "8136",
-            "9479",
             "9504",
             "9756"
           ],
@@ -170,6 +170,7 @@
             "11643",
             "12498",
             "12522",
+            "12540",
             "12544",
             "13302",
             "13305",
@@ -178,7 +179,6 @@
             "13402",
             "7523",
             "8136",
-            "9479",
             "9504"
           ],
           "players_points": {
@@ -192,6 +192,7 @@
             "12522": 0.0,
             "12529": 0.0,
             "12533": 0.0,
+            "12540": 0.0,
             "12544": 0.0,
             "13281": 0.0,
             "13302": 0.0,
@@ -202,7 +203,6 @@
             "7523": 0.0,
             "8112": 0.0,
             "8136": 0.0,
-            "9479": 0.0,
             "9504": 0.0,
             "9756": 0.0
           },
@@ -219,6 +219,7 @@
               "Cam Ward",
               "TreVeyon Henderson",
               "Jacory Croskey-Merritt",
+              "Chimere Dike",
               "LeQuint Allen",
               "Jordyn Tyson",
               "Adam Randall",
@@ -229,7 +230,6 @@
               "Trevor Lawrence",
               "Drake London",
               "Rachaad White",
-              "Darnell Washington",
               "Kayshon Boutte",
               "Jordan Addison"
             ],
@@ -249,6 +249,7 @@
               "Jaylen Wright",
               "Mason Taylor",
               "Cam Ward",
+              "Chimere Dike",
               "LeQuint Allen",
               "Adam Randall",
               "Mike Washington",
@@ -257,7 +258,6 @@
               "Skyler Bell",
               "Trevor Lawrence",
               "Rachaad White",
-              "Darnell Washington",
               "Kayshon Boutte"
             ]
           }
@@ -1003,6 +1003,7 @@
             "13298",
             "13311",
             "13414",
+            "13533",
             "4892",
             "7567",
             "8167",
@@ -1034,6 +1035,7 @@
             "13275",
             "13311",
             "13414",
+            "13533",
             "8205"
           ],
           "players_points": {
@@ -1055,6 +1057,7 @@
             "13298": 0.0,
             "13311": 0.0,
             "13414": 0.0,
+            "13533": 0.0,
             "4892": 0.0,
             "7567": 0.0,
             "8167": 0.0,
@@ -1082,6 +1085,7 @@
               "KC Concepcion",
               "Chris Bell",
               "Kaelon Black",
+              "Barion Brown",
               "Baker Mayfield",
               "Kenny Gainwell",
               "Christian Watson",
@@ -1113,6 +1117,7 @@
               "Ty Simpson",
               "Chris Bell",
               "Kaelon Black",
+              "Barion Brown",
               "Isiah Pacheco"
             ]
           }
