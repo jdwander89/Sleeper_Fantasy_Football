@@ -894,7 +894,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 1,
     "age": 22,
     "depth_chart_position": "RB",
@@ -1302,7 +1302,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 1,
     "age": 22,
     "depth_chart_position": "RWR",
@@ -1813,7 +1813,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "RB",
@@ -2289,7 +2289,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "LWR",
@@ -3190,7 +3190,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 7,
     "age": 28,
     "depth_chart_position": "RB",
@@ -4601,7 +4601,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 3,
     "age": 24,
     "depth_chart_position": "SWR",
@@ -4788,7 +4788,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 3,
     "age": 25,
     "depth_chart_position": "SWR",
