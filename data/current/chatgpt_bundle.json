@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-08-09T11:48:19.959547Z",
+    "generated_at": "2026-08-10T12:02:19.114710Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -1675,7 +1675,7 @@
         "8146",
         "11628",
         "12506",
-        "12534",
+        "5872",
         "6806",
         "4199"
       ],
@@ -1685,13 +1685,13 @@
         "11834",
         "12476",
         "12483",
+        "12534",
         "13276",
         "13404",
         "13420",
         "1479",
         "2374",
         "4217",
-        "5872",
         "6803"
       ],
       "reserve": [
@@ -1738,7 +1738,7 @@
           "Garrett Wilson",
           "Marvin Harrison",
           "Harold Fannin",
-          "Kyle Monangai",
+          "Deebo Samuel",
           "J.K. Dobbins",
           "Aaron Jones"
         ],
@@ -1748,13 +1748,13 @@
           "Devaughn Vele",
           "Devin Neal",
           "Jack Bech",
+          "Kyle Monangai",
           "Omar Cooper",
           "Garrett Nussmeier",
           "Bryce Lance",
           "Keenan Allen",
           "Tyler Lockett",
           "George Kittle",
-          "Deebo Samuel",
           "Brandon Aiyuk"
         ],
         "reserve": [
@@ -2629,7 +2629,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 26,
         "depth_chart_position": "SWR",
@@ -3700,7 +3700,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "RWR",
@@ -4823,7 +4823,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
@@ -7424,7 +7424,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "RB",
@@ -8578,7 +8578,7 @@
               "8146",
               "11628",
               "12506",
-              "12534",
+              "5872",
               "6806",
               "4199"
             ],
@@ -8589,6 +8589,7 @@
               "11834",
               "12476",
               "12483",
+              "12534",
               "13276",
               "13353",
               "13404",
@@ -8596,7 +8597,6 @@
               "1479",
               "2374",
               "4217",
-              "5872",
               "6803"
             ],
             "players_points": {
@@ -8660,7 +8660,7 @@
                 "Garrett Wilson",
                 "Marvin Harrison",
                 "Harold Fannin",
-                "Kyle Monangai",
+                "Deebo Samuel",
                 "J.K. Dobbins",
                 "Aaron Jones"
               ],
@@ -8671,6 +8671,7 @@
                 "Devaughn Vele",
                 "Devin Neal",
                 "Jack Bech",
+                "Kyle Monangai",
                 "Omar Cooper",
                 "Chris Brazzell",
                 "Garrett Nussmeier",
@@ -8678,7 +8679,6 @@
                 "Keenan Allen",
                 "Tyler Lockett",
                 "George Kittle",
-                "Deebo Samuel",
                 "Brandon Aiyuk"
               ]
             }

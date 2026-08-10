@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-09T11:48:21.172827Z",
-    "source_snapshot_generated_at": "2026-08-09T11:48:19.970277Z",
+    "generated_at": "2026-08-10T12:02:20.430991Z",
+    "source_snapshot_generated_at": "2026-08-10T12:02:19.130285Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -161,7 +161,7 @@
           "name": "Matthew Golden",
           "team": "GB",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": []
@@ -638,10 +638,10 @@
           "injury_status": null
         },
         {
-          "player_id": "12534",
-          "name": "Kyle Monangai",
-          "team": "CHI",
-          "position": "RB",
+          "player_id": "5872",
+          "name": "Deebo Samuel",
+          "team": "SF",
+          "position": "WR",
           "injury_status": null
         },
         {
