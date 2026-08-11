@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-10T12:02:20.430991Z",
-    "source_snapshot_generated_at": "2026-08-10T12:02:19.130285Z",
+    "generated_at": "2026-08-11T12:00:45.181530Z",
+    "source_snapshot_generated_at": "2026-08-11T12:00:44.151326Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -353,7 +353,7 @@
           "name": "Michael Pittman",
           "team": "PIT",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": []
@@ -607,7 +607,7 @@
           "name": "Christian McCaffrey",
           "team": "SF",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12527",
@@ -649,7 +649,7 @@
           "name": "J.K. Dobbins",
           "team": "DEN",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "4199",
