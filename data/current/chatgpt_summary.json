@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-11T12:00:45.181530Z",
-    "source_snapshot_generated_at": "2026-08-11T12:00:44.151326Z",
+    "generated_at": "2026-08-12T12:02:01.566772Z",
+    "source_snapshot_generated_at": "2026-08-12T12:02:00.474582Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 1,
     "matchups": 6,
     "matchup_roster_results": 12,
-    "required_player_ids": 301,
-    "compact_player_lookup": 301,
+    "required_player_ids": 302,
+    "compact_player_lookup": 302,
     "missing_player_ids": 0,
-    "transactions": 29,
+    "transactions": 30,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 24,
+    "free_agent_moves": 25,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -161,7 +161,7 @@
           "name": "Matthew Golden",
           "team": "GB",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": []
@@ -414,7 +414,7 @@
           "name": "Puka Nacua",
           "team": "LAR",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12519",
@@ -901,9 +901,9 @@
         "reserve": 0
       },
       "position_counts": {
-        "QB": 5,
+        "QB": 4,
         "RB": 7,
-        "TE": 4,
+        "TE": 5,
         "WR": 7
       },
       "starters": [
@@ -1057,7 +1057,7 @@
           "name": "DK Metcalf",
           "team": "PIT",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "5947",
@@ -1394,25 +1394,25 @@
   "transactions": {
     "counts": {
       "weeks": 1,
-      "transactions": 29,
+      "transactions": 30,
       "trades": 4,
       "waivers": 0,
-      "free_agent_moves": 24,
+      "free_agent_moves": 25,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 24,
+        "free_agent": 25,
         "trade": 4
       },
       "by_status": {
-        "complete": 29
+        "complete": 30
       }
     },
     "activity_by_roster_id": {
       "9": {
-        "transactions": 3,
+        "transactions": 4,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 3
+        "free_agent_moves": 4
       },
       "12": {
         "transactions": 3,
@@ -1470,6 +1470,33 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 1,
+        "transaction_id": "1393215897555980288",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-08-12T10:37:43.978000Z",
+        "team_labels": [
+          "off"
+        ],
+        "adds": [
+          {
+            "player_id": "8172",
+            "player_name": "Greg Dulcich",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13303",
+            "player_name": "Cade Klubnik",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 1,
         "transaction_id": "1391599005762338816",
@@ -2143,26 +2170,6 @@
             "owner_team_label": "It’s Herbie Hancock"
           }
         ]
-      },
-      {
-        "week": 1,
-        "transaction_id": "1363699257793589248",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-05-22T23:49:08.667000Z",
-        "team_labels": [
-          "Commish is a bitch"
-        ],
-        "adds": [],
-        "drops": [
-          {
-            "player_id": "4098",
-            "player_name": "Kareem Hunt",
-            "roster_id": 7,
-            "team_label": "Commish is a bitch"
-          }
-        ],
-        "draft_picks": []
       }
     ]
   },

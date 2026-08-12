@@ -1248,13 +1248,56 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1393215897555980288",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1786531063978,
+          "created_at": "2026-08-12T10:37:43.978000Z",
+          "status_updated": 1786531063978,
+          "status_updated_at": "2026-08-12T10:37:43.978000Z",
+          "creator_user_id": "471501409838166016",
+          "roster_ids": [
+            9
+          ],
+          "team_labels": [
+            "off"
+          ],
+          "consenter_ids": [
+            9
+          ],
+          "consenter_team_labels": [
+            "off"
+          ],
+          "adds": [
+            {
+              "player_id": "8172",
+              "player_name": "Greg Dulcich",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "13303",
+              "player_name": "Cade Klubnik",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 29,
+        "transactions": 30,
         "trades": 4,
         "waivers": 0,
-        "free_agent_moves": 24
+        "free_agent_moves": 25
       }
     }
   },
@@ -2504,6 +2547,49 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1393215897555980288",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786531063978,
+      "created_at": "2026-08-12T10:37:43.978000Z",
+      "status_updated": 1786531063978,
+      "status_updated_at": "2026-08-12T10:37:43.978000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "8172",
+          "player_name": "Greg Dulcich",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13303",
+          "player_name": "Cade Klubnik",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -3723,21 +3809,64 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1393215897555980288",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786531063978,
+      "created_at": "2026-08-12T10:37:43.978000Z",
+      "status_updated": 1786531063978,
+      "status_updated_at": "2026-08-12T10:37:43.978000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "8172",
+          "player_name": "Greg Dulcich",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13303",
+          "player_name": "Cade Klubnik",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 1,
-    "transactions": 29,
+    "transactions": 30,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 24,
+    "free_agent_moves": 25,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 24,
+      "free_agent": 25,
       "trade": 4
     },
     "by_status": {
-      "complete": 29
+      "complete": 30
     }
   }
 }

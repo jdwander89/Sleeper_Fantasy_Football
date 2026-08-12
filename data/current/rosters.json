@@ -1094,7 +1094,6 @@
       "12507",
       "13272",
       "13285",
-      "13303",
       "13330",
       "13380",
       "13405",
@@ -1106,6 +1105,7 @@
       "7564",
       "8144",
       "8154",
+      "8172",
       "9226"
     ],
     "starters": [
@@ -1126,14 +1126,14 @@
       "11597",
       "13272",
       "13285",
-      "13303",
       "13330",
       "13380",
       "13405",
       "3257",
       "3321",
       "7090",
-      "8154"
+      "8154",
+      "8172"
     ],
     "reserve": [],
     "taxi": [],
@@ -1154,7 +1154,6 @@
         "Omarion Hampton",
         "Carson Beck",
         "Malachi Fields",
-        "Cade Klubnik",
         "Kenyon Sadiq",
         "Brenen Thompson",
         "Kaytron Allen",
@@ -1166,6 +1165,7 @@
         "Ja'Marr Chase",
         "Chris Olave",
         "Brian Robinson",
+        "Greg Dulcich",
         "De'Von Achane"
       ],
       "starters": [
@@ -1186,14 +1186,14 @@
         "Theo Johnson",
         "Carson Beck",
         "Malachi Fields",
-        "Cade Klubnik",
         "Kenyon Sadiq",
         "Brenen Thompson",
         "Kaytron Allen",
         "Jacoby Brissett",
         "Tyreek Hill",
         "Darnell Mooney",
-        "Brian Robinson"
+        "Brian Robinson",
+        "Greg Dulcich"
       ],
       "reserve": [],
       "taxi": []

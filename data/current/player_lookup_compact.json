@@ -44,7 +44,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 3,
     "age": 26,
     "depth_chart_position": "SWR",
@@ -896,7 +896,7 @@
     "status": "Active",
     "injury_status": "Questionable",
     "years_exp": 1,
-    "age": 22,
+    "age": 23,
     "depth_chart_position": "RB",
     "search_rank": 169
   },
@@ -1115,7 +1115,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 1,
     "age": 23,
     "depth_chart_position": "RWR",
@@ -1764,7 +1764,7 @@
     "status": "Active",
     "injury_status": null,
     "years_exp": 0,
-    "age": 21,
+    "age": 22,
     "depth_chart_position": "RWR",
     "search_rank": 62
   },
@@ -1937,23 +1937,6 @@
     "age": 22,
     "depth_chart_position": "RB",
     "search_rank": 999
-  },
-  "13303": {
-    "player_id": "13303",
-    "name": "Cade Klubnik",
-    "first_name": "Cade",
-    "last_name": "Klubnik",
-    "team": "NYJ",
-    "position": "QB",
-    "fantasy_positions": [
-      "QB"
-    ],
-    "status": "Active",
-    "injury_status": null,
-    "years_exp": 0,
-    "age": 22,
-    "depth_chart_position": "QB",
-    "search_rank": 398
   },
   "13305": {
     "player_id": "13305",
@@ -3003,7 +2986,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 7,
     "age": 28,
     "depth_chart_position": "LWR",
@@ -3533,7 +3516,7 @@
     "injury_status": "Questionable",
     "years_exp": 5,
     "age": 27,
-    "depth_chart_position": "RWR",
+    "depth_chart_position": "LWR",
     "search_rank": 39
   },
   "7526": {
@@ -4216,6 +4199,23 @@
     "depth_chart_position": "LWR",
     "search_rank": 63
   },
+  "8172": {
+    "player_id": "8172",
+    "name": "Greg Dulcich",
+    "first_name": "Greg",
+    "last_name": "Dulcich",
+    "team": "MIA",
+    "position": "TE",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "status": "Active",
+    "injury_status": null,
+    "years_exp": 4,
+    "age": 26,
+    "depth_chart_position": "TE",
+    "search_rank": 9999999
+  },
   "8180": {
     "player_id": "8180",
     "name": "Jalen Nailor",
@@ -4536,7 +4536,7 @@
     "injury_status": null,
     "years_exp": 3,
     "age": 25,
-    "depth_chart_position": "LWR",
+    "depth_chart_position": "RWR",
     "search_rank": 999
   },
   "9487": {
@@ -4584,7 +4584,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 3,
     "age": 25,
     "depth_chart_position": "LWR",
@@ -4603,7 +4603,7 @@
     "status": "Active",
     "injury_status": "Questionable",
     "years_exp": 3,
-    "age": 24,
+    "age": 25,
     "depth_chart_position": "SWR",
     "search_rank": 102
   },
@@ -4895,6 +4895,23 @@
     "age": 22,
     "depth_chart_position": "SWR",
     "search_rank": 999
+  },
+  "13303": {
+    "player_id": "13303",
+    "name": "Cade Klubnik",
+    "first_name": "Cade",
+    "last_name": "Klubnik",
+    "team": "NYJ",
+    "position": "QB",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "status": "Active",
+    "injury_status": null,
+    "years_exp": 0,
+    "age": 22,
+    "depth_chart_position": "QB",
+    "search_rank": 398
   },
   "13338": {
     "player_id": "13338",

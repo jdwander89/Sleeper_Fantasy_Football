@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-11T12:00:45.099574Z",
+  "generated_at": "2026-08-12T12:02:01.488541Z",
   "counts": {
-    "required_player_ids": 301,
-    "resolved_player_ids": 301,
+    "required_player_ids": 302,
+    "resolved_player_ids": 302,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -113,6 +113,7 @@
       "george pickens": "8137",
       "germie bernard": "13274",
       "greg dortch": "5970",
+      "greg dulcich": "8172",
       "gunnar helm": "12502",
       "harold fannin": "12506",
       "hunter henry": "3214",
@@ -521,6 +522,7 @@
         "13311",
         "13338",
         "8161",
+        "8172",
         "9226"
       ],
       "MIN": [
@@ -842,6 +844,7 @@
         "8111",
         "8130",
         "8131",
+        "8172",
         "8210",
         "8698",
         "9479",

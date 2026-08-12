@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-08-11T12:00:44.136063Z",
+    "generated_at": "2026-08-12T12:02:00.459483Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -2066,7 +2066,6 @@
         "12507",
         "13272",
         "13285",
-        "13303",
         "13330",
         "13380",
         "13405",
@@ -2078,6 +2077,7 @@
         "7564",
         "8144",
         "8154",
+        "8172",
         "9226"
       ],
       "starters": [
@@ -2098,14 +2098,14 @@
         "11597",
         "13272",
         "13285",
-        "13303",
         "13330",
         "13380",
         "13405",
         "3257",
         "3321",
         "7090",
-        "8154"
+        "8154",
+        "8172"
       ],
       "reserve": [],
       "taxi": [],
@@ -2126,7 +2126,6 @@
           "Omarion Hampton",
           "Carson Beck",
           "Malachi Fields",
-          "Cade Klubnik",
           "Kenyon Sadiq",
           "Brenen Thompson",
           "Kaytron Allen",
@@ -2138,6 +2137,7 @@
           "Ja'Marr Chase",
           "Chris Olave",
           "Brian Robinson",
+          "Greg Dulcich",
           "De'Von Achane"
         ],
         "starters": [
@@ -2158,14 +2158,14 @@
           "Theo Johnson",
           "Carson Beck",
           "Malachi Fields",
-          "Cade Klubnik",
           "Kenyon Sadiq",
           "Brenen Thompson",
           "Kaytron Allen",
           "Jacoby Brissett",
           "Tyreek Hill",
           "Darnell Mooney",
-          "Brian Robinson"
+          "Brian Robinson",
+          "Greg Dulcich"
         ],
         "reserve": [],
         "taxi": []
@@ -2629,7 +2629,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 3,
         "age": 26,
         "depth_chart_position": "SWR",
@@ -3481,7 +3481,7 @@
         "status": "Active",
         "injury_status": "Questionable",
         "years_exp": 1,
-        "age": 22,
+        "age": 23,
         "depth_chart_position": "RB",
         "search_rank": 169
       },
@@ -3700,7 +3700,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "RWR",
@@ -4349,7 +4349,7 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 0,
-        "age": 21,
+        "age": 22,
         "depth_chart_position": "RWR",
         "search_rank": 62
       },
@@ -4522,23 +4522,6 @@
         "age": 22,
         "depth_chart_position": "RB",
         "search_rank": 999
-      },
-      "13303": {
-        "player_id": "13303",
-        "name": "Cade Klubnik",
-        "first_name": "Cade",
-        "last_name": "Klubnik",
-        "team": "NYJ",
-        "position": "QB",
-        "fantasy_positions": [
-          "QB"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 0,
-        "age": 22,
-        "depth_chart_position": "QB",
-        "search_rank": 398
       },
       "13305": {
         "player_id": "13305",
@@ -5588,7 +5571,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 7,
         "age": 28,
         "depth_chart_position": "LWR",
@@ -6118,7 +6101,7 @@
         "injury_status": "Questionable",
         "years_exp": 5,
         "age": 27,
-        "depth_chart_position": "RWR",
+        "depth_chart_position": "LWR",
         "search_rank": 39
       },
       "7526": {
@@ -6801,6 +6784,23 @@
         "depth_chart_position": "LWR",
         "search_rank": 63
       },
+      "8172": {
+        "player_id": "8172",
+        "name": "Greg Dulcich",
+        "first_name": "Greg",
+        "last_name": "Dulcich",
+        "team": "MIA",
+        "position": "TE",
+        "fantasy_positions": [
+          "TE"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 4,
+        "age": 26,
+        "depth_chart_position": "TE",
+        "search_rank": 9999999
+      },
       "8180": {
         "player_id": "8180",
         "name": "Jalen Nailor",
@@ -7121,7 +7121,7 @@
         "injury_status": null,
         "years_exp": 3,
         "age": 25,
-        "depth_chart_position": "LWR",
+        "depth_chart_position": "RWR",
         "search_rank": 999
       },
       "9487": {
@@ -7169,7 +7169,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "LWR",
@@ -7188,7 +7188,7 @@
         "status": "Active",
         "injury_status": "Questionable",
         "years_exp": 3,
-        "age": 24,
+        "age": 25,
         "depth_chart_position": "SWR",
         "search_rank": 102
       },
@@ -7480,6 +7480,23 @@
         "age": 22,
         "depth_chart_position": "SWR",
         "search_rank": 999
+      },
+      "13303": {
+        "player_id": "13303",
+        "name": "Cade Klubnik",
+        "first_name": "Cade",
+        "last_name": "Klubnik",
+        "team": "NYJ",
+        "position": "QB",
+        "fantasy_positions": [
+          "QB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 0,
+        "age": 22,
+        "depth_chart_position": "QB",
+        "search_rank": 398
       },
       "13338": {
         "player_id": "13338",
@@ -8991,7 +9008,6 @@
               "12507",
               "13272",
               "13285",
-              "13303",
               "13330",
               "13380",
               "13405",
@@ -9003,6 +9019,7 @@
               "7564",
               "8144",
               "8154",
+              "8172",
               "9226"
             ],
             "starters": [
@@ -9023,14 +9040,14 @@
               "11597",
               "13272",
               "13285",
-              "13303",
               "13330",
               "13380",
               "13405",
               "3257",
               "3321",
               "7090",
-              "8154"
+              "8154",
+              "8172"
             ],
             "players_points": {
               "10219": 0.0,
@@ -9043,7 +9060,6 @@
               "12507": 0.0,
               "13272": 0.0,
               "13285": 0.0,
-              "13303": 0.0,
               "13330": 0.0,
               "13380": 0.0,
               "13405": 0.0,
@@ -9055,6 +9071,7 @@
               "7564": 0.0,
               "8144": 0.0,
               "8154": 0.0,
+              "8172": 0.0,
               "9226": 0.0
             },
             "starters_points": {},
@@ -9070,7 +9087,6 @@
                 "Omarion Hampton",
                 "Carson Beck",
                 "Malachi Fields",
-                "Cade Klubnik",
                 "Kenyon Sadiq",
                 "Brenen Thompson",
                 "Kaytron Allen",
@@ -9082,6 +9098,7 @@
                 "Ja'Marr Chase",
                 "Chris Olave",
                 "Brian Robinson",
+                "Greg Dulcich",
                 "De'Von Achane"
               ],
               "starters": [
@@ -9102,14 +9119,14 @@
                 "Theo Johnson",
                 "Carson Beck",
                 "Malachi Fields",
-                "Cade Klubnik",
                 "Kenyon Sadiq",
                 "Brenen Thompson",
                 "Kaytron Allen",
                 "Jacoby Brissett",
                 "Tyreek Hill",
                 "Darnell Mooney",
-                "Brian Robinson"
+                "Brian Robinson",
+                "Greg Dulcich"
               ]
             }
           },
@@ -10801,13 +10818,56 @@
             "waiver_budget": [],
             "settings": {},
             "metadata": {}
+          },
+          {
+            "week": 1,
+            "transaction_id": "1393215897555980288",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1786531063978,
+            "created_at": "2026-08-12T10:37:43.978000Z",
+            "status_updated": 1786531063978,
+            "status_updated_at": "2026-08-12T10:37:43.978000Z",
+            "creator_user_id": "471501409838166016",
+            "roster_ids": [
+              9
+            ],
+            "team_labels": [
+              "off"
+            ],
+            "consenter_ids": [
+              9
+            ],
+            "consenter_team_labels": [
+              "off"
+            ],
+            "adds": [
+              {
+                "player_id": "8172",
+                "player_name": "Greg Dulcich",
+                "roster_id": 9,
+                "team_label": "off"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "13303",
+                "player_name": "Cade Klubnik",
+                "roster_id": 9,
+                "team_label": "off"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
           }
         ],
         "counts": {
-          "transactions": 29,
+          "transactions": 30,
           "trades": 4,
           "waivers": 0,
-          "free_agent_moves": 24
+          "free_agent_moves": 25
         }
       }
     },
@@ -12057,6 +12117,49 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 1,
+        "transaction_id": "1393215897555980288",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1786531063978,
+        "created_at": "2026-08-12T10:37:43.978000Z",
+        "status_updated": 1786531063978,
+        "status_updated_at": "2026-08-12T10:37:43.978000Z",
+        "creator_user_id": "471501409838166016",
+        "roster_ids": [
+          9
+        ],
+        "team_labels": [
+          "off"
+        ],
+        "consenter_ids": [
+          9
+        ],
+        "consenter_team_labels": [
+          "off"
+        ],
+        "adds": [
+          {
+            "player_id": "8172",
+            "player_name": "Greg Dulcich",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13303",
+            "player_name": "Cade Klubnik",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "trades": [
@@ -13276,21 +13379,64 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 1,
+        "transaction_id": "1393215897555980288",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1786531063978,
+        "created_at": "2026-08-12T10:37:43.978000Z",
+        "status_updated": 1786531063978,
+        "status_updated_at": "2026-08-12T10:37:43.978000Z",
+        "creator_user_id": "471501409838166016",
+        "roster_ids": [
+          9
+        ],
+        "team_labels": [
+          "off"
+        ],
+        "consenter_ids": [
+          9
+        ],
+        "consenter_team_labels": [
+          "off"
+        ],
+        "adds": [
+          {
+            "player_id": "8172",
+            "player_name": "Greg Dulcich",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13303",
+            "player_name": "Cade Klubnik",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "counts": {
       "weeks": 1,
-      "transactions": 29,
+      "transactions": 30,
       "trades": 4,
       "waivers": 0,
-      "free_agent_moves": 24,
+      "free_agent_moves": 25,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 24,
+        "free_agent": 25,
         "trade": 4
       },
       "by_status": {
-        "complete": 29
+        "complete": 30
       }
     }
   },
@@ -16943,7 +17089,6 @@
       "bryce young": "9228",
       "bucky irving": "11584",
       "c.j. stroud": "9758",
-      "cade klubnik": "13303",
       "cade otton": "8111",
       "caleb williams": "11560",
       "calvin austin": "8125",
@@ -17009,6 +17154,7 @@
       "george kittle": "4217",
       "george pickens": "8137",
       "germie bernard": "13274",
+      "greg dulcich": "8172",
       "gunnar helm": "12502",
       "harold fannin": "12506",
       "hunter henry": "3214",

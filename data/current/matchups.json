@@ -1285,7 +1285,6 @@
             "12507",
             "13272",
             "13285",
-            "13303",
             "13330",
             "13380",
             "13405",
@@ -1297,6 +1296,7 @@
             "7564",
             "8144",
             "8154",
+            "8172",
             "9226"
           ],
           "starters": [
@@ -1317,14 +1317,14 @@
             "11597",
             "13272",
             "13285",
-            "13303",
             "13330",
             "13380",
             "13405",
             "3257",
             "3321",
             "7090",
-            "8154"
+            "8154",
+            "8172"
           ],
           "players_points": {
             "10219": 0.0,
@@ -1337,7 +1337,6 @@
             "12507": 0.0,
             "13272": 0.0,
             "13285": 0.0,
-            "13303": 0.0,
             "13330": 0.0,
             "13380": 0.0,
             "13405": 0.0,
@@ -1349,6 +1348,7 @@
             "7564": 0.0,
             "8144": 0.0,
             "8154": 0.0,
+            "8172": 0.0,
             "9226": 0.0
           },
           "starters_points": {},
@@ -1364,7 +1364,6 @@
               "Omarion Hampton",
               "Carson Beck",
               "Malachi Fields",
-              "Cade Klubnik",
               "Kenyon Sadiq",
               "Brenen Thompson",
               "Kaytron Allen",
@@ -1376,6 +1375,7 @@
               "Ja'Marr Chase",
               "Chris Olave",
               "Brian Robinson",
+              "Greg Dulcich",
               "De'Von Achane"
             ],
             "starters": [
@@ -1396,14 +1396,14 @@
               "Theo Johnson",
               "Carson Beck",
               "Malachi Fields",
-              "Cade Klubnik",
               "Kenyon Sadiq",
               "Brenen Thompson",
               "Kaytron Allen",
               "Jacoby Brissett",
               "Tyreek Hill",
               "Darnell Mooney",
-              "Brian Robinson"
+              "Brian Robinson",
+              "Greg Dulcich"
             ]
           }
         },
