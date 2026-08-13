@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-08-12T12:02:00.459483Z",
+    "generated_at": "2026-08-13T12:02:22.107946Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -985,9 +985,9 @@
         "12522",
         "12529",
         "12533",
-        "12540",
         "12544",
         "13281",
+        "13296",
         "13302",
         "13305",
         "13347",
@@ -1015,8 +1015,8 @@
         "11643",
         "12498",
         "12522",
-        "12540",
         "12544",
+        "13296",
         "13302",
         "13305",
         "13347",
@@ -1045,9 +1045,9 @@
           "Cam Ward",
           "TreVeyon Henderson",
           "Jacory Croskey-Merritt",
-          "Chimere Dike",
           "LeQuint Allen",
           "Jordyn Tyson",
+          "Caleb Douglas",
           "Adam Randall",
           "Mike Washington",
           "Demond Claiborne",
@@ -1075,8 +1075,8 @@
           "Jaylen Wright",
           "Mason Taylor",
           "Cam Ward",
-          "Chimere Dike",
           "LeQuint Allen",
+          "Caleb Douglas",
           "Adam Randall",
           "Mike Washington",
           "Demond Claiborne",
@@ -1245,11 +1245,11 @@
         "11655",
         "13268",
         "13269",
-        "13348",
         "2216",
         "2449",
         "4046",
         "4066",
+        "5995",
         "6149",
         "6804",
         "6813",
@@ -1273,17 +1273,17 @@
         "10859",
         "11584",
         "8110",
-        "6819"
+        "2449"
       ],
       "bench": [
         "11655",
         "13268",
         "13269",
-        "13348",
-        "2449",
         "4066",
+        "5995",
         "6149",
         "6804",
+        "6819",
         "7528",
         "8121",
         "8147",
@@ -1305,11 +1305,11 @@
           "Tyrone Tracy",
           "Elijah Sarratt",
           "Fernando Mendoza",
-          "J'Mari Taylor",
           "Mike Evans",
           "Stefon Diggs",
           "Patrick Mahomes",
           "Evan Engram",
+          "Justice Hill",
           "Darius Slayton",
           "Jordan Love",
           "Jonathan Taylor",
@@ -1333,17 +1333,17 @@
           "Sam LaPorta",
           "Bucky Irving",
           "Jake Ferguson",
-          "Michael Pittman"
+          "Stefon Diggs"
         ],
         "bench": [
           "Tyrone Tracy",
           "Elijah Sarratt",
           "Fernando Mendoza",
-          "J'Mari Taylor",
-          "Stefon Diggs",
           "Evan Engram",
+          "Justice Hill",
           "Darius Slayton",
           "Jordan Love",
+          "Michael Pittman",
           "Najee Harris",
           "Romeo Doubs",
           "John Metchie",
@@ -3836,7 +3836,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "LWR",
@@ -4097,23 +4097,6 @@
         "age": 23,
         "depth_chart_position": "SWR",
         "search_rank": 190
-      },
-      "12540": {
-        "player_id": "12540",
-        "name": "Chimere Dike",
-        "first_name": "Chimere",
-        "last_name": "Dike",
-        "team": "TEN",
-        "position": "WR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 1,
-        "age": 24,
-        "depth_chart_position": "SWR",
-        "search_rank": 175
       },
       "12543": {
         "player_id": "12543",
@@ -4472,6 +4455,23 @@
         "depth_chart_position": "SWR",
         "search_rank": 89
       },
+      "13296": {
+        "player_id": "13296",
+        "name": "Caleb Douglas",
+        "first_name": "Caleb",
+        "last_name": "Douglas",
+        "team": "MIA",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 0,
+        "age": 22,
+        "depth_chart_position": "RWR",
+        "search_rank": 999
+      },
       "13298": {
         "player_id": "13298",
         "name": "KC Concepcion",
@@ -4675,23 +4675,6 @@
         "age": 22,
         "depth_chart_position": "RB",
         "search_rank": 176
-      },
-      "13348": {
-        "player_id": "13348",
-        "name": "J'Mari Taylor",
-        "first_name": "J'Mari",
-        "last_name": "Taylor",
-        "team": "JAX",
-        "position": "RB",
-        "fantasy_positions": [
-          "RB"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 0,
-        "age": 24,
-        "depth_chart_position": "RB",
-        "search_rank": 999
       },
       "13349": {
         "player_id": "13349",
@@ -5350,7 +5333,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 9,
         "age": 30,
         "depth_chart_position": "RB",
@@ -5746,6 +5729,23 @@
         "age": 29,
         "depth_chart_position": "RB",
         "search_rank": 63
+      },
+      "5995": {
+        "player_id": "5995",
+        "name": "Justice Hill",
+        "first_name": "Justice",
+        "last_name": "Hill",
+        "team": "BAL",
+        "position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 7,
+        "age": 28,
+        "depth_chart_position": "RB",
+        "search_rank": 999
       },
       "6039": {
         "player_id": "6039",
@@ -7481,6 +7481,23 @@
         "depth_chart_position": "SWR",
         "search_rank": 999
       },
+      "12540": {
+        "player_id": "12540",
+        "name": "Chimere Dike",
+        "first_name": "Chimere",
+        "last_name": "Dike",
+        "team": "TEN",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 1,
+        "age": 24,
+        "depth_chart_position": "SWR",
+        "search_rank": 175
+      },
       "13303": {
         "player_id": "13303",
         "name": "Cade Klubnik",
@@ -7515,22 +7532,39 @@
         "depth_chart_position": "SWR",
         "search_rank": 999
       },
+      "13348": {
+        "player_id": "13348",
+        "name": "J'Mari Taylor",
+        "first_name": "J'Mari",
+        "last_name": "Taylor",
+        "team": "JAX",
+        "position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 0,
+        "age": 24,
+        "depth_chart_position": "RB",
+        "search_rank": 999
+      },
       "2505": {
         "player_id": "2505",
         "name": "Darren Waller",
         "first_name": "Darren",
         "last_name": "Waller",
-        "team": null,
+        "team": "CAR",
         "position": "TE",
         "fantasy_positions": [
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 11,
         "age": 33,
-        "depth_chart_position": null,
-        "search_rank": 249
+        "depth_chart_position": "TE",
+        "search_rank": 999
       },
       "4098": {
         "player_id": "4098",
@@ -7863,9 +7897,9 @@
               "12522",
               "12529",
               "12533",
-              "12540",
               "12544",
               "13281",
+              "13296",
               "13302",
               "13305",
               "13347",
@@ -7893,8 +7927,8 @@
               "11643",
               "12498",
               "12522",
-              "12540",
               "12544",
+              "13296",
               "13302",
               "13305",
               "13347",
@@ -7915,9 +7949,9 @@
               "12522": 0.0,
               "12529": 0.0,
               "12533": 0.0,
-              "12540": 0.0,
               "12544": 0.0,
               "13281": 0.0,
+              "13296": 0.0,
               "13302": 0.0,
               "13305": 0.0,
               "13347": 0.0,
@@ -7942,9 +7976,9 @@
                 "Cam Ward",
                 "TreVeyon Henderson",
                 "Jacory Croskey-Merritt",
-                "Chimere Dike",
                 "LeQuint Allen",
                 "Jordyn Tyson",
+                "Caleb Douglas",
                 "Adam Randall",
                 "Mike Washington",
                 "Demond Claiborne",
@@ -7972,8 +8006,8 @@
                 "Jaylen Wright",
                 "Mason Taylor",
                 "Cam Ward",
-                "Chimere Dike",
                 "LeQuint Allen",
+                "Caleb Douglas",
                 "Adam Randall",
                 "Mike Washington",
                 "Demond Claiborne",
@@ -8138,11 +8172,11 @@
               "11655",
               "13268",
               "13269",
-              "13348",
               "2216",
               "2449",
               "4046",
               "4066",
+              "5995",
               "6149",
               "6804",
               "6813",
@@ -8166,17 +8200,17 @@
               "10859",
               "11584",
               "8110",
-              "6819"
+              "2449"
             ],
             "bench": [
               "11655",
               "13268",
               "13269",
-              "13348",
-              "2449",
               "4066",
+              "5995",
               "6149",
               "6804",
+              "6819",
               "7528",
               "8121",
               "8147",
@@ -8190,11 +8224,11 @@
               "11655": 0.0,
               "13268": 0.0,
               "13269": 0.0,
-              "13348": 0.0,
               "2216": 0.0,
               "2449": 0.0,
               "4046": 0.0,
               "4066": 0.0,
+              "5995": 0.0,
               "6149": 0.0,
               "6804": 0.0,
               "6813": 0.0,
@@ -8217,11 +8251,11 @@
                 "Tyrone Tracy",
                 "Elijah Sarratt",
                 "Fernando Mendoza",
-                "J'Mari Taylor",
                 "Mike Evans",
                 "Stefon Diggs",
                 "Patrick Mahomes",
                 "Evan Engram",
+                "Justice Hill",
                 "Darius Slayton",
                 "Jordan Love",
                 "Jonathan Taylor",
@@ -8245,17 +8279,17 @@
                 "Sam LaPorta",
                 "Bucky Irving",
                 "Jake Ferguson",
-                "Michael Pittman"
+                "Stefon Diggs"
               ],
               "bench": [
                 "Tyrone Tracy",
                 "Elijah Sarratt",
                 "Fernando Mendoza",
-                "J'Mari Taylor",
-                "Stefon Diggs",
                 "Evan Engram",
+                "Justice Hill",
                 "Darius Slayton",
                 "Jordan Love",
+                "Michael Pittman",
                 "Najee Harris",
                 "Romeo Doubs",
                 "John Metchie",
@@ -10861,13 +10895,99 @@
             "waiver_budget": [],
             "settings": {},
             "metadata": {}
+          },
+          {
+            "week": 1,
+            "transaction_id": "1393305747772694528",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1786552485940,
+            "created_at": "2026-08-12T16:34:45.940000Z",
+            "status_updated": 1786552485940,
+            "status_updated_at": "2026-08-12T16:34:45.940000Z",
+            "creator_user_id": "464915162038530048",
+            "roster_ids": [
+              1
+            ],
+            "team_labels": [
+              "It’s Herbie Hancock"
+            ],
+            "consenter_ids": [
+              1
+            ],
+            "consenter_team_labels": [
+              "It’s Herbie Hancock"
+            ],
+            "adds": [
+              {
+                "player_id": "13296",
+                "player_name": "Caleb Douglas",
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "12540",
+                "player_name": "Chimere Dike",
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
+          },
+          {
+            "week": 1,
+            "transaction_id": "1393427452218310656",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1786581502540,
+            "created_at": "2026-08-13T00:38:22.540000Z",
+            "status_updated": 1786581502540,
+            "status_updated_at": "2026-08-13T00:38:22.540000Z",
+            "creator_user_id": "471415197991432192",
+            "roster_ids": [
+              3
+            ],
+            "team_labels": [
+              "Pol Hol"
+            ],
+            "consenter_ids": [
+              3
+            ],
+            "consenter_team_labels": [
+              "Pol Hol"
+            ],
+            "adds": [
+              {
+                "player_id": "5995",
+                "player_name": "Justice Hill",
+                "roster_id": 3,
+                "team_label": "Pol Hol"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "13348",
+                "player_name": "J'Mari Taylor",
+                "roster_id": 3,
+                "team_label": "Pol Hol"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
           }
         ],
         "counts": {
-          "transactions": 30,
+          "transactions": 32,
           "trades": 4,
           "waivers": 0,
-          "free_agent_moves": 25
+          "free_agent_moves": 27
         }
       }
     },
@@ -12160,6 +12280,92 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 1,
+        "transaction_id": "1393305747772694528",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1786552485940,
+        "created_at": "2026-08-12T16:34:45.940000Z",
+        "status_updated": 1786552485940,
+        "status_updated_at": "2026-08-12T16:34:45.940000Z",
+        "creator_user_id": "464915162038530048",
+        "roster_ids": [
+          1
+        ],
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "consenter_ids": [
+          1
+        ],
+        "consenter_team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "13296",
+            "player_name": "Caleb Douglas",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "12540",
+            "player_name": "Chimere Dike",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 1,
+        "transaction_id": "1393427452218310656",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1786581502540,
+        "created_at": "2026-08-13T00:38:22.540000Z",
+        "status_updated": 1786581502540,
+        "status_updated_at": "2026-08-13T00:38:22.540000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Pol Hol"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Pol Hol"
+        ],
+        "adds": [
+          {
+            "player_id": "5995",
+            "player_name": "Justice Hill",
+            "roster_id": 3,
+            "team_label": "Pol Hol"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13348",
+            "player_name": "J'Mari Taylor",
+            "roster_id": 3,
+            "team_label": "Pol Hol"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "trades": [
@@ -13422,21 +13628,107 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 1,
+        "transaction_id": "1393305747772694528",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1786552485940,
+        "created_at": "2026-08-12T16:34:45.940000Z",
+        "status_updated": 1786552485940,
+        "status_updated_at": "2026-08-12T16:34:45.940000Z",
+        "creator_user_id": "464915162038530048",
+        "roster_ids": [
+          1
+        ],
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "consenter_ids": [
+          1
+        ],
+        "consenter_team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "13296",
+            "player_name": "Caleb Douglas",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "12540",
+            "player_name": "Chimere Dike",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 1,
+        "transaction_id": "1393427452218310656",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1786581502540,
+        "created_at": "2026-08-13T00:38:22.540000Z",
+        "status_updated": 1786581502540,
+        "status_updated_at": "2026-08-13T00:38:22.540000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Pol Hol"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Pol Hol"
+        ],
+        "adds": [
+          {
+            "player_id": "5995",
+            "player_name": "Justice Hill",
+            "roster_id": 3,
+            "team_label": "Pol Hol"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13348",
+            "player_name": "J'Mari Taylor",
+            "roster_id": 3,
+            "team_label": "Pol Hol"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "counts": {
       "weeks": 1,
-      "transactions": 30,
+      "transactions": 32,
       "trades": 4,
       "waivers": 0,
-      "free_agent_moves": 25,
+      "free_agent_moves": 27,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 25,
+        "free_agent": 27,
         "trade": 4
       },
       "by_status": {
-        "complete": 30
+        "complete": 32
       }
     }
   },
@@ -17090,6 +17382,7 @@
       "bucky irving": "11584",
       "c.j. stroud": "9758",
       "cade otton": "8111",
+      "caleb douglas": "13296",
       "caleb williams": "11560",
       "calvin austin": "8125",
       "cam skattebo": "12481",
@@ -17099,7 +17392,6 @@
       "ceedee lamb": "6786",
       "chase brown": "9224",
       "chig okonkwo": "8210",
-      "chimere dike": "12540",
       "chris bell": "13311",
       "chris brazzell": "13353",
       "chris godwin": "4037",
@@ -17162,7 +17454,6 @@
       "isaiah davis": "11571",
       "isaiah likely": "8131",
       "isiah pacheco": "8205",
-      "j'mari taylor": "13348",
       "j.j. mccarthy": "11565",
       "j.k. dobbins": "6806",
       "ja'kobi lane": "13293",
@@ -17216,6 +17507,7 @@
       "josh downs": "9500",
       "josh jacobs": "5850",
       "joshua palmer": "7670",
+      "justice hill": "5995",
       "justin herbert": "6797",
       "justin jefferson": "6794",
       "juwan johnson": "7002",

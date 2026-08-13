@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-12T12:02:00.474582Z",
+  "generated_at": "2026-08-13T12:02:22.123659Z",
   "league_id": "1312581067286282240",
   "sport": "nfl",
   "season": "2026",
@@ -26,7 +26,7 @@
     {
       "path": "data/current/manifest.json",
       "exists": true,
-      "size_bytes": 2292
+      "size_bytes": 2293
     },
     {
       "path": "data/current/league_context.json",
@@ -41,17 +41,17 @@
     {
       "path": "data/current/rosters.json",
       "exists": true,
-      "size_bytes": 30575
+      "size_bytes": 30573
     },
     {
       "path": "data/current/matchups.json",
       "exists": true,
-      "size_bytes": 45463
+      "size_bytes": 45460
     },
     {
       "path": "data/current/transactions.json",
       "exists": true,
-      "size_bytes": 99716
+      "size_bytes": 106273
     },
     {
       "path": "data/current/drafts.json",
@@ -66,22 +66,22 @@
     {
       "path": "data/current/player_lookup_compact.json",
       "exists": true,
-      "size_bytes": 107749
+      "size_bytes": 108471
     },
     {
       "path": "data/current/player_id_index.json",
       "exists": true,
-      "size_bytes": 20354
+      "size_bytes": 20498
     },
     {
       "path": "data/current/chatgpt_summary.json",
       "exists": true,
-      "size_bytes": 56313
+      "size_bytes": 54585
     },
     {
       "path": "data/current/chatgpt_bundle.json",
       "exists": true,
-      "size_bytes": 463512
+      "size_bytes": 471437
     }
   ],
   "counts": {
@@ -90,13 +90,13 @@
     "included_weeks": 1,
     "matchups": 6,
     "matchup_roster_results": 12,
-    "required_player_ids": 302,
-    "compact_player_lookup": 302,
+    "required_player_ids": 304,
+    "compact_player_lookup": 304,
     "missing_player_ids": 0,
-    "transactions": 30,
+    "transactions": 32,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 25,
+    "free_agent_moves": 27,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -108,5 +108,5 @@
     "errors": [],
     "missing_player_ids": []
   },
-  "summary_generated_at": "2026-08-12T12:02:01.566772Z"
+  "summary_generated_at": "2026-08-13T12:02:23.189235Z"
 }

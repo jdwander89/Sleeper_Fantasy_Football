@@ -1291,13 +1291,99 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1393305747772694528",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1786552485940,
+          "created_at": "2026-08-12T16:34:45.940000Z",
+          "status_updated": 1786552485940,
+          "status_updated_at": "2026-08-12T16:34:45.940000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [
+            {
+              "player_id": "13296",
+              "player_name": "Caleb Douglas",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "12540",
+              "player_name": "Chimere Dike",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1393427452218310656",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1786581502540,
+          "created_at": "2026-08-13T00:38:22.540000Z",
+          "status_updated": 1786581502540,
+          "status_updated_at": "2026-08-13T00:38:22.540000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Pol Hol"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Pol Hol"
+          ],
+          "adds": [
+            {
+              "player_id": "5995",
+              "player_name": "Justice Hill",
+              "roster_id": 3,
+              "team_label": "Pol Hol"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "13348",
+              "player_name": "J'Mari Taylor",
+              "roster_id": 3,
+              "team_label": "Pol Hol"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 30,
+        "transactions": 32,
         "trades": 4,
         "waivers": 0,
-        "free_agent_moves": 25
+        "free_agent_moves": 27
       }
     }
   },
@@ -2590,6 +2676,92 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1393305747772694528",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786552485940,
+      "created_at": "2026-08-12T16:34:45.940000Z",
+      "status_updated": 1786552485940,
+      "status_updated_at": "2026-08-12T16:34:45.940000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "13296",
+          "player_name": "Caleb Douglas",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12540",
+          "player_name": "Chimere Dike",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1393427452218310656",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786581502540,
+      "created_at": "2026-08-13T00:38:22.540000Z",
+      "status_updated": 1786581502540,
+      "status_updated_at": "2026-08-13T00:38:22.540000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Pol Hol"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Pol Hol"
+      ],
+      "adds": [
+        {
+          "player_id": "5995",
+          "player_name": "Justice Hill",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13348",
+          "player_name": "J'Mari Taylor",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -3852,21 +4024,107 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1393305747772694528",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786552485940,
+      "created_at": "2026-08-12T16:34:45.940000Z",
+      "status_updated": 1786552485940,
+      "status_updated_at": "2026-08-12T16:34:45.940000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "13296",
+          "player_name": "Caleb Douglas",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12540",
+          "player_name": "Chimere Dike",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1393427452218310656",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1786581502540,
+      "created_at": "2026-08-13T00:38:22.540000Z",
+      "status_updated": 1786581502540,
+      "status_updated_at": "2026-08-13T00:38:22.540000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Pol Hol"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Pol Hol"
+      ],
+      "adds": [
+        {
+          "player_id": "5995",
+          "player_name": "Justice Hill",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13348",
+          "player_name": "J'Mari Taylor",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 1,
-    "transactions": 30,
+    "transactions": 32,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 25,
+    "free_agent_moves": 27,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 25,
+      "free_agent": 27,
       "trade": 4
     },
     "by_status": {
-      "complete": 30
+      "complete": 32
     }
   }
 }

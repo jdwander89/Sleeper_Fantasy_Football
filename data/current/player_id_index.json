@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-12T12:02:01.488541Z",
+  "generated_at": "2026-08-13T12:02:23.113304Z",
   "counts": {
-    "required_player_ids": 302,
-    "resolved_player_ids": 302,
+    "required_player_ids": 304,
+    "resolved_player_ids": 304,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -42,6 +42,7 @@
       "c.j. stroud": "9758",
       "cade klubnik": "13303",
       "cade otton": "8111",
+      "caleb douglas": "13296",
       "caleb williams": "11560",
       "calvin austin": "8125",
       "cam skattebo": "12481",
@@ -176,6 +177,7 @@
       "josh downs": "9500",
       "josh jacobs": "5850",
       "joshua palmer": "7670",
+      "justice hill": "5995",
       "justin herbert": "6797",
       "justin jefferson": "6794",
       "juwan johnson": "7002",
@@ -339,6 +341,7 @@
         "3198",
         "4881",
         "5012",
+        "5995",
         "7571",
         "9997"
       ],
@@ -362,6 +365,7 @@
         "12526",
         "12531",
         "13353",
+        "2505",
         "7594",
         "8147",
         "9228"
@@ -519,6 +523,7 @@
         "11610",
         "11643",
         "12495",
+        "13296",
         "13311",
         "13338",
         "8161",
@@ -770,6 +775,7 @@
         "5850",
         "5892",
         "5967",
+        "5995",
         "6039",
         "6130",
         "6790",
@@ -903,6 +909,7 @@
         "13285",
         "13293",
         "13294",
+        "13296",
         "13298",
         "13301",
         "13311",

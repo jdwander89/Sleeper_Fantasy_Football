@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-12T12:02:01.566772Z",
-    "source_snapshot_generated_at": "2026-08-12T12:02:00.474582Z",
+    "generated_at": "2026-08-13T12:02:23.189235Z",
+    "source_snapshot_generated_at": "2026-08-13T12:02:22.123659Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 1,
     "matchups": 6,
     "matchup_roster_results": 12,
-    "required_player_ids": 302,
-    "compact_player_lookup": 302,
+    "required_player_ids": 304,
+    "compact_player_lookup": 304,
     "missing_player_ids": 0,
-    "transactions": 30,
+    "transactions": 32,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 25,
+    "free_agent_moves": 27,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -349,11 +349,11 @@
           "injury_status": null
         },
         {
-          "player_id": "6819",
-          "name": "Michael Pittman",
-          "team": "PIT",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "team": "WAS",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": []
@@ -843,7 +843,7 @@
           "name": "Emeka Egbuka",
           "team": "TB",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8130",
@@ -1394,17 +1394,17 @@
   "transactions": {
     "counts": {
       "weeks": 1,
-      "transactions": 30,
+      "transactions": 32,
       "trades": 4,
       "waivers": 0,
-      "free_agent_moves": 25,
+      "free_agent_moves": 27,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 25,
+        "free_agent": 27,
         "trade": 4
       },
       "by_status": {
-        "complete": 30
+        "complete": 32
       }
     },
     "activity_by_roster_id": {
@@ -1427,10 +1427,10 @@
         "free_agent_moves": 3
       },
       "1": {
-        "transactions": 6,
+        "transactions": 7,
         "trades": 2,
         "waivers": 0,
-        "free_agent_moves": 4
+        "free_agent_moves": 5
       },
       "11": {
         "transactions": 6,
@@ -1451,10 +1451,10 @@
         "free_agent_moves": 0
       },
       "3": {
-        "transactions": 2,
+        "transactions": 3,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 2
+        "free_agent_moves": 3
       },
       "6": {
         "transactions": 1,
@@ -1470,6 +1470,60 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 1,
+        "transaction_id": "1393427452218310656",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-08-13T00:38:22.540000Z",
+        "team_labels": [
+          "Pol Hol"
+        ],
+        "adds": [
+          {
+            "player_id": "5995",
+            "player_name": "Justice Hill",
+            "roster_id": 3,
+            "team_label": "Pol Hol"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13348",
+            "player_name": "J'Mari Taylor",
+            "roster_id": 3,
+            "team_label": "Pol Hol"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1393305747772694528",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-08-12T16:34:45.940000Z",
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "13296",
+            "player_name": "Caleb Douglas",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "12540",
+            "player_name": "Chimere Dike",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 1,
         "transaction_id": "1393215897555980288",
@@ -2062,110 +2116,6 @@
             "original_team_label": "A B CeeDee",
             "previous_owner_id": 2,
             "previous_owner_team_label": "A B CeeDee",
-            "owner_id": 1,
-            "owner_team_label": "It’s Herbie Hancock"
-          }
-        ]
-      },
-      {
-        "week": 1,
-        "transaction_id": "1365529922608566272",
-        "type": "trade",
-        "status": "complete",
-        "created_at": "2026-05-28T01:03:33.170000Z",
-        "team_labels": [
-          "Commish is a bitch",
-          "gullickson"
-        ],
-        "adds": [],
-        "drops": [],
-        "draft_picks": [
-          {
-            "season": "2026",
-            "round": 3,
-            "original_roster_id": 12,
-            "original_team_label": "gullickson",
-            "previous_owner_id": 12,
-            "previous_owner_team_label": "gullickson",
-            "owner_id": 7,
-            "owner_team_label": "Commish is a bitch"
-          },
-          {
-            "season": "2026",
-            "round": 3,
-            "original_roster_id": 7,
-            "original_team_label": "Commish is a bitch",
-            "previous_owner_id": 7,
-            "previous_owner_team_label": "Commish is a bitch",
-            "owner_id": 12,
-            "owner_team_label": "gullickson"
-          },
-          {
-            "season": "2027",
-            "round": 4,
-            "original_roster_id": 7,
-            "original_team_label": "Commish is a bitch",
-            "previous_owner_id": 7,
-            "previous_owner_team_label": "Commish is a bitch",
-            "owner_id": 12,
-            "owner_team_label": "gullickson"
-          }
-        ]
-      },
-      {
-        "week": 1,
-        "transaction_id": "1364777189010059264",
-        "type": "trade",
-        "status": "complete",
-        "created_at": "2026-05-25T23:12:27.496000Z",
-        "team_labels": [
-          "It’s Herbie Hancock",
-          "MOJO"
-        ],
-        "adds": [
-          {
-            "player_id": "7526",
-            "player_name": "Jaylen Waddle",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "7526",
-            "player_name": "Jaylen Waddle",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "draft_picks": [
-          {
-            "season": "2027",
-            "round": 2,
-            "original_roster_id": 1,
-            "original_team_label": "It’s Herbie Hancock",
-            "previous_owner_id": 1,
-            "previous_owner_team_label": "It’s Herbie Hancock",
-            "owner_id": 11,
-            "owner_team_label": "MOJO"
-          },
-          {
-            "season": "2026",
-            "round": 2,
-            "original_roster_id": 11,
-            "original_team_label": "MOJO",
-            "previous_owner_id": 11,
-            "previous_owner_team_label": "MOJO",
-            "owner_id": 1,
-            "owner_team_label": "It’s Herbie Hancock"
-          },
-          {
-            "season": "2027",
-            "round": 1,
-            "original_roster_id": 11,
-            "original_team_label": "MOJO",
-            "previous_owner_id": 11,
-            "previous_owner_team_label": "MOJO",
             "owner_id": 1,
             "owner_team_label": "It’s Herbie Hancock"
           }

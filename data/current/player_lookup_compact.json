@@ -1251,7 +1251,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 1,
     "age": 23,
     "depth_chart_position": "LWR",
@@ -1512,23 +1512,6 @@
     "age": 23,
     "depth_chart_position": "SWR",
     "search_rank": 190
-  },
-  "12540": {
-    "player_id": "12540",
-    "name": "Chimere Dike",
-    "first_name": "Chimere",
-    "last_name": "Dike",
-    "team": "TEN",
-    "position": "WR",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "status": "Active",
-    "injury_status": null,
-    "years_exp": 1,
-    "age": 24,
-    "depth_chart_position": "SWR",
-    "search_rank": 175
   },
   "12543": {
     "player_id": "12543",
@@ -1887,6 +1870,23 @@
     "depth_chart_position": "SWR",
     "search_rank": 89
   },
+  "13296": {
+    "player_id": "13296",
+    "name": "Caleb Douglas",
+    "first_name": "Caleb",
+    "last_name": "Douglas",
+    "team": "MIA",
+    "position": "WR",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "status": "Active",
+    "injury_status": null,
+    "years_exp": 0,
+    "age": 22,
+    "depth_chart_position": "RWR",
+    "search_rank": 999
+  },
   "13298": {
     "player_id": "13298",
     "name": "KC Concepcion",
@@ -2090,23 +2090,6 @@
     "age": 22,
     "depth_chart_position": "RB",
     "search_rank": 176
-  },
-  "13348": {
-    "player_id": "13348",
-    "name": "J'Mari Taylor",
-    "first_name": "J'Mari",
-    "last_name": "Taylor",
-    "team": "JAX",
-    "position": "RB",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "status": "Active",
-    "injury_status": null,
-    "years_exp": 0,
-    "age": 24,
-    "depth_chart_position": "RB",
-    "search_rank": 999
   },
   "13349": {
     "player_id": "13349",
@@ -2765,7 +2748,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 9,
     "age": 30,
     "depth_chart_position": "RB",
@@ -3161,6 +3144,23 @@
     "age": 29,
     "depth_chart_position": "RB",
     "search_rank": 63
+  },
+  "5995": {
+    "player_id": "5995",
+    "name": "Justice Hill",
+    "first_name": "Justice",
+    "last_name": "Hill",
+    "team": "BAL",
+    "position": "RB",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "status": "Active",
+    "injury_status": null,
+    "years_exp": 7,
+    "age": 28,
+    "depth_chart_position": "RB",
+    "search_rank": 999
   },
   "6039": {
     "player_id": "6039",
@@ -4896,6 +4896,23 @@
     "depth_chart_position": "SWR",
     "search_rank": 999
   },
+  "12540": {
+    "player_id": "12540",
+    "name": "Chimere Dike",
+    "first_name": "Chimere",
+    "last_name": "Dike",
+    "team": "TEN",
+    "position": "WR",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "status": "Active",
+    "injury_status": null,
+    "years_exp": 1,
+    "age": 24,
+    "depth_chart_position": "SWR",
+    "search_rank": 175
+  },
   "13303": {
     "player_id": "13303",
     "name": "Cade Klubnik",
@@ -4930,22 +4947,39 @@
     "depth_chart_position": "SWR",
     "search_rank": 999
   },
+  "13348": {
+    "player_id": "13348",
+    "name": "J'Mari Taylor",
+    "first_name": "J'Mari",
+    "last_name": "Taylor",
+    "team": "JAX",
+    "position": "RB",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "status": "Active",
+    "injury_status": null,
+    "years_exp": 0,
+    "age": 24,
+    "depth_chart_position": "RB",
+    "search_rank": 999
+  },
   "2505": {
     "player_id": "2505",
     "name": "Darren Waller",
     "first_name": "Darren",
     "last_name": "Waller",
-    "team": null,
+    "team": "CAR",
     "position": "TE",
     "fantasy_positions": [
       "TE"
     ],
     "status": "Active",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 11,
     "age": 33,
-    "depth_chart_position": null,
-    "search_rank": 249
+    "depth_chart_position": "TE",
+    "search_rank": 999
   },
   "4098": {
     "player_id": "4098",
