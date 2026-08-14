@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-13T12:02:23.189235Z",
-    "source_snapshot_generated_at": "2026-08-13T12:02:22.123659Z",
+    "generated_at": "2026-08-14T11:59:52.958820Z",
+    "source_snapshot_generated_at": "2026-08-14T11:59:51.908135Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -147,7 +147,7 @@
           "name": "Jordyn Tyson",
           "team": "NO",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11624",
@@ -442,7 +442,7 @@
           "name": "Chuba Hubbard",
           "team": "CAR",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11631",
@@ -1214,7 +1214,7 @@
           "name": "Jeremiyah Love",
           "team": "ARI",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "10232",
@@ -1228,7 +1228,7 @@
           "name": "Zay Flowers",
           "team": "BAL",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5012",
