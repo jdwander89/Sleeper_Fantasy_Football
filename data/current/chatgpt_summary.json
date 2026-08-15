@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-14T11:59:52.958820Z",
-    "source_snapshot_generated_at": "2026-08-14T11:59:51.908135Z",
+    "generated_at": "2026-08-15T11:37:42.732129Z",
+    "source_snapshot_generated_at": "2026-08-15T11:37:41.412247Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -496,7 +496,7 @@
           "name": "Jahmyr Gibbs",
           "team": "DET",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "9224",
