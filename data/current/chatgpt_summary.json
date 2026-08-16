@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-15T11:37:42.732129Z",
-    "source_snapshot_generated_at": "2026-08-15T11:37:41.412247Z",
+    "generated_at": "2026-08-16T11:38:28.096739Z",
+    "source_snapshot_generated_at": "2026-08-16T11:38:26.817779Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -49,9 +49,9 @@
   "counts": {
     "users": 12,
     "rosters": 12,
-    "included_weeks": 1,
-    "matchups": 6,
-    "matchup_roster_results": 12,
+    "included_weeks": 2,
+    "matchups": 12,
+    "matchup_roster_results": 24,
     "required_player_ids": 304,
     "compact_player_lookup": 304,
     "missing_player_ids": 0,
@@ -133,7 +133,7 @@
           "name": "Jordan Addison",
           "team": "MIN",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "10236",
@@ -325,7 +325,7 @@
           "name": "Mike Evans",
           "team": "SF",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "10859",
@@ -403,11 +403,11 @@
           "injury_status": null
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
-          "team": "TEN",
+          "player_id": "7594",
+          "name": "Chuba Hubbard",
+          "team": "CAR",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9493",
@@ -438,11 +438,11 @@
           "injury_status": null
         },
         {
-          "player_id": "7594",
-          "name": "Chuba Hubbard",
-          "team": "CAR",
-          "position": "RB",
-          "injury_status": "Questionable"
+          "player_id": "4037",
+          "name": "Chris Godwin",
+          "team": "TB",
+          "position": "WR",
+          "injury_status": null
         },
         {
           "player_id": "11631",
@@ -554,7 +554,7 @@
           "name": "Trey Benson",
           "team": "ARI",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12497",
@@ -1256,7 +1256,7 @@
           "name": "DJ Moore",
           "team": "BUF",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": []
@@ -1264,7 +1264,8 @@
   ],
   "matchups": {
     "included_weeks": [
-      1
+      1,
+      2
     ],
     "by_week": {
       "1": {
@@ -1383,17 +1384,134 @@
           "matchups": 6,
           "roster_results": 12
         }
+      },
+      "2": {
+        "week": 2,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
       }
     },
     "counts": {
-      "weeks": 1,
-      "matchups": 6,
-      "roster_results": 12
+      "weeks": 2,
+      "matchups": 12,
+      "roster_results": 24
     }
   },
   "transactions": {
     "counts": {
-      "weeks": 1,
+      "weeks": 2,
       "transactions": 32,
       "trades": 4,
       "waivers": 0,
