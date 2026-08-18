@@ -18,6 +18,7 @@
       "13296",
       "13302",
       "13305",
+      "13329",
       "13347",
       "13349",
       "13402",
@@ -34,7 +35,7 @@
       "8112",
       "9756",
       "10236",
-      "13281",
+      "8136",
       "11624",
       "12501"
     ],
@@ -47,19 +48,21 @@
       "13296",
       "13302",
       "13305",
+      "13329",
       "13347",
       "13349",
       "13402",
       "7523",
-      "8136",
       "9504"
     ],
-    "reserve": [],
+    "reserve": [
+      "13281"
+    ],
     "taxi": [],
-    "player_count": 23,
+    "player_count": 24,
     "starter_count": 9,
     "bench_count": 14,
-    "reserve_count": 0,
+    "reserve_count": 1,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -78,6 +81,7 @@
         "Caleb Douglas",
         "Adam Randall",
         "Mike Washington",
+        "Malik Benson",
         "Demond Claiborne",
         "Eli Stowers",
         "Skyler Bell",
@@ -94,7 +98,7 @@
         "Drake London",
         "Jordan Addison",
         "Dalton Kincaid",
-        "Jordyn Tyson",
+        "Rachaad White",
         "Xavier Worthy",
         "Matthew Golden"
       ],
@@ -107,14 +111,16 @@
         "Caleb Douglas",
         "Adam Randall",
         "Mike Washington",
+        "Malik Benson",
         "Demond Claiborne",
         "Eli Stowers",
         "Skyler Bell",
         "Trevor Lawrence",
-        "Rachaad White",
         "Kayshon Boutte"
       ],
-      "reserve": [],
+      "reserve": [
+        "Jordyn Tyson"
+      ],
       "taxi": []
     },
     "settings": {
@@ -1269,15 +1275,16 @@
       "8122",
       "8126",
       "8143",
-      "9481",
       "9511"
     ],
-    "reserve": [],
+    "reserve": [
+      "9481"
+    ],
     "taxi": [],
     "player_count": 24,
     "starter_count": 9,
-    "bench_count": 15,
-    "reserve_count": 0,
+    "bench_count": 14,
+    "reserve_count": 1,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -1331,10 +1338,11 @@
         "Zonovan Knight",
         "Wan'Dale Robinson",
         "Jerome Ford",
-        "Luke Musgrave",
         "Keaton Mitchell"
       ],
-      "reserve": [],
+      "reserve": [
+        "Luke Musgrave"
+      ],
       "taxi": []
     },
     "settings": {

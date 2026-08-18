@@ -1377,13 +1377,49 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1395381200855502848",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1787047312514,
+          "created_at": "2026-08-18T10:01:52.514000Z",
+          "status_updated": 1787047312514,
+          "status_updated_at": "2026-08-18T10:01:52.514000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [
+            {
+              "player_id": "13329",
+              "player_name": "Malik Benson",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 32,
+        "transactions": 33,
         "trades": 4,
         "waivers": 0,
-        "free_agent_moves": 27
+        "free_agent_moves": 28
       }
     },
     "2": {
@@ -2772,6 +2808,42 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1395381200855502848",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787047312514,
+      "created_at": "2026-08-18T10:01:52.514000Z",
+      "status_updated": 1787047312514,
+      "status_updated_at": "2026-08-18T10:01:52.514000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "13329",
+          "player_name": "Malik Benson",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -4120,21 +4192,57 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1395381200855502848",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787047312514,
+      "created_at": "2026-08-18T10:01:52.514000Z",
+      "status_updated": 1787047312514,
+      "status_updated_at": "2026-08-18T10:01:52.514000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "13329",
+          "player_name": "Malik Benson",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 2,
-    "transactions": 32,
+    "transactions": 33,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 27,
+    "free_agent_moves": 28,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 27,
+      "free_agent": 28,
       "trade": 4
     },
     "by_status": {
-      "complete": 32
+      "complete": 33
     }
   }
 }

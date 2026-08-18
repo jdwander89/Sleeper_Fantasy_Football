@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-17T11:44:04.502911Z",
-    "source_snapshot_generated_at": "2026-08-17T11:44:03.409892Z",
+    "generated_at": "2026-08-18T11:44:26.940778Z",
+    "source_snapshot_generated_at": "2026-08-18T11:44:24.951212Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 2,
     "matchups": 12,
     "matchup_roster_results": 24,
-    "required_player_ids": 304,
-    "compact_player_lookup": 304,
+    "required_player_ids": 305,
+    "compact_player_lookup": 305,
     "missing_player_ids": 0,
-    "transactions": 32,
+    "transactions": 33,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 27,
+    "free_agent_moves": 28,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -88,16 +88,16 @@
         "raw_fpts_against_decimal": null
       },
       "counts": {
-        "players": 23,
+        "players": 24,
         "starters": 9,
         "bench": 14,
-        "reserve": 0
+        "reserve": 1
       },
       "position_counts": {
         "QB": 3,
         "RB": 9,
         "TE": 3,
-        "WR": 8
+        "WR": 9
       },
       "starters": [
         {
@@ -143,11 +143,11 @@
           "injury_status": null
         },
         {
-          "player_id": "13281",
-          "name": "Jordyn Tyson",
-          "team": "NO",
-          "position": "WR",
-          "injury_status": "Questionable"
+          "player_id": "8136",
+          "name": "Rachaad White",
+          "team": "WAS",
+          "position": "RB",
+          "injury_status": null
         },
         {
           "player_id": "11624",
@@ -164,7 +164,15 @@
           "injury_status": null
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "13281",
+          "name": "Jordyn Tyson",
+          "team": "NO",
+          "position": "WR",
+          "injury_status": "Doubtful"
+        }
+      ]
     },
     {
       "roster_id": 2,
@@ -400,7 +408,7 @@
           "name": "Breece Hall",
           "team": "NYJ",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7594",
@@ -435,7 +443,7 @@
           "name": "Carnell Tate",
           "team": "TEN",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "4037",
@@ -531,7 +539,7 @@
           "name": "Jameson Williams",
           "team": "DET",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11620",
@@ -621,7 +629,7 @@
           "name": "Garrett Wilson",
           "team": "NYJ",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11628",
@@ -776,7 +784,7 @@
           "name": "Chris Bell",
           "team": "MIA",
           "position": "WR",
-          "injury_status": "PUP"
+          "injury_status": "Questionable"
         }
       ]
     },
@@ -993,8 +1001,8 @@
       "counts": {
         "players": 24,
         "starters": 9,
-        "bench": 15,
-        "reserve": 0
+        "bench": 14,
+        "reserve": 1
       },
       "position_counts": {
         "QB": 2,
@@ -1067,7 +1075,15 @@
           "injury_status": null
         }
       ],
-      "reserve": []
+      "reserve": [
+        {
+          "player_id": "9481",
+          "name": "Luke Musgrave",
+          "team": "GB",
+          "position": "TE",
+          "injury_status": "PUP"
+        }
+      ]
     },
     {
       "roster_id": 11,
@@ -1512,17 +1528,17 @@
   "transactions": {
     "counts": {
       "weeks": 2,
-      "transactions": 32,
+      "transactions": 33,
       "trades": 4,
       "waivers": 0,
-      "free_agent_moves": 27,
+      "free_agent_moves": 28,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 27,
+        "free_agent": 28,
         "trade": 4
       },
       "by_status": {
-        "complete": 32
+        "complete": 33
       }
     },
     "activity_by_roster_id": {
@@ -1545,10 +1561,10 @@
         "free_agent_moves": 3
       },
       "1": {
-        "transactions": 7,
+        "transactions": 8,
         "trades": 2,
         "waivers": 0,
-        "free_agent_moves": 5
+        "free_agent_moves": 6
       },
       "11": {
         "transactions": 6,
@@ -1588,6 +1604,26 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 1,
+        "transaction_id": "1395381200855502848",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-08-18T10:01:52.514000Z",
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "13329",
+            "player_name": "Malik Benson",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
       {
         "week": 1,
         "transaction_id": "1393427452218310656",
@@ -2167,75 +2203,6 @@
             "previous_owner_team_label": "A B CeeDee",
             "owner_id": 10,
             "owner_team_label": "Goin in Ra"
-          }
-        ]
-      },
-      {
-        "week": 1,
-        "transaction_id": "1365775464500576256",
-        "type": "trade",
-        "status": "complete",
-        "created_at": "2026-05-28T17:19:14.920000Z",
-        "team_labels": [
-          "It’s Herbie Hancock",
-          "A B CeeDee"
-        ],
-        "adds": [
-          {
-            "player_id": "8408",
-            "player_name": "Jordan Mason",
-            "roster_id": 2,
-            "team_label": "A B CeeDee"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "8408",
-            "player_name": "Jordan Mason",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "draft_picks": [
-          {
-            "season": "2026",
-            "round": 5,
-            "original_roster_id": 1,
-            "original_team_label": "It’s Herbie Hancock",
-            "previous_owner_id": 1,
-            "previous_owner_team_label": "It’s Herbie Hancock",
-            "owner_id": 2,
-            "owner_team_label": "A B CeeDee"
-          },
-          {
-            "season": "2026",
-            "round": 3,
-            "original_roster_id": 2,
-            "original_team_label": "A B CeeDee",
-            "previous_owner_id": 2,
-            "previous_owner_team_label": "A B CeeDee",
-            "owner_id": 1,
-            "owner_team_label": "It’s Herbie Hancock"
-          },
-          {
-            "season": "2026",
-            "round": 4,
-            "original_roster_id": 2,
-            "original_team_label": "A B CeeDee",
-            "previous_owner_id": 2,
-            "previous_owner_team_label": "A B CeeDee",
-            "owner_id": 1,
-            "owner_team_label": "It’s Herbie Hancock"
-          },
-          {
-            "season": "2027",
-            "round": 3,
-            "original_roster_id": 2,
-            "original_team_label": "A B CeeDee",
-            "previous_owner_id": 2,
-            "previous_owner_team_label": "A B CeeDee",
-            "owner_id": 1,
-            "owner_team_label": "It’s Herbie Hancock"
           }
         ]
       }

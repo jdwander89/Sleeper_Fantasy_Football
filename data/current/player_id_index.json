@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-17T11:44:04.425018Z",
+  "generated_at": "2026-08-18T11:44:26.875321Z",
   "counts": {
-    "required_player_ids": 304,
-    "resolved_player_ids": 304,
+    "required_player_ids": 305,
+    "resolved_player_ids": 305,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -209,6 +209,7 @@
       "mack hollins": "4177",
       "makai lemon": "13294",
       "malachi fields": "13285",
+      "malik benson": "13329",
       "malik davis": "8800",
       "malik nabers": "11632",
       "malik washington": "11610",
@@ -516,6 +517,7 @@
         "12527",
         "13269",
         "13305",
+        "13329",
         "8180",
         "9482"
       ],
@@ -915,6 +917,7 @@
         "13311",
         "13317",
         "13320",
+        "13329",
         "13338",
         "13346",
         "13353",
