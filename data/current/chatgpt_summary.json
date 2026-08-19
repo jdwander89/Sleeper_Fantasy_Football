@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-18T11:44:26.940778Z",
-    "source_snapshot_generated_at": "2026-08-18T11:44:24.951212Z",
+    "generated_at": "2026-08-19T11:44:00.956432Z",
+    "source_snapshot_generated_at": "2026-08-19T11:44:00.011294Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -265,7 +265,7 @@
           "name": "Parker Washington",
           "team": "JAX",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": []
@@ -333,7 +333,7 @@
           "name": "Mike Evans",
           "team": "SF",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "10859",
@@ -569,7 +569,7 @@
           "name": "Tory Horton",
           "team": "SEA",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ]
     },
@@ -629,7 +629,7 @@
           "name": "Garrett Wilson",
           "team": "NYJ",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11628",
@@ -657,7 +657,7 @@
           "name": "J.K. Dobbins",
           "team": "DEN",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "4199",
