@@ -22,10 +22,10 @@
       "13347",
       "13349",
       "13402",
+      "13421",
       "7523",
       "8112",
       "8136",
-      "9504",
       "9756"
     ],
     "starters": [
@@ -52,8 +52,8 @@
       "13347",
       "13349",
       "13402",
-      "7523",
-      "9504"
+      "13421",
+      "7523"
     ],
     "reserve": [
       "13281"
@@ -85,10 +85,10 @@
         "Demond Claiborne",
         "Eli Stowers",
         "Skyler Bell",
+        "Eli Raridon",
         "Trevor Lawrence",
         "Drake London",
         "Rachaad White",
-        "Kayshon Boutte",
         "Jordan Addison"
       ],
       "starters": [
@@ -115,8 +115,8 @@
         "Demond Claiborne",
         "Eli Stowers",
         "Skyler Bell",
-        "Trevor Lawrence",
-        "Kayshon Boutte"
+        "Eli Raridon",
+        "Trevor Lawrence"
       ],
       "reserve": [
         "Jordyn Tyson"
@@ -951,6 +951,7 @@
     "roster_id": 8,
     "owner_user_id": "471457570825957376",
     "players": [
+      "11199",
       "11435",
       "11564",
       "11569",
@@ -984,15 +985,16 @@
       "12514",
       "8130",
       "7611",
-      "8142"
+      "8142",
+      "9500"
     ],
     "bench": [
+      "11199",
       "11435",
       "11569",
       "11581",
       "11630",
       "11646",
-      "12484",
       "12521",
       "12531",
       "13270",
@@ -1000,20 +1002,21 @@
       "13346",
       "6797",
       "8125",
-      "8131",
-      "9500"
+      "8131"
     ],
     "reserve": [
+      "12484",
       "9753"
     ],
     "taxi": [],
-    "player_count": 24,
+    "player_count": 25,
     "starter_count": 9,
-    "bench_count": 15,
-    "reserve_count": 1,
+    "bench_count": 14,
+    "reserve_count": 2,
     "taxi_count": 0,
     "display": {
       "players": [
+        "Emari Demercado",
         "Emanuel Wilson",
         "Drake Maye",
         "Jarquez Hunter",
@@ -1047,15 +1050,16 @@
         "Emeka Egbuka",
         "Trey McBride",
         "Rhamondre Stevenson",
-        "Alec Pierce"
+        "Alec Pierce",
+        "Josh Downs"
       ],
       "bench": [
+        "Emari Demercado",
         "Emanuel Wilson",
         "Jarquez Hunter",
         "MarShawn Lloyd",
         "Roman Wilson",
         "Jalen Coker",
-        "Jayden Higgins",
         "Elijah Arroyo",
         "Trevor Etienne",
         "CJ Daniels",
@@ -1063,10 +1067,10 @@
         "Denzel Boston",
         "Justin Herbert",
         "Calvin Austin",
-        "Isaiah Likely",
-        "Josh Downs"
+        "Isaiah Likely"
       ],
       "reserve": [
+        "Jayden Higgins",
         "Zach Charbonnet"
       ],
       "taxi": []

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-19T11:44:00.956432Z",
-    "source_snapshot_generated_at": "2026-08-19T11:44:00.011294Z",
+    "generated_at": "2026-08-20T11:46:27.073624Z",
+    "source_snapshot_generated_at": "2026-08-20T11:46:25.677789Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 2,
     "matchups": 12,
     "matchup_roster_results": 24,
-    "required_player_ids": 305,
-    "compact_player_lookup": 305,
+    "required_player_ids": 307,
+    "compact_player_lookup": 307,
     "missing_player_ids": 0,
-    "transactions": 33,
+    "transactions": 35,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 28,
+    "free_agent_moves": 30,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -96,8 +96,8 @@
       "position_counts": {
         "QB": 3,
         "RB": 9,
-        "TE": 3,
-        "WR": 9
+        "TE": 4,
+        "WR": 8
       },
       "starters": [
         {
@@ -147,7 +147,7 @@
           "name": "Rachaad White",
           "team": "WAS",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11624",
@@ -539,7 +539,7 @@
           "name": "Jameson Williams",
           "team": "DET",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11620",
@@ -754,7 +754,7 @@
           "name": "Tyler Warren",
           "team": "IND",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8167",
@@ -806,14 +806,14 @@
         "raw_fpts_against_decimal": null
       },
       "counts": {
-        "players": 24,
-        "starters": 8,
-        "bench": 15,
-        "reserve": 1
+        "players": 25,
+        "starters": 9,
+        "bench": 14,
+        "reserve": 2
       },
       "position_counts": {
         "QB": 2,
-        "RB": 8,
+        "RB": 9,
         "TE": 3,
         "WR": 11
       },
@@ -873,9 +873,23 @@
           "team": "IND",
           "position": "WR",
           "injury_status": "PUP"
+        },
+        {
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "team": "IND",
+          "position": "WR",
+          "injury_status": null
         }
       ],
       "reserve": [
+        {
+          "player_id": "12484",
+          "name": "Jayden Higgins",
+          "team": "HOU",
+          "position": "WR",
+          "injury_status": "IR"
+        },
         {
           "player_id": "9753",
           "name": "Zach Charbonnet",
@@ -1148,7 +1162,7 @@
           "name": "Jaylen Waddle",
           "team": "DEN",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11604",
@@ -1265,7 +1279,7 @@
           "name": "Quinshon Judkins",
           "team": "CLE",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "4983",
@@ -1528,17 +1542,17 @@
   "transactions": {
     "counts": {
       "weeks": 2,
-      "transactions": 33,
+      "transactions": 35,
       "trades": 4,
       "waivers": 0,
-      "free_agent_moves": 28,
+      "free_agent_moves": 30,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 28,
+        "free_agent": 30,
         "trade": 4
       },
       "by_status": {
-        "complete": 33
+        "complete": 35
       }
     },
     "activity_by_roster_id": {
@@ -1561,10 +1575,10 @@
         "free_agent_moves": 3
       },
       "1": {
-        "transactions": 8,
+        "transactions": 9,
         "trades": 2,
         "waivers": 0,
-        "free_agent_moves": 6
+        "free_agent_moves": 7
       },
       "11": {
         "transactions": 6,
@@ -1601,9 +1615,62 @@
         "trades": 0,
         "waivers": 0,
         "free_agent_moves": 1
+      },
+      "8": {
+        "transactions": 1,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 1
       }
     },
     "recent_transactions": [
+      {
+        "week": 1,
+        "transaction_id": "1395957158704603136",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-08-20T00:10:31.566000Z",
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "13421",
+            "player_name": "Eli Raridon",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "9504",
+            "player_name": "Kayshon Boutte",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1395842652896776192",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-08-19T16:35:31.254000Z",
+        "team_labels": [
+          "Back to the Future"
+        ],
+        "adds": [
+          {
+            "player_id": "11199",
+            "player_name": "Emari Demercado",
+            "roster_id": 8,
+            "team_label": "Back to the Future"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
       {
         "week": 1,
         "transaction_id": "1395381200855502848",
@@ -2140,71 +2207,6 @@
           }
         ],
         "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1370164047051259904",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-06-09T19:57:54.535000Z",
-        "team_labels": [
-          "MOJO"
-        ],
-        "adds": [],
-        "drops": [
-          {
-            "player_id": "4381",
-            "player_name": "Taysom Hill",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1366107338628403200",
-        "type": "trade",
-        "status": "complete",
-        "created_at": "2026-05-29T15:17:59.878000Z",
-        "team_labels": [
-          "A B CeeDee",
-          "Goin in Ra"
-        ],
-        "adds": [],
-        "drops": [],
-        "draft_picks": [
-          {
-            "season": "2026",
-            "round": 3,
-            "original_roster_id": 10,
-            "original_team_label": "Goin in Ra",
-            "previous_owner_id": 10,
-            "previous_owner_team_label": "Goin in Ra",
-            "owner_id": 2,
-            "owner_team_label": "A B CeeDee"
-          },
-          {
-            "season": "2026",
-            "round": 5,
-            "original_roster_id": 2,
-            "original_team_label": "A B CeeDee",
-            "previous_owner_id": 2,
-            "previous_owner_team_label": "A B CeeDee",
-            "owner_id": 10,
-            "owner_team_label": "Goin in Ra"
-          },
-          {
-            "season": "2028",
-            "round": 3,
-            "original_roster_id": 2,
-            "original_team_label": "A B CeeDee",
-            "previous_owner_id": 2,
-            "previous_owner_team_label": "A B CeeDee",
-            "owner_id": 10,
-            "owner_team_label": "Goin in Ra"
-          }
-        ]
       }
     ]
   },

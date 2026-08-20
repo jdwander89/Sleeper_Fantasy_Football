@@ -1413,13 +1413,92 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1395842652896776192",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1787157331254,
+          "created_at": "2026-08-19T16:35:31.254000Z",
+          "status_updated": 1787157331254,
+          "status_updated_at": "2026-08-19T16:35:31.254000Z",
+          "creator_user_id": "471457570825957376",
+          "roster_ids": [
+            8
+          ],
+          "team_labels": [
+            "Back to the Future"
+          ],
+          "consenter_ids": [
+            8
+          ],
+          "consenter_team_labels": [
+            "Back to the Future"
+          ],
+          "adds": [
+            {
+              "player_id": "11199",
+              "player_name": "Emari Demercado",
+              "roster_id": 8,
+              "team_label": "Back to the Future"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1395957158704603136",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1787184631566,
+          "created_at": "2026-08-20T00:10:31.566000Z",
+          "status_updated": 1787184631566,
+          "status_updated_at": "2026-08-20T00:10:31.566000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [
+            {
+              "player_id": "13421",
+              "player_name": "Eli Raridon",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "9504",
+              "player_name": "Kayshon Boutte",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 33,
+        "transactions": 35,
         "trades": 4,
         "waivers": 0,
-        "free_agent_moves": 28
+        "free_agent_moves": 30
       }
     },
     "2": {
@@ -2844,6 +2923,85 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1395842652896776192",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787157331254,
+      "created_at": "2026-08-19T16:35:31.254000Z",
+      "status_updated": 1787157331254,
+      "status_updated_at": "2026-08-19T16:35:31.254000Z",
+      "creator_user_id": "471457570825957376",
+      "roster_ids": [
+        8
+      ],
+      "team_labels": [
+        "Back to the Future"
+      ],
+      "consenter_ids": [
+        8
+      ],
+      "consenter_team_labels": [
+        "Back to the Future"
+      ],
+      "adds": [
+        {
+          "player_id": "11199",
+          "player_name": "Emari Demercado",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1395957158704603136",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787184631566,
+      "created_at": "2026-08-20T00:10:31.566000Z",
+      "status_updated": 1787184631566,
+      "status_updated_at": "2026-08-20T00:10:31.566000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "13421",
+          "player_name": "Eli Raridon",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9504",
+          "player_name": "Kayshon Boutte",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -4228,21 +4386,100 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1395842652896776192",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787157331254,
+      "created_at": "2026-08-19T16:35:31.254000Z",
+      "status_updated": 1787157331254,
+      "status_updated_at": "2026-08-19T16:35:31.254000Z",
+      "creator_user_id": "471457570825957376",
+      "roster_ids": [
+        8
+      ],
+      "team_labels": [
+        "Back to the Future"
+      ],
+      "consenter_ids": [
+        8
+      ],
+      "consenter_team_labels": [
+        "Back to the Future"
+      ],
+      "adds": [
+        {
+          "player_id": "11199",
+          "player_name": "Emari Demercado",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1395957158704603136",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787184631566,
+      "created_at": "2026-08-20T00:10:31.566000Z",
+      "status_updated": 1787184631566,
+      "status_updated_at": "2026-08-20T00:10:31.566000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "13421",
+          "player_name": "Eli Raridon",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9504",
+          "player_name": "Kayshon Boutte",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 2,
-    "transactions": 33,
+    "transactions": 35,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 28,
+    "free_agent_moves": 30,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 28,
+      "free_agent": 30,
       "trade": 4
     },
     "by_status": {
-      "complete": 33
+      "complete": 35
     }
   }
 }

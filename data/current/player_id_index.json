@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-08-19T11:44:00.903674Z",
+  "generated_at": "2026-08-20T11:46:26.990247Z",
   "counts": {
-    "required_player_ids": 305,
-    "resolved_player_ids": 305,
+    "required_player_ids": 307,
+    "resolved_player_ids": 307,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -99,11 +99,13 @@
       "drake london": "8112",
       "drake maye": "11564",
       "dylan sampson": "12469",
+      "eli raridon": "13421",
       "eli stowers": "13349",
       "elic ayomanor": "12499",
       "elijah arroyo": "12521",
       "elijah sarratt": "13268",
       "emanuel wilson": "11435",
+      "emari demercado": "11199",
       "emeka egbuka": "12514",
       "emmett johnson": "13337",
       "evan engram": "4066",
@@ -477,6 +479,7 @@
       ],
       "KC": [
         "10229",
+        "11199",
         "11624",
         "12455",
         "13337",
@@ -548,6 +551,7 @@
         "11564",
         "12529",
         "12547",
+        "13421",
         "3214",
         "4177",
         "5859",
@@ -719,6 +723,7 @@
       ],
       "RB": [
         "10219",
+        "11199",
         "11435",
         "11569",
         "11571",
@@ -835,6 +840,7 @@
         "13282",
         "13330",
         "13349",
+        "13421",
         "1466",
         "2505",
         "3214",

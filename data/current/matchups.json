@@ -150,10 +150,10 @@
             "13347",
             "13349",
             "13402",
+            "13421",
             "7523",
             "8112",
             "8136",
-            "9504",
             "9756"
           ],
           "starters": [
@@ -181,8 +181,8 @@
             "13347",
             "13349",
             "13402",
-            "7523",
-            "9504"
+            "13421",
+            "7523"
           ],
           "players_points": {
             "10236": 0.0,
@@ -204,10 +204,10 @@
             "13347": 0.0,
             "13349": 0.0,
             "13402": 0.0,
+            "13421": 0.0,
             "7523": 0.0,
             "8112": 0.0,
             "8136": 0.0,
-            "9504": 0.0,
             "9756": 0.0
           },
           "starters_points": {},
@@ -232,10 +232,10 @@
               "Demond Claiborne",
               "Eli Stowers",
               "Skyler Bell",
+              "Eli Raridon",
               "Trevor Lawrence",
               "Drake London",
               "Rachaad White",
-              "Kayshon Boutte",
               "Jordan Addison"
             ],
             "starters": [
@@ -263,8 +263,8 @@
               "Demond Claiborne",
               "Eli Stowers",
               "Skyler Bell",
-              "Trevor Lawrence",
-              "Kayshon Boutte"
+              "Eli Raridon",
+              "Trevor Lawrence"
             ]
           }
         },
@@ -1136,6 +1136,7 @@
           "points": 0.0,
           "custom_points": null,
           "players": [
+            "11199",
             "11435",
             "11564",
             "11569",
@@ -1169,9 +1170,11 @@
             "12514",
             "8130",
             "7611",
-            "8142"
+            "8142",
+            "9500"
           ],
           "bench": [
+            "11199",
             "11435",
             "11569",
             "11581",
@@ -1186,10 +1189,10 @@
             "6797",
             "8125",
             "8131",
-            "9500",
             "9753"
           ],
           "players_points": {
+            "11199": 0.0,
             "11435": 0.0,
             "11564": 0.0,
             "11569": 0.0,
@@ -1218,6 +1221,7 @@
           "starters_points": {},
           "display": {
             "players": [
+              "Emari Demercado",
               "Emanuel Wilson",
               "Drake Maye",
               "Jarquez Hunter",
@@ -1251,9 +1255,11 @@
               "Emeka Egbuka",
               "Trey McBride",
               "Rhamondre Stevenson",
-              "Alec Pierce"
+              "Alec Pierce",
+              "Josh Downs"
             ],
             "bench": [
+              "Emari Demercado",
               "Emanuel Wilson",
               "Jarquez Hunter",
               "MarShawn Lloyd",
@@ -1268,7 +1274,6 @@
               "Justin Herbert",
               "Calvin Austin",
               "Isaiah Likely",
-              "Josh Downs",
               "Zach Charbonnet"
             ]
           }
@@ -1990,10 +1995,10 @@
             "13347",
             "13349",
             "13402",
+            "13421",
             "7523",
             "8112",
             "8136",
-            "9504",
             "9756"
           ],
           "starters": [
@@ -2021,8 +2026,8 @@
             "13347",
             "13349",
             "13402",
-            "7523",
-            "9504"
+            "13421",
+            "7523"
           ],
           "players_points": {
             "10236": 0.0,
@@ -2044,10 +2049,10 @@
             "13347": 0.0,
             "13349": 0.0,
             "13402": 0.0,
+            "13421": 0.0,
             "7523": 0.0,
             "8112": 0.0,
             "8136": 0.0,
-            "9504": 0.0,
             "9756": 0.0
           },
           "starters_points": {},
@@ -2072,10 +2077,10 @@
               "Demond Claiborne",
               "Eli Stowers",
               "Skyler Bell",
+              "Eli Raridon",
               "Trevor Lawrence",
               "Drake London",
               "Rachaad White",
-              "Kayshon Boutte",
               "Jordan Addison"
             ],
             "starters": [
@@ -2103,8 +2108,8 @@
               "Demond Claiborne",
               "Eli Stowers",
               "Skyler Bell",
-              "Trevor Lawrence",
-              "Kayshon Boutte"
+              "Eli Raridon",
+              "Trevor Lawrence"
             ]
           }
         },
@@ -2976,6 +2981,7 @@
           "points": 0.0,
           "custom_points": null,
           "players": [
+            "11199",
             "11435",
             "11564",
             "11569",
@@ -3009,9 +3015,11 @@
             "12514",
             "8130",
             "7611",
-            "8142"
+            "8142",
+            "9500"
           ],
           "bench": [
+            "11199",
             "11435",
             "11569",
             "11581",
@@ -3026,10 +3034,10 @@
             "6797",
             "8125",
             "8131",
-            "9500",
             "9753"
           ],
           "players_points": {
+            "11199": 0.0,
             "11435": 0.0,
             "11564": 0.0,
             "11569": 0.0,
@@ -3058,6 +3066,7 @@
           "starters_points": {},
           "display": {
             "players": [
+              "Emari Demercado",
               "Emanuel Wilson",
               "Drake Maye",
               "Jarquez Hunter",
@@ -3091,9 +3100,11 @@
               "Emeka Egbuka",
               "Trey McBride",
               "Rhamondre Stevenson",
-              "Alec Pierce"
+              "Alec Pierce",
+              "Josh Downs"
             ],
             "bench": [
+              "Emari Demercado",
               "Emanuel Wilson",
               "Jarquez Hunter",
               "MarShawn Lloyd",
@@ -3108,7 +3119,6 @@
               "Justin Herbert",
               "Calvin Austin",
               "Isaiah Likely",
-              "Josh Downs",
               "Zach Charbonnet"
             ]
           }
