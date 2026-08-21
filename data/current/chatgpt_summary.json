@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-20T11:46:27.073624Z",
-    "source_snapshot_generated_at": "2026-08-20T11:46:25.677789Z",
+    "generated_at": "2026-08-21T11:45:37.644558Z",
+    "source_snapshot_generated_at": "2026-08-21T11:45:36.651931Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -340,7 +340,7 @@
           "name": "Sam LaPorta",
           "team": "DET",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11584",
@@ -1286,7 +1286,7 @@
           "name": "DJ Moore",
           "team": "BUF",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": []
