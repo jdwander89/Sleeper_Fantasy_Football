@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-08-22T11:39:29.911784Z",
+  "generated_at": "2026-08-23T11:39:13.260027Z",
   "league_id": "1312581067286282240",
   "sport": "nfl",
   "season": "2026",
@@ -67,7 +67,7 @@
     {
       "path": "data/current/player_lookup_compact.json",
       "exists": true,
-      "size_bytes": 109695
+      "size_bytes": 109745
     },
     {
       "path": "data/current/player_id_index.json",
@@ -77,12 +77,12 @@
     {
       "path": "data/current/chatgpt_summary.json",
       "exists": true,
-      "size_bytes": 56367
+      "size_bytes": 56377
     },
     {
       "path": "data/current/chatgpt_bundle.json",
       "exists": true,
-      "size_bytes": 532525
+      "size_bytes": 532575
     }
   ],
   "counts": {
@@ -109,5 +109,5 @@
     "errors": [],
     "missing_player_ids": []
   },
-  "summary_generated_at": "2026-08-22T11:39:31.040135Z"
+  "summary_generated_at": "2026-08-23T11:39:14.691757Z"
 }
