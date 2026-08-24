@@ -1492,17 +1492,70 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1397580096772005888",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1787571570154,
+          "created_at": "2026-08-24T11:39:30.154000Z",
+          "status_updated": 1787571570154,
+          "status_updated_at": "2026-08-24T11:39:30.154000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "6130",
+              "player_name": "Devin Singletary",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "10226",
+              "player_name": "Andrei Iosivas",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 35,
+        "transactions": 36,
         "trades": 4,
         "waivers": 0,
-        "free_agent_moves": 30
+        "free_agent_moves": 31
       }
     },
     "2": {
       "week": 2,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
+    },
+    "3": {
+      "week": 3,
       "transactions": [],
       "counts": {
         "transactions": 0,
@@ -3002,6 +3055,49 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1397580096772005888",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787571570154,
+      "created_at": "2026-08-24T11:39:30.154000Z",
+      "status_updated": 1787571570154,
+      "status_updated_at": "2026-08-24T11:39:30.154000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "6130",
+          "player_name": "Devin Singletary",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "10226",
+          "player_name": "Andrei Iosivas",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -4465,21 +4561,64 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1397580096772005888",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787571570154,
+      "created_at": "2026-08-24T11:39:30.154000Z",
+      "status_updated": 1787571570154,
+      "status_updated_at": "2026-08-24T11:39:30.154000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "6130",
+          "player_name": "Devin Singletary",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "10226",
+          "player_name": "Andrei Iosivas",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
-    "weeks": 2,
-    "transactions": 35,
+    "weeks": 3,
+    "transactions": 36,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 30,
+    "free_agent_moves": 31,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 30,
+      "free_agent": 31,
       "trade": 4
     },
     "by_status": {
-      "complete": 35
+      "complete": 36
     }
   }
 }

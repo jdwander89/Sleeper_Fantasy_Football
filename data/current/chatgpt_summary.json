@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-23T11:39:14.691757Z",
-    "source_snapshot_generated_at": "2026-08-23T11:39:13.260027Z",
+    "generated_at": "2026-08-24T11:46:52.158843Z",
+    "source_snapshot_generated_at": "2026-08-24T11:46:50.892731Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -49,16 +49,16 @@
   "counts": {
     "users": 12,
     "rosters": 12,
-    "included_weeks": 2,
-    "matchups": 12,
-    "matchup_roster_results": 24,
+    "included_weeks": 3,
+    "matchups": 18,
+    "matchup_roster_results": 36,
     "required_player_ids": 307,
     "compact_player_lookup": 307,
     "missing_player_ids": 0,
-    "transactions": 35,
+    "transactions": 36,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 30,
+    "free_agent_moves": 31,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -443,7 +443,7 @@
           "name": "Carnell Tate",
           "team": "TEN",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "4037",
@@ -622,7 +622,7 @@
           "name": "Ashton Jeanty",
           "team": "LV",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8146",
@@ -1124,9 +1124,9 @@
       },
       "position_counts": {
         "QB": 3,
-        "RB": 8,
+        "RB": 9,
         "TE": 4,
-        "WR": 8
+        "WR": 7
       },
       "starters": [
         {
@@ -1295,7 +1295,8 @@
   "matchups": {
     "included_weeks": [
       1,
-      2
+      2,
+      3
     ],
     "by_week": {
       "1": {
@@ -1531,28 +1532,145 @@
           "matchups": 6,
           "roster_results": 12
         }
+      },
+      "3": {
+        "week": 3,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Pol Hol",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "A B CeeDee",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
       }
     },
     "counts": {
-      "weeks": 2,
-      "matchups": 12,
-      "roster_results": 24
+      "weeks": 3,
+      "matchups": 18,
+      "roster_results": 36
     }
   },
   "transactions": {
     "counts": {
-      "weeks": 2,
-      "transactions": 35,
+      "weeks": 3,
+      "transactions": 36,
       "trades": 4,
       "waivers": 0,
-      "free_agent_moves": 30,
+      "free_agent_moves": 31,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 30,
+        "free_agent": 31,
         "trade": 4
       },
       "by_status": {
-        "complete": 35
+        "complete": 36
       }
     },
     "activity_by_roster_id": {
@@ -1581,10 +1699,10 @@
         "free_agent_moves": 7
       },
       "11": {
-        "transactions": 6,
+        "transactions": 7,
         "trades": 1,
         "waivers": 0,
-        "free_agent_moves": 5
+        "free_agent_moves": 6
       },
       "2": {
         "transactions": 6,
@@ -1624,6 +1742,33 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 1,
+        "transaction_id": "1397580096772005888",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-08-24T11:39:30.154000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "6130",
+            "player_name": "Devin Singletary",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "10226",
+            "player_name": "Andrei Iosivas",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 1,
         "transaction_id": "1395957158704603136",
@@ -2184,26 +2329,6 @@
             "player_name": "Kevin Coleman",
             "roster_id": 2,
             "team_label": "A B CeeDee"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1370164070111535104",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-06-09T19:58:00.034000Z",
-        "team_labels": [
-          "MOJO"
-        ],
-        "adds": [],
-        "drops": [
-          {
-            "player_id": "6865",
-            "player_name": "Colby Parkinson",
-            "roster_id": 11,
-            "team_label": "MOJO"
           }
         ],
         "draft_picks": []

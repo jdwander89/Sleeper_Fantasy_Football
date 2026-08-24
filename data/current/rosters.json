@@ -1365,7 +1365,6 @@
     "roster_id": 11,
     "owner_user_id": "471724614532198400",
     "players": [
-      "10226",
       "11563",
       "11575",
       "11604",
@@ -1381,6 +1380,7 @@
       "4984",
       "5045",
       "6039",
+      "6130",
       "6801",
       "7021",
       "7526",
@@ -1401,7 +1401,6 @@
       "7021"
     ],
     "bench": [
-      "10226",
       "11563",
       "11575",
       "12502",
@@ -1413,6 +1412,7 @@
       "4147",
       "5045",
       "6039",
+      "6130",
       "9228",
       "9482"
     ],
@@ -1425,7 +1425,6 @@
     "taxi_count": 0,
     "display": {
       "players": [
-        "Andrei Iosivas",
         "Bo Nix",
         "Ray Davis",
         "Brock Bowers",
@@ -1441,6 +1440,7 @@
         "Josh Allen",
         "Courtland Sutton",
         "Ty Johnson",
+        "Devin Singletary",
         "Tee Higgins",
         "Rico Dowdle",
         "Jaylen Waddle",
@@ -1461,7 +1461,6 @@
         "Rico Dowdle"
       ],
       "bench": [
-        "Andrei Iosivas",
         "Bo Nix",
         "Ray Davis",
         "Gunnar Helm",
@@ -1473,6 +1472,7 @@
         "Samaje Perine",
         "Courtland Sutton",
         "Ty Johnson",
+        "Devin Singletary",
         "Bryce Young",
         "Michael Mayer"
       ],
