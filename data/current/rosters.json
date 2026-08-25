@@ -18,7 +18,6 @@
       "13296",
       "13302",
       "13305",
-      "13329",
       "13347",
       "13349",
       "13402",
@@ -26,6 +25,7 @@
       "7523",
       "8112",
       "8136",
+      "9504",
       "9756"
     ],
     "starters": [
@@ -48,12 +48,12 @@
       "13296",
       "13302",
       "13305",
-      "13329",
       "13347",
       "13349",
       "13402",
       "13421",
-      "7523"
+      "7523",
+      "9504"
     ],
     "reserve": [
       "13281"
@@ -81,7 +81,6 @@
         "Caleb Douglas",
         "Adam Randall",
         "Mike Washington",
-        "Malik Benson",
         "Demond Claiborne",
         "Eli Stowers",
         "Skyler Bell",
@@ -89,6 +88,7 @@
         "Trevor Lawrence",
         "Drake London",
         "Rachaad White",
+        "Kayshon Boutte",
         "Jordan Addison"
       ],
       "starters": [
@@ -111,12 +111,12 @@
         "Caleb Douglas",
         "Adam Randall",
         "Mike Washington",
-        "Malik Benson",
         "Demond Claiborne",
         "Eli Stowers",
         "Skyler Bell",
         "Eli Raridon",
-        "Trevor Lawrence"
+        "Trevor Lawrence",
+        "Kayshon Boutte"
       ],
       "reserve": [
         "Jordyn Tyson"
@@ -550,7 +550,6 @@
       "13288",
       "13317",
       "3294",
-      "4018",
       "5001",
       "7002",
       "7049",
@@ -576,29 +575,27 @@
     ],
     "bench": [
       "10213",
+      "11589",
       "11625",
       "12467",
+      "12497",
       "12499",
       "13282",
       "13288",
       "13317",
       "3294",
-      "4018",
       "7002",
       "7049",
       "8134",
       "9225",
       "9486"
     ],
-    "reserve": [
-      "11589",
-      "12497"
-    ],
+    "reserve": [],
     "taxi": [],
-    "player_count": 25,
+    "player_count": 24,
     "starter_count": 9,
-    "bench_count": 14,
-    "reserve_count": 2,
+    "bench_count": 15,
+    "reserve_count": 0,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -615,7 +612,6 @@
         "Nicholas Singleton",
         "Ted Hurst",
         "Dak Prescott",
-        "Joe Mixon",
         "Dalton Schultz",
         "Juwan Johnson",
         "Jauan Jennings",
@@ -641,24 +637,22 @@
       ],
       "bench": [
         "Tre Tucker",
+        "Trey Benson",
         "Adonai Mitchell",
         "Jordan James",
+        "Tory Horton",
         "Elic Ayomanor",
         "Jack Endries",
         "Nicholas Singleton",
         "Ted Hurst",
         "Dak Prescott",
-        "Joe Mixon",
         "Juwan Johnson",
         "Jauan Jennings",
         "Khalil Shakir",
         "Tank Bigsby",
         "Dontayvion Wicks"
       ],
-      "reserve": [
-        "Trey Benson",
-        "Tory Horton"
-      ],
+      "reserve": [],
       "taxi": []
     },
     "settings": {

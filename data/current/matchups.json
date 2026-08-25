@@ -147,7 +147,6 @@
             "13296",
             "13302",
             "13305",
-            "13329",
             "13347",
             "13349",
             "13402",
@@ -155,6 +154,7 @@
             "7523",
             "8112",
             "8136",
+            "9504",
             "9756"
           ],
           "starters": [
@@ -178,12 +178,12 @@
             "13296",
             "13302",
             "13305",
-            "13329",
             "13347",
             "13349",
             "13402",
             "13421",
-            "7523"
+            "7523",
+            "9504"
           ],
           "players_points": {
             "10236": 0.0,
@@ -201,7 +201,6 @@
             "13296": 0.0,
             "13302": 0.0,
             "13305": 0.0,
-            "13329": 0.0,
             "13347": 0.0,
             "13349": 0.0,
             "13402": 0.0,
@@ -209,6 +208,7 @@
             "7523": 0.0,
             "8112": 0.0,
             "8136": 0.0,
+            "9504": 0.0,
             "9756": 0.0
           },
           "starters_points": {},
@@ -229,7 +229,6 @@
               "Caleb Douglas",
               "Adam Randall",
               "Mike Washington",
-              "Malik Benson",
               "Demond Claiborne",
               "Eli Stowers",
               "Skyler Bell",
@@ -237,6 +236,7 @@
               "Trevor Lawrence",
               "Drake London",
               "Rachaad White",
+              "Kayshon Boutte",
               "Jordan Addison"
             ],
             "starters": [
@@ -260,12 +260,12 @@
               "Caleb Douglas",
               "Adam Randall",
               "Mike Washington",
-              "Malik Benson",
               "Demond Claiborne",
               "Eli Stowers",
               "Skyler Bell",
               "Eli Raridon",
-              "Trevor Lawrence"
+              "Trevor Lawrence",
+              "Kayshon Boutte"
             ]
           }
         },
@@ -710,7 +710,6 @@
             "13288",
             "13317",
             "3294",
-            "4018",
             "5001",
             "7002",
             "7049",
@@ -745,7 +744,6 @@
             "13288",
             "13317",
             "3294",
-            "4018",
             "7002",
             "7049",
             "8134",
@@ -766,7 +764,6 @@
             "13288": 0.0,
             "13317": 0.0,
             "3294": 0.0,
-            "4018": 0.0,
             "5001": 0.0,
             "7002": 0.0,
             "7049": 0.0,
@@ -795,7 +792,6 @@
               "Nicholas Singleton",
               "Ted Hurst",
               "Dak Prescott",
-              "Joe Mixon",
               "Dalton Schultz",
               "Juwan Johnson",
               "Jauan Jennings",
@@ -830,7 +826,6 @@
               "Nicholas Singleton",
               "Ted Hurst",
               "Dak Prescott",
-              "Joe Mixon",
               "Juwan Johnson",
               "Jauan Jennings",
               "Khalil Shakir",
@@ -1992,7 +1987,6 @@
             "13296",
             "13302",
             "13305",
-            "13329",
             "13347",
             "13349",
             "13402",
@@ -2000,6 +1994,7 @@
             "7523",
             "8112",
             "8136",
+            "9504",
             "9756"
           ],
           "starters": [
@@ -2023,12 +2018,12 @@
             "13296",
             "13302",
             "13305",
-            "13329",
             "13347",
             "13349",
             "13402",
             "13421",
-            "7523"
+            "7523",
+            "9504"
           ],
           "players_points": {
             "10236": 0.0,
@@ -2046,7 +2041,6 @@
             "13296": 0.0,
             "13302": 0.0,
             "13305": 0.0,
-            "13329": 0.0,
             "13347": 0.0,
             "13349": 0.0,
             "13402": 0.0,
@@ -2054,6 +2048,7 @@
             "7523": 0.0,
             "8112": 0.0,
             "8136": 0.0,
+            "9504": 0.0,
             "9756": 0.0
           },
           "starters_points": {},
@@ -2074,7 +2069,6 @@
               "Caleb Douglas",
               "Adam Randall",
               "Mike Washington",
-              "Malik Benson",
               "Demond Claiborne",
               "Eli Stowers",
               "Skyler Bell",
@@ -2082,6 +2076,7 @@
               "Trevor Lawrence",
               "Drake London",
               "Rachaad White",
+              "Kayshon Boutte",
               "Jordan Addison"
             ],
             "starters": [
@@ -2105,12 +2100,12 @@
               "Caleb Douglas",
               "Adam Randall",
               "Mike Washington",
-              "Malik Benson",
               "Demond Claiborne",
               "Eli Stowers",
               "Skyler Bell",
               "Eli Raridon",
-              "Trevor Lawrence"
+              "Trevor Lawrence",
+              "Kayshon Boutte"
             ]
           }
         },
@@ -2555,7 +2550,6 @@
             "13288",
             "13317",
             "3294",
-            "4018",
             "5001",
             "7002",
             "7049",
@@ -2590,7 +2584,6 @@
             "13288",
             "13317",
             "3294",
-            "4018",
             "7002",
             "7049",
             "8134",
@@ -2611,7 +2604,6 @@
             "13288": 0.0,
             "13317": 0.0,
             "3294": 0.0,
-            "4018": 0.0,
             "5001": 0.0,
             "7002": 0.0,
             "7049": 0.0,
@@ -2640,7 +2632,6 @@
               "Nicholas Singleton",
               "Ted Hurst",
               "Dak Prescott",
-              "Joe Mixon",
               "Dalton Schultz",
               "Juwan Johnson",
               "Jauan Jennings",
@@ -2675,7 +2666,6 @@
               "Nicholas Singleton",
               "Ted Hurst",
               "Dak Prescott",
-              "Joe Mixon",
               "Juwan Johnson",
               "Jauan Jennings",
               "Khalil Shakir",
@@ -3837,7 +3827,6 @@
             "13296",
             "13302",
             "13305",
-            "13329",
             "13347",
             "13349",
             "13402",
@@ -3845,6 +3834,7 @@
             "7523",
             "8112",
             "8136",
+            "9504",
             "9756"
           ],
           "starters": [
@@ -3868,12 +3858,12 @@
             "13296",
             "13302",
             "13305",
-            "13329",
             "13347",
             "13349",
             "13402",
             "13421",
-            "7523"
+            "7523",
+            "9504"
           ],
           "players_points": {
             "10236": 0.0,
@@ -3891,7 +3881,6 @@
             "13296": 0.0,
             "13302": 0.0,
             "13305": 0.0,
-            "13329": 0.0,
             "13347": 0.0,
             "13349": 0.0,
             "13402": 0.0,
@@ -3899,6 +3888,7 @@
             "7523": 0.0,
             "8112": 0.0,
             "8136": 0.0,
+            "9504": 0.0,
             "9756": 0.0
           },
           "starters_points": {},
@@ -3919,7 +3909,6 @@
               "Caleb Douglas",
               "Adam Randall",
               "Mike Washington",
-              "Malik Benson",
               "Demond Claiborne",
               "Eli Stowers",
               "Skyler Bell",
@@ -3927,6 +3916,7 @@
               "Trevor Lawrence",
               "Drake London",
               "Rachaad White",
+              "Kayshon Boutte",
               "Jordan Addison"
             ],
             "starters": [
@@ -3950,12 +3940,12 @@
               "Caleb Douglas",
               "Adam Randall",
               "Mike Washington",
-              "Malik Benson",
               "Demond Claiborne",
               "Eli Stowers",
               "Skyler Bell",
               "Eli Raridon",
-              "Trevor Lawrence"
+              "Trevor Lawrence",
+              "Kayshon Boutte"
             ]
           }
         },
@@ -4400,7 +4390,6 @@
             "13288",
             "13317",
             "3294",
-            "4018",
             "5001",
             "7002",
             "7049",
@@ -4435,7 +4424,6 @@
             "13288",
             "13317",
             "3294",
-            "4018",
             "7002",
             "7049",
             "8134",
@@ -4456,7 +4444,6 @@
             "13288": 0.0,
             "13317": 0.0,
             "3294": 0.0,
-            "4018": 0.0,
             "5001": 0.0,
             "7002": 0.0,
             "7049": 0.0,
@@ -4485,7 +4472,6 @@
               "Nicholas Singleton",
               "Ted Hurst",
               "Dak Prescott",
-              "Joe Mixon",
               "Dalton Schultz",
               "Juwan Johnson",
               "Jauan Jennings",
@@ -4520,7 +4506,6 @@
               "Nicholas Singleton",
               "Ted Hurst",
               "Dak Prescott",
-              "Joe Mixon",
               "Juwan Johnson",
               "Jauan Jennings",
               "Khalil Shakir",

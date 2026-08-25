@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-24T11:46:52.158843Z",
-    "source_snapshot_generated_at": "2026-08-24T11:46:50.892731Z",
+    "generated_at": "2026-08-25T11:47:54.147780Z",
+    "source_snapshot_generated_at": "2026-08-25T11:47:52.559490Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -55,10 +55,10 @@
     "required_player_ids": 307,
     "compact_player_lookup": 307,
     "missing_player_ids": 0,
-    "transactions": 36,
+    "transactions": 38,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 31,
+    "free_agent_moves": 33,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -112,7 +112,7 @@
           "name": "TreVeyon Henderson",
           "team": "NE",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12533",
@@ -326,7 +326,7 @@
           "name": "DeVonta Smith",
           "team": "PHI",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "2216",
@@ -480,14 +480,14 @@
         "raw_fpts_against_decimal": null
       },
       "counts": {
-        "players": 25,
+        "players": 24,
         "starters": 9,
-        "bench": 14,
-        "reserve": 2
+        "bench": 15,
+        "reserve": 0
       },
       "position_counts": {
         "QB": 2,
-        "RB": 8,
+        "RB": 7,
         "TE": 3,
         "WR": 12
       },
@@ -556,22 +556,7 @@
           "injury_status": null
         }
       ],
-      "reserve": [
-        {
-          "player_id": "11589",
-          "name": "Trey Benson",
-          "team": "ARI",
-          "position": "RB",
-          "injury_status": "Questionable"
-        },
-        {
-          "player_id": "12497",
-          "name": "Tory Horton",
-          "team": "SEA",
-          "position": "WR",
-          "injury_status": "Questionable"
-        }
-      ]
+      "reserve": []
     },
     {
       "roster_id": 6,
@@ -784,7 +769,7 @@
           "name": "Chris Bell",
           "team": "MIA",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ]
     },
@@ -1660,17 +1645,17 @@
   "transactions": {
     "counts": {
       "weeks": 3,
-      "transactions": 36,
+      "transactions": 38,
       "trades": 4,
       "waivers": 0,
-      "free_agent_moves": 31,
+      "free_agent_moves": 33,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 31,
+        "free_agent": 33,
         "trade": 4
       },
       "by_status": {
-        "complete": 36
+        "complete": 38
       }
     },
     "activity_by_roster_id": {
@@ -1693,10 +1678,10 @@
         "free_agent_moves": 3
       },
       "1": {
-        "transactions": 9,
+        "transactions": 10,
         "trades": 2,
         "waivers": 0,
-        "free_agent_moves": 7
+        "free_agent_moves": 8
       },
       "11": {
         "transactions": 7,
@@ -1739,9 +1724,62 @@
         "trades": 0,
         "waivers": 0,
         "free_agent_moves": 1
+      },
+      "5": {
+        "transactions": 1,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 1
       }
     },
     "recent_transactions": [
+      {
+        "week": 1,
+        "transaction_id": "1397725165684543488",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-08-24T21:15:57.278000Z",
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "9504",
+            "player_name": "Kayshon Boutte",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13329",
+            "player_name": "Malik Benson",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1397626260158431232",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-08-24T14:42:56.363000Z",
+        "team_labels": [
+          "White Ice"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "4018",
+            "player_name": "Joe Mixon",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 1,
         "transaction_id": "1397580096772005888",
@@ -2275,60 +2313,6 @@
             "player_name": "Mack Hollins",
             "roster_id": 11,
             "team_label": "MOJO"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1370165353530793984",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-06-09T20:03:06.024000Z",
-        "team_labels": [
-          "MOJO"
-        ],
-        "adds": [
-          {
-            "player_id": "6271",
-            "player_name": "Olamide Zaccheaus",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "12472",
-            "player_name": "Raheim Sanders",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1370164941369122816",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-06-09T20:01:27.757000Z",
-        "team_labels": [
-          "A B CeeDee"
-        ],
-        "adds": [
-          {
-            "player_id": "13413",
-            "player_name": "Cyrus Allen",
-            "roster_id": 2,
-            "team_label": "A B CeeDee"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "13338",
-            "player_name": "Kevin Coleman",
-            "roster_id": 2,
-            "team_label": "A B CeeDee"
           }
         ],
         "draft_picks": []
