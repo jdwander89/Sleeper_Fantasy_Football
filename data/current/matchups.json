@@ -860,6 +860,7 @@
             "1479",
             "2374",
             "4034",
+            "4137",
             "4199",
             "4217",
             "5872",
@@ -892,6 +893,7 @@
             "13420",
             "1479",
             "2374",
+            "4137",
             "4217",
             "6803"
           ],
@@ -914,6 +916,7 @@
             "1479": 0.0,
             "2374": 0.0,
             "4034": 0.0,
+            "4137": 0.0,
             "4199": 0.0,
             "4217": 0.0,
             "5872": 0.0,
@@ -942,6 +945,7 @@
               "Keenan Allen",
               "Tyler Lockett",
               "Christian McCaffrey",
+              "James Conner",
               "Aaron Jones",
               "George Kittle",
               "Deebo Samuel",
@@ -974,6 +978,7 @@
               "Bryce Lance",
               "Keenan Allen",
               "Tyler Lockett",
+              "James Conner",
               "George Kittle",
               "Brandon Aiyuk"
             ]
@@ -1315,13 +1320,13 @@
             "7553",
             "10229",
             "12489",
-            "12493"
+            "11583"
           ],
           "bench": [
             "10219",
             "11565",
-            "11583",
             "11597",
+            "12493",
             "13272",
             "13285",
             "13330",
@@ -1394,13 +1399,13 @@
               "Kyle Pitts",
               "Rashee Rice",
               "RJ Harvey",
-              "Oronde Gadsden"
+              "Jonathon Brooks"
             ],
             "bench": [
               "Chris Rodriguez",
               "J.J. McCarthy",
-              "Jonathon Brooks",
               "Theo Johnson",
+              "Oronde Gadsden",
               "Carson Beck",
               "Malachi Fields",
               "Kenyon Sadiq",
@@ -2700,6 +2705,7 @@
             "1479",
             "2374",
             "4034",
+            "4137",
             "4199",
             "4217",
             "5872",
@@ -2732,6 +2738,7 @@
             "13420",
             "1479",
             "2374",
+            "4137",
             "4217",
             "6803"
           ],
@@ -2754,6 +2761,7 @@
             "1479": 0.0,
             "2374": 0.0,
             "4034": 0.0,
+            "4137": 0.0,
             "4199": 0.0,
             "4217": 0.0,
             "5872": 0.0,
@@ -2782,6 +2790,7 @@
               "Keenan Allen",
               "Tyler Lockett",
               "Christian McCaffrey",
+              "James Conner",
               "Aaron Jones",
               "George Kittle",
               "Deebo Samuel",
@@ -2814,6 +2823,7 @@
               "Bryce Lance",
               "Keenan Allen",
               "Tyler Lockett",
+              "James Conner",
               "George Kittle",
               "Brandon Aiyuk"
             ]
@@ -3155,13 +3165,13 @@
             "7553",
             "10229",
             "12489",
-            "12493"
+            "11583"
           ],
           "bench": [
             "10219",
             "11565",
-            "11583",
             "11597",
+            "12493",
             "13272",
             "13285",
             "13330",
@@ -3234,13 +3244,13 @@
               "Kyle Pitts",
               "Rashee Rice",
               "RJ Harvey",
-              "Oronde Gadsden"
+              "Jonathon Brooks"
             ],
             "bench": [
               "Chris Rodriguez",
               "J.J. McCarthy",
-              "Jonathon Brooks",
               "Theo Johnson",
+              "Oronde Gadsden",
               "Carson Beck",
               "Malachi Fields",
               "Kenyon Sadiq",
@@ -4540,6 +4550,7 @@
             "1479",
             "2374",
             "4034",
+            "4137",
             "4199",
             "4217",
             "5872",
@@ -4572,6 +4583,7 @@
             "13420",
             "1479",
             "2374",
+            "4137",
             "4217",
             "6803"
           ],
@@ -4594,6 +4606,7 @@
             "1479": 0.0,
             "2374": 0.0,
             "4034": 0.0,
+            "4137": 0.0,
             "4199": 0.0,
             "4217": 0.0,
             "5872": 0.0,
@@ -4622,6 +4635,7 @@
               "Keenan Allen",
               "Tyler Lockett",
               "Christian McCaffrey",
+              "James Conner",
               "Aaron Jones",
               "George Kittle",
               "Deebo Samuel",
@@ -4654,6 +4668,7 @@
               "Bryce Lance",
               "Keenan Allen",
               "Tyler Lockett",
+              "James Conner",
               "George Kittle",
               "Brandon Aiyuk"
             ]
@@ -4995,13 +5010,13 @@
             "7553",
             "10229",
             "12489",
-            "12493"
+            "11583"
           ],
           "bench": [
             "10219",
             "11565",
-            "11583",
             "11597",
+            "12493",
             "13272",
             "13285",
             "13330",
@@ -5074,13 +5089,13 @@
               "Kyle Pitts",
               "Rashee Rice",
               "RJ Harvey",
-              "Oronde Gadsden"
+              "Jonathon Brooks"
             ],
             "bench": [
               "Chris Rodriguez",
               "J.J. McCarthy",
-              "Jonathon Brooks",
               "Theo Johnson",
+              "Oronde Gadsden",
               "Carson Beck",
               "Malachi Fields",
               "Kenyon Sadiq",

@@ -1614,13 +1614,49 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1397950730874195968",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1787659936210,
+          "created_at": "2026-08-25T12:12:16.210000Z",
+          "status_updated": 1787659936210,
+          "status_updated_at": "2026-08-25T12:12:16.210000Z",
+          "creator_user_id": "471451909446692864",
+          "roster_ids": [
+            6
+          ],
+          "team_labels": [
+            "andrewwelle"
+          ],
+          "consenter_ids": [
+            6
+          ],
+          "consenter_team_labels": [
+            "andrewwelle"
+          ],
+          "adds": [
+            {
+              "player_id": "4137",
+              "player_name": "James Conner",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 38,
+        "transactions": 39,
         "trades": 4,
         "waivers": 0,
-        "free_agent_moves": 33
+        "free_agent_moves": 34
       }
     },
     "2": {
@@ -3256,6 +3292,42 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1397950730874195968",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787659936210,
+      "created_at": "2026-08-25T12:12:16.210000Z",
+      "status_updated": 1787659936210,
+      "status_updated_at": "2026-08-25T12:12:16.210000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "4137",
+          "player_name": "James Conner",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -4841,21 +4913,57 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1397950730874195968",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1787659936210,
+      "created_at": "2026-08-25T12:12:16.210000Z",
+      "status_updated": 1787659936210,
+      "status_updated_at": "2026-08-25T12:12:16.210000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "4137",
+          "player_name": "James Conner",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 3,
-    "transactions": 38,
+    "transactions": 39,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 33,
+    "free_agent_moves": 34,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 33,
+      "free_agent": 34,
       "trade": 4
     },
     "by_status": {
-      "complete": 38
+      "complete": 39
     }
   }
 }
