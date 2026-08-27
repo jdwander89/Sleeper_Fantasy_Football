@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-26T11:48:57.207934Z",
-    "source_snapshot_generated_at": "2026-08-26T11:48:55.698636Z",
+    "generated_at": "2026-08-27T21:03:18.738113Z",
+    "source_snapshot_generated_at": "2026-08-27T21:03:17.596865Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -861,11 +861,11 @@
           "injury_status": null
         },
         {
-          "player_id": "8142",
-          "name": "Alec Pierce",
-          "team": "IND",
+          "player_id": "11646",
+          "name": "Jalen Coker",
+          "team": "CAR",
           "position": "WR",
-          "injury_status": "PUP"
+          "injury_status": null
         },
         {
           "player_id": "9500",
@@ -955,7 +955,7 @@
           "name": "Chris Olave",
           "team": "NO",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7553",
@@ -1251,7 +1251,7 @@
           "name": "Zay Flowers",
           "team": "BAL",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "5012",
