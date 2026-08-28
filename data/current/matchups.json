@@ -160,11 +160,11 @@
           "starters": [
             "11566",
             "12529",
-            "12533",
+            "8136",
             "8112",
             "9756",
             "10236",
-            "8136",
+            "13305",
             "11624",
             "12501"
           ],
@@ -173,11 +173,11 @@
             "11643",
             "12498",
             "12522",
+            "12533",
             "12544",
             "13281",
             "13296",
             "13302",
-            "13305",
             "13347",
             "13349",
             "13402",
@@ -242,11 +242,11 @@
             "starters": [
               "Jayden Daniels",
               "TreVeyon Henderson",
-              "Jacory Croskey-Merritt",
+              "Rachaad White",
               "Drake London",
               "Jordan Addison",
               "Dalton Kincaid",
-              "Rachaad White",
+              "Mike Washington",
               "Xavier Worthy",
               "Matthew Golden"
             ],
@@ -255,11 +255,11 @@
               "Jaylen Wright",
               "Mason Taylor",
               "Cam Ward",
+              "Jacory Croskey-Merritt",
               "LeQuint Allen",
               "Jordyn Tyson",
               "Caleb Douglas",
               "Adam Randall",
-              "Mike Washington",
               "Demond Claiborne",
               "Eli Stowers",
               "Skyler Bell",
@@ -876,7 +876,7 @@
             "11628",
             "12506",
             "5872",
-            "6806",
+            "1479",
             "4199"
           ],
           "bench": [
@@ -891,11 +891,11 @@
             "13353",
             "13404",
             "13420",
-            "1479",
             "2374",
             "4137",
             "4217",
-            "6803"
+            "6803",
+            "6806"
           ],
           "players_points": {
             "11571": 0.0,
@@ -961,7 +961,7 @@
               "Marvin Harrison",
               "Harold Fannin",
               "Deebo Samuel",
-              "J.K. Dobbins",
+              "Keenan Allen",
               "Aaron Jones"
             ],
             "bench": [
@@ -976,11 +976,11 @@
               "Chris Brazzell",
               "Garrett Nussmeier",
               "Bryce Lance",
-              "Keenan Allen",
               "Tyler Lockett",
               "James Conner",
               "George Kittle",
-              "Brandon Aiyuk"
+              "Brandon Aiyuk",
+              "J.K. Dobbins"
             ]
           }
         },
@@ -2005,11 +2005,11 @@
           "starters": [
             "11566",
             "12529",
-            "12533",
+            "8136",
             "8112",
             "9756",
             "10236",
-            "8136",
+            "13305",
             "11624",
             "12501"
           ],
@@ -2018,11 +2018,11 @@
             "11643",
             "12498",
             "12522",
+            "12533",
             "12544",
             "13281",
             "13296",
             "13302",
-            "13305",
             "13347",
             "13349",
             "13402",
@@ -2087,11 +2087,11 @@
             "starters": [
               "Jayden Daniels",
               "TreVeyon Henderson",
-              "Jacory Croskey-Merritt",
+              "Rachaad White",
               "Drake London",
               "Jordan Addison",
               "Dalton Kincaid",
-              "Rachaad White",
+              "Mike Washington",
               "Xavier Worthy",
               "Matthew Golden"
             ],
@@ -2100,11 +2100,11 @@
               "Jaylen Wright",
               "Mason Taylor",
               "Cam Ward",
+              "Jacory Croskey-Merritt",
               "LeQuint Allen",
               "Jordyn Tyson",
               "Caleb Douglas",
               "Adam Randall",
-              "Mike Washington",
               "Demond Claiborne",
               "Eli Stowers",
               "Skyler Bell",
@@ -2721,7 +2721,7 @@
             "11628",
             "12506",
             "5872",
-            "6806",
+            "1479",
             "4199"
           ],
           "bench": [
@@ -2736,11 +2736,11 @@
             "13353",
             "13404",
             "13420",
-            "1479",
             "2374",
             "4137",
             "4217",
-            "6803"
+            "6803",
+            "6806"
           ],
           "players_points": {
             "11571": 0.0,
@@ -2806,7 +2806,7 @@
               "Marvin Harrison",
               "Harold Fannin",
               "Deebo Samuel",
-              "J.K. Dobbins",
+              "Keenan Allen",
               "Aaron Jones"
             ],
             "bench": [
@@ -2821,11 +2821,11 @@
               "Chris Brazzell",
               "Garrett Nussmeier",
               "Bryce Lance",
-              "Keenan Allen",
               "Tyler Lockett",
               "James Conner",
               "George Kittle",
-              "Brandon Aiyuk"
+              "Brandon Aiyuk",
+              "J.K. Dobbins"
             ]
           }
         },
@@ -3850,11 +3850,11 @@
           "starters": [
             "11566",
             "12529",
-            "12533",
+            "8136",
             "8112",
             "9756",
             "10236",
-            "8136",
+            "13305",
             "11624",
             "12501"
           ],
@@ -3863,11 +3863,11 @@
             "11643",
             "12498",
             "12522",
+            "12533",
             "12544",
             "13281",
             "13296",
             "13302",
-            "13305",
             "13347",
             "13349",
             "13402",
@@ -3932,11 +3932,11 @@
             "starters": [
               "Jayden Daniels",
               "TreVeyon Henderson",
-              "Jacory Croskey-Merritt",
+              "Rachaad White",
               "Drake London",
               "Jordan Addison",
               "Dalton Kincaid",
-              "Rachaad White",
+              "Mike Washington",
               "Xavier Worthy",
               "Matthew Golden"
             ],
@@ -3945,11 +3945,11 @@
               "Jaylen Wright",
               "Mason Taylor",
               "Cam Ward",
+              "Jacory Croskey-Merritt",
               "LeQuint Allen",
               "Jordyn Tyson",
               "Caleb Douglas",
               "Adam Randall",
-              "Mike Washington",
               "Demond Claiborne",
               "Eli Stowers",
               "Skyler Bell",
@@ -4566,7 +4566,7 @@
             "11628",
             "12506",
             "5872",
-            "6806",
+            "1479",
             "4199"
           ],
           "bench": [
@@ -4581,11 +4581,11 @@
             "13353",
             "13404",
             "13420",
-            "1479",
             "2374",
             "4137",
             "4217",
-            "6803"
+            "6803",
+            "6806"
           ],
           "players_points": {
             "11571": 0.0,
@@ -4651,7 +4651,7 @@
               "Marvin Harrison",
               "Harold Fannin",
               "Deebo Samuel",
-              "J.K. Dobbins",
+              "Keenan Allen",
               "Aaron Jones"
             ],
             "bench": [
@@ -4666,11 +4666,11 @@
               "Chris Brazzell",
               "Garrett Nussmeier",
               "Bryce Lance",
-              "Keenan Allen",
               "Tyler Lockett",
               "James Conner",
               "George Kittle",
-              "Brandon Aiyuk"
+              "Brandon Aiyuk",
+              "J.K. Dobbins"
             ]
           }
         },
