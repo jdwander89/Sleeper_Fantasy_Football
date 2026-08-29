@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-08-28T21:26:54.934256Z",
-    "source_snapshot_generated_at": "2026-08-28T21:26:53.688869Z",
+    "generated_at": "2026-08-29T15:39:49.263574Z",
+    "source_snapshot_generated_at": "2026-08-29T15:39:47.203260Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -154,7 +154,7 @@
           "name": "Xavier Worthy",
           "team": "KC",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12501",
