@@ -1650,33 +1650,56 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1399457215328358400",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1788019110093,
+          "created_at": "2026-08-29T15:58:30.093000Z",
+          "status_updated": 1788019110093,
+          "status_updated_at": "2026-08-29T15:58:30.093000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "13264",
+              "player_name": "Dohnte Meyers",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "6130",
+              "player_name": "Devin Singletary",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 39,
+        "transactions": 40,
         "trades": 4,
         "waivers": 0,
-        "free_agent_moves": 34
-      }
-    },
-    "2": {
-      "week": 2,
-      "transactions": [],
-      "counts": {
-        "transactions": 0,
-        "trades": 0,
-        "waivers": 0,
-        "free_agent_moves": 0
-      }
-    },
-    "3": {
-      "week": 3,
-      "transactions": [],
-      "counts": {
-        "transactions": 0,
-        "trades": 0,
-        "waivers": 0,
-        "free_agent_moves": 0
+        "free_agent_moves": 35
       }
     }
   },
@@ -3328,6 +3351,49 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1399457215328358400",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788019110093,
+      "created_at": "2026-08-29T15:58:30.093000Z",
+      "status_updated": 1788019110093,
+      "status_updated_at": "2026-08-29T15:58:30.093000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "13264",
+          "player_name": "Dohnte Meyers",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6130",
+          "player_name": "Devin Singletary",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -4949,21 +5015,64 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1399457215328358400",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788019110093,
+      "created_at": "2026-08-29T15:58:30.093000Z",
+      "status_updated": 1788019110093,
+      "status_updated_at": "2026-08-29T15:58:30.093000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "13264",
+          "player_name": "Dohnte Meyers",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6130",
+          "player_name": "Devin Singletary",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
-    "weeks": 3,
-    "transactions": 39,
+    "weeks": 1,
+    "transactions": 40,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 34,
+    "free_agent_moves": 35,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 34,
+      "free_agent": 35,
       "trade": 4
     },
     "by_status": {
-      "complete": 39
+      "complete": 40
     }
   }
 }
