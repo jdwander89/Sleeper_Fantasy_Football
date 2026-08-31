@@ -8,6 +8,7 @@
       "11576",
       "11624",
       "11643",
+      "12455",
       "12498",
       "12501",
       "12522",
@@ -42,11 +43,11 @@
     "bench": [
       "11576",
       "11643",
+      "12455",
       "12498",
       "12522",
       "12544",
       "13296",
-      "13302",
       "13305",
       "13347",
       "13349",
@@ -56,13 +57,14 @@
       "9504"
     ],
     "reserve": [
-      "13281"
+      "13281",
+      "13302"
     ],
     "taxi": [],
-    "player_count": 24,
+    "player_count": 25,
     "starter_count": 9,
     "bench_count": 14,
-    "reserve_count": 1,
+    "reserve_count": 2,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -71,6 +73,7 @@
         "Braelon Allen",
         "Xavier Worthy",
         "Jaylen Wright",
+        "Brashard Smith",
         "Mason Taylor",
         "Matthew Golden",
         "Cam Ward",
@@ -105,11 +108,11 @@
       "bench": [
         "Braelon Allen",
         "Jaylen Wright",
+        "Brashard Smith",
         "Mason Taylor",
         "Cam Ward",
         "LeQuint Allen",
         "Caleb Douglas",
-        "Adam Randall",
         "Mike Washington",
         "Demond Claiborne",
         "Eli Stowers",
@@ -119,7 +122,8 @@
         "Kayshon Boutte"
       ],
       "reserve": [
-        "Jordyn Tyson"
+        "Jordyn Tyson",
+        "Adam Randall"
       ],
       "taxi": []
     },
@@ -153,6 +157,7 @@
       "13413",
       "13417",
       "1466",
+      "4017",
       "5850",
       "5859",
       "5892",
@@ -170,12 +175,12 @@
     ],
     "starters": [
       "6904",
-      "5850",
+      "5892",
       "7588",
       "6786",
       "5859",
       "12517",
-      "5892",
+      "9754",
       "1466",
       "9487"
     ],
@@ -187,20 +192,22 @@
       "13294",
       "13413",
       "13417",
+      "4017",
       "6783",
       "8210",
       "8408",
       "8676",
       "8800",
-      "9754",
       "9758"
     ],
-    "reserve": [],
+    "reserve": [
+      "5850"
+    ],
     "taxi": [],
-    "player_count": 23,
+    "player_count": 24,
     "starter_count": 9,
     "bench_count": 14,
-    "reserve_count": 0,
+    "reserve_count": 1,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -213,6 +220,7 @@
         "Cyrus Allen",
         "De'Zhaun Stribling",
         "Travis Kelce",
+        "Deshaun Watson",
         "Josh Jacobs",
         "A.J. Brown",
         "David Montgomery",
@@ -230,12 +238,12 @@
       ],
       "starters": [
         "Jalen Hurts",
-        "Josh Jacobs",
+        "David Montgomery",
         "Javonte Williams",
         "CeeDee Lamb",
         "A.J. Brown",
         "Colston Loveland",
-        "David Montgomery",
+        "Quentin Johnston",
         "Travis Kelce",
         "Parker Washington"
       ],
@@ -247,15 +255,17 @@
         "Makai Lemon",
         "Cyrus Allen",
         "De'Zhaun Stribling",
+        "Deshaun Watson",
         "Jerry Jeudy",
         "Chig Okonkwo",
         "Jordan Mason",
         "Rashid Shaheed",
         "Malik Davis",
-        "Quentin Johnston",
         "C.J. Stroud"
       ],
-      "reserve": [],
+      "reserve": [
+        "Josh Jacobs"
+      ],
       "taxi": []
     },
     "settings": {
@@ -283,6 +293,7 @@
       "2449",
       "4046",
       "4066",
+      "4981",
       "5995",
       "6149",
       "6804",
@@ -314,6 +325,7 @@
       "13268",
       "13269",
       "4066",
+      "4981",
       "5995",
       "6149",
       "6804",
@@ -322,15 +334,16 @@
       "8121",
       "8147",
       "8161",
-      "9502",
       "9506"
     ],
-    "reserve": [],
+    "reserve": [
+      "9502"
+    ],
     "taxi": [],
-    "player_count": 23,
+    "player_count": 24,
     "starter_count": 9,
     "bench_count": 14,
-    "reserve_count": 0,
+    "reserve_count": 1,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -343,6 +356,7 @@
         "Stefon Diggs",
         "Patrick Mahomes",
         "Evan Engram",
+        "Calvin Ridley",
         "Justice Hill",
         "Darius Slayton",
         "Jordan Love",
@@ -374,6 +388,7 @@
         "Elijah Sarratt",
         "Fernando Mendoza",
         "Evan Engram",
+        "Calvin Ridley",
         "Justice Hill",
         "Darius Slayton",
         "Jordan Love",
@@ -382,10 +397,11 @@
         "Romeo Doubs",
         "John Metchie",
         "Malik Willis",
-        "Tank Dell",
         "Sean Tucker"
       ],
-      "reserve": [],
+      "reserve": [
+        "Tank Dell"
+      ],
       "taxi": []
     },
     "settings": {
@@ -1496,6 +1512,7 @@
     "owner_user_id": "471744678006353920",
     "players": [
       "10232",
+      "11237",
       "11618",
       "11635",
       "11647",
@@ -1504,10 +1521,9 @@
       "13274",
       "13278",
       "13287",
+      "2505",
       "3163",
-      "3200",
       "421",
-      "4219",
       "4866",
       "4983",
       "5012",
@@ -1523,7 +1539,7 @@
       "6770",
       "4866",
       "13287",
-      "10232",
+      "11635",
       "9997",
       "5012",
       "7543",
@@ -1531,16 +1547,16 @@
       "4983"
     ],
     "bench": [
+      "10232",
+      "11237",
       "11618",
-      "11635",
       "11647",
       "12487",
       "13274",
       "13278",
+      "2505",
       "3163",
-      "3200",
       "421",
-      "4219",
       "5022",
       "7670",
       "8180",
@@ -1556,6 +1572,7 @@
     "display": {
       "players": [
         "Michael Wilson",
+        "Jacob Saylors",
         "Jalen McMillan",
         "Ladd McConkey",
         "Kimani Vidal",
@@ -1564,10 +1581,9 @@
         "Germie Bernard",
         "Max Klare",
         "Jeremiyah Love",
+        "Darren Waller",
         "Jared Goff",
-        "Sterling Shepard",
         "Matthew Stafford",
-        "Jeremy McNichols",
         "Saquon Barkley",
         "DJ Moore",
         "Mark Andrews",
@@ -1583,7 +1599,7 @@
         "Joe Burrow",
         "Saquon Barkley",
         "Jeremiyah Love",
-        "Michael Wilson",
+        "Ladd McConkey",
         "Zay Flowers",
         "Mark Andrews",
         "Travis Etienne",
@@ -1591,16 +1607,16 @@
         "DJ Moore"
       ],
       "bench": [
+        "Michael Wilson",
+        "Jacob Saylors",
         "Jalen McMillan",
-        "Ladd McConkey",
         "Kimani Vidal",
         "Terrance Ferguson",
         "Germie Bernard",
         "Max Klare",
+        "Darren Waller",
         "Jared Goff",
-        "Sterling Shepard",
         "Matthew Stafford",
-        "Jeremy McNichols",
         "Dallas Goedert",
         "Joshua Palmer",
         "Jalen Nailor",

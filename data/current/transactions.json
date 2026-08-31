@@ -1693,13 +1693,207 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1399946171086086144",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1788135686230,
+          "created_at": "2026-08-31T00:21:26.230000Z",
+          "status_updated": 1788135686230,
+          "status_updated_at": "2026-08-31T00:21:26.230000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Pol Hol"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Pol Hol"
+          ],
+          "adds": [
+            {
+              "player_id": "4981",
+              "player_name": "Calvin Ridley",
+              "roster_id": 3,
+              "team_label": "Pol Hol"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1399986800117727232",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1788145372946,
+          "created_at": "2026-08-31T03:02:52.946000Z",
+          "status_updated": 1788145372946,
+          "status_updated_at": "2026-08-31T03:02:52.946000Z",
+          "creator_user_id": "471744678006353920",
+          "roster_ids": [
+            12
+          ],
+          "team_labels": [
+            "gullickson"
+          ],
+          "consenter_ids": [
+            12
+          ],
+          "consenter_team_labels": [
+            "gullickson"
+          ],
+          "adds": [
+            {
+              "player_id": "2505",
+              "player_name": "Darren Waller",
+              "roster_id": 12,
+              "team_label": "gullickson"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "3200",
+              "player_name": "Sterling Shepard",
+              "roster_id": 12,
+              "team_label": "gullickson"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1399986883143946240",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1788145392741,
+          "created_at": "2026-08-31T03:03:12.741000Z",
+          "status_updated": 1788145392741,
+          "status_updated_at": "2026-08-31T03:03:12.741000Z",
+          "creator_user_id": "471744678006353920",
+          "roster_ids": [
+            12
+          ],
+          "team_labels": [
+            "gullickson"
+          ],
+          "consenter_ids": [
+            12
+          ],
+          "consenter_team_labels": [
+            "gullickson"
+          ],
+          "adds": [
+            {
+              "player_id": "11237",
+              "player_name": "Jacob Saylors",
+              "roster_id": 12,
+              "team_label": "gullickson"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "4219",
+              "player_name": "Jeremy McNichols",
+              "roster_id": 12,
+              "team_label": "gullickson"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1400155458991296512",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1788185584356,
+          "created_at": "2026-08-31T14:13:04.356000Z",
+          "status_updated": 1788185584356,
+          "status_updated_at": "2026-08-31T14:13:04.356000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [
+            {
+              "player_id": "12455",
+              "player_name": "Brashard Smith",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1400165843232407552",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1788188060151,
+          "created_at": "2026-08-31T14:54:20.151000Z",
+          "status_updated": 1788188060151,
+          "status_updated_at": "2026-08-31T14:54:20.151000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "A B CeeDee"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "A B CeeDee"
+          ],
+          "adds": [
+            {
+              "player_id": "4017",
+              "player_name": "Deshaun Watson",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 40,
+        "transactions": 45,
         "trades": 4,
         "waivers": 0,
-        "free_agent_moves": 35
+        "free_agent_moves": 40
       }
     }
   },
@@ -3394,6 +3588,200 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1399946171086086144",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788135686230,
+      "created_at": "2026-08-31T00:21:26.230000Z",
+      "status_updated": 1788135686230,
+      "status_updated_at": "2026-08-31T00:21:26.230000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Pol Hol"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Pol Hol"
+      ],
+      "adds": [
+        {
+          "player_id": "4981",
+          "player_name": "Calvin Ridley",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1399986800117727232",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788145372946,
+      "created_at": "2026-08-31T03:02:52.946000Z",
+      "status_updated": 1788145372946,
+      "status_updated_at": "2026-08-31T03:02:52.946000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [
+        {
+          "player_id": "2505",
+          "player_name": "Darren Waller",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "3200",
+          "player_name": "Sterling Shepard",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1399986883143946240",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788145392741,
+      "created_at": "2026-08-31T03:03:12.741000Z",
+      "status_updated": 1788145392741,
+      "status_updated_at": "2026-08-31T03:03:12.741000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [
+        {
+          "player_id": "11237",
+          "player_name": "Jacob Saylors",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4219",
+          "player_name": "Jeremy McNichols",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1400155458991296512",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788185584356,
+      "created_at": "2026-08-31T14:13:04.356000Z",
+      "status_updated": 1788185584356,
+      "status_updated_at": "2026-08-31T14:13:04.356000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "12455",
+          "player_name": "Brashard Smith",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1400165843232407552",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788188060151,
+      "created_at": "2026-08-31T14:54:20.151000Z",
+      "status_updated": 1788188060151,
+      "status_updated_at": "2026-08-31T14:54:20.151000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "4017",
+          "player_name": "Deshaun Watson",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -5058,21 +5446,215 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1399946171086086144",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788135686230,
+      "created_at": "2026-08-31T00:21:26.230000Z",
+      "status_updated": 1788135686230,
+      "status_updated_at": "2026-08-31T00:21:26.230000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Pol Hol"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Pol Hol"
+      ],
+      "adds": [
+        {
+          "player_id": "4981",
+          "player_name": "Calvin Ridley",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1399986800117727232",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788145372946,
+      "created_at": "2026-08-31T03:02:52.946000Z",
+      "status_updated": 1788145372946,
+      "status_updated_at": "2026-08-31T03:02:52.946000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [
+        {
+          "player_id": "2505",
+          "player_name": "Darren Waller",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "3200",
+          "player_name": "Sterling Shepard",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1399986883143946240",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788145392741,
+      "created_at": "2026-08-31T03:03:12.741000Z",
+      "status_updated": 1788145392741,
+      "status_updated_at": "2026-08-31T03:03:12.741000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [
+        {
+          "player_id": "11237",
+          "player_name": "Jacob Saylors",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4219",
+          "player_name": "Jeremy McNichols",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1400155458991296512",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788185584356,
+      "created_at": "2026-08-31T14:13:04.356000Z",
+      "status_updated": 1788185584356,
+      "status_updated_at": "2026-08-31T14:13:04.356000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "12455",
+          "player_name": "Brashard Smith",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1400165843232407552",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788188060151,
+      "created_at": "2026-08-31T14:54:20.151000Z",
+      "status_updated": 1788188060151,
+      "status_updated_at": "2026-08-31T14:54:20.151000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "4017",
+          "player_name": "Deshaun Watson",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 1,
-    "transactions": 40,
+    "transactions": 45,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 35,
+    "free_agent_moves": 40,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 35,
+      "free_agent": 40,
       "trade": 4
     },
     "by_status": {
-      "complete": 40
+      "complete": 45
     }
   }
 }
