@@ -1923,13 +1923,49 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1400705823482621952",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1788316801475,
+          "created_at": "2026-09-02T02:40:01.475000Z",
+          "status_updated": 1788316801475,
+          "status_updated_at": "2026-09-02T02:40:01.475000Z",
+          "creator_user_id": "459751268567478272",
+          "roster_ids": [
+            7
+          ],
+          "team_labels": [
+            "Commish is a bitch"
+          ],
+          "consenter_ids": [
+            7
+          ],
+          "consenter_team_labels": [
+            "Commish is a bitch"
+          ],
+          "adds": [
+            {
+              "player_id": "11370",
+              "player_name": "Chris Brooks",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 46,
+        "transactions": 47,
         "trades": 4,
         "waivers": 0,
-        "free_agent_moves": 41
+        "free_agent_moves": 42
       }
     }
   },
@@ -3854,6 +3890,42 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1400705823482621952",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788316801475,
+      "created_at": "2026-09-02T02:40:01.475000Z",
+      "status_updated": 1788316801475,
+      "status_updated_at": "2026-09-02T02:40:01.475000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "11370",
+          "player_name": "Chris Brooks",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -5748,21 +5820,57 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1400705823482621952",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788316801475,
+      "created_at": "2026-09-02T02:40:01.475000Z",
+      "status_updated": 1788316801475,
+      "status_updated_at": "2026-09-02T02:40:01.475000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "11370",
+          "player_name": "Chris Brooks",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 1,
-    "transactions": 46,
+    "transactions": 47,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 41,
+    "free_agent_moves": 42,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 41,
+      "free_agent": 42,
       "trade": 4
     },
     "by_status": {
-      "complete": 46
+      "complete": 47
     }
   }
 }

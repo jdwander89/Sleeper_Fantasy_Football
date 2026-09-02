@@ -830,6 +830,7 @@
     "owner_user_id": "459751268567478272",
     "players": [
       "10222",
+      "11370",
       "11559",
       "11632",
       "11637",
@@ -866,6 +867,7 @@
     ],
     "bench": [
       "10222",
+      "11370",
       "11559",
       "11637",
       "12504",
@@ -877,19 +879,21 @@
       "13275",
       "13311",
       "13414",
-      "13533",
+      "13533"
+    ],
+    "reserve": [
       "8205"
     ],
-    "reserve": [],
     "taxi": [],
-    "player_count": 23,
+    "player_count": 24,
     "starter_count": 9,
     "bench_count": 14,
-    "reserve_count": 0,
+    "reserve_count": 1,
     "taxi_count": 0,
     "display": {
       "players": [
         "Jayden Reed",
+        "Chris Brooks",
         "Michael Penix",
         "Malik Nabers",
         "Keon Coleman",
@@ -926,6 +930,7 @@
       ],
       "bench": [
         "Jayden Reed",
+        "Chris Brooks",
         "Michael Penix",
         "Keon Coleman",
         "Kaleb Johnson",
@@ -937,10 +942,11 @@
         "Ty Simpson",
         "Chris Bell",
         "Kaelon Black",
-        "Barion Brown",
+        "Barion Brown"
+      ],
+      "reserve": [
         "Isiah Pacheco"
       ],
-      "reserve": [],
       "taxi": []
     },
     "settings": {
