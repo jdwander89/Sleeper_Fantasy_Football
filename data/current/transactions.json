@@ -1959,13 +1959,99 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1401061908143935488",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1788401698675,
+          "created_at": "2026-09-03T02:14:58.675000Z",
+          "status_updated": 1788401698675,
+          "status_updated_at": "2026-09-03T02:14:58.675000Z",
+          "creator_user_id": "471717089472671744",
+          "roster_ids": [
+            10
+          ],
+          "team_labels": [
+            "Goin in Ra"
+          ],
+          "consenter_ids": [
+            10
+          ],
+          "consenter_team_labels": [
+            "Goin in Ra"
+          ],
+          "adds": [
+            {
+              "player_id": "11729",
+              "player_name": "Sione Vaki",
+              "roster_id": 10,
+              "team_label": "Goin in Ra"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "8122",
+              "player_name": "Zonovan Knight",
+              "roster_id": 10,
+              "team_label": "Goin in Ra"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1401067071223123968",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1788402929648,
+          "created_at": "2026-09-03T02:35:29.648000Z",
+          "status_updated": 1788402929648,
+          "status_updated_at": "2026-09-03T02:35:29.648000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "12048",
+              "player_name": "George Holani",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "13264",
+              "player_name": "Dohnte Meyers",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 47,
+        "transactions": 49,
         "trades": 4,
         "waivers": 0,
-        "free_agent_moves": 42
+        "free_agent_moves": 44
       }
     }
   },
@@ -3926,6 +4012,92 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1401061908143935488",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788401698675,
+      "created_at": "2026-09-03T02:14:58.675000Z",
+      "status_updated": 1788401698675,
+      "status_updated_at": "2026-09-03T02:14:58.675000Z",
+      "creator_user_id": "471717089472671744",
+      "roster_ids": [
+        10
+      ],
+      "team_labels": [
+        "Goin in Ra"
+      ],
+      "consenter_ids": [
+        10
+      ],
+      "consenter_team_labels": [
+        "Goin in Ra"
+      ],
+      "adds": [
+        {
+          "player_id": "11729",
+          "player_name": "Sione Vaki",
+          "roster_id": 10,
+          "team_label": "Goin in Ra"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8122",
+          "player_name": "Zonovan Knight",
+          "roster_id": 10,
+          "team_label": "Goin in Ra"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1401067071223123968",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788402929648,
+      "created_at": "2026-09-03T02:35:29.648000Z",
+      "status_updated": 1788402929648,
+      "status_updated_at": "2026-09-03T02:35:29.648000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "12048",
+          "player_name": "George Holani",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13264",
+          "player_name": "Dohnte Meyers",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -5856,21 +6028,107 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1401061908143935488",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788401698675,
+      "created_at": "2026-09-03T02:14:58.675000Z",
+      "status_updated": 1788401698675,
+      "status_updated_at": "2026-09-03T02:14:58.675000Z",
+      "creator_user_id": "471717089472671744",
+      "roster_ids": [
+        10
+      ],
+      "team_labels": [
+        "Goin in Ra"
+      ],
+      "consenter_ids": [
+        10
+      ],
+      "consenter_team_labels": [
+        "Goin in Ra"
+      ],
+      "adds": [
+        {
+          "player_id": "11729",
+          "player_name": "Sione Vaki",
+          "roster_id": 10,
+          "team_label": "Goin in Ra"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8122",
+          "player_name": "Zonovan Knight",
+          "roster_id": 10,
+          "team_label": "Goin in Ra"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1401067071223123968",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788402929648,
+      "created_at": "2026-09-03T02:35:29.648000Z",
+      "status_updated": 1788402929648,
+      "status_updated_at": "2026-09-03T02:35:29.648000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "12048",
+          "player_name": "George Holani",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13264",
+          "player_name": "Dohnte Meyers",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 1,
-    "transactions": 47,
+    "transactions": 49,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 42,
+    "free_agent_moves": 44,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 42,
+      "free_agent": 44,
       "trade": 4
     },
     "by_status": {
-      "complete": 47
+      "complete": 49
     }
   }
 }

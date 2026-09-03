@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-02T15:08:16.836463Z",
+  "generated_at": "2026-09-03T15:02:07.430391Z",
   "counts": {
-    "required_player_ids": 313,
-    "resolved_player_ids": 313,
+    "required_player_ids": 315,
+    "resolved_player_ids": 315,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -116,6 +116,7 @@
       "fernando mendoza": "13269",
       "garrett nussmeier": "13404",
       "garrett wilson": "8146",
+      "george holani": "12048",
       "george kittle": "4217",
       "george pickens": "8137",
       "germie bernard": "13274",
@@ -274,6 +275,7 @@
       "sean tucker": "9506",
       "seth mcgowan": "13424",
       "shedeur sanders": "12524",
+      "sione vaki": "11729",
       "skyler bell": "13402",
       "stefon diggs": "2449",
       "sterling shepard": "3200",
@@ -437,6 +439,7 @@
       "DET": [
         "10859",
         "11237",
+        "11729",
         "12535",
         "3163",
         "7547",
@@ -632,6 +635,7 @@
       "SEA": [
         "11435",
         "11603",
+        "12048",
         "12497",
         "12521",
         "13286",
@@ -751,6 +755,8 @@
         "11643",
         "11647",
         "11655",
+        "11729",
+        "12048",
         "12455",
         "12457",
         "12467",

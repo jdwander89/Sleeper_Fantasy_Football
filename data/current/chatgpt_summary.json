@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-02T15:08:16.920113Z",
-    "source_snapshot_generated_at": "2026-09-02T15:08:15.803025Z",
+    "generated_at": "2026-09-03T15:02:07.486850Z",
+    "source_snapshot_generated_at": "2026-09-03T15:02:05.492627Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 1,
     "matchups": 6,
     "matchup_roster_results": 12,
-    "required_player_ids": 313,
-    "compact_player_lookup": 313,
+    "required_player_ids": 315,
+    "compact_player_lookup": 315,
     "missing_player_ids": 0,
-    "transactions": 47,
+    "transactions": 49,
     "trades": 4,
     "waivers": 0,
-    "free_agent_moves": 42,
+    "free_agent_moves": 44,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -846,7 +846,7 @@
           "name": "Kenneth Walker",
           "team": "KC",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8150",
@@ -1031,8 +1031,8 @@
       "counts": {
         "players": 24,
         "starters": 9,
-        "bench": 14,
-        "reserve": 1
+        "bench": 13,
+        "reserve": 2
       },
       "position_counts": {
         "QB": 2,
@@ -1056,11 +1056,11 @@
           "injury_status": null
         },
         {
-          "player_id": "12490",
-          "name": "Bhayshul Tuten",
-          "team": "JAX",
+          "player_id": "6790",
+          "name": "D'Andre Swift",
+          "team": "CHI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7547",
@@ -1077,18 +1077,18 @@
           "injury_status": null
         },
         {
-          "player_id": "9484",
-          "name": "Tucker Kraft",
-          "team": "GB",
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "team": "MIN",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
-          "player_id": "6790",
-          "name": "D'Andre Swift",
-          "team": "CHI",
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
+          "team": "JAX",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "5846",
@@ -1106,6 +1106,13 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "4950",
+          "name": "Christian Kirk",
+          "team": "SF",
+          "position": "WR",
+          "injury_status": "IR"
+        },
         {
           "player_id": "9481",
           "name": "Luke Musgrave",
@@ -1140,9 +1147,9 @@
       },
       "position_counts": {
         "QB": 3,
-        "RB": 8,
+        "RB": 9,
         "TE": 4,
-        "WR": 8
+        "WR": 7
       },
       "starters": [
         {
@@ -1440,17 +1447,17 @@
   "transactions": {
     "counts": {
       "weeks": 1,
-      "transactions": 47,
+      "transactions": 49,
       "trades": 4,
       "waivers": 0,
-      "free_agent_moves": 42,
+      "free_agent_moves": 44,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 42,
+        "free_agent": 44,
         "trade": 4
       },
       "by_status": {
-        "complete": 47
+        "complete": 49
       }
     },
     "activity_by_roster_id": {
@@ -1479,10 +1486,10 @@
         "free_agent_moves": 9
       },
       "11": {
-        "transactions": 8,
+        "transactions": 9,
         "trades": 1,
         "waivers": 0,
-        "free_agent_moves": 7
+        "free_agent_moves": 8
       },
       "2": {
         "transactions": 7,
@@ -1491,10 +1498,10 @@
         "free_agent_moves": 4
       },
       "10": {
-        "transactions": 1,
+        "transactions": 2,
         "trades": 1,
         "waivers": 0,
-        "free_agent_moves": 0
+        "free_agent_moves": 1
       },
       "3": {
         "transactions": 4,
@@ -1528,6 +1535,60 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 1,
+        "transaction_id": "1401067071223123968",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-09-03T02:35:29.648000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "12048",
+            "player_name": "George Holani",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13264",
+            "player_name": "Dohnte Meyers",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1401061908143935488",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-09-03T02:14:58.675000Z",
+        "team_labels": [
+          "Goin in Ra"
+        ],
+        "adds": [
+          {
+            "player_id": "11729",
+            "player_name": "Sione Vaki",
+            "roster_id": 10,
+            "team_label": "Goin in Ra"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "8122",
+            "player_name": "Zonovan Knight",
+            "roster_id": 10,
+            "team_label": "Goin in Ra"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 1,
         "transaction_id": "1400705823482621952",
@@ -2056,53 +2117,6 @@
           }
         ],
         "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1371667902909939712",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-06-13T23:33:41.712000Z",
-        "team_labels": [
-          "A B CeeDee"
-        ],
-        "adds": [],
-        "drops": [
-          {
-            "player_id": "5850",
-            "player_name": "Josh Jacobs",
-            "roster_id": 2,
-            "team_label": "A B CeeDee"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1370636600928669696",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-06-11T03:15:40.160000Z",
-        "team_labels": [
-          "MOJO"
-        ],
-        "adds": [
-          {
-            "player_id": "13411",
-            "player_name": "Zavion Thomas",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "6271",
-            "player_name": "Olamide Zaccheaus",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
         "draft_picks": []
       }
     ]
