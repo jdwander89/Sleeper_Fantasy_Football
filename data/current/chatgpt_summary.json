@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-03T15:02:07.486850Z",
-    "source_snapshot_generated_at": "2026-09-03T15:02:05.492627Z",
+    "generated_at": "2026-09-04T14:59:44.661694Z",
+    "source_snapshot_generated_at": "2026-09-04T14:59:43.399074Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -569,7 +569,7 @@
           "name": "Rome Odunze",
           "team": "CHI",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11586",
@@ -1060,7 +1060,7 @@
           "name": "D'Andre Swift",
           "team": "CHI",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7547",
