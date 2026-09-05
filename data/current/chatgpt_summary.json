@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-04T14:59:44.661694Z",
-    "source_snapshot_generated_at": "2026-09-04T14:59:43.399074Z",
+    "generated_at": "2026-09-05T13:53:42.150155Z",
+    "source_snapshot_generated_at": "2026-09-05T13:53:40.790763Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -413,10 +413,11 @@
         "reserve": 0
       },
       "position_counts": {
+        "DB": 1,
         "QB": 2,
         "RB": 7,
         "TE": 5,
-        "WR": 9
+        "WR": 8
       },
       "starters": [
         {
