@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-05T13:53:42.150155Z",
-    "source_snapshot_generated_at": "2026-09-05T13:53:40.790763Z",
+    "generated_at": "2026-09-06T14:13:28.999591Z",
+    "source_snapshot_generated_at": "2026-09-06T14:13:27.964959Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -115,8 +115,8 @@
           "injury_status": "Questionable"
         },
         {
-          "player_id": "8136",
-          "name": "Rachaad White",
+          "player_id": "12533",
+          "name": "Jacory Croskey-Merritt",
           "team": "WAS",
           "position": "RB",
           "injury_status": "Questionable"
@@ -143,8 +143,8 @@
           "injury_status": null
         },
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
+          "player_id": "8136",
+          "name": "Rachaad White",
           "team": "WAS",
           "position": "RB",
           "injury_status": "Questionable"

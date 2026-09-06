@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-09-05T13:53:40.790763Z",
+  "generated_at": "2026-09-06T14:13:27.964959Z",
   "league_id": "1312581067286282240",
   "sport": "nfl",
   "season": "2026",
@@ -9,8 +9,8 @@
   "nfl_state": {
     "week": 1,
     "leg": 1,
-    "season": "2026",
     "season_type": "regular",
+    "season": "2026",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
@@ -108,5 +108,5 @@
     "errors": [],
     "missing_player_ids": []
   },
-  "summary_generated_at": "2026-09-05T13:53:42.150155Z"
+  "summary_generated_at": "2026-09-06T14:13:28.999591Z"
 }
