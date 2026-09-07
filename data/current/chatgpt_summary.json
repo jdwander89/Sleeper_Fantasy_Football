@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-06T14:13:28.999591Z",
-    "source_snapshot_generated_at": "2026-09-06T14:13:27.964959Z",
+    "generated_at": "2026-09-07T16:31:19.672319Z",
+    "source_snapshot_generated_at": "2026-09-07T16:31:18.730608Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -670,10 +670,10 @@
           "injury_status": null
         },
         {
-          "player_id": "1479",
-          "name": "Keenan Allen",
-          "team": "IND",
-          "position": "WR",
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "team": "DEN",
+          "position": "RB",
           "injury_status": null
         },
         {
