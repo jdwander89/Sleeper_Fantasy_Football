@@ -2045,13 +2045,188 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1402801583405699072",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1788816469579,
+          "created_at": "2026-09-07T21:27:49.579000Z",
+          "status_updated": 1788816469579,
+          "status_updated_at": "2026-09-07T21:27:49.579000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Pol Hol"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Pol Hol"
+          ],
+          "adds": [
+            {
+              "player_id": "9501",
+              "player_name": "DeMario Douglas",
+              "roster_id": 3,
+              "team_label": "Pol Hol"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "6149",
+              "player_name": "Darius Slayton",
+              "roster_id": 3,
+              "team_label": "Pol Hol"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1403049819001389056",
+          "type": "trade",
+          "status": "complete",
+          "created": 1788875653557,
+          "created_at": "2026-09-08T13:54:13.557000Z",
+          "status_updated": 1788876060763,
+          "status_updated_at": "2026-09-08T14:01:00.763000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            2,
+            11
+          ],
+          "team_labels": [
+            "A B CeeDee",
+            "MOJO"
+          ],
+          "consenter_ids": [
+            2,
+            11
+          ],
+          "consenter_team_labels": [
+            "A B CeeDee",
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "12469",
+              "player_name": "Dylan Sampson",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "12469",
+              "player_name": "Dylan Sampson",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2027",
+              "round": 2,
+              "original_roster_id": 11,
+              "original_team_label": "MOJO",
+              "previous_owner_id": 11,
+              "previous_owner_team_label": "MOJO",
+              "owner_id": 2,
+              "owner_team_label": "A B CeeDee"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {
+            "is_counter": 1
+          },
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1403051552448462848",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1788876066843,
+          "created_at": "2026-09-08T14:01:06.843000Z",
+          "status_updated": 1788876066843,
+          "status_updated_at": "2026-09-08T14:01:06.843000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "A B CeeDee"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "A B CeeDee"
+          ],
+          "adds": [
+            {
+              "player_id": "10235",
+              "player_name": "Roschon Johnson",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1403052357020831744",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1788876258668,
+          "created_at": "2026-09-08T14:04:18.668000Z",
+          "status_updated": 1788876258668,
+          "status_updated_at": "2026-09-08T14:04:18.668000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "12048",
+              "player_name": "George Holani",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 49,
-        "trades": 4,
+        "transactions": 53,
+        "trades": 5,
         "waivers": 0,
-        "free_agent_moves": 44
+        "free_agent_moves": 47
       }
     }
   },
@@ -4098,6 +4273,181 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1402801583405699072",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788816469579,
+      "created_at": "2026-09-07T21:27:49.579000Z",
+      "status_updated": 1788816469579,
+      "status_updated_at": "2026-09-07T21:27:49.579000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Pol Hol"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Pol Hol"
+      ],
+      "adds": [
+        {
+          "player_id": "9501",
+          "player_name": "DeMario Douglas",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6149",
+          "player_name": "Darius Slayton",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1403049819001389056",
+      "type": "trade",
+      "status": "complete",
+      "created": 1788875653557,
+      "created_at": "2026-09-08T13:54:13.557000Z",
+      "status_updated": 1788876060763,
+      "status_updated_at": "2026-09-08T14:01:00.763000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        2,
+        11
+      ],
+      "team_labels": [
+        "A B CeeDee",
+        "MOJO"
+      ],
+      "consenter_ids": [
+        2,
+        11
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee",
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "12469",
+          "player_name": "Dylan Sampson",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12469",
+          "player_name": "Dylan Sampson",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 11,
+          "previous_owner_team_label": "MOJO",
+          "owner_id": 2,
+          "owner_team_label": "A B CeeDee"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {
+        "is_counter": 1
+      },
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1403051552448462848",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788876066843,
+      "created_at": "2026-09-08T14:01:06.843000Z",
+      "status_updated": 1788876066843,
+      "status_updated_at": "2026-09-08T14:01:06.843000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "10235",
+          "player_name": "Roschon Johnson",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1403052357020831744",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788876258668,
+      "created_at": "2026-09-08T14:04:18.668000Z",
+      "status_updated": 1788876258668,
+      "status_updated_at": "2026-09-08T14:04:18.668000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12048",
+          "player_name": "George Holani",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -4393,6 +4743,66 @@
       ],
       "waiver_budget": [],
       "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1403049819001389056",
+      "type": "trade",
+      "status": "complete",
+      "created": 1788875653557,
+      "created_at": "2026-09-08T13:54:13.557000Z",
+      "status_updated": 1788876060763,
+      "status_updated_at": "2026-09-08T14:01:00.763000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        2,
+        11
+      ],
+      "team_labels": [
+        "A B CeeDee",
+        "MOJO"
+      ],
+      "consenter_ids": [
+        2,
+        11
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee",
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "12469",
+          "player_name": "Dylan Sampson",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12469",
+          "player_name": "Dylan Sampson",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 11,
+          "previous_owner_team_label": "MOJO",
+          "owner_id": 2,
+          "owner_team_label": "A B CeeDee"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {
+        "is_counter": 1
+      },
       "metadata": {}
     }
   ],
@@ -6114,21 +6524,136 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1402801583405699072",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788816469579,
+      "created_at": "2026-09-07T21:27:49.579000Z",
+      "status_updated": 1788816469579,
+      "status_updated_at": "2026-09-07T21:27:49.579000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Pol Hol"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Pol Hol"
+      ],
+      "adds": [
+        {
+          "player_id": "9501",
+          "player_name": "DeMario Douglas",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6149",
+          "player_name": "Darius Slayton",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1403051552448462848",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788876066843,
+      "created_at": "2026-09-08T14:01:06.843000Z",
+      "status_updated": 1788876066843,
+      "status_updated_at": "2026-09-08T14:01:06.843000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "10235",
+          "player_name": "Roschon Johnson",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1403052357020831744",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788876258668,
+      "created_at": "2026-09-08T14:04:18.668000Z",
+      "status_updated": 1788876258668,
+      "status_updated_at": "2026-09-08T14:04:18.668000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12048",
+          "player_name": "George Holani",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 1,
-    "transactions": 49,
-    "trades": 4,
+    "transactions": 53,
+    "trades": 5,
     "waivers": 0,
-    "free_agent_moves": 44,
+    "free_agent_moves": 47,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 44,
-      "trade": 4
+      "free_agent": 47,
+      "trade": 5
     },
     "by_status": {
-      "complete": 49
+      "complete": 53
     }
   }
 }

@@ -133,6 +133,17 @@
       "owner_team_label": "It’s Herbie Hancock"
     },
     {
+      "season": "2027",
+      "round": 2,
+      "draft_id": null,
+      "original_roster_id": 11,
+      "original_team_label": "MOJO",
+      "previous_owner_id": 11,
+      "previous_owner_team_label": "MOJO",
+      "owner_id": 2,
+      "owner_team_label": "A B CeeDee"
+    },
+    {
       "season": "2026",
       "round": 3,
       "draft_id": null,
@@ -237,7 +248,7 @@
     ]
   },
   "counts": {
-    "league_traded_picks": 13,
+    "league_traded_picks": 14,
     "draft_traded_picks": 8
   }
 }

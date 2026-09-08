@@ -31,12 +31,12 @@
     ],
     "starters": [
       "11566",
-      "12529",
+      "8136",
       "12533",
       "8112",
       "9756",
       "10236",
-      "8136",
+      "9504",
       "11624",
       "12501"
     ],
@@ -46,6 +46,7 @@
       "12455",
       "12498",
       "12522",
+      "12529",
       "12544",
       "13296",
       "13305",
@@ -53,8 +54,7 @@
       "13349",
       "13402",
       "13421",
-      "7523",
-      "9504"
+      "7523"
     ],
     "reserve": [
       "13281",
@@ -96,12 +96,12 @@
       ],
       "starters": [
         "Jayden Daniels",
-        "TreVeyon Henderson",
+        "Rachaad White",
         "Jacory Croskey-Merritt",
         "Drake London",
         "Jordan Addison",
         "Dalton Kincaid",
-        "Rachaad White",
+        "Kayshon Boutte",
         "Xavier Worthy",
         "Matthew Golden"
       ],
@@ -111,6 +111,7 @@
         "Brashard Smith",
         "Mason Taylor",
         "Cam Ward",
+        "TreVeyon Henderson",
         "LeQuint Allen",
         "Caleb Douglas",
         "Mike Washington",
@@ -118,8 +119,7 @@
         "Eli Stowers",
         "Skyler Bell",
         "Eli Raridon",
-        "Trevor Lawrence",
-        "Kayshon Boutte"
+        "Trevor Lawrence"
       ],
       "reserve": [
         "Jordyn Tyson",
@@ -148,7 +148,7 @@
     "roster_id": 2,
     "owner_user_id": "471403228244733952",
     "players": [
-      "12469",
+      "10235",
       "12492",
       "12495",
       "12509",
@@ -185,7 +185,7 @@
       "9487"
     ],
     "bench": [
-      "12469",
+      "10235",
       "12492",
       "12495",
       "12509",
@@ -211,7 +211,7 @@
     "taxi_count": 0,
     "display": {
       "players": [
-        "Dylan Sampson",
+        "Roschon Johnson",
         "Pat Bryant",
         "Ollie Gordon",
         "Tre' Harris",
@@ -248,7 +248,7 @@
         "Parker Washington"
       ],
       "bench": [
-        "Dylan Sampson",
+        "Roschon Johnson",
         "Pat Bryant",
         "Ollie Gordon",
         "Tre' Harris",
@@ -295,7 +295,6 @@
       "4066",
       "4981",
       "5995",
-      "6149",
       "6804",
       "6813",
       "6819",
@@ -305,6 +304,7 @@
       "8121",
       "8147",
       "8161",
+      "9501",
       "9502",
       "9506",
       "9509"
@@ -327,13 +327,13 @@
       "4066",
       "4981",
       "5995",
-      "6149",
       "6804",
       "6819",
       "7528",
       "8121",
       "8147",
       "8161",
+      "9501",
       "9506"
     ],
     "reserve": [
@@ -358,7 +358,6 @@
         "Evan Engram",
         "Calvin Ridley",
         "Justice Hill",
-        "Darius Slayton",
         "Jordan Love",
         "Jonathan Taylor",
         "Michael Pittman",
@@ -368,6 +367,7 @@
         "Romeo Doubs",
         "John Metchie",
         "Malik Willis",
+        "DeMario Douglas",
         "Tank Dell",
         "Sean Tucker",
         "Bijan Robinson"
@@ -390,13 +390,13 @@
         "Evan Engram",
         "Calvin Ridley",
         "Justice Hill",
-        "Darius Slayton",
         "Jordan Love",
         "Michael Pittman",
         "Najee Harris",
         "Romeo Doubs",
         "John Metchie",
         "Malik Willis",
+        "DeMario Douglas",
         "Sean Tucker"
       ],
       "reserve": [
@@ -1384,7 +1384,7 @@
       "11563",
       "11575",
       "11604",
-      "12048",
+      "12469",
       "12481",
       "12502",
       "13320",
@@ -1419,7 +1419,7 @@
     "bench": [
       "11563",
       "11575",
-      "12048",
+      "12469",
       "12502",
       "13320",
       "13411",
@@ -1444,7 +1444,7 @@
         "Bo Nix",
         "Ray Davis",
         "Brock Bowers",
-        "George Holani",
+        "Dylan Sampson",
         "Cam Skattebo",
         "Gunnar Helm",
         "Zachariah Branch",
@@ -1479,7 +1479,7 @@
       "bench": [
         "Bo Nix",
         "Ray Davis",
-        "George Holani",
+        "Dylan Sampson",
         "Gunnar Helm",
         "Zachariah Branch",
         "Zavion Thomas",

@@ -158,12 +158,12 @@
           ],
           "starters": [
             "11566",
-            "12529",
+            "8136",
             "12533",
             "8112",
             "9756",
             "10236",
-            "8136",
+            "9504",
             "11624",
             "12501"
           ],
@@ -173,6 +173,7 @@
             "12455",
             "12498",
             "12522",
+            "12529",
             "12544",
             "13281",
             "13296",
@@ -182,8 +183,7 @@
             "13349",
             "13402",
             "13421",
-            "7523",
-            "9504"
+            "7523"
           ],
           "players_points": {
             "10236": 0.0,
@@ -243,12 +243,12 @@
             ],
             "starters": [
               "Jayden Daniels",
-              "TreVeyon Henderson",
+              "Rachaad White",
               "Jacory Croskey-Merritt",
               "Drake London",
               "Jordan Addison",
               "Dalton Kincaid",
-              "Rachaad White",
+              "Kayshon Boutte",
               "Xavier Worthy",
               "Matthew Golden"
             ],
@@ -258,6 +258,7 @@
               "Brashard Smith",
               "Mason Taylor",
               "Cam Ward",
+              "TreVeyon Henderson",
               "LeQuint Allen",
               "Jordyn Tyson",
               "Caleb Douglas",
@@ -267,8 +268,7 @@
               "Eli Stowers",
               "Skyler Bell",
               "Eli Raridon",
-              "Trevor Lawrence",
-              "Kayshon Boutte"
+              "Trevor Lawrence"
             ]
           }
         },
@@ -280,7 +280,7 @@
           "points": 0.0,
           "custom_points": null,
           "players": [
-            "12469",
+            "10235",
             "12492",
             "12495",
             "12509",
@@ -317,7 +317,7 @@
             "9487"
           ],
           "bench": [
-            "12469",
+            "10235",
             "12492",
             "12495",
             "12509",
@@ -334,7 +334,7 @@
             "9758"
           ],
           "players_points": {
-            "12469": 0.0,
+            "10235": 0.0,
             "12492": 0.0,
             "12495": 0.0,
             "12509": 0.0,
@@ -362,7 +362,7 @@
           "starters_points": {},
           "display": {
             "players": [
-              "Dylan Sampson",
+              "Roschon Johnson",
               "Pat Bryant",
               "Ollie Gordon",
               "Tre' Harris",
@@ -399,7 +399,7 @@
               "Parker Washington"
             ],
             "bench": [
-              "Dylan Sampson",
+              "Roschon Johnson",
               "Pat Bryant",
               "Ollie Gordon",
               "Tre' Harris",
@@ -436,7 +436,6 @@
             "4066",
             "4981",
             "5995",
-            "6149",
             "6804",
             "6813",
             "6819",
@@ -446,6 +445,7 @@
             "8121",
             "8147",
             "8161",
+            "9501",
             "9502",
             "9506",
             "9509"
@@ -468,13 +468,13 @@
             "4066",
             "4981",
             "5995",
-            "6149",
             "6804",
             "6819",
             "7528",
             "8121",
             "8147",
             "8161",
+            "9501",
             "9502",
             "9506"
           ],
@@ -490,7 +490,6 @@
             "4066": 0.0,
             "4981": 0.0,
             "5995": 0.0,
-            "6149": 0.0,
             "6804": 0.0,
             "6813": 0.0,
             "6819": 0.0,
@@ -500,6 +499,7 @@
             "8121": 0.0,
             "8147": 0.0,
             "8161": 0.0,
+            "9501": 0.0,
             "9502": 0.0,
             "9506": 0.0,
             "9509": 0.0
@@ -518,7 +518,6 @@
               "Evan Engram",
               "Calvin Ridley",
               "Justice Hill",
-              "Darius Slayton",
               "Jordan Love",
               "Jonathan Taylor",
               "Michael Pittman",
@@ -528,6 +527,7 @@
               "Romeo Doubs",
               "John Metchie",
               "Malik Willis",
+              "DeMario Douglas",
               "Tank Dell",
               "Sean Tucker",
               "Bijan Robinson"
@@ -550,13 +550,13 @@
               "Evan Engram",
               "Calvin Ridley",
               "Justice Hill",
-              "Darius Slayton",
               "Jordan Love",
               "Michael Pittman",
               "Najee Harris",
               "Romeo Doubs",
               "John Metchie",
               "Malik Willis",
+              "DeMario Douglas",
               "Tank Dell",
               "Sean Tucker"
             ]
@@ -1588,7 +1588,7 @@
             "11563",
             "11575",
             "11604",
-            "12048",
+            "12469",
             "12481",
             "12502",
             "13320",
@@ -1623,7 +1623,7 @@
           "bench": [
             "11563",
             "11575",
-            "12048",
+            "12469",
             "12502",
             "13320",
             "13411",
@@ -1640,7 +1640,7 @@
             "11563": 0.0,
             "11575": 0.0,
             "11604": 0.0,
-            "12048": 0.0,
+            "12469": 0.0,
             "12481": 0.0,
             "12502": 0.0,
             "13320": 0.0,
@@ -1667,7 +1667,7 @@
               "Bo Nix",
               "Ray Davis",
               "Brock Bowers",
-              "George Holani",
+              "Dylan Sampson",
               "Cam Skattebo",
               "Gunnar Helm",
               "Zachariah Branch",
@@ -1702,7 +1702,7 @@
             "bench": [
               "Bo Nix",
               "Ray Davis",
-              "George Holani",
+              "Dylan Sampson",
               "Gunnar Helm",
               "Zachariah Branch",
               "Zavion Thomas",

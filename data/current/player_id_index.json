@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-07T16:31:19.586771Z",
+  "generated_at": "2026-09-08T15:10:11.072343Z",
   "counts": {
-    "required_player_ids": 315,
-    "resolved_player_ids": 315,
+    "required_player_ids": 317,
+    "resolved_player_ids": 317,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -87,6 +87,7 @@
       "de'von achane": "9226",
       "de'zhaun stribling": "13417",
       "deebo samuel": "5872",
+      "demario douglas": "9501",
       "demond claiborne": "13347",
       "denzel boston": "13346",
       "derrick henry": "3198",
@@ -267,6 +268,7 @@
       "roman wilson": "11630",
       "rome odunze": "11620",
       "romeo doubs": "8121",
+      "roschon johnson": "10235",
       "ryan flournoy": "11783",
       "sam darnold": "4943",
       "sam laporta": "10859",
@@ -384,6 +386,7 @@
         "9228"
       ],
       "CHI": [
+        "10235",
         "11560",
         "11620",
         "12517",
@@ -569,7 +572,8 @@
         "4177",
         "5859",
         "7611",
-        "8121"
+        "8121",
+        "9501"
       ],
       "NO": [
         "10444",
@@ -741,6 +745,7 @@
       ],
       "RB": [
         "10219",
+        "10235",
         "11199",
         "11237",
         "11370",
@@ -1016,6 +1021,7 @@
         "9488",
         "9493",
         "9500",
+        "9501",
         "9502",
         "9504",
         "9754",
