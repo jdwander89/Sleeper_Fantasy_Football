@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-08T15:10:11.131176Z",
-    "source_snapshot_generated_at": "2026-09-08T15:10:10.136774Z",
+    "generated_at": "2026-09-09T15:09:17.141219Z",
+    "source_snapshot_generated_at": "2026-09-09T15:09:15.877558Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 1,
     "matchups": 6,
     "matchup_roster_results": 12,
-    "required_player_ids": 317,
-    "compact_player_lookup": 317,
+    "required_player_ids": 318,
+    "compact_player_lookup": 318,
     "missing_player_ids": 0,
-    "transactions": 53,
+    "transactions": 54,
     "trades": 5,
     "waivers": 0,
-    "free_agent_moves": 47,
+    "free_agent_moves": 48,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -205,9 +205,9 @@
         "reserve": 1
       },
       "position_counts": {
-        "QB": 3,
+        "QB": 2,
         "RB": 7,
-        "TE": 3,
+        "TE": 4,
         "WR": 11
       },
       "starters": [
@@ -348,7 +348,7 @@
           "name": "Mike Evans",
           "team": "SF",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "10859",
@@ -446,7 +446,7 @@
           "name": "Puka Nacua",
           "team": "LAR",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12519",
@@ -632,7 +632,7 @@
           "name": "Christian McCaffrey",
           "team": "SF",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12527",
@@ -649,9 +649,9 @@
           "injury_status": null
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison",
-          "team": "ARI",
+          "player_id": "5872",
+          "name": "Deebo Samuel",
+          "team": "SF",
           "position": "WR",
           "injury_status": null
         },
@@ -663,9 +663,9 @@
           "injury_status": null
         },
         {
-          "player_id": "5872",
-          "name": "Deebo Samuel",
-          "team": "SF",
+          "player_id": "11628",
+          "name": "Marvin Harrison",
+          "team": "ARI",
           "position": "WR",
           "injury_status": null
         },
@@ -1448,17 +1448,17 @@
   "transactions": {
     "counts": {
       "weeks": 1,
-      "transactions": 53,
+      "transactions": 54,
       "trades": 5,
       "waivers": 0,
-      "free_agent_moves": 47,
+      "free_agent_moves": 48,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 47,
+        "free_agent": 48,
         "trade": 5
       },
       "by_status": {
-        "complete": 53
+        "complete": 54
       }
     },
     "activity_by_roster_id": {
@@ -1493,10 +1493,10 @@
         "free_agent_moves": 9
       },
       "2": {
-        "transactions": 9,
+        "transactions": 10,
         "trades": 3,
         "waivers": 0,
-        "free_agent_moves": 5
+        "free_agent_moves": 6
       },
       "10": {
         "transactions": 2,
@@ -1536,6 +1536,33 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 1,
+        "transaction_id": "1403112387799728128",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-09-08T18:02:51.121000Z",
+        "team_labels": [
+          "A B CeeDee"
+        ],
+        "adds": [
+          {
+            "player_id": "8127",
+            "player_name": "Charlie Kolar",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "4017",
+            "player_name": "Deshaun Watson",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 1,
         "transaction_id": "1403052357020831744",
@@ -2115,33 +2142,6 @@
             "player_name": "Cade Klubnik",
             "roster_id": 9,
             "team_label": "off"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1391599005762338816",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-08-07T23:32:46.935000Z",
-        "team_labels": [
-          "It’s Herbie Hancock"
-        ],
-        "adds": [
-          {
-            "player_id": "12540",
-            "player_name": "Chimere Dike",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "9479",
-            "player_name": "Darnell Washington",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
           }
         ],
         "draft_picks": []

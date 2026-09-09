@@ -2220,13 +2220,56 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1403112387799728128",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1788890571121,
+          "created_at": "2026-09-08T18:02:51.121000Z",
+          "status_updated": 1788890571121,
+          "status_updated_at": "2026-09-08T18:02:51.121000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "A B CeeDee"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "A B CeeDee"
+          ],
+          "adds": [
+            {
+              "player_id": "8127",
+              "player_name": "Charlie Kolar",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "4017",
+              "player_name": "Deshaun Watson",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 53,
+        "transactions": 54,
         "trades": 5,
         "waivers": 0,
-        "free_agent_moves": 47
+        "free_agent_moves": 48
       }
     }
   },
@@ -4448,6 +4491,49 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1403112387799728128",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788890571121,
+      "created_at": "2026-09-08T18:02:51.121000Z",
+      "status_updated": 1788890571121,
+      "status_updated_at": "2026-09-08T18:02:51.121000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "8127",
+          "player_name": "Charlie Kolar",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4017",
+          "player_name": "Deshaun Watson",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -6639,21 +6725,64 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1403112387799728128",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1788890571121,
+      "created_at": "2026-09-08T18:02:51.121000Z",
+      "status_updated": 1788890571121,
+      "status_updated_at": "2026-09-08T18:02:51.121000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "8127",
+          "player_name": "Charlie Kolar",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4017",
+          "player_name": "Deshaun Watson",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 1,
-    "transactions": 53,
+    "transactions": 54,
     "trades": 5,
     "waivers": 0,
-    "free_agent_moves": 47,
+    "free_agent_moves": 48,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 47,
+      "free_agent": 48,
       "trade": 5
     },
     "by_status": {
-      "complete": 53
+      "complete": 54
     }
   }
 }

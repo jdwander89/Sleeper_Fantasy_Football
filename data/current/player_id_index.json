@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-08T15:10:11.072343Z",
+  "generated_at": "2026-09-09T15:09:17.056406Z",
   "counts": {
-    "required_player_ids": 317,
-    "resolved_player_ids": 317,
+    "required_player_ids": 318,
+    "resolved_player_ids": 318,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -52,6 +52,7 @@
       "carson beck": "13272",
       "cedric tillman": "10444",
       "ceedee lamb": "6786",
+      "charlie kolar": "8127",
       "chase brown": "9224",
       "chig okonkwo": "8210",
       "chimere dike": "12540",
@@ -515,6 +516,7 @@
         "13380",
         "4033",
         "6797",
+        "8127",
         "9511",
         "9754"
       ],
@@ -595,7 +597,6 @@
         "12508",
         "13285",
         "6130",
-        "6149",
         "7090",
         "7528",
         "8125",
@@ -886,6 +887,7 @@
         "7600",
         "8110",
         "8111",
+        "8127",
         "8130",
         "8131",
         "8172",
