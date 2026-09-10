@@ -19,11 +19,15 @@
             {
               "roster_id": 11,
               "team_label": "MOJO",
-              "points": 0.0,
+              "points": 5.6,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 11,
+            "team_label": "MOJO",
+            "points": 5.6
+          }
         },
         {
           "week": 1,
@@ -70,7 +74,7 @@
             {
               "roster_id": 2,
               "team_label": "A B CeeDee",
-              "points": 0.0,
+              "points": 5.6,
               "custom_points": null
             },
             {
@@ -80,7 +84,11 @@
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 2,
+            "team_label": "A B CeeDee",
+            "points": 5.6
+          }
         },
         {
           "week": 1,
@@ -89,7 +97,7 @@
             {
               "roster_id": 8,
               "team_label": "Back to the Future",
-              "points": 0.0,
+              "points": 24.32,
               "custom_points": null
             },
             {
@@ -99,7 +107,11 @@
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 8,
+            "team_label": "Back to the Future",
+            "points": 24.32
+          }
         },
         {
           "week": 1,
@@ -114,11 +126,15 @@
             {
               "roster_id": 7,
               "team_label": "Commish is a bitch",
-              "points": 0.0,
+              "points": 26.2,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 7,
+            "team_label": "Commish is a bitch",
+            "points": 26.2
+          }
         }
       ],
       "roster_results": [
@@ -205,7 +221,7 @@
             "13347": 0.0,
             "13349": 0.0,
             "13402": 0.0,
-            "13421": 0.0,
+            "13421": 7.2,
             "7523": 0.0,
             "8112": 0.0,
             "8136": 0.0,
@@ -277,7 +293,7 @@
           "matchup_id": 4,
           "roster_id": 2,
           "team_label": "A B CeeDee",
-          "points": 0.0,
+          "points": 5.6,
           "custom_points": null,
           "players": [
             "10235",
@@ -344,7 +360,7 @@
             "13417": 0.0,
             "1466": 0.0,
             "5850": 0.0,
-            "5859": 0.0,
+            "5859": 5.6,
             "5892": 0.0,
             "6783": 0.0,
             "6786": 0.0,
@@ -353,7 +369,7 @@
             "8127": 0.0,
             "8210": 0.0,
             "8408": 0.0,
-            "8676": 0.0,
+            "8676": 1.4,
             "8800": 0.0,
             "9487": 0.0,
             "9754": 0.0,
@@ -499,7 +515,7 @@
             "8121": 0.0,
             "8147": 0.0,
             "8161": 0.0,
-            "9501": 0.0,
+            "9501": 7.0,
             "9502": 0.0,
             "9506": 0.0,
             "9509": 0.0
@@ -622,7 +638,7 @@
             "8698"
           ],
           "players_points": {
-            "11603": 0.0,
+            "11603": 3.3,
             "11610": 0.0,
             "11631": 0.0,
             "12457": 0.0,
@@ -1002,7 +1018,7 @@
           "matchup_id": 6,
           "roster_id": 7,
           "team_label": "Commish is a bitch",
-          "points": 0.0,
+          "points": 26.2,
           "custom_points": null,
           "players": [
             "10222",
@@ -1082,7 +1098,7 @@
             "7567": 0.0,
             "8167": 0.0,
             "8205": 0.0,
-            "9488": 0.0
+            "9488": 26.2
           },
           "starters_points": {},
           "display": {
@@ -1147,7 +1163,7 @@
           "matchup_id": 5,
           "roster_id": 8,
           "team_label": "Back to the Future",
-          "points": 0.0,
+          "points": 24.32,
           "custom_points": null,
           "players": [
             "11199",
@@ -1207,8 +1223,8 @@
           ],
           "players_points": {
             "11199": 0.0,
-            "11435": 0.0,
-            "11564": 0.0,
+            "11435": 0.3,
+            "11564": 9.82,
             "11569": 0.0,
             "11581": 0.0,
             "11630": 0.0,
@@ -1222,7 +1238,7 @@
             "13346": 0.0,
             "6794": 0.0,
             "6797": 0.0,
-            "7611": 0.0,
+            "7611": 14.5,
             "8125": 0.0,
             "8130": 0.0,
             "8131": 0.0,
@@ -1499,11 +1515,11 @@
             "11783": 0.0,
             "12490": 0.0,
             "12536": 0.0,
-            "13286": 0.0,
+            "13286": 7.8,
             "13337": 0.0,
             "3198": 0.0,
             "4881": 0.0,
-            "4943": 0.0,
+            "4943": 0.52,
             "4950": 0.0,
             "5844": 0.0,
             "5846": 0.0,
@@ -1582,7 +1598,7 @@
           "matchup_id": 1,
           "roster_id": 11,
           "team_label": "MOJO",
-          "points": 0.0,
+          "points": 5.6,
           "custom_points": null,
           "players": [
             "11563",
@@ -1615,7 +1631,7 @@
             "12481",
             "6801",
             "7526",
-            "11604",
+            "3214",
             "2133",
             "8228",
             "7021"
@@ -1623,12 +1639,12 @@
           "bench": [
             "11563",
             "11575",
+            "11604",
             "12469",
             "12502",
             "13320",
             "13411",
             "13424",
-            "3214",
             "4039",
             "4147",
             "5045",
@@ -1647,8 +1663,8 @@
             "13411": 0.0,
             "13424": 0.0,
             "2133": 0.0,
-            "3214": 0.0,
-            "4039": 0.0,
+            "3214": 5.6,
+            "4039": 5.5,
             "4147": 0.0,
             "4984": 0.0,
             "5045": 0.0,
@@ -1694,7 +1710,7 @@
               "Cam Skattebo",
               "Tee Higgins",
               "Jaylen Waddle",
-              "Brock Bowers",
+              "Hunter Henry",
               "Davante Adams",
               "Jaylen Warren",
               "Rico Dowdle"
@@ -1702,12 +1718,12 @@
             "bench": [
               "Bo Nix",
               "Ray Davis",
+              "Brock Bowers",
               "Dylan Sampson",
               "Gunnar Helm",
               "Zachariah Branch",
               "Zavion Thomas",
               "Seth McGowan",
-              "Hunter Henry",
               "Cooper Kupp",
               "Samaje Perine",
               "Courtland Sutton",

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-09T15:09:17.141219Z",
-    "source_snapshot_generated_at": "2026-09-09T15:09:15.877558Z",
+    "generated_at": "2026-09-10T15:01:09.873169Z",
+    "source_snapshot_generated_at": "2026-09-10T15:01:08.724413Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -112,7 +112,7 @@
           "name": "Rachaad White",
           "team": "WAS",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12533",
@@ -244,7 +244,7 @@
           "name": "A.J. Brown",
           "team": "NE",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "12517",
@@ -355,7 +355,7 @@
           "name": "Sam LaPorta",
           "team": "DET",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11584",
@@ -432,14 +432,14 @@
           "name": "Breece Hall",
           "team": "NYJ",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7594",
           "name": "Chuba Hubbard",
           "team": "CAR",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "9493",
@@ -453,7 +453,7 @@
           "name": "Luther Burden",
           "team": "CHI",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "9480",
@@ -467,7 +467,7 @@
           "name": "Carnell Tate",
           "team": "TEN",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "4037",
@@ -639,7 +639,7 @@
           "name": "Ashton Jeanty",
           "team": "LV",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8146",
@@ -771,7 +771,7 @@
           "name": "Tyler Warren",
           "team": "IND",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8167",
@@ -868,7 +868,7 @@
           "name": "Emeka Egbuka",
           "team": "TB",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8130",
@@ -896,7 +896,7 @@
           "name": "Josh Downs",
           "team": "IND",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -972,7 +972,7 @@
           "name": "Ja'Marr Chase",
           "team": "CIN",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8144",
@@ -1061,7 +1061,7 @@
           "name": "D'Andre Swift",
           "team": "CHI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7547",
@@ -1089,14 +1089,14 @@
           "name": "Bhayshul Tuten",
           "team": "JAX",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5846",
           "name": "DK Metcalf",
           "team": "PIT",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5947",
@@ -1179,7 +1179,7 @@
           "name": "Tee Higgins",
           "team": "CIN",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7526",
@@ -1189,9 +1189,9 @@
           "injury_status": null
         },
         {
-          "player_id": "11604",
-          "name": "Brock Bowers",
-          "team": "LV",
+          "player_id": "3214",
+          "name": "Hunter Henry",
+          "team": "NE",
           "position": "TE",
           "injury_status": null
         },
@@ -1336,11 +1336,15 @@
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 0.0,
+                "points": 5.6,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 11,
+              "team_label": "MOJO",
+              "points": 5.6
+            }
           },
           {
             "matchup_id": "2",
@@ -1384,7 +1388,7 @@
               {
                 "roster_id": 2,
                 "team_label": "A B CeeDee",
-                "points": 0.0,
+                "points": 5.6,
                 "custom_points": null
               },
               {
@@ -1394,7 +1398,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 2,
+              "team_label": "A B CeeDee",
+              "points": 5.6
+            }
           },
           {
             "matchup_id": "5",
@@ -1402,7 +1410,7 @@
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 0.0,
+                "points": 24.32,
                 "custom_points": null
               },
               {
@@ -1412,7 +1420,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 8,
+              "team_label": "Back to the Future",
+              "points": 24.32
+            }
           },
           {
             "matchup_id": "6",
@@ -1426,11 +1438,15 @@
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 0.0,
+                "points": 26.2,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 7,
+              "team_label": "Commish is a bitch",
+              "points": 26.2
+            }
           }
         ],
         "counts": {
