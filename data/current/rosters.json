@@ -584,7 +584,7 @@
       "9224",
       "7569",
       "8137",
-      "5001",
+      "7002",
       "8148",
       "11620",
       "11586"
@@ -599,7 +599,7 @@
       "13288",
       "13317",
       "3294",
-      "7002",
+      "5001",
       "7049",
       "8134",
       "9225",
@@ -647,7 +647,7 @@
         "Chase Brown",
         "Nico Collins",
         "George Pickens",
-        "Dalton Schultz",
+        "Juwan Johnson",
         "Jameson Williams",
         "Rome Odunze",
         "Blake Corum"
@@ -662,7 +662,7 @@
         "Nicholas Singleton",
         "Ted Hurst",
         "Dak Prescott",
-        "Juwan Johnson",
+        "Dalton Schultz",
         "Jauan Jennings",
         "Khalil Shakir",
         "Tank Bigsby",
@@ -1419,7 +1419,6 @@
     "bench": [
       "11563",
       "11575",
-      "11604",
       "12469",
       "12502",
       "13320",
@@ -1432,12 +1431,14 @@
       "9228",
       "9482"
     ],
-    "reserve": [],
+    "reserve": [
+      "11604"
+    ],
     "taxi": [],
     "player_count": 23,
     "starter_count": 9,
-    "bench_count": 14,
-    "reserve_count": 0,
+    "bench_count": 13,
+    "reserve_count": 1,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -1479,7 +1480,6 @@
       "bench": [
         "Bo Nix",
         "Ray Davis",
-        "Brock Bowers",
         "Dylan Sampson",
         "Gunnar Helm",
         "Zachariah Branch",
@@ -1492,7 +1492,9 @@
         "Bryce Young",
         "Michael Mayer"
       ],
-      "reserve": [],
+      "reserve": [
+        "Brock Bowers"
+      ],
       "taxi": []
     },
     "settings": {

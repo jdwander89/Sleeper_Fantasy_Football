@@ -19,14 +19,14 @@
             {
               "roster_id": 11,
               "team_label": "MOJO",
-              "points": 5.6,
+              "points": 11.2,
               "custom_points": null
             }
           ],
           "winner": {
             "roster_id": 11,
             "team_label": "MOJO",
-            "points": 5.6
+            "points": 11.2
           }
         },
         {
@@ -36,7 +36,7 @@
             {
               "roster_id": 4,
               "team_label": "Puka Troopas",
-              "points": 0.0,
+              "points": 33.5,
               "custom_points": null
             },
             {
@@ -46,7 +46,11 @@
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 4,
+            "team_label": "Puka Troopas",
+            "points": 33.5
+          }
         },
         {
           "week": 1,
@@ -55,7 +59,7 @@
             {
               "roster_id": 3,
               "team_label": "Pol Hol",
-              "points": 0.0,
+              "points": 16.9,
               "custom_points": null
             },
             {
@@ -65,7 +69,11 @@
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 3,
+            "team_label": "Pol Hol",
+            "points": 16.9
+          }
         },
         {
           "week": 1,
@@ -80,14 +88,14 @@
             {
               "roster_id": 6,
               "team_label": "andrewwelle",
-              "points": 0.0,
+              "points": 31.8,
               "custom_points": null
             }
           ],
           "winner": {
-            "roster_id": 2,
-            "team_label": "A B CeeDee",
-            "points": 5.6
+            "roster_id": 6,
+            "team_label": "andrewwelle",
+            "points": 31.8
           }
         },
         {
@@ -97,7 +105,7 @@
             {
               "roster_id": 8,
               "team_label": "Back to the Future",
-              "points": 24.32,
+              "points": 39.82,
               "custom_points": null
             },
             {
@@ -110,7 +118,7 @@
           "winner": {
             "roster_id": 8,
             "team_label": "Back to the Future",
-            "points": 24.32
+            "points": 39.82
           }
         },
         {
@@ -120,7 +128,7 @@
             {
               "roster_id": 5,
               "team_label": "White Ice",
-              "points": 0.0,
+              "points": 5.4,
               "custom_points": null
             },
             {
@@ -438,7 +446,7 @@
           "matchup_id": 3,
           "roster_id": 3,
           "team_label": "Pol Hol",
-          "points": 0.0,
+          "points": 16.9,
           "custom_points": null,
           "players": [
             "10859",
@@ -500,7 +508,7 @@
             "11655": 0.0,
             "13268": 0.0,
             "13269": 0.0,
-            "2216": 0.0,
+            "2216": 16.9,
             "2449": 0.0,
             "4046": 0.0,
             "4066": 0.0,
@@ -583,7 +591,7 @@
           "matchup_id": 2,
           "roster_id": 4,
           "team_label": "Puka Troopas",
-          "points": 0.0,
+          "points": 33.5,
           "custom_points": null,
           "players": [
             "11603",
@@ -657,10 +665,10 @@
             "8111": 0.0,
             "8132": 0.0,
             "8155": 0.0,
-            "8183": 0.0,
+            "8183": 21.1,
             "8698": 0.0,
             "9480": 0.0,
-            "9493": 0.0
+            "9493": 12.4
           },
           "starters_points": {},
           "display": {
@@ -723,7 +731,7 @@
           "matchup_id": 6,
           "roster_id": 5,
           "team_label": "White Ice",
-          "points": 0.0,
+          "points": 5.4,
           "custom_points": null,
           "players": [
             "10213",
@@ -757,7 +765,7 @@
             "9224",
             "7569",
             "8137",
-            "5001",
+            "7002",
             "8148",
             "11620",
             "11586"
@@ -773,7 +781,7 @@
             "13288",
             "13317",
             "3294",
-            "7002",
+            "5001",
             "7049",
             "8134",
             "9225",
@@ -782,7 +790,7 @@
           "players_points": {
             "10213": 0.0,
             "11560": 0.0,
-            "11586": 0.0,
+            "11586": 5.4,
             "11589": 0.0,
             "11620": 0.0,
             "11625": 0.0,
@@ -839,7 +847,7 @@
               "Chase Brown",
               "Nico Collins",
               "George Pickens",
-              "Dalton Schultz",
+              "Juwan Johnson",
               "Jameson Williams",
               "Rome Odunze",
               "Blake Corum"
@@ -855,7 +863,7 @@
               "Nicholas Singleton",
               "Ted Hurst",
               "Dak Prescott",
-              "Juwan Johnson",
+              "Dalton Schultz",
               "Jauan Jennings",
               "Khalil Shakir",
               "Tank Bigsby",
@@ -868,7 +876,7 @@
           "matchup_id": 4,
           "roster_id": 6,
           "team_label": "andrewwelle",
-          "points": 0.0,
+          "points": 31.8,
           "custom_points": null,
           "players": [
             "11571",
@@ -944,11 +952,11 @@
             "13420": 0.0,
             "1479": 0.0,
             "2374": 0.0,
-            "4034": 0.0,
+            "4034": 13.8,
             "4137": 0.0,
             "4199": 0.0,
-            "4217": 0.0,
-            "5872": 0.0,
+            "4217": 3.2,
+            "5872": 18.0,
             "6803": 0.0,
             "6806": 0.0,
             "8146": 0.0
@@ -1092,7 +1100,7 @@
             "13275": 0.0,
             "13298": 0.0,
             "13311": 0.0,
-            "13414": 0.0,
+            "13414": 8.0,
             "13533": 0.0,
             "4892": 0.0,
             "7567": 0.0,
@@ -1163,7 +1171,7 @@
           "matchup_id": 5,
           "roster_id": 8,
           "team_label": "Back to the Future",
-          "points": 24.32,
+          "points": 39.82,
           "custom_points": null,
           "players": [
             "11199",
@@ -1243,7 +1251,7 @@
             "8130": 0.0,
             "8131": 0.0,
             "8142": 0.0,
-            "8150": 0.0,
+            "8150": 15.5,
             "8151": 0.0,
             "9500": 0.0,
             "9753": 0.0
@@ -1598,7 +1606,7 @@
           "matchup_id": 1,
           "roster_id": 11,
           "team_label": "MOJO",
-          "points": 5.6,
+          "points": 11.2,
           "custom_points": null,
           "players": [
             "11563",
@@ -1662,7 +1670,7 @@
             "13320": 0.0,
             "13411": 0.0,
             "13424": 0.0,
-            "2133": 0.0,
+            "2133": 5.6,
             "3214": 5.6,
             "4039": 5.5,
             "4147": 0.0,
@@ -1805,7 +1813,7 @@
             "13287": 0.0,
             "2505": 0.0,
             "3163": 0.0,
-            "421": 0.0,
+            "421": 4.1,
             "4866": 0.0,
             "4983": 0.0,
             "5012": 0.0,
