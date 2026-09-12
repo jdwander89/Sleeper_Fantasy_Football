@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-11T15:04:02.176692Z",
-    "source_snapshot_generated_at": "2026-09-11T15:04:00.790498Z",
+    "generated_at": "2026-09-12T14:12:52.061722Z",
+    "source_snapshot_generated_at": "2026-09-12T14:12:51.143845Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -119,7 +119,7 @@
           "name": "Jacory Croskey-Merritt",
           "team": "WAS",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8112",
@@ -244,7 +244,7 @@
           "name": "A.J. Brown",
           "team": "NE",
           "position": "WR",
-          "injury_status": "Out"
+          "injury_status": "IR"
         },
         {
           "player_id": "12517",
@@ -1007,7 +1007,7 @@
           "name": "Jonathon Brooks",
           "team": "CAR",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": []
@@ -1103,7 +1103,7 @@
           "name": "Jakobi Meyers",
           "team": "JAX",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
