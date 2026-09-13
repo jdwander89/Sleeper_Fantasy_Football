@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-12T14:12:52.061722Z",
-    "source_snapshot_generated_at": "2026-09-12T14:12:51.143845Z",
+    "generated_at": "2026-09-13T14:56:22.666931Z",
+    "source_snapshot_generated_at": "2026-09-13T14:56:21.704917Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -201,8 +201,8 @@
       "counts": {
         "players": 24,
         "starters": 9,
-        "bench": 14,
-        "reserve": 1
+        "bench": 13,
+        "reserve": 2
       },
       "position_counts": {
         "QB": 2,
@@ -282,6 +282,13 @@
           "team": "GB",
           "position": "RB",
           "injury_status": "NA"
+        },
+        {
+          "player_id": "8800",
+          "name": "Malik Davis",
+          "team": "DAL",
+          "position": "RB",
+          "injury_status": "IR"
         }
       ]
     },
@@ -365,10 +372,10 @@
           "injury_status": null
         },
         {
-          "player_id": "8110",
-          "name": "Jake Ferguson",
-          "team": "DAL",
-          "position": "TE",
+          "player_id": "6819",
+          "name": "Michael Pittman",
+          "team": "PIT",
+          "position": "WR",
           "injury_status": null
         },
         {

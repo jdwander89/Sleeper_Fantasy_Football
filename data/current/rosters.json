@@ -197,17 +197,17 @@
       "8210",
       "8408",
       "8676",
-      "8800",
       "9758"
     ],
     "reserve": [
-      "5850"
+      "5850",
+      "8800"
     ],
     "taxi": [],
     "player_count": 24,
     "starter_count": 9,
-    "bench_count": 14,
-    "reserve_count": 1,
+    "bench_count": 13,
+    "reserve_count": 2,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -260,11 +260,11 @@
         "Chig Okonkwo",
         "Jordan Mason",
         "Rashid Shaheed",
-        "Malik Davis",
         "C.J. Stroud"
       ],
       "reserve": [
-        "Josh Jacobs"
+        "Josh Jacobs",
+        "Malik Davis"
       ],
       "taxi": []
     },
@@ -317,7 +317,7 @@
       "2216",
       "10859",
       "11584",
-      "8110",
+      "6819",
       "2449"
     ],
     "bench": [
@@ -328,8 +328,8 @@
       "4981",
       "5995",
       "6804",
-      "6819",
       "7528",
+      "8110",
       "8121",
       "8147",
       "8161",
@@ -380,7 +380,7 @@
         "Mike Evans",
         "Sam LaPorta",
         "Bucky Irving",
-        "Jake Ferguson",
+        "Michael Pittman",
         "Stefon Diggs"
       ],
       "bench": [
@@ -391,8 +391,8 @@
         "Calvin Ridley",
         "Justice Hill",
         "Jordan Love",
-        "Michael Pittman",
         "Najee Harris",
+        "Jake Ferguson",
         "Romeo Doubs",
         "John Metchie",
         "Malik Willis",
