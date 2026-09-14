@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-13T14:56:22.666931Z",
-    "source_snapshot_generated_at": "2026-09-13T14:56:21.704917Z",
+    "generated_at": "2026-09-14T16:58:38.902896Z",
+    "source_snapshot_generated_at": "2026-09-14T16:58:37.447657Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -488,7 +488,7 @@
           "name": "Brian Thomas",
           "team": "JAX",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": []
@@ -577,7 +577,7 @@
           "name": "Rome Odunze",
           "team": "CHI",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11586",
@@ -771,7 +771,7 @@
           "name": "Malik Nabers",
           "team": "NYG",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12518",
@@ -958,7 +958,7 @@
           "name": "Kyler Murray",
           "team": "MIN",
           "position": "QB",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "9226",
@@ -1283,21 +1283,21 @@
           "name": "Jeremiyah Love",
           "team": "ARI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11635",
           "name": "Ladd McConkey",
           "team": "LAC",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9997",
           "name": "Zay Flowers",
           "team": "BAL",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "5012",
@@ -1345,20 +1345,20 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 0.0,
+                "points": 76.06,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 11.2,
+                "points": 90.16,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 11,
               "team_label": "MOJO",
-              "points": 11.2
+              "points": 90.16
             }
           },
           {
@@ -1367,20 +1367,20 @@
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 33.5,
+                "points": 117.9,
                 "custom_points": null
               },
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 0.0,
+                "points": 133.06,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 4,
-              "team_label": "Puka Troopas",
-              "points": 33.5
+              "roster_id": 12,
+              "team_label": "gullickson",
+              "points": 133.06
             }
           },
           {
@@ -1389,20 +1389,20 @@
               {
                 "roster_id": 3,
                 "team_label": "Pol Hol",
-                "points": 16.9,
+                "points": 132.0,
                 "custom_points": null
               },
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 0.0,
+                "points": 167.36,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 3,
-              "team_label": "Pol Hol",
-              "points": 16.9
+              "roster_id": 10,
+              "team_label": "Goin in Ra",
+              "points": 167.36
             }
           },
           {
@@ -1411,20 +1411,20 @@
               {
                 "roster_id": 2,
                 "team_label": "A B CeeDee",
-                "points": 5.6,
+                "points": 121.82,
                 "custom_points": null
               },
               {
                 "roster_id": 6,
                 "team_label": "andrewwelle",
-                "points": 31.8,
+                "points": 122.4,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 6,
               "team_label": "andrewwelle",
-              "points": 31.8
+              "points": 122.4
             }
           },
           {
@@ -1433,20 +1433,20 @@
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 39.82,
+                "points": 146.32,
                 "custom_points": null
               },
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 0.0,
+                "points": 56.12,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 8,
               "team_label": "Back to the Future",
-              "points": 39.82
+              "points": 146.32
             }
           },
           {
@@ -1455,20 +1455,20 @@
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 5.4,
+                "points": 151.16,
                 "custom_points": null
               },
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 26.2,
+                "points": 114.84,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 7,
-              "team_label": "Commish is a bitch",
-              "points": 26.2
+              "roster_id": 5,
+              "team_label": "White Ice",
+              "points": 151.16
             }
           }
         ],
