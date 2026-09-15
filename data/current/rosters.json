@@ -128,9 +128,13 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 0,
-      "fpts_decimal": 0,
-      "losses": 0,
+      "fpts": 80,
+      "fpts_against": 91,
+      "fpts_against_decimal": 36,
+      "fpts_decimal": 86,
+      "losses": 1,
+      "ppts": 107,
+      "ppts_decimal": 80,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -141,7 +145,9 @@
       "allow_pn_inactive_starters": "off",
       "allow_pn_player_injury_status": "off",
       "allow_pn_scoring": "off",
-      "restrict_pn_scoring_starters_only": "off"
+      "record": "L",
+      "restrict_pn_scoring_starters_only": "off",
+      "streak": "1L"
     }
   },
   {
@@ -178,11 +184,11 @@
       "5892",
       "7588",
       "6786",
-      "5859",
-      "12517",
-      "9754",
+      "9487",
       "1466",
-      "9487"
+      "9754",
+      "12517",
+      "8408"
     ],
     "bench": [
       "10235",
@@ -192,10 +198,10 @@
       "13294",
       "13413",
       "13417",
+      "5859",
       "6783",
       "8127",
       "8210",
-      "8408",
       "8676",
       "9758"
     ],
@@ -241,11 +247,11 @@
         "David Montgomery",
         "Javonte Williams",
         "CeeDee Lamb",
-        "A.J. Brown",
-        "Colston Loveland",
-        "Quentin Johnston",
+        "Parker Washington",
         "Travis Kelce",
-        "Parker Washington"
+        "Quentin Johnston",
+        "Colston Loveland",
+        "Jordan Mason"
       ],
       "bench": [
         "Roschon Johnson",
@@ -255,10 +261,10 @@
         "Makai Lemon",
         "Cyrus Allen",
         "De'Zhaun Stribling",
+        "A.J. Brown",
         "Jerry Jeudy",
         "Charlie Kolar",
         "Chig Okonkwo",
-        "Jordan Mason",
         "Rashid Shaheed",
         "C.J. Stroud"
       ],
@@ -269,16 +275,23 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 0,
-      "fpts_decimal": 0,
+      "fpts": 131,
+      "fpts_against": 126,
+      "fpts_against_decimal": 0,
+      "fpts_decimal": 92,
       "losses": 0,
+      "ppts": 148,
+      "ppts_decimal": 32,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 8,
-      "wins": 0
+      "wins": 1
     },
-    "metadata": {}
+    "metadata": {
+      "record": "W",
+      "streak": "1W"
+    }
   },
   {
     "roster_id": 3,
@@ -405,16 +418,23 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 0,
-      "fpts_decimal": 0,
-      "losses": 0,
+      "fpts": 153,
+      "fpts_against": 167,
+      "fpts_against_decimal": 36,
+      "fpts_decimal": 66,
+      "losses": 1,
+      "ppts": 159,
+      "ppts_decimal": 66,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 2,
       "wins": 0
     },
-    "metadata": {}
+    "metadata": {
+      "record": "L",
+      "streak": "1L"
+    }
   },
   {
     "roster_id": 4,
@@ -535,9 +555,13 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 0,
-      "fpts_decimal": 0,
-      "losses": 0,
+      "fpts": 117,
+      "fpts_against": 133,
+      "fpts_against_decimal": 6,
+      "fpts_decimal": 90,
+      "losses": 1,
+      "ppts": 123,
+      "ppts_decimal": 90,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -546,7 +570,9 @@
     },
     "metadata": {
       "allow_pn_news": "off",
-      "allow_pn_scoring": "off"
+      "allow_pn_scoring": "off",
+      "record": "L",
+      "streak": "1L"
     }
   },
   {
@@ -674,16 +700,23 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 0,
-      "fpts_decimal": 0,
+      "fpts": 151,
+      "fpts_against": 114,
+      "fpts_against_decimal": 84,
+      "fpts_decimal": 16,
       "losses": 0,
+      "ppts": 166,
+      "ppts_decimal": 6,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 3,
-      "wins": 0
+      "wins": 1
     },
-    "metadata": {}
+    "metadata": {
+      "record": "W",
+      "streak": "1W"
+    }
   },
   {
     "roster_id": 6,
@@ -814,16 +847,23 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 0,
+      "fpts": 126,
+      "fpts_against": 131,
+      "fpts_against_decimal": 92,
       "fpts_decimal": 0,
-      "losses": 0,
+      "losses": 1,
+      "ppts": 159,
+      "ppts_decimal": 70,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 5,
       "wins": 0
     },
-    "metadata": {}
+    "metadata": {
+      "record": "L",
+      "streak": "1L"
+    }
   },
   {
     "roster_id": 7,
@@ -950,9 +990,13 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 0,
-      "fpts_decimal": 0,
-      "losses": 0,
+      "fpts": 114,
+      "fpts_against": 151,
+      "fpts_against_decimal": 16,
+      "fpts_decimal": 84,
+      "losses": 1,
+      "ppts": 132,
+      "ppts_decimal": 60,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -960,7 +1004,9 @@
       "wins": 0
     },
     "metadata": {
-      "p_nick_3164": "ZEEK"
+      "p_nick_3164": "ZEEK",
+      "record": "L",
+      "streak": "1L"
     }
   },
   {
@@ -1092,18 +1138,24 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 0,
-      "fpts_decimal": 0,
+      "fpts": 180,
+      "fpts_against": 74,
+      "fpts_against_decimal": 12,
+      "fpts_decimal": 42,
       "losses": 0,
+      "ppts": 210,
+      "ppts_decimal": 6,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 6,
-      "wins": 0
+      "wins": 1
     },
     "metadata": {
       "allow_pn_news": "on",
-      "allow_pn_scoring": "on"
+      "allow_pn_scoring": "on",
+      "record": "W",
+      "streak": "1W"
     }
   },
   {
@@ -1225,9 +1277,13 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 0,
-      "fpts_decimal": 0,
-      "losses": 0,
+      "fpts": 74,
+      "fpts_against": 180,
+      "fpts_against_decimal": 42,
+      "fpts_decimal": 12,
+      "losses": 1,
+      "ppts": 104,
+      "ppts_decimal": 38,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -1238,7 +1294,9 @@
       "allow_pn_inactive_starters": "off",
       "allow_pn_player_injury_status": "off",
       "allow_pn_scoring": "off",
-      "restrict_pn_scoring_starters_only": "on"
+      "record": "L",
+      "restrict_pn_scoring_starters_only": "on",
+      "streak": "1L"
     }
   },
   {
@@ -1366,16 +1424,23 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 0,
-      "fpts_decimal": 0,
+      "fpts": 167,
+      "fpts_against": 153,
+      "fpts_against_decimal": 66,
+      "fpts_decimal": 36,
       "losses": 0,
+      "ppts": 181,
+      "ppts_decimal": 6,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 10,
-      "wins": 0
+      "wins": 1
     },
-    "metadata": {}
+    "metadata": {
+      "record": "W",
+      "streak": "1W"
+    }
   },
   {
     "roster_id": 11,
@@ -1419,7 +1484,7 @@
     "bench": [
       "11563",
       "11575",
-      "12469",
+      "11604",
       "12502",
       "13320",
       "13411",
@@ -1432,7 +1497,7 @@
       "9482"
     ],
     "reserve": [
-      "11604"
+      "12469"
     ],
     "taxi": [],
     "player_count": 23,
@@ -1480,7 +1545,7 @@
       "bench": [
         "Bo Nix",
         "Ray Davis",
-        "Dylan Sampson",
+        "Brock Bowers",
         "Gunnar Helm",
         "Zachariah Branch",
         "Zavion Thomas",
@@ -1493,21 +1558,28 @@
         "Michael Mayer"
       ],
       "reserve": [
-        "Brock Bowers"
+        "Dylan Sampson"
       ],
       "taxi": []
     },
     "settings": {
-      "fpts": 0,
-      "fpts_decimal": 0,
+      "fpts": 91,
+      "fpts_against": 80,
+      "fpts_against_decimal": 86,
+      "fpts_decimal": 36,
       "losses": 0,
+      "ppts": 104,
+      "ppts_decimal": 46,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 1,
-      "wins": 0
+      "wins": 1
     },
-    "metadata": {}
+    "metadata": {
+      "record": "W",
+      "streak": "1W"
+    }
   },
   {
     "roster_id": 12,
@@ -1628,15 +1700,22 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 0,
-      "fpts_decimal": 0,
+      "fpts": 133,
+      "fpts_against": 117,
+      "fpts_against_decimal": 90,
+      "fpts_decimal": 6,
       "losses": 0,
+      "ppts": 154,
+      "ppts_decimal": 14,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 12,
-      "wins": 0
+      "wins": 1
     },
-    "metadata": {}
+    "metadata": {
+      "record": "W",
+      "streak": "1W"
+    }
   }
 ]
