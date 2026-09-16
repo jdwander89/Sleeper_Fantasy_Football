@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-15T15:35:46.442316Z",
-    "source_snapshot_generated_at": "2026-09-15T15:35:45.128031Z",
+    "generated_at": "2026-09-16T15:26:09.070886Z",
+    "source_snapshot_generated_at": "2026-09-16T15:26:07.825527Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 2,
     "matchups": 12,
     "matchup_roster_results": 24,
-    "required_player_ids": 318,
-    "compact_player_lookup": 318,
+    "required_player_ids": 320,
+    "compact_player_lookup": 320,
     "missing_player_ids": 0,
-    "transactions": 54,
+    "transactions": 58,
     "trades": 5,
-    "waivers": 0,
-    "free_agent_moves": 48,
+    "waivers": 3,
+    "free_agent_moves": 49,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -108,11 +108,11 @@
           "injury_status": null
         },
         {
-          "player_id": "8136",
-          "name": "Rachaad White",
-          "team": "WAS",
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
+          "team": "NE",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12533",
@@ -143,9 +143,9 @@
           "injury_status": null
         },
         {
-          "player_id": "9504",
-          "name": "Kayshon Boutte",
-          "team": "HOU",
+          "player_id": "13296",
+          "name": "Caleb Douglas",
+          "team": "MIA",
           "position": "WR",
           "injury_status": null
         },
@@ -511,16 +511,16 @@
         "raw_fpts_against_decimal": 84
       },
       "counts": {
-        "players": 24,
+        "players": 25,
         "starters": 9,
         "bench": 14,
-        "reserve": 1
+        "reserve": 2
       },
       "position_counts": {
         "QB": 2,
         "RB": 7,
         "TE": 3,
-        "WR": 12
+        "WR": 13
       },
       "starters": [
         {
@@ -580,10 +580,10 @@
           "injury_status": null
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
-          "team": "LAR",
-          "position": "RB",
+          "player_id": "8134",
+          "name": "Khalil Shakir",
+          "team": "BUF",
+          "position": "WR",
           "injury_status": null
         }
       ],
@@ -594,6 +594,13 @@
           "team": "ARI",
           "position": "RB",
           "injury_status": "IR"
+        },
+        {
+          "player_id": "12467",
+          "name": "Jordan James",
+          "team": "SF",
+          "position": "RB",
+          "injury_status": null
         }
       ]
     },
@@ -677,17 +684,17 @@
           "injury_status": null
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "team": "DEN",
-          "position": "RB",
+          "player_id": "1479",
+          "name": "Keenan Allen",
+          "team": "IND",
+          "position": "WR",
           "injury_status": null
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones",
-          "team": "MIN",
-          "position": "RB",
+          "player_id": "11834",
+          "name": "Devaughn Vele",
+          "team": "NO",
+          "position": "WR",
           "injury_status": null
         }
       ],
@@ -947,18 +954,18 @@
         "reserve": 0
       },
       "position_counts": {
-        "QB": 4,
+        "QB": 5,
         "RB": 7,
-        "TE": 5,
+        "TE": 4,
         "WR": 7
       },
       "starters": [
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
+          "player_id": "3161",
+          "name": "Carson Wentz",
           "team": "MIN",
           "position": "QB",
-          "injury_status": "Out"
+          "injury_status": null
         },
         {
           "player_id": "9226",
@@ -1148,14 +1155,14 @@
         "raw_fpts_against_decimal": 86
       },
       "counts": {
-        "players": 23,
+        "players": 24,
         "starters": 9,
-        "bench": 13,
+        "bench": 14,
         "reserve": 1
       },
       "position_counts": {
         "QB": 3,
-        "RB": 9,
+        "RB": 10,
         "TE": 4,
         "WR": 7
       },
@@ -1230,7 +1237,7 @@
           "name": "Dylan Sampson",
           "team": "CLE",
           "position": "RB",
-          "injury_status": "Out"
+          "injury_status": "IR"
         }
       ]
     },
@@ -1297,12 +1304,12 @@
           "name": "Zay Flowers",
           "team": "BAL",
           "position": "WR",
-          "injury_status": "Out"
+          "injury_status": "Questionable"
         },
         {
-          "player_id": "5012",
-          "name": "Mark Andrews",
-          "team": "BAL",
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "team": "PHI",
           "position": "TE",
           "injury_status": null
         },
@@ -1605,25 +1612,27 @@
   "transactions": {
     "counts": {
       "weeks": 2,
-      "transactions": 54,
+      "transactions": 58,
       "trades": 5,
-      "waivers": 0,
-      "free_agent_moves": 48,
+      "waivers": 3,
+      "free_agent_moves": 49,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 48,
-        "trade": 5
+        "free_agent": 49,
+        "trade": 5,
+        "waiver": 3
       },
       "by_status": {
-        "complete": 54
+        "complete": 57,
+        "failed": 1
       }
     },
     "activity_by_roster_id": {
       "9": {
-        "transactions": 4,
+        "transactions": 5,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 4
+        "free_agent_moves": 5
       },
       "12": {
         "transactions": 5,
@@ -1644,9 +1653,9 @@
         "free_agent_moves": 9
       },
       "11": {
-        "transactions": 11,
+        "transactions": 12,
         "trades": 2,
-        "waivers": 0,
+        "waivers": 1,
         "free_agent_moves": 9
       },
       "2": {
@@ -1686,13 +1695,100 @@
         "free_agent_moves": 1
       },
       "5": {
-        "transactions": 1,
+        "transactions": 3,
         "trades": 0,
-        "waivers": 0,
+        "waivers": 2,
         "free_agent_moves": 1
       }
     },
     "recent_transactions": [
+      {
+        "week": 2,
+        "transaction_id": "1405885068144074752",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-09-16T09:40:29.629000Z",
+        "team_labels": [
+          "off"
+        ],
+        "adds": [
+          {
+            "player_id": "3161",
+            "player_name": "Carson Wentz",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "11597",
+            "player_name": "Theo Johnson",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1405787466392186880",
+        "type": "waiver",
+        "status": "failed",
+        "created_at": "2026-09-16T03:12:39.558000Z",
+        "team_labels": [
+          "White Ice"
+        ],
+        "adds": [
+          {
+            "player_id": "3286",
+            "player_name": "Demarcus Robinson",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1405787449979912192",
+        "type": "waiver",
+        "status": "complete",
+        "created_at": "2026-09-16T03:12:35.645000Z",
+        "team_labels": [
+          "White Ice"
+        ],
+        "adds": [
+          {
+            "player_id": "4177",
+            "player_name": "Mack Hollins",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
+      {
+        "week": 1,
+        "transaction_id": "1403856139493363712",
+        "type": "waiver",
+        "status": "complete",
+        "created_at": "2026-09-10T19:18:15.343000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "12048",
+            "player_name": "George Holani",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
       {
         "week": 1,
         "transaction_id": "1403112387799728128",
@@ -2200,107 +2296,6 @@
           }
         ],
         "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1395381200855502848",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-08-18T10:01:52.514000Z",
-        "team_labels": [
-          "It’s Herbie Hancock"
-        ],
-        "adds": [
-          {
-            "player_id": "13329",
-            "player_name": "Malik Benson",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1393427452218310656",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-08-13T00:38:22.540000Z",
-        "team_labels": [
-          "Pol Hol"
-        ],
-        "adds": [
-          {
-            "player_id": "5995",
-            "player_name": "Justice Hill",
-            "roster_id": 3,
-            "team_label": "Pol Hol"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "13348",
-            "player_name": "J'Mari Taylor",
-            "roster_id": 3,
-            "team_label": "Pol Hol"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1393305747772694528",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-08-12T16:34:45.940000Z",
-        "team_labels": [
-          "It’s Herbie Hancock"
-        ],
-        "adds": [
-          {
-            "player_id": "13296",
-            "player_name": "Caleb Douglas",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "12540",
-            "player_name": "Chimere Dike",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1393215897555980288",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-08-12T10:37:43.978000Z",
-        "team_labels": [
-          "off"
-        ],
-        "adds": [
-          {
-            "player_id": "8172",
-            "player_name": "Greg Dulcich",
-            "roster_id": 9,
-            "team_label": "off"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "13303",
-            "player_name": "Cade Klubnik",
-            "roster_id": 9,
-            "team_label": "off"
-          }
-        ],
         "draft_picks": []
       }
     ]

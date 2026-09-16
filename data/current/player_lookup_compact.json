@@ -31,7 +31,7 @@
     "years_exp": 3,
     "age": 26,
     "depth_chart_position": "RB",
-    "search_rank": 126
+    "search_rank": 125
   },
   "10222": {
     "player_id": "10222",
@@ -48,7 +48,7 @@
     "years_exp": 3,
     "age": 26,
     "depth_chart_position": "SWR",
-    "search_rank": 98
+    "search_rank": 100
   },
   "10229": {
     "player_id": "10229",
@@ -214,7 +214,7 @@
       "QB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "years_exp": 2,
     "age": 26,
     "depth_chart_position": "QB",
@@ -235,7 +235,7 @@
     "years_exp": 2,
     "age": 24,
     "depth_chart_position": "QB",
-    "search_rank": 21
+    "search_rank": 22
   },
   "11563": {
     "player_id": "11563",
@@ -282,7 +282,7 @@
       "QB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 2,
     "age": 23,
     "depth_chart_position": "QB",
@@ -458,23 +458,6 @@
     "depth_chart_position": "RB",
     "search_rank": 114
   },
-  "11597": {
-    "player_id": "11597",
-    "name": "Theo Johnson",
-    "first_name": "Theo",
-    "last_name": "Johnson",
-    "team": "NYG",
-    "position": "TE",
-    "fantasy_positions": [
-      "TE"
-    ],
-    "status": "Active",
-    "injury_status": null,
-    "years_exp": 2,
-    "age": 25,
-    "depth_chart_position": "TE",
-    "search_rank": 144
-  },
   "11603": {
     "player_id": "11603",
     "name": "AJ Barner",
@@ -503,7 +486,7 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "years_exp": 2,
     "age": 23,
     "depth_chart_position": "TE",
@@ -524,7 +507,7 @@
     "years_exp": 2,
     "age": 25,
     "depth_chart_position": "SWR",
-    "search_rank": 178
+    "search_rank": 177
   },
   "11618": {
     "player_id": "11618",
@@ -537,7 +520,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "years_exp": 2,
     "age": 24,
     "depth_chart_position": "RWR",
@@ -677,7 +660,7 @@
     "years_exp": 2,
     "age": 23,
     "depth_chart_position": "LWR",
-    "search_rank": 74
+    "search_rank": 75
   },
   "11632": {
     "player_id": "11632",
@@ -866,6 +849,23 @@
     "depth_chart_position": "SWR",
     "search_rank": 209
   },
+  "12048": {
+    "player_id": "12048",
+    "name": "George Holani",
+    "first_name": "George",
+    "last_name": "Holani",
+    "team": "SEA",
+    "position": "RB",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "status": "Active",
+    "injury_status": null,
+    "years_exp": 2,
+    "age": 26,
+    "depth_chart_position": "RB",
+    "search_rank": 454
+  },
   "12455": {
     "player_id": "12455",
     "name": "Brashard Smith",
@@ -911,7 +911,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 1,
     "age": 22,
     "depth_chart_position": "RB",
@@ -927,8 +927,8 @@
     "fantasy_positions": [
       "RB"
     ],
-    "status": "Active",
-    "injury_status": "Out",
+    "status": "Inactive",
+    "injury_status": "IR",
     "years_exp": 1,
     "age": 22,
     "depth_chart_position": "RB",
@@ -1119,7 +1119,7 @@
     "years_exp": 1,
     "age": 22,
     "depth_chart_position": "RB",
-    "search_rank": 479
+    "search_rank": 480
   },
   "12497": {
     "player_id": "12497",
@@ -1132,7 +1132,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "years_exp": 1,
     "age": 23,
     "depth_chart_position": "SWR",
@@ -1272,7 +1272,7 @@
     "years_exp": 1,
     "age": 23,
     "depth_chart_position": "QB",
-    "search_rank": 42
+    "search_rank": 41
   },
   "12509": {
     "player_id": "12509",
@@ -1323,7 +1323,7 @@
     "years_exp": 1,
     "age": 23,
     "depth_chart_position": "LWR",
-    "search_rank": 38
+    "search_rank": 39
   },
   "12517": {
     "player_id": "12517",
@@ -1340,7 +1340,7 @@
     "years_exp": 1,
     "age": 22,
     "depth_chart_position": "TE",
-    "search_rank": 35
+    "search_rank": 36
   },
   "12518": {
     "player_id": "12518",
@@ -1357,7 +1357,7 @@
     "years_exp": 1,
     "age": 24,
     "depth_chart_position": "TE",
-    "search_rank": 49
+    "search_rank": 47
   },
   "12519": {
     "player_id": "12519",
@@ -1408,7 +1408,7 @@
     "years_exp": 1,
     "age": 24,
     "depth_chart_position": "QB",
-    "search_rank": 114
+    "search_rank": 113
   },
   "12524": {
     "player_id": "12524",
@@ -1472,7 +1472,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "years_exp": 1,
     "age": 23,
     "depth_chart_position": "RB",
@@ -1630,7 +1630,7 @@
     "years_exp": 1,
     "age": 26,
     "depth_chart_position": "QB",
-    "search_rank": 89
+    "search_rank": 88
   },
   "12547": {
     "player_id": "12547",
@@ -1660,7 +1660,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "LWR",
@@ -1681,7 +1681,7 @@
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "QB",
-    "search_rank": 107
+    "search_rank": 108
   },
   "13270": {
     "player_id": "13270",
@@ -1694,7 +1694,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 0,
     "age": 24,
     "depth_chart_position": "LWR",
@@ -1711,7 +1711,7 @@
       "QB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "QB",
@@ -1745,7 +1745,7 @@
       "QB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "QB",
@@ -1762,7 +1762,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "SWR",
@@ -1779,7 +1779,7 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "TE",
@@ -1830,7 +1830,7 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "TE",
@@ -1898,7 +1898,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "RB",
@@ -1915,7 +1915,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Doubtful",
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "RWR",
@@ -2153,7 +2153,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "RB",
@@ -2208,7 +2208,7 @@
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "RWR",
-    "search_rank": 504
+    "search_rank": 503
   },
   "13402": {
     "player_id": "13402",
@@ -2221,7 +2221,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 0,
     "age": 24,
     "depth_chart_position": "SWR",
@@ -2238,7 +2238,7 @@
       "QB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 0,
     "age": 24,
     "depth_chart_position": "QB",
@@ -2276,7 +2276,7 @@
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "SWR",
-    "search_rank": 367
+    "search_rank": 368
   },
   "13413": {
     "player_id": "13413",
@@ -2293,7 +2293,7 @@
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "SWR",
-    "search_rank": 180
+    "search_rank": 179
   },
   "13414": {
     "player_id": "13414",
@@ -2323,7 +2323,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Doubtful",
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "SWR",
@@ -2344,7 +2344,7 @@
     "years_exp": 0,
     "age": 24,
     "depth_chart_position": "LWR",
-    "search_rank": 473
+    "search_rank": 474
   },
   "13421": {
     "player_id": "13421",
@@ -2361,7 +2361,7 @@
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "TE",
-    "search_rank": 365
+    "search_rank": 364
   },
   "13424": {
     "player_id": "13424",
@@ -2378,7 +2378,7 @@
     "years_exp": 0,
     "age": 24,
     "depth_chart_position": "RB",
-    "search_rank": 383
+    "search_rank": 384
   },
   "13533": {
     "player_id": "13533",
@@ -2412,7 +2412,7 @@
     "years_exp": 13,
     "age": 36,
     "depth_chart_position": "TE",
-    "search_rank": 90
+    "search_rank": 89
   },
   "1479": {
     "player_id": "1479",
@@ -2429,7 +2429,7 @@
     "years_exp": 13,
     "age": 34,
     "depth_chart_position": "RWR",
-    "search_rank": 180
+    "search_rank": 179
   },
   "2133": {
     "player_id": "2133",
@@ -2514,7 +2514,24 @@
     "years_exp": 11,
     "age": 34,
     "depth_chart_position": "TE",
-    "search_rank": 358
+    "search_rank": 359
+  },
+  "3161": {
+    "player_id": "3161",
+    "name": "Carson Wentz",
+    "first_name": "Carson",
+    "last_name": "Wentz",
+    "team": "MIN",
+    "position": "QB",
+    "fantasy_positions": [
+      "QB"
+    ],
+    "status": "Active",
+    "injury_status": null,
+    "years_exp": 10,
+    "age": 33,
+    "depth_chart_position": "QB",
+    "search_rank": 633
   },
   "3163": {
     "player_id": "3163",
@@ -2531,7 +2548,7 @@
     "years_exp": 10,
     "age": 31,
     "depth_chart_position": "QB",
-    "search_rank": 61
+    "search_rank": 62
   },
   "3198": {
     "player_id": "3198",
@@ -2599,7 +2616,7 @@
     "years_exp": 10,
     "age": 33,
     "depth_chart_position": "QB",
-    "search_rank": 38
+    "search_rank": 39
   },
   "3321": {
     "player_id": "3321",
@@ -2663,7 +2680,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "years_exp": 9,
     "age": 31,
     "depth_chart_position": "RB",
@@ -2701,7 +2718,7 @@
     "years_exp": 9,
     "age": 33,
     "depth_chart_position": "SWR",
-    "search_rank": 195
+    "search_rank": 196
   },
   "4046": {
     "player_id": "4046",
@@ -2718,7 +2735,7 @@
     "years_exp": 9,
     "age": 30,
     "depth_chart_position": "QB",
-    "search_rank": 40
+    "search_rank": 39
   },
   "4066": {
     "player_id": "4066",
@@ -2735,7 +2752,7 @@
     "years_exp": 9,
     "age": 32,
     "depth_chart_position": "TE",
-    "search_rank": 461
+    "search_rank": 460
   },
   "4137": {
     "player_id": "4137",
@@ -2767,9 +2784,26 @@
     "status": "Active",
     "injury_status": null,
     "years_exp": 9,
-    "age": 30,
+    "age": 31,
     "depth_chart_position": "RB",
-    "search_rank": 453
+    "search_rank": 452
+  },
+  "4177": {
+    "player_id": "4177",
+    "name": "Mack Hollins",
+    "first_name": "Mack",
+    "last_name": "Hollins",
+    "team": "NE",
+    "position": "WR",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "status": "Active",
+    "injury_status": null,
+    "years_exp": 9,
+    "age": 33,
+    "depth_chart_position": "RWR",
+    "search_rank": 697
   },
   "4199": {
     "player_id": "4199",
@@ -2803,7 +2837,7 @@
     "years_exp": 17,
     "age": 38,
     "depth_chart_position": "QB",
-    "search_rank": 65
+    "search_rank": 66
   },
   "4217": {
     "player_id": "4217",
@@ -2820,7 +2854,7 @@
     "years_exp": 9,
     "age": 32,
     "depth_chart_position": "TE",
-    "search_rank": 80
+    "search_rank": 81
   },
   "4866": {
     "player_id": "4866",
@@ -2854,7 +2888,7 @@
     "years_exp": 8,
     "age": 29,
     "depth_chart_position": "QB",
-    "search_rank": 8
+    "search_rank": 10
   },
   "4892": {
     "player_id": "4892",
@@ -2871,7 +2905,7 @@
     "years_exp": 8,
     "age": 31,
     "depth_chart_position": "QB",
-    "search_rank": 74
+    "search_rank": 75
   },
   "4943": {
     "player_id": "4943",
@@ -2884,11 +2918,11 @@
       "QB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Doubtful",
     "years_exp": 8,
     "age": 29,
     "depth_chart_position": "QB",
-    "search_rank": 92
+    "search_rank": 93
   },
   "4950": {
     "player_id": "4950",
@@ -2939,7 +2973,7 @@
     "years_exp": 8,
     "age": 29,
     "depth_chart_position": "LWR",
-    "search_rank": 50
+    "search_rank": 49
   },
   "4984": {
     "player_id": "4984",
@@ -3088,11 +3122,11 @@
       "QB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "years_exp": 7,
     "age": 29,
     "depth_chart_position": "QB",
-    "search_rank": 87
+    "search_rank": 86
   },
   "5850": {
     "player_id": "5850",
@@ -3143,7 +3177,7 @@
     "years_exp": 7,
     "age": 29,
     "depth_chart_position": "QB",
-    "search_rank": 131
+    "search_rank": 132
   },
   "5872": {
     "player_id": "5872",
@@ -3160,7 +3194,7 @@
     "years_exp": 7,
     "age": 30,
     "depth_chart_position": "RWR",
-    "search_rank": 131
+    "search_rank": 130
   },
   "5892": {
     "player_id": "5892",
@@ -3177,7 +3211,7 @@
     "years_exp": 7,
     "age": 29,
     "depth_chart_position": "RB",
-    "search_rank": 43
+    "search_rank": 41
   },
   "5927": {
     "player_id": "5927",
@@ -3258,7 +3292,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "years_exp": 7,
     "age": 28,
     "depth_chart_position": "RB",
@@ -3330,7 +3364,7 @@
     "years_exp": 6,
     "age": 27,
     "depth_chart_position": "RB",
-    "search_rank": 44
+    "search_rank": 46
   },
   "6794": {
     "player_id": "6794",
@@ -3347,7 +3381,7 @@
     "years_exp": 6,
     "age": 27,
     "depth_chart_position": "LWR",
-    "search_rank": 12
+    "search_rank": 11
   },
   "6797": {
     "player_id": "6797",
@@ -3364,7 +3398,7 @@
     "years_exp": 6,
     "age": 28,
     "depth_chart_position": "QB",
-    "search_rank": 34
+    "search_rank": 35
   },
   "6801": {
     "player_id": "6801",
@@ -3415,7 +3449,7 @@
     "years_exp": 6,
     "age": 27,
     "depth_chart_position": "QB",
-    "search_rank": 69
+    "search_rank": 68
   },
   "6806": {
     "player_id": "6806",
@@ -3483,7 +3517,7 @@
     "years_exp": 6,
     "age": 28,
     "depth_chart_position": "QB",
-    "search_rank": 27
+    "search_rank": 28
   },
   "7002": {
     "player_id": "7002",
@@ -3568,7 +3602,7 @@
     "years_exp": 5,
     "age": 26,
     "depth_chart_position": "QB",
-    "search_rank": 42
+    "search_rank": 41
   },
   "7525": {
     "player_id": "7525",
@@ -3615,7 +3649,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 5,
     "age": 28,
     "depth_chart_position": "RB",
@@ -3755,7 +3789,7 @@
     "years_exp": 5,
     "age": 26,
     "depth_chart_position": "RB",
-    "search_rank": 31
+    "search_rank": 29
   },
   "7594": {
     "player_id": "7594",
@@ -4091,7 +4125,7 @@
       "RB"
     ],
     "status": "Inactive",
-    "injury_status": "Questionable",
+    "injury_status": null,
     "years_exp": 4,
     "age": 26,
     "depth_chart_position": null,
@@ -4142,7 +4176,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 4,
     "age": 26,
     "depth_chart_position": "LWR",
@@ -4299,7 +4333,7 @@
     "years_exp": 4,
     "age": 27,
     "depth_chart_position": "RWR",
-    "search_rank": 171
+    "search_rank": 170
   },
   "8183": {
     "player_id": "8183",
@@ -4316,7 +4350,7 @@
     "years_exp": 4,
     "age": 26,
     "depth_chart_position": "QB",
-    "search_rank": 55
+    "search_rank": 56
   },
   "8205": {
     "player_id": "8205",
@@ -4571,7 +4605,7 @@
     "years_exp": 3,
     "age": 25,
     "depth_chart_position": "TE",
-    "search_rank": 470
+    "search_rank": 469
   },
   "9484": {
     "player_id": "9484",
@@ -4737,7 +4771,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "years_exp": 3,
     "age": 24,
     "depth_chart_position": "RB",
@@ -4873,7 +4907,7 @@
       "WR"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": "Questionable",
     "years_exp": 3,
     "age": 26,
     "depth_chart_position": "SWR",
@@ -4913,6 +4947,23 @@
     "depth_chart_position": null,
     "search_rank": 667
   },
+  "11597": {
+    "player_id": "11597",
+    "name": "Theo Johnson",
+    "first_name": "Theo",
+    "last_name": "Johnson",
+    "team": "NYG",
+    "position": "TE",
+    "fantasy_positions": [
+      "TE"
+    ],
+    "status": "Active",
+    "injury_status": null,
+    "years_exp": 2,
+    "age": 25,
+    "depth_chart_position": "TE",
+    "search_rank": 144
+  },
   "11600": {
     "player_id": "11600",
     "name": "Ja'Tavion Sanders",
@@ -4924,28 +4975,11 @@
       "TE"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 2,
     "age": 23,
     "depth_chart_position": "TE",
     "search_rank": 576
-  },
-  "12048": {
-    "player_id": "12048",
-    "name": "George Holani",
-    "first_name": "George",
-    "last_name": "Holani",
-    "team": "SEA",
-    "position": "RB",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "status": "Active",
-    "injury_status": null,
-    "years_exp": 2,
-    "age": 26,
-    "depth_chart_position": "RB",
-    "search_rank": 457
   },
   "12471": {
     "player_id": "12471",
@@ -4958,7 +4992,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": "Out",
+    "injury_status": null,
     "years_exp": 1,
     "age": 23,
     "depth_chart_position": "RB",
@@ -5064,7 +5098,7 @@
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "QB",
-    "search_rank": 392
+    "search_rank": 393
   },
   "13329": {
     "player_id": "13329",
@@ -5122,7 +5156,7 @@
     "name": "Sterling Shepard",
     "first_name": "Sterling",
     "last_name": "Shepard",
-    "team": null,
+    "team": "NYJ",
     "position": "WR",
     "fantasy_positions": [
       "WR"
@@ -5132,7 +5166,24 @@
     "years_exp": 10,
     "age": 33,
     "depth_chart_position": null,
-    "search_rank": 507
+    "search_rank": 340
+  },
+  "3286": {
+    "player_id": "3286",
+    "name": "Demarcus Robinson",
+    "first_name": "Demarcus",
+    "last_name": "Robinson",
+    "team": "SF",
+    "position": "WR",
+    "fantasy_positions": [
+      "WR"
+    ],
+    "status": "Active",
+    "injury_status": null,
+    "years_exp": 10,
+    "age": 31,
+    "depth_chart_position": "LWR",
+    "search_rank": 679
   },
   "4017": {
     "player_id": "4017",
@@ -5162,7 +5213,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": "",
+    "injury_status": "Out",
     "years_exp": 9,
     "age": 29,
     "depth_chart_position": null,
@@ -5184,23 +5235,6 @@
     "age": 30,
     "depth_chart_position": null,
     "search_rank": 242
-  },
-  "4177": {
-    "player_id": "4177",
-    "name": "Mack Hollins",
-    "first_name": "Mack",
-    "last_name": "Hollins",
-    "team": "NE",
-    "position": "WR",
-    "fantasy_positions": [
-      "WR"
-    ],
-    "status": "Active",
-    "injury_status": null,
-    "years_exp": 9,
-    "age": 32,
-    "depth_chart_position": "RWR",
-    "search_rank": 697
   },
   "4219": {
     "player_id": "4219",
@@ -5387,7 +5421,7 @@
     "years_exp": 3,
     "age": 25,
     "depth_chart_position": "TE",
-    "search_rank": 475
+    "search_rank": 476
   },
   "96": {
     "player_id": "96",
@@ -5404,6 +5438,6 @@
     "years_exp": 21,
     "age": 42,
     "depth_chart_position": "QB",
-    "search_rank": 188
+    "search_rank": 187
   }
 }

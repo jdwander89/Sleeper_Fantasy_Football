@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-15T15:35:46.356867Z",
+  "generated_at": "2026-09-16T15:26:08.977526Z",
   "counts": {
-    "required_player_ids": 318,
-    "resolved_player_ids": 318,
+    "required_player_ids": 320,
+    "resolved_player_ids": 320,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -50,6 +50,7 @@
       "cam ward": "12522",
       "carnell tate": "13279",
       "carson beck": "13272",
+      "carson wentz": "3161",
       "cedric tillman": "10444",
       "ceedee lamb": "6786",
       "charlie kolar": "8127",
@@ -88,6 +89,7 @@
       "de'von achane": "9226",
       "de'zhaun stribling": "13417",
       "deebo samuel": "5872",
+      "demarcus robinson": "3286",
       "demario douglas": "9501",
       "demond claiborne": "13347",
       "denzel boston": "13346",
@@ -558,6 +560,7 @@
       "MIN": [
         "11565",
         "13347",
+        "3161",
         "4199",
         "5844",
         "5849",
@@ -611,6 +614,7 @@
         "13276",
         "13303",
         "13330",
+        "3200",
         "8146",
         "8155"
       ],
@@ -656,6 +660,7 @@
         "13414",
         "13417",
         "2216",
+        "3286",
         "4034",
         "4217",
         "4950",
@@ -721,6 +726,7 @@
         "13275",
         "13303",
         "13404",
+        "3161",
         "3163",
         "3257",
         "3294",
@@ -972,6 +978,7 @@
         "2374",
         "2449",
         "3200",
+        "3286",
         "3321",
         "4037",
         "4039",

@@ -2263,23 +2263,190 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 1,
+          "transaction_id": "1403856139493363712",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1789067895343,
+          "created_at": "2026-09-10T19:18:15.343000Z",
+          "status_updated": 1789542945595,
+          "status_updated_at": "2026-09-16T07:15:45.595000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "12048",
+              "player_name": "George Holani",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 0,
+            "waiver_bid": 2
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 1,
+          "transaction_id": "1405787449979912192",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1789528355645,
+          "created_at": "2026-09-16T03:12:35.645000Z",
+          "status_updated": 1789542945595,
+          "status_updated_at": "2026-09-16T07:15:45.595000Z",
+          "creator_user_id": "471424563457028096",
+          "roster_ids": [
+            5
+          ],
+          "team_labels": [
+            "White Ice"
+          ],
+          "consenter_ids": [
+            5
+          ],
+          "consenter_team_labels": [
+            "White Ice"
+          ],
+          "adds": [
+            {
+              "player_id": "4177",
+              "player_name": "Mack Hollins",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 1,
+            "waiver_bid": 0
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 1,
+          "transaction_id": "1405787466392186880",
+          "type": "waiver",
+          "status": "failed",
+          "created": 1789528359558,
+          "created_at": "2026-09-16T03:12:39.558000Z",
+          "status_updated": 1789542945595,
+          "status_updated_at": "2026-09-16T07:15:45.595000Z",
+          "creator_user_id": "471424563457028096",
+          "roster_ids": [
+            5
+          ],
+          "team_labels": [
+            "White Ice"
+          ],
+          "consenter_ids": [
+            5
+          ],
+          "consenter_team_labels": [
+            "White Ice"
+          ],
+          "adds": [
+            {
+              "player_id": "3286",
+              "player_name": "Demarcus Robinson",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 2,
+            "waiver_bid": 0
+          },
+          "metadata": {
+            "notes": "Unfortunately, your roster will have too many players after this transaction."
+          }
         }
       ],
       "counts": {
-        "transactions": 54,
+        "transactions": 57,
         "trades": 5,
-        "waivers": 0,
+        "waivers": 3,
         "free_agent_moves": 48
       }
     },
     "2": {
       "week": 2,
-      "transactions": [],
+      "transactions": [
+        {
+          "week": 2,
+          "transaction_id": "1405885068144074752",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1789551629629,
+          "created_at": "2026-09-16T09:40:29.629000Z",
+          "status_updated": 1789551629629,
+          "status_updated_at": "2026-09-16T09:40:29.629000Z",
+          "creator_user_id": "471501409838166016",
+          "roster_ids": [
+            9
+          ],
+          "team_labels": [
+            "off"
+          ],
+          "consenter_ids": [
+            9
+          ],
+          "consenter_team_labels": [
+            "off"
+          ],
+          "adds": [
+            {
+              "player_id": "3161",
+              "player_name": "Carson Wentz",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "11597",
+              "player_name": "Theo Johnson",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        }
+      ],
       "counts": {
-        "transactions": 0,
+        "transactions": 1,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 0
+        "free_agent_moves": 1
       }
     }
   },
@@ -4544,6 +4711,172 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 1,
+      "transaction_id": "1403856139493363712",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1789067895343,
+      "created_at": "2026-09-10T19:18:15.343000Z",
+      "status_updated": 1789542945595,
+      "status_updated_at": "2026-09-16T07:15:45.595000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "12048",
+          "player_name": "George Holani",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 2
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 1,
+      "transaction_id": "1405787449979912192",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1789528355645,
+      "created_at": "2026-09-16T03:12:35.645000Z",
+      "status_updated": 1789542945595,
+      "status_updated_at": "2026-09-16T07:15:45.595000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "4177",
+          "player_name": "Mack Hollins",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 1,
+      "transaction_id": "1405787466392186880",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1789528359558,
+      "created_at": "2026-09-16T03:12:39.558000Z",
+      "status_updated": 1789542945595,
+      "status_updated_at": "2026-09-16T07:15:45.595000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "3286",
+          "player_name": "Demarcus Robinson",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 2,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "Unfortunately, your roster will have too many players after this transaction."
+      }
+    },
+    {
+      "week": 2,
+      "transaction_id": "1405885068144074752",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789551629629,
+      "created_at": "2026-09-16T09:40:29.629000Z",
+      "status_updated": 1789551629629,
+      "status_updated_at": "2026-09-16T09:40:29.629000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "3161",
+          "player_name": "Carson Wentz",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11597",
+          "player_name": "Theo Johnson",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -4902,7 +5235,131 @@
       "metadata": {}
     }
   ],
-  "waivers": [],
+  "waivers": [
+    {
+      "week": 1,
+      "transaction_id": "1403856139493363712",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1789067895343,
+      "created_at": "2026-09-10T19:18:15.343000Z",
+      "status_updated": 1789542945595,
+      "status_updated_at": "2026-09-16T07:15:45.595000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "12048",
+          "player_name": "George Holani",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 2
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 1,
+      "transaction_id": "1405787449979912192",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1789528355645,
+      "created_at": "2026-09-16T03:12:35.645000Z",
+      "status_updated": 1789542945595,
+      "status_updated_at": "2026-09-16T07:15:45.595000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "4177",
+          "player_name": "Mack Hollins",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 1,
+      "transaction_id": "1405787466392186880",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1789528359558,
+      "created_at": "2026-09-16T03:12:39.558000Z",
+      "status_updated": 1789542945595,
+      "status_updated_at": "2026-09-16T07:15:45.595000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "3286",
+          "player_name": "Demarcus Robinson",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 2,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "Unfortunately, your roster will have too many players after this transaction."
+      }
+    }
+  ],
   "free_agent_moves": [
     {
       "week": 1,
@@ -6778,21 +7235,66 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 2,
+      "transaction_id": "1405885068144074752",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789551629629,
+      "created_at": "2026-09-16T09:40:29.629000Z",
+      "status_updated": 1789551629629,
+      "status_updated_at": "2026-09-16T09:40:29.629000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "3161",
+          "player_name": "Carson Wentz",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11597",
+          "player_name": "Theo Johnson",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 2,
-    "transactions": 54,
+    "transactions": 58,
     "trades": 5,
-    "waivers": 0,
-    "free_agent_moves": 48,
+    "waivers": 3,
+    "free_agent_moves": 49,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 48,
-      "trade": 5
+      "free_agent": 49,
+      "trade": 5,
+      "waiver": 3
     },
     "by_status": {
-      "complete": 54
+      "complete": 57,
+      "failed": 1
     }
   }
 }
