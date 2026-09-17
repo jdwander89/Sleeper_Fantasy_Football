@@ -188,11 +188,10 @@
       "1466",
       "9754",
       "12517",
-      "8408"
+      "12492"
     ],
     "bench": [
       "10235",
-      "12492",
       "12495",
       "12509",
       "13294",
@@ -202,6 +201,7 @@
       "6783",
       "8127",
       "8210",
+      "8408",
       "8676",
       "9758"
     ],
@@ -251,11 +251,10 @@
         "Travis Kelce",
         "Quentin Johnston",
         "Colston Loveland",
-        "Jordan Mason"
+        "Pat Bryant"
       ],
       "bench": [
         "Roschon Johnson",
-        "Pat Bryant",
         "Ollie Gordon",
         "Tre' Harris",
         "Makai Lemon",
@@ -265,6 +264,7 @@
         "Jerry Jeudy",
         "Charlie Kolar",
         "Chig Okonkwo",
+        "Jordan Mason",
         "Rashid Shaheed",
         "C.J. Stroud"
       ],
@@ -308,11 +308,11 @@
       "4066",
       "4981",
       "5995",
+      "6130",
       "6804",
       "6813",
       "6819",
       "7525",
-      "7528",
       "8110",
       "8121",
       "8147",
@@ -340,8 +340,8 @@
       "4066",
       "4981",
       "5995",
+      "6130",
       "6804",
-      "7528",
       "8110",
       "8121",
       "8147",
@@ -371,11 +371,11 @@
         "Evan Engram",
         "Calvin Ridley",
         "Justice Hill",
+        "Devin Singletary",
         "Jordan Love",
         "Jonathan Taylor",
         "Michael Pittman",
         "DeVonta Smith",
-        "Najee Harris",
         "Jake Ferguson",
         "Romeo Doubs",
         "John Metchie",
@@ -403,8 +403,8 @@
         "Evan Engram",
         "Calvin Ridley",
         "Justice Hill",
+        "Devin Singletary",
         "Jordan Love",
-        "Najee Harris",
         "Jake Ferguson",
         "Romeo Doubs",
         "John Metchie",
@@ -760,7 +760,7 @@
       "5872",
       "12506",
       "11628",
-      "1479",
+      "4199",
       "11834"
     ],
     "bench": [
@@ -772,9 +772,9 @@
       "13276",
       "13404",
       "13420",
+      "1479",
       "2374",
       "4137",
-      "4199",
       "4217",
       "6803",
       "6806"
@@ -825,7 +825,7 @@
         "Deebo Samuel",
         "Harold Fannin",
         "Marvin Harrison",
-        "Keenan Allen",
+        "Aaron Jones",
         "Devaughn Vele"
       ],
       "bench": [
@@ -837,9 +837,9 @@
         "Omar Cooper",
         "Garrett Nussmeier",
         "Bryce Lance",
+        "Keenan Allen",
         "Tyler Lockett",
         "James Conner",
-        "Aaron Jones",
         "George Kittle",
         "Brandon Aiyuk",
         "J.K. Dobbins"

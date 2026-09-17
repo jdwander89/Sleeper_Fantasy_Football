@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-16T15:26:09.070886Z",
-    "source_snapshot_generated_at": "2026-09-16T15:26:07.825527Z",
+    "generated_at": "2026-09-17T15:33:51.385622Z",
+    "source_snapshot_generated_at": "2026-09-17T15:33:50.198407Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -55,10 +55,10 @@
     "required_player_ids": 320,
     "compact_player_lookup": 320,
     "missing_player_ids": 0,
-    "transactions": 58,
+    "transactions": 59,
     "trades": 5,
     "waivers": 3,
-    "free_agent_moves": 49,
+    "free_agent_moves": 50,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -112,7 +112,7 @@
           "name": "TreVeyon Henderson",
           "team": "NE",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12533",
@@ -268,11 +268,11 @@
           "injury_status": null
         },
         {
-          "player_id": "8408",
-          "name": "Jordan Mason",
-          "team": "MIN",
-          "position": "RB",
-          "injury_status": "Questionable"
+          "player_id": "12492",
+          "name": "Pat Bryant",
+          "team": "DEN",
+          "position": "WR",
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -376,7 +376,7 @@
           "name": "Michael Pittman",
           "team": "PIT",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "2449",
@@ -549,7 +549,7 @@
           "name": "Nico Collins",
           "team": "HOU",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8137",
@@ -563,7 +563,7 @@
           "name": "Juwan Johnson",
           "team": "NO",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8148",
@@ -684,10 +684,10 @@
           "injury_status": null
         },
         {
-          "player_id": "1479",
-          "name": "Keenan Allen",
-          "team": "IND",
-          "position": "WR",
+          "player_id": "4199",
+          "name": "Aaron Jones",
+          "team": "MIN",
+          "position": "RB",
           "injury_status": null
         },
         {
@@ -1014,7 +1014,7 @@
           "name": "RJ Harvey",
           "team": "DEN",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11583",
@@ -1075,7 +1075,7 @@
           "name": "D'Andre Swift",
           "team": "CHI",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7547",
@@ -1117,7 +1117,7 @@
           "name": "Jakobi Meyers",
           "team": "JAX",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -1276,7 +1276,7 @@
           "name": "Joe Burrow",
           "team": "CIN",
           "position": "QB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "4866",
@@ -1612,18 +1612,18 @@
   "transactions": {
     "counts": {
       "weeks": 2,
-      "transactions": 58,
+      "transactions": 59,
       "trades": 5,
       "waivers": 3,
-      "free_agent_moves": 49,
+      "free_agent_moves": 50,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 49,
+        "free_agent": 50,
         "trade": 5,
         "waiver": 3
       },
       "by_status": {
-        "complete": 57,
+        "complete": 58,
         "failed": 1
       }
     },
@@ -1671,10 +1671,10 @@
         "free_agent_moves": 1
       },
       "3": {
-        "transactions": 5,
+        "transactions": 6,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 5
+        "free_agent_moves": 6
       },
       "6": {
         "transactions": 2,
@@ -1702,6 +1702,33 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 2,
+        "transaction_id": "1406084519424978944",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-09-16T22:53:02.520000Z",
+        "team_labels": [
+          "Pol Hol"
+        ],
+        "adds": [
+          {
+            "player_id": "6130",
+            "player_name": "Devin Singletary",
+            "roster_id": 3,
+            "team_label": "Pol Hol"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "7528",
+            "player_name": "Najee Harris",
+            "roster_id": 3,
+            "team_label": "Pol Hol"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 2,
         "transaction_id": "1405885068144074752",
@@ -2276,26 +2303,6 @@
             "team_label": "It’s Herbie Hancock"
           }
         ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1395842652896776192",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-08-19T16:35:31.254000Z",
-        "team_labels": [
-          "Back to the Future"
-        ],
-        "adds": [
-          {
-            "player_id": "11199",
-            "player_name": "Emari Demercado",
-            "roster_id": 8,
-            "team_label": "Back to the Future"
-          }
-        ],
-        "drops": [],
         "draft_picks": []
       }
     ]

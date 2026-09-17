@@ -2440,13 +2440,56 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 2,
+          "transaction_id": "1406084519424978944",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1789599182520,
+          "created_at": "2026-09-16T22:53:02.520000Z",
+          "status_updated": 1789599182520,
+          "status_updated_at": "2026-09-16T22:53:02.520000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Pol Hol"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Pol Hol"
+          ],
+          "adds": [
+            {
+              "player_id": "6130",
+              "player_name": "Devin Singletary",
+              "roster_id": 3,
+              "team_label": "Pol Hol"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "7528",
+              "player_name": "Najee Harris",
+              "roster_id": 3,
+              "team_label": "Pol Hol"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 1,
+        "transactions": 2,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 1
+        "free_agent_moves": 2
       }
     }
   },
@@ -4877,6 +4920,49 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 2,
+      "transaction_id": "1406084519424978944",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789599182520,
+      "created_at": "2026-09-16T22:53:02.520000Z",
+      "status_updated": 1789599182520,
+      "status_updated_at": "2026-09-16T22:53:02.520000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Pol Hol"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Pol Hol"
+      ],
+      "adds": [
+        {
+          "player_id": "6130",
+          "player_name": "Devin Singletary",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7528",
+          "player_name": "Najee Harris",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -7278,22 +7364,65 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 2,
+      "transaction_id": "1406084519424978944",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789599182520,
+      "created_at": "2026-09-16T22:53:02.520000Z",
+      "status_updated": 1789599182520,
+      "status_updated_at": "2026-09-16T22:53:02.520000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Pol Hol"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Pol Hol"
+      ],
+      "adds": [
+        {
+          "player_id": "6130",
+          "player_name": "Devin Singletary",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7528",
+          "player_name": "Najee Harris",
+          "roster_id": 3,
+          "team_label": "Pol Hol"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 2,
-    "transactions": 58,
+    "transactions": 59,
     "trades": 5,
     "waivers": 3,
-    "free_agent_moves": 49,
+    "free_agent_moves": 50,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 49,
+      "free_agent": 50,
       "trade": 5,
       "waiver": 3
     },
     "by_status": {
-      "complete": 57,
+      "complete": 58,
       "failed": 1
     }
   }
