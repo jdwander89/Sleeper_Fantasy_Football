@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-17T15:33:51.385622Z",
-    "source_snapshot_generated_at": "2026-09-17T15:33:50.198407Z",
+    "generated_at": "2026-09-18T15:01:13.545826Z",
+    "source_snapshot_generated_at": "2026-09-18T15:01:12.028639Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -55,10 +55,10 @@
     "required_player_ids": 320,
     "compact_player_lookup": 320,
     "missing_player_ids": 0,
-    "transactions": 59,
+    "transactions": 61,
     "trades": 5,
     "waivers": 3,
-    "free_agent_moves": 50,
+    "free_agent_moves": 52,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -199,14 +199,14 @@
         "raw_fpts_against_decimal": 0
       },
       "counts": {
-        "players": 24,
+        "players": 25,
         "starters": 9,
-        "bench": 13,
+        "bench": 14,
         "reserve": 2
       },
       "position_counts": {
         "QB": 2,
-        "RB": 7,
+        "RB": 8,
         "TE": 4,
         "WR": 11
       },
@@ -511,15 +511,15 @@
         "raw_fpts_against_decimal": 84
       },
       "counts": {
-        "players": 25,
+        "players": 24,
         "starters": 9,
         "bench": 14,
-        "reserve": 2
+        "reserve": 1
       },
       "position_counts": {
         "QB": 2,
         "RB": 7,
-        "TE": 3,
+        "TE": 2,
         "WR": 13
       },
       "starters": [
@@ -545,11 +545,11 @@
           "injury_status": null
         },
         {
-          "player_id": "7569",
-          "name": "Nico Collins",
-          "team": "HOU",
+          "player_id": "4177",
+          "name": "Mack Hollins",
+          "team": "NE",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8137",
@@ -594,13 +594,6 @@
           "team": "ARI",
           "position": "RB",
           "injury_status": "IR"
-        },
-        {
-          "player_id": "12467",
-          "name": "Jordan James",
-          "team": "SF",
-          "position": "RB",
-          "injury_status": null
         }
       ]
     },
@@ -993,7 +986,7 @@
           "name": "Chris Olave",
           "team": "NO",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7553",
@@ -1092,9 +1085,9 @@
           "injury_status": null
         },
         {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "team": "MIN",
+          "player_id": "9484",
+          "name": "Tucker Kraft",
+          "team": "GB",
           "position": "TE",
           "injury_status": null
         },
@@ -1332,7 +1325,7 @@
           "name": "DJ Moore",
           "team": "BUF",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Out"
         }
       ],
       "reserve": []
@@ -1494,17 +1487,21 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 0.0,
+                "points": 22.5,
                 "custom_points": null
               },
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 0.0,
+                "points": -0.1,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock",
+              "points": 22.5
+            }
           },
           {
             "matchup_id": "2",
@@ -1518,11 +1515,15 @@
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 0.0,
+                "points": 60.72,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 11,
+              "team_label": "MOJO",
+              "points": 60.72
+            }
           },
           {
             "matchup_id": "3",
@@ -1536,11 +1537,15 @@
               {
                 "roster_id": 3,
                 "team_label": "Pol Hol",
-                "points": 0.0,
+                "points": 17.2,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 3,
+              "team_label": "Pol Hol",
+              "points": 17.2
+            }
           },
           {
             "matchup_id": "4",
@@ -1554,11 +1559,15 @@
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 0.0,
+                "points": 35.2,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 10,
+              "team_label": "Goin in Ra",
+              "points": 35.2
+            }
           },
           {
             "matchup_id": "5",
@@ -1584,7 +1593,7 @@
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 0.0,
+                "points": 35.4,
                 "custom_points": null
               },
               {
@@ -1594,7 +1603,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 5,
+              "team_label": "White Ice",
+              "points": 35.4
+            }
           }
         ],
         "counts": {
@@ -1612,18 +1625,18 @@
   "transactions": {
     "counts": {
       "weeks": 2,
-      "transactions": 59,
+      "transactions": 61,
       "trades": 5,
       "waivers": 3,
-      "free_agent_moves": 50,
+      "free_agent_moves": 52,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 50,
+        "free_agent": 52,
         "trade": 5,
         "waiver": 3
       },
       "by_status": {
-        "complete": 58,
+        "complete": 60,
         "failed": 1
       }
     },
@@ -1659,10 +1672,10 @@
         "free_agent_moves": 9
       },
       "2": {
-        "transactions": 10,
+        "transactions": 11,
         "trades": 3,
         "waivers": 0,
-        "free_agent_moves": 6
+        "free_agent_moves": 7
       },
       "10": {
         "transactions": 2,
@@ -1695,13 +1708,53 @@
         "free_agent_moves": 1
       },
       "5": {
-        "transactions": 3,
+        "transactions": 4,
         "trades": 0,
         "waivers": 2,
-        "free_agent_moves": 1
+        "free_agent_moves": 2
       }
     },
     "recent_transactions": [
+      {
+        "week": 2,
+        "transaction_id": "1406483954403377152",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-09-18T01:20:15.239000Z",
+        "team_labels": [
+          "White Ice"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "13282",
+            "player_name": "Jack Endries",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 2,
+        "transaction_id": "1406389160427765760",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-09-17T19:03:34.594000Z",
+        "team_labels": [
+          "A B CeeDee"
+        ],
+        "adds": [
+          {
+            "player_id": "12472",
+            "player_name": "Raheim Sanders",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
       {
         "week": 2,
         "transaction_id": "1406084519424978944",
@@ -2247,60 +2300,6 @@
             "player_name": "Joe Mixon",
             "roster_id": 5,
             "team_label": "White Ice"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1397580096772005888",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-08-24T11:39:30.154000Z",
-        "team_labels": [
-          "MOJO"
-        ],
-        "adds": [
-          {
-            "player_id": "6130",
-            "player_name": "Devin Singletary",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "10226",
-            "player_name": "Andrei Iosivas",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1395957158704603136",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-08-20T00:10:31.566000Z",
-        "team_labels": [
-          "It’s Herbie Hancock"
-        ],
-        "adds": [
-          {
-            "player_id": "13421",
-            "player_name": "Eli Raridon",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "9504",
-            "player_name": "Kayshon Boutte",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
           }
         ],
         "draft_picks": []

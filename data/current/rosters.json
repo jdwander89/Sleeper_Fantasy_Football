@@ -155,6 +155,7 @@
     "owner_user_id": "471403228244733952",
     "players": [
       "10235",
+      "12472",
       "12492",
       "12495",
       "12509",
@@ -192,6 +193,7 @@
     ],
     "bench": [
       "10235",
+      "12472",
       "12495",
       "12509",
       "13294",
@@ -210,14 +212,15 @@
       "8800"
     ],
     "taxi": [],
-    "player_count": 24,
+    "player_count": 25,
     "starter_count": 9,
-    "bench_count": 13,
+    "bench_count": 14,
     "reserve_count": 2,
     "taxi_count": 0,
     "display": {
       "players": [
         "Roschon Johnson",
+        "Raheim Sanders",
         "Pat Bryant",
         "Ollie Gordon",
         "Tre' Harris",
@@ -255,6 +258,7 @@
       ],
       "bench": [
         "Roschon Johnson",
+        "Raheim Sanders",
         "Ollie Gordon",
         "Tre' Harris",
         "Makai Lemon",
@@ -588,7 +592,6 @@
       "12467",
       "12497",
       "12499",
-      "13282",
       "13288",
       "13317",
       "3294",
@@ -609,7 +612,7 @@
       "11560",
       "9221",
       "9224",
-      "7569",
+      "4177",
       "8137",
       "7002",
       "8148",
@@ -620,27 +623,26 @@
       "10213",
       "11586",
       "11625",
+      "12467",
       "12497",
       "12499",
-      "13282",
       "13288",
       "13317",
       "3294",
-      "4177",
       "5001",
       "7049",
+      "7569",
       "9225",
       "9486"
     ],
     "reserve": [
-      "11589",
-      "12467"
+      "11589"
     ],
     "taxi": [],
-    "player_count": 25,
+    "player_count": 24,
     "starter_count": 9,
     "bench_count": 14,
-    "reserve_count": 2,
+    "reserve_count": 1,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -653,7 +655,6 @@
         "Jordan James",
         "Tory Horton",
         "Elic Ayomanor",
-        "Jack Endries",
         "Nicholas Singleton",
         "Ted Hurst",
         "Dak Prescott",
@@ -674,7 +675,7 @@
         "Caleb Williams",
         "Jahmyr Gibbs",
         "Chase Brown",
-        "Nico Collins",
+        "Mack Hollins",
         "George Pickens",
         "Juwan Johnson",
         "Jameson Williams",
@@ -685,21 +686,20 @@
         "Tre Tucker",
         "Blake Corum",
         "Adonai Mitchell",
+        "Jordan James",
         "Tory Horton",
         "Elic Ayomanor",
-        "Jack Endries",
         "Nicholas Singleton",
         "Ted Hurst",
         "Dak Prescott",
-        "Mack Hollins",
         "Dalton Schultz",
         "Jauan Jennings",
+        "Nico Collins",
         "Tank Bigsby",
         "Dontayvion Wicks"
       ],
       "reserve": [
-        "Trey Benson",
-        "Jordan James"
+        "Trey Benson"
       ],
       "taxi": []
     },
@@ -1338,7 +1338,7 @@
       "6790",
       "7547",
       "5927",
-      "5844",
+      "9484",
       "12490",
       "5846",
       "5947"
@@ -1351,11 +1351,11 @@
       "13286",
       "13337",
       "4943",
+      "5844",
       "5848",
       "7600",
       "8126",
       "8143",
-      "9484",
       "9511"
     ],
     "reserve": [
@@ -1401,7 +1401,7 @@
         "D'Andre Swift",
         "Amon-Ra St. Brown",
         "Terry McLaurin",
-        "T.J. Hockenson",
+        "Tucker Kraft",
         "Bhayshul Tuten",
         "DK Metcalf",
         "Jakobi Meyers"
@@ -1414,11 +1414,11 @@
         "Jadarian Price",
         "Emmett Johnson",
         "Sam Darnold",
+        "T.J. Hockenson",
         "Marquise Brown",
         "Pat Freiermuth",
         "Wan'Dale Robinson",
         "Jerome Ford",
-        "Tucker Kraft",
         "Keaton Mitchell"
       ],
       "reserve": [

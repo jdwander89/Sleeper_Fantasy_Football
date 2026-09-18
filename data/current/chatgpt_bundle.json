@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-09-17T15:33:50.179799Z",
+    "generated_at": "2026-09-18T15:01:12.010090Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -1208,6 +1208,7 @@
       "owner_user_id": "471403228244733952",
       "players": [
         "10235",
+        "12472",
         "12492",
         "12495",
         "12509",
@@ -1245,6 +1246,7 @@
       ],
       "bench": [
         "10235",
+        "12472",
         "12495",
         "12509",
         "13294",
@@ -1263,14 +1265,15 @@
         "8800"
       ],
       "taxi": [],
-      "player_count": 24,
+      "player_count": 25,
       "starter_count": 9,
-      "bench_count": 13,
+      "bench_count": 14,
       "reserve_count": 2,
       "taxi_count": 0,
       "display": {
         "players": [
           "Roschon Johnson",
+          "Raheim Sanders",
           "Pat Bryant",
           "Ollie Gordon",
           "Tre' Harris",
@@ -1308,6 +1311,7 @@
         ],
         "bench": [
           "Roschon Johnson",
+          "Raheim Sanders",
           "Ollie Gordon",
           "Tre' Harris",
           "Makai Lemon",
@@ -1641,7 +1645,6 @@
         "12467",
         "12497",
         "12499",
-        "13282",
         "13288",
         "13317",
         "3294",
@@ -1662,7 +1665,7 @@
         "11560",
         "9221",
         "9224",
-        "7569",
+        "4177",
         "8137",
         "7002",
         "8148",
@@ -1673,27 +1676,26 @@
         "10213",
         "11586",
         "11625",
+        "12467",
         "12497",
         "12499",
-        "13282",
         "13288",
         "13317",
         "3294",
-        "4177",
         "5001",
         "7049",
+        "7569",
         "9225",
         "9486"
       ],
       "reserve": [
-        "11589",
-        "12467"
+        "11589"
       ],
       "taxi": [],
-      "player_count": 25,
+      "player_count": 24,
       "starter_count": 9,
       "bench_count": 14,
-      "reserve_count": 2,
+      "reserve_count": 1,
       "taxi_count": 0,
       "display": {
         "players": [
@@ -1706,7 +1708,6 @@
           "Jordan James",
           "Tory Horton",
           "Elic Ayomanor",
-          "Jack Endries",
           "Nicholas Singleton",
           "Ted Hurst",
           "Dak Prescott",
@@ -1727,7 +1728,7 @@
           "Caleb Williams",
           "Jahmyr Gibbs",
           "Chase Brown",
-          "Nico Collins",
+          "Mack Hollins",
           "George Pickens",
           "Juwan Johnson",
           "Jameson Williams",
@@ -1738,21 +1739,20 @@
           "Tre Tucker",
           "Blake Corum",
           "Adonai Mitchell",
+          "Jordan James",
           "Tory Horton",
           "Elic Ayomanor",
-          "Jack Endries",
           "Nicholas Singleton",
           "Ted Hurst",
           "Dak Prescott",
-          "Mack Hollins",
           "Dalton Schultz",
           "Jauan Jennings",
+          "Nico Collins",
           "Tank Bigsby",
           "Dontayvion Wicks"
         ],
         "reserve": [
-          "Trey Benson",
-          "Jordan James"
+          "Trey Benson"
         ],
         "taxi": []
       },
@@ -2391,7 +2391,7 @@
         "6790",
         "7547",
         "5927",
-        "5844",
+        "9484",
         "12490",
         "5846",
         "5947"
@@ -2404,11 +2404,11 @@
         "13286",
         "13337",
         "4943",
+        "5844",
         "5848",
         "7600",
         "8126",
         "8143",
-        "9484",
         "9511"
       ],
       "reserve": [
@@ -2454,7 +2454,7 @@
           "D'Andre Swift",
           "Amon-Ra St. Brown",
           "Terry McLaurin",
-          "T.J. Hockenson",
+          "Tucker Kraft",
           "Bhayshul Tuten",
           "DK Metcalf",
           "Jakobi Meyers"
@@ -2467,11 +2467,11 @@
           "Jadarian Price",
           "Emmett Johnson",
           "Sam Darnold",
+          "T.J. Hockenson",
           "Marquise Brown",
           "Pat Freiermuth",
           "Wan'Dale Robinson",
           "Jerome Ford",
-          "Tucker Kraft",
           "Keaton Mitchell"
         ],
         "reserve": [
@@ -2814,7 +2814,7 @@
         "years_exp": 3,
         "age": 26,
         "depth_chart_position": "RB",
-        "search_rank": 125
+        "search_rank": 127
       },
       "10222": {
         "player_id": "10222",
@@ -2967,7 +2967,7 @@
         "years_exp": 3,
         "age": 26,
         "depth_chart_position": "RB",
-        "search_rank": 447
+        "search_rank": 448
       },
       "11435": {
         "player_id": "11435",
@@ -3018,7 +3018,7 @@
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "QB",
-        "search_rank": 20
+        "search_rank": 22
       },
       "11563": {
         "player_id": "11563",
@@ -3273,7 +3273,7 @@
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "TE",
-        "search_rank": 22
+        "search_rank": 23
       },
       "11610": {
         "player_id": "11610",
@@ -3290,7 +3290,7 @@
         "years_exp": 2,
         "age": 25,
         "depth_chart_position": "SWR",
-        "search_rank": 177
+        "search_rank": 178
       },
       "11618": {
         "player_id": "11618",
@@ -3477,7 +3477,7 @@
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "SWR",
-        "search_rank": 34
+        "search_rank": 36
       },
       "11637": {
         "player_id": "11637",
@@ -3575,7 +3575,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 2,
         "age": 26,
         "depth_chart_position": "RB",
@@ -3717,6 +3717,23 @@
         "depth_chart_position": "RB",
         "search_rank": 129
       },
+      "12472": {
+        "player_id": "12472",
+        "name": "Raheim Sanders",
+        "first_name": "Raheim",
+        "last_name": "Sanders",
+        "team": "CLE",
+        "position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 1,
+        "age": 24,
+        "depth_chart_position": "RB",
+        "search_rank": 690
+      },
       "12474": {
         "player_id": "12474",
         "name": "Woody Marks",
@@ -3766,7 +3783,7 @@
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "RB",
-        "search_rank": 37
+        "search_rank": 36
       },
       "12483": {
         "player_id": "12483",
@@ -3902,7 +3919,7 @@
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "RB",
-        "search_rank": 478
+        "search_rank": 480
       },
       "12497": {
         "player_id": "12497",
@@ -4174,7 +4191,7 @@
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "TE",
-        "search_rank": 457
+        "search_rank": 458
       },
       "12522": {
         "player_id": "12522",
@@ -4396,7 +4413,7 @@
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "RB",
-        "search_rank": 507
+        "search_rank": 509
       },
       "12545": {
         "player_id": "12545",
@@ -4413,7 +4430,7 @@
         "years_exp": 1,
         "age": 26,
         "depth_chart_position": "QB",
-        "search_rank": 89
+        "search_rank": 88
       },
       "12547": {
         "player_id": "12547",
@@ -4464,7 +4481,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "QB",
-        "search_rank": 107
+        "search_rank": 108
       },
       "13270": {
         "player_id": "13270",
@@ -4498,7 +4515,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "QB",
-        "search_rank": 286
+        "search_rank": 285
       },
       "13274": {
         "player_id": "13274",
@@ -4545,7 +4562,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
@@ -4602,23 +4619,6 @@
         "depth_chart_position": "LWR",
         "search_rank": 62
       },
-      "13282": {
-        "player_id": "13282",
-        "name": "Jack Endries",
-        "first_name": "Jack",
-        "last_name": "Endries",
-        "team": "CIN",
-        "position": "TE",
-        "fantasy_positions": [
-          "TE"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 0,
-        "age": 22,
-        "depth_chart_position": "TE",
-        "search_rank": 508
-      },
       "13285": {
         "player_id": "13285",
         "name": "Malachi Fields",
@@ -4634,7 +4634,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RWR",
-        "search_rank": 200
+        "search_rank": 199
       },
       "13286": {
         "player_id": "13286",
@@ -4702,7 +4702,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "RWR",
-        "search_rank": 146
+        "search_rank": 148
       },
       "13294": {
         "player_id": "13294",
@@ -4787,7 +4787,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "RB",
-        "search_rank": 409
+        "search_rank": 407
       },
       "13305": {
         "player_id": "13305",
@@ -5004,7 +5004,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Out",
         "years_exp": 0,
         "age": 24,
         "depth_chart_position": "SWR",
@@ -5059,7 +5059,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
-        "search_rank": 367
+        "search_rank": 368
       },
       "13413": {
         "player_id": "13413",
@@ -5076,7 +5076,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "SWR",
-        "search_rank": 181
+        "search_rank": 180
       },
       "13414": {
         "player_id": "13414",
@@ -5089,11 +5089,11 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 0,
         "age": 24,
         "depth_chart_position": "RB",
-        "search_rank": 160
+        "search_rank": 162
       },
       "13417": {
         "player_id": "13417",
@@ -5110,7 +5110,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "SWR",
-        "search_rank": 111
+        "search_rank": 112
       },
       "13420": {
         "player_id": "13420",
@@ -5127,7 +5127,7 @@
         "years_exp": 0,
         "age": 24,
         "depth_chart_position": "LWR",
-        "search_rank": 473
+        "search_rank": 474
       },
       "13421": {
         "player_id": "13421",
@@ -5144,7 +5144,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "TE",
-        "search_rank": 363
+        "search_rank": 365
       },
       "13424": {
         "player_id": "13424",
@@ -5161,7 +5161,7 @@
         "years_exp": 0,
         "age": 24,
         "depth_chart_position": "RB",
-        "search_rank": 383
+        "search_rank": 382
       },
       "13533": {
         "player_id": "13533",
@@ -5178,7 +5178,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
-        "search_rank": 458
+        "search_rank": 460
       },
       "1466": {
         "player_id": "1466",
@@ -5195,7 +5195,7 @@
         "years_exp": 13,
         "age": 36,
         "depth_chart_position": "TE",
-        "search_rank": 89
+        "search_rank": 90
       },
       "1479": {
         "player_id": "1479",
@@ -5497,11 +5497,11 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 9,
         "age": 33,
         "depth_chart_position": "SWR",
-        "search_rank": 195
+        "search_rank": 196
       },
       "4046": {
         "player_id": "4046",
@@ -5535,7 +5535,7 @@
         "years_exp": 9,
         "age": 32,
         "depth_chart_position": "TE",
-        "search_rank": 460
+        "search_rank": 461
       },
       "4137": {
         "player_id": "4137",
@@ -5565,11 +5565,11 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "RB",
-        "search_rank": 451
+        "search_rank": 454
       },
       "4177": {
         "player_id": "4177",
@@ -5620,7 +5620,7 @@
         "years_exp": 17,
         "age": 38,
         "depth_chart_position": "QB",
-        "search_rank": 66
+        "search_rank": 65
       },
       "4217": {
         "player_id": "4217",
@@ -5637,7 +5637,7 @@
         "years_exp": 9,
         "age": 32,
         "depth_chart_position": "TE",
-        "search_rank": 81
+        "search_rank": 80
       },
       "4866": {
         "player_id": "4866",
@@ -5705,7 +5705,7 @@
         "years_exp": 8,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 93
+        "search_rank": 92
       },
       "4950": {
         "player_id": "4950",
@@ -5752,7 +5752,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Out",
         "years_exp": 8,
         "age": 29,
         "depth_chart_position": "LWR",
@@ -5994,7 +5994,7 @@
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "RB",
-        "search_rank": 41
+        "search_rank": 43
       },
       "5927": {
         "player_id": "5927",
@@ -6011,7 +6011,7 @@
         "years_exp": 7,
         "age": 31,
         "depth_chart_position": "LWR",
-        "search_rank": 56
+        "search_rank": 55
       },
       "5947": {
         "player_id": "5947",
@@ -6062,7 +6062,7 @@
         "years_exp": 7,
         "age": 28,
         "depth_chart_position": "RB",
-        "search_rank": 220
+        "search_rank": 221
       },
       "6039": {
         "player_id": "6039",
@@ -6075,7 +6075,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "RB",
@@ -6249,7 +6249,7 @@
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "QB",
-        "search_rank": 68
+        "search_rank": 69
       },
       "6806": {
         "player_id": "6806",
@@ -6487,7 +6487,7 @@
         "years_exp": 5,
         "age": 25,
         "depth_chart_position": "TE",
-        "search_rank": 68
+        "search_rank": 67
       },
       "7564": {
         "player_id": "7564",
@@ -6793,7 +6793,7 @@
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "TE",
-        "search_rank": 106
+        "search_rank": 107
       },
       "8132": {
         "player_id": "8132",
@@ -6891,11 +6891,11 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "LWR",
-        "search_rank": 93
+        "search_rank": 94
       },
       "8143": {
         "player_id": "8143",
@@ -6925,7 +6925,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "RWR",
@@ -7065,7 +7065,7 @@
         "years_exp": 4,
         "age": 27,
         "depth_chart_position": "QB",
-        "search_rank": 121
+        "search_rank": 119
       },
       "8167": {
         "player_id": "8167",
@@ -7252,7 +7252,7 @@
         "years_exp": 4,
         "age": 27,
         "depth_chart_position": "RB",
-        "search_rank": 440
+        "search_rank": 441
       },
       "9221": {
         "player_id": "9221",
@@ -7337,7 +7337,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "QB",
-        "search_rank": 132
+        "search_rank": 133
       },
       "9480": {
         "player_id": "9480",
@@ -7388,7 +7388,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "TE",
-        "search_rank": 468
+        "search_rank": 472
       },
       "9484": {
         "player_id": "9484",
@@ -7405,7 +7405,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "TE",
-        "search_rank": 65
+        "search_rank": 63
       },
       "9486": {
         "player_id": "9486",
@@ -7422,7 +7422,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "RWR",
-        "search_rank": 205
+        "search_rank": 204
       },
       "9487": {
         "player_id": "9487",
@@ -7507,7 +7507,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "SWR",
-        "search_rank": 489
+        "search_rank": 493
       },
       "9502": {
         "player_id": "9502",
@@ -7711,7 +7711,7 @@
         "years_exp": 3,
         "age": 26,
         "depth_chart_position": "SWR",
-        "search_rank": 497
+        "search_rank": 499
       },
       "10444": {
         "player_id": "10444",
@@ -7775,28 +7775,11 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "RB",
         "search_rank": 503
-      },
-      "12472": {
-        "player_id": "12472",
-        "name": "Raheim Sanders",
-        "first_name": "Raheim",
-        "last_name": "Sanders",
-        "team": "CLE",
-        "position": "RB",
-        "fantasy_positions": [
-          "RB"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 1,
-        "age": 24,
-        "depth_chart_position": "RB",
-        "search_rank": 690
       },
       "12485": {
         "player_id": "12485",
@@ -7866,6 +7849,23 @@
         "depth_chart_position": "RWR",
         "search_rank": 628
       },
+      "13282": {
+        "player_id": "13282",
+        "name": "Jack Endries",
+        "first_name": "Jack",
+        "last_name": "Endries",
+        "team": "CIN",
+        "position": "TE",
+        "fantasy_positions": [
+          "TE"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 0,
+        "age": 22,
+        "depth_chart_position": "TE",
+        "search_rank": 508
+      },
       "13303": {
         "player_id": "13303",
         "name": "Cade Klubnik",
@@ -7881,7 +7881,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "QB",
-        "search_rank": 392
+        "search_rank": 393
       },
       "13329": {
         "player_id": "13329",
@@ -7983,7 +7983,7 @@
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "QB",
-        "search_rank": 297
+        "search_rank": 295
       },
       "4018": {
         "player_id": "4018",
@@ -8084,7 +8084,7 @@
         "injury_status": null,
         "years_exp": 7,
         "age": 28,
-        "depth_chart_position": null,
+        "depth_chart_position": "RWR",
         "search_rank": 585
       },
       "6149": {
@@ -8204,7 +8204,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "TE",
-        "search_rank": 473
+        "search_rank": 474
       },
       "96": {
         "player_id": "96",
@@ -10125,17 +10125,21 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 0.0,
+                "points": 22.5,
                 "custom_points": null
               },
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 0.0,
+                "points": -0.1,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock",
+              "points": 22.5
+            }
           },
           {
             "week": 2,
@@ -10150,11 +10154,15 @@
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 0.0,
+                "points": 60.72,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 11,
+              "team_label": "MOJO",
+              "points": 60.72
+            }
           },
           {
             "week": 2,
@@ -10169,11 +10177,15 @@
               {
                 "roster_id": 3,
                 "team_label": "Pol Hol",
-                "points": 0.0,
+                "points": 17.2,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 3,
+              "team_label": "Pol Hol",
+              "points": 17.2
+            }
           },
           {
             "week": 2,
@@ -10188,11 +10200,15 @@
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 0.0,
+                "points": 35.2,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 10,
+              "team_label": "Goin in Ra",
+              "points": 35.2
+            }
           },
           {
             "week": 2,
@@ -10220,7 +10236,7 @@
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 0.0,
+                "points": 35.4,
                 "custom_points": null
               },
               {
@@ -10230,7 +10246,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 5,
+              "team_label": "White Ice",
+              "points": 35.4
+            }
           }
         ],
         "roster_results": [
@@ -10239,7 +10259,7 @@
             "matchup_id": 1,
             "roster_id": 1,
             "team_label": "It’s Herbie Hancock",
-            "points": 0.0,
+            "points": 22.5,
             "custom_points": null,
             "players": [
               "10236",
@@ -10298,7 +10318,7 @@
               "9504"
             ],
             "players_points": {
-              "10236": 0.0,
+              "10236": 22.5,
               "11566": 0.0,
               "11576": 0.0,
               "11624": 0.0,
@@ -10393,6 +10413,7 @@
             "custom_points": null,
             "players": [
               "10235",
+              "12472",
               "12492",
               "12495",
               "12509",
@@ -10430,6 +10451,7 @@
             ],
             "bench": [
               "10235",
+              "12472",
               "12495",
               "12509",
               "13294",
@@ -10447,6 +10469,7 @@
             ],
             "players_points": {
               "10235": 0.0,
+              "12472": 0.0,
               "12492": 0.0,
               "12495": 0.0,
               "12509": 0.0,
@@ -10475,6 +10498,7 @@
             "display": {
               "players": [
                 "Roschon Johnson",
+                "Raheim Sanders",
                 "Pat Bryant",
                 "Ollie Gordon",
                 "Tre' Harris",
@@ -10512,6 +10536,7 @@
               ],
               "bench": [
                 "Roschon Johnson",
+                "Raheim Sanders",
                 "Ollie Gordon",
                 "Tre' Harris",
                 "Makai Lemon",
@@ -10534,7 +10559,7 @@
             "matchup_id": 3,
             "roster_id": 3,
             "team_label": "Pol Hol",
-            "points": 0.0,
+            "points": 17.2,
             "custom_points": null,
             "players": [
               "10859",
@@ -10591,7 +10616,7 @@
               "9506"
             ],
             "players_points": {
-              "10859": 0.0,
+              "10859": 17.2,
               "11584": 0.0,
               "11655": 0.0,
               "13268": 0.0,
@@ -10819,7 +10844,7 @@
             "matchup_id": 6,
             "roster_id": 5,
             "team_label": "White Ice",
-            "points": 0.0,
+            "points": 35.4,
             "custom_points": null,
             "players": [
               "10213",
@@ -10831,7 +10856,6 @@
               "12467",
               "12497",
               "12499",
-              "13282",
               "13288",
               "13317",
               "3294",
@@ -10852,7 +10876,7 @@
               "11560",
               "9221",
               "9224",
-              "7569",
+              "4177",
               "8137",
               "7002",
               "8148",
@@ -10867,13 +10891,12 @@
               "12467",
               "12497",
               "12499",
-              "13282",
               "13288",
               "13317",
               "3294",
-              "4177",
               "5001",
               "7049",
+              "7569",
               "9225",
               "9486"
             ],
@@ -10887,7 +10910,6 @@
               "12467": 0.0,
               "12497": 0.0,
               "12499": 0.0,
-              "13282": 0.0,
               "13288": 0.0,
               "13317": 0.0,
               "3294": 0.0,
@@ -10896,10 +10918,10 @@
               "7002": 0.0,
               "7049": 0.0,
               "7569": 0.0,
-              "8134": 0.0,
+              "8134": 6.8,
               "8137": 0.0,
-              "8148": 0.0,
-              "9221": 0.0,
+              "8148": 5.3,
+              "9221": 23.3,
               "9224": 0.0,
               "9225": 0.0,
               "9486": 0.0
@@ -10916,7 +10938,6 @@
                 "Jordan James",
                 "Tory Horton",
                 "Elic Ayomanor",
-                "Jack Endries",
                 "Nicholas Singleton",
                 "Ted Hurst",
                 "Dak Prescott",
@@ -10937,7 +10958,7 @@
                 "Caleb Williams",
                 "Jahmyr Gibbs",
                 "Chase Brown",
-                "Nico Collins",
+                "Mack Hollins",
                 "George Pickens",
                 "Juwan Johnson",
                 "Jameson Williams",
@@ -10952,13 +10973,12 @@
                 "Jordan James",
                 "Tory Horton",
                 "Elic Ayomanor",
-                "Jack Endries",
                 "Nicholas Singleton",
                 "Ted Hurst",
                 "Dak Prescott",
-                "Mack Hollins",
                 "Dalton Schultz",
                 "Jauan Jennings",
+                "Nico Collins",
                 "Tank Bigsby",
                 "Dontayvion Wicks"
               ]
@@ -11180,13 +11200,13 @@
               "11370": 0.0,
               "11559": 0.0,
               "11632": 0.0,
-              "11637": 0.0,
+              "11637": 12.3,
               "12474": 0.0,
               "12504": 0.0,
               "12518": 0.0,
               "12524": 0.0,
               "12526": 0.0,
-              "12535": 0.0,
+              "12535": 4.6,
               "12543": 0.0,
               "12545": 0.0,
               "12547": 0.0,
@@ -11554,7 +11574,7 @@
             "matchup_id": 4,
             "roster_id": 10,
             "team_label": "Goin in Ra",
-            "points": 0.0,
+            "points": 35.2,
             "custom_points": null,
             "players": [
               "11626",
@@ -11588,7 +11608,7 @@
               "6790",
               "7547",
               "5927",
-              "5844",
+              "9484",
               "12490",
               "5846",
               "5947"
@@ -11602,17 +11622,17 @@
               "13337",
               "4943",
               "4950",
+              "5844",
               "5848",
               "7600",
               "8126",
               "8143",
               "9481",
-              "9484",
               "9511"
             ],
             "players_points": {
               "11626": 0.0,
-              "11729": 0.0,
+              "11729": 3.0,
               "11783": 0.0,
               "12490": 0.0,
               "12536": 0.0,
@@ -11628,7 +11648,7 @@
               "5927": 0.0,
               "5947": 0.0,
               "6790": 0.0,
-              "7547": 0.0,
+              "7547": 35.2,
               "7600": 0.0,
               "8126": 0.0,
               "8143": 0.0,
@@ -11670,7 +11690,7 @@
                 "D'Andre Swift",
                 "Amon-Ra St. Brown",
                 "Terry McLaurin",
-                "T.J. Hockenson",
+                "Tucker Kraft",
                 "Bhayshul Tuten",
                 "DK Metcalf",
                 "Jakobi Meyers"
@@ -11684,12 +11704,12 @@
                 "Emmett Johnson",
                 "Sam Darnold",
                 "Christian Kirk",
+                "T.J. Hockenson",
                 "Marquise Brown",
                 "Pat Freiermuth",
                 "Wan'Dale Robinson",
                 "Jerome Ford",
                 "Luke Musgrave",
-                "Tucker Kraft",
                 "Keaton Mitchell"
               ]
             }
@@ -11699,7 +11719,7 @@
             "matchup_id": 2,
             "roster_id": 11,
             "team_label": "MOJO",
-            "points": 0.0,
+            "points": 60.72,
             "custom_points": null,
             "players": [
               "11563",
@@ -11770,13 +11790,13 @@
               "3214": 0.0,
               "4039": 0.0,
               "4147": 0.0,
-              "4984": 0.0,
+              "4984": 39.82,
               "5045": 0.0,
               "6039": 0.0,
               "6801": 0.0,
               "7021": 0.0,
               "7526": 0.0,
-              "8138": 0.0,
+              "8138": 20.9,
               "8228": 0.0,
               "9228": 0.0,
               "9482": 0.0
@@ -11844,7 +11864,7 @@
             "matchup_id": 1,
             "roster_id": 12,
             "team_label": "gullickson",
-            "points": 0.0,
+            "points": -0.1,
             "custom_points": null,
             "players": [
               "10232",
@@ -11910,15 +11930,15 @@
               "13278": 0.0,
               "13287": 0.0,
               "2505": 0.0,
-              "3163": 0.0,
+              "3163": 27.78,
               "421": 0.0,
               "4866": 0.0,
-              "4983": 0.0,
+              "4983": -0.1,
               "5012": 0.0,
               "5022": 0.0,
               "6770": 0.0,
               "7543": 0.0,
-              "7670": 0.0,
+              "7670": 11.3,
               "8180": 0.0,
               "9508": 0.0,
               "9997": 0.0
@@ -14477,13 +14497,85 @@
             "waiver_budget": [],
             "settings": {},
             "metadata": {}
+          },
+          {
+            "week": 2,
+            "transaction_id": "1406389160427765760",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1789671814594,
+            "created_at": "2026-09-17T19:03:34.594000Z",
+            "status_updated": 1789671814594,
+            "status_updated_at": "2026-09-17T19:03:34.594000Z",
+            "creator_user_id": "471403228244733952",
+            "roster_ids": [
+              2
+            ],
+            "team_labels": [
+              "A B CeeDee"
+            ],
+            "consenter_ids": [
+              2
+            ],
+            "consenter_team_labels": [
+              "A B CeeDee"
+            ],
+            "adds": [
+              {
+                "player_id": "12472",
+                "player_name": "Raheim Sanders",
+                "roster_id": 2,
+                "team_label": "A B CeeDee"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
+          },
+          {
+            "week": 2,
+            "transaction_id": "1406483954403377152",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1789694415239,
+            "created_at": "2026-09-18T01:20:15.239000Z",
+            "status_updated": 1789694415239,
+            "status_updated_at": "2026-09-18T01:20:15.239000Z",
+            "creator_user_id": "471424563457028096",
+            "roster_ids": [
+              5
+            ],
+            "team_labels": [
+              "White Ice"
+            ],
+            "consenter_ids": [
+              5
+            ],
+            "consenter_team_labels": [
+              "White Ice"
+            ],
+            "adds": [],
+            "drops": [
+              {
+                "player_id": "13282",
+                "player_name": "Jack Endries",
+                "roster_id": 5,
+                "team_label": "White Ice"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
           }
         ],
         "counts": {
-          "transactions": 2,
+          "transactions": 4,
           "trades": 0,
           "waivers": 0,
-          "free_agent_moves": 2
+          "free_agent_moves": 4
         }
       }
     },
@@ -16957,6 +17049,78 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 2,
+        "transaction_id": "1406389160427765760",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1789671814594,
+        "created_at": "2026-09-17T19:03:34.594000Z",
+        "status_updated": 1789671814594,
+        "status_updated_at": "2026-09-17T19:03:34.594000Z",
+        "creator_user_id": "471403228244733952",
+        "roster_ids": [
+          2
+        ],
+        "team_labels": [
+          "A B CeeDee"
+        ],
+        "consenter_ids": [
+          2
+        ],
+        "consenter_team_labels": [
+          "A B CeeDee"
+        ],
+        "adds": [
+          {
+            "player_id": "12472",
+            "player_name": "Raheim Sanders",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 2,
+        "transaction_id": "1406483954403377152",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1789694415239,
+        "created_at": "2026-09-18T01:20:15.239000Z",
+        "status_updated": 1789694415239,
+        "status_updated_at": "2026-09-18T01:20:15.239000Z",
+        "creator_user_id": "471424563457028096",
+        "roster_ids": [
+          5
+        ],
+        "team_labels": [
+          "White Ice"
+        ],
+        "consenter_ids": [
+          5
+        ],
+        "consenter_team_labels": [
+          "White Ice"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "13282",
+            "player_name": "Jack Endries",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "trades": [
@@ -19401,22 +19565,94 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 2,
+        "transaction_id": "1406389160427765760",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1789671814594,
+        "created_at": "2026-09-17T19:03:34.594000Z",
+        "status_updated": 1789671814594,
+        "status_updated_at": "2026-09-17T19:03:34.594000Z",
+        "creator_user_id": "471403228244733952",
+        "roster_ids": [
+          2
+        ],
+        "team_labels": [
+          "A B CeeDee"
+        ],
+        "consenter_ids": [
+          2
+        ],
+        "consenter_team_labels": [
+          "A B CeeDee"
+        ],
+        "adds": [
+          {
+            "player_id": "12472",
+            "player_name": "Raheim Sanders",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 2,
+        "transaction_id": "1406483954403377152",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1789694415239,
+        "created_at": "2026-09-18T01:20:15.239000Z",
+        "status_updated": 1789694415239,
+        "status_updated_at": "2026-09-18T01:20:15.239000Z",
+        "creator_user_id": "471424563457028096",
+        "roster_ids": [
+          5
+        ],
+        "team_labels": [
+          "White Ice"
+        ],
+        "consenter_ids": [
+          5
+        ],
+        "consenter_team_labels": [
+          "White Ice"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "13282",
+            "player_name": "Jack Endries",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "counts": {
       "weeks": 2,
-      "transactions": 59,
+      "transactions": 61,
       "trades": 5,
       "waivers": 3,
-      "free_agent_moves": 50,
+      "free_agent_moves": 52,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 50,
+        "free_agent": 52,
         "trade": 5,
         "waiver": 3
       },
       "by_status": {
-        "complete": 58,
+        "complete": 60,
         "failed": 1
       }
     }
@@ -23168,7 +23404,6 @@
       "ja'kobi lane": "13293",
       "ja'marr chase": "7564",
       "jack bech": "12483",
-      "jack endries": "13282",
       "jacob saylors": "11237",
       "jacoby brissett": "3257",
       "jacory croskey-merritt": "12533",
@@ -23278,6 +23513,7 @@
       "quentin johnston": "9754",
       "quinshon judkins": "12512",
       "rachaad white": "8136",
+      "raheim sanders": "12472",
       "rashee rice": "10229",
       "rashid shaheed": "8676",
       "rashod bateman": "7571",

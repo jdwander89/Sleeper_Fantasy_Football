@@ -1898,17 +1898,21 @@
             {
               "roster_id": 1,
               "team_label": "It’s Herbie Hancock",
-              "points": 0.0,
+              "points": 22.5,
               "custom_points": null
             },
             {
               "roster_id": 12,
               "team_label": "gullickson",
-              "points": 0.0,
+              "points": -0.1,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock",
+            "points": 22.5
+          }
         },
         {
           "week": 2,
@@ -1923,11 +1927,15 @@
             {
               "roster_id": 11,
               "team_label": "MOJO",
-              "points": 0.0,
+              "points": 60.72,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 11,
+            "team_label": "MOJO",
+            "points": 60.72
+          }
         },
         {
           "week": 2,
@@ -1942,11 +1950,15 @@
             {
               "roster_id": 3,
               "team_label": "Pol Hol",
-              "points": 0.0,
+              "points": 17.2,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 3,
+            "team_label": "Pol Hol",
+            "points": 17.2
+          }
         },
         {
           "week": 2,
@@ -1961,11 +1973,15 @@
             {
               "roster_id": 10,
               "team_label": "Goin in Ra",
-              "points": 0.0,
+              "points": 35.2,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 10,
+            "team_label": "Goin in Ra",
+            "points": 35.2
+          }
         },
         {
           "week": 2,
@@ -1993,7 +2009,7 @@
             {
               "roster_id": 5,
               "team_label": "White Ice",
-              "points": 0.0,
+              "points": 35.4,
               "custom_points": null
             },
             {
@@ -2003,7 +2019,11 @@
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 5,
+            "team_label": "White Ice",
+            "points": 35.4
+          }
         }
       ],
       "roster_results": [
@@ -2012,7 +2032,7 @@
           "matchup_id": 1,
           "roster_id": 1,
           "team_label": "It’s Herbie Hancock",
-          "points": 0.0,
+          "points": 22.5,
           "custom_points": null,
           "players": [
             "10236",
@@ -2071,7 +2091,7 @@
             "9504"
           ],
           "players_points": {
-            "10236": 0.0,
+            "10236": 22.5,
             "11566": 0.0,
             "11576": 0.0,
             "11624": 0.0,
@@ -2166,6 +2186,7 @@
           "custom_points": null,
           "players": [
             "10235",
+            "12472",
             "12492",
             "12495",
             "12509",
@@ -2203,6 +2224,7 @@
           ],
           "bench": [
             "10235",
+            "12472",
             "12495",
             "12509",
             "13294",
@@ -2220,6 +2242,7 @@
           ],
           "players_points": {
             "10235": 0.0,
+            "12472": 0.0,
             "12492": 0.0,
             "12495": 0.0,
             "12509": 0.0,
@@ -2248,6 +2271,7 @@
           "display": {
             "players": [
               "Roschon Johnson",
+              "Raheim Sanders",
               "Pat Bryant",
               "Ollie Gordon",
               "Tre' Harris",
@@ -2285,6 +2309,7 @@
             ],
             "bench": [
               "Roschon Johnson",
+              "Raheim Sanders",
               "Ollie Gordon",
               "Tre' Harris",
               "Makai Lemon",
@@ -2307,7 +2332,7 @@
           "matchup_id": 3,
           "roster_id": 3,
           "team_label": "Pol Hol",
-          "points": 0.0,
+          "points": 17.2,
           "custom_points": null,
           "players": [
             "10859",
@@ -2364,7 +2389,7 @@
             "9506"
           ],
           "players_points": {
-            "10859": 0.0,
+            "10859": 17.2,
             "11584": 0.0,
             "11655": 0.0,
             "13268": 0.0,
@@ -2592,7 +2617,7 @@
           "matchup_id": 6,
           "roster_id": 5,
           "team_label": "White Ice",
-          "points": 0.0,
+          "points": 35.4,
           "custom_points": null,
           "players": [
             "10213",
@@ -2604,7 +2629,6 @@
             "12467",
             "12497",
             "12499",
-            "13282",
             "13288",
             "13317",
             "3294",
@@ -2625,7 +2649,7 @@
             "11560",
             "9221",
             "9224",
-            "7569",
+            "4177",
             "8137",
             "7002",
             "8148",
@@ -2640,13 +2664,12 @@
             "12467",
             "12497",
             "12499",
-            "13282",
             "13288",
             "13317",
             "3294",
-            "4177",
             "5001",
             "7049",
+            "7569",
             "9225",
             "9486"
           ],
@@ -2660,7 +2683,6 @@
             "12467": 0.0,
             "12497": 0.0,
             "12499": 0.0,
-            "13282": 0.0,
             "13288": 0.0,
             "13317": 0.0,
             "3294": 0.0,
@@ -2669,10 +2691,10 @@
             "7002": 0.0,
             "7049": 0.0,
             "7569": 0.0,
-            "8134": 0.0,
+            "8134": 6.8,
             "8137": 0.0,
-            "8148": 0.0,
-            "9221": 0.0,
+            "8148": 5.3,
+            "9221": 23.3,
             "9224": 0.0,
             "9225": 0.0,
             "9486": 0.0
@@ -2689,7 +2711,6 @@
               "Jordan James",
               "Tory Horton",
               "Elic Ayomanor",
-              "Jack Endries",
               "Nicholas Singleton",
               "Ted Hurst",
               "Dak Prescott",
@@ -2710,7 +2731,7 @@
               "Caleb Williams",
               "Jahmyr Gibbs",
               "Chase Brown",
-              "Nico Collins",
+              "Mack Hollins",
               "George Pickens",
               "Juwan Johnson",
               "Jameson Williams",
@@ -2725,13 +2746,12 @@
               "Jordan James",
               "Tory Horton",
               "Elic Ayomanor",
-              "Jack Endries",
               "Nicholas Singleton",
               "Ted Hurst",
               "Dak Prescott",
-              "Mack Hollins",
               "Dalton Schultz",
               "Jauan Jennings",
+              "Nico Collins",
               "Tank Bigsby",
               "Dontayvion Wicks"
             ]
@@ -2953,13 +2973,13 @@
             "11370": 0.0,
             "11559": 0.0,
             "11632": 0.0,
-            "11637": 0.0,
+            "11637": 12.3,
             "12474": 0.0,
             "12504": 0.0,
             "12518": 0.0,
             "12524": 0.0,
             "12526": 0.0,
-            "12535": 0.0,
+            "12535": 4.6,
             "12543": 0.0,
             "12545": 0.0,
             "12547": 0.0,
@@ -3327,7 +3347,7 @@
           "matchup_id": 4,
           "roster_id": 10,
           "team_label": "Goin in Ra",
-          "points": 0.0,
+          "points": 35.2,
           "custom_points": null,
           "players": [
             "11626",
@@ -3361,7 +3381,7 @@
             "6790",
             "7547",
             "5927",
-            "5844",
+            "9484",
             "12490",
             "5846",
             "5947"
@@ -3375,17 +3395,17 @@
             "13337",
             "4943",
             "4950",
+            "5844",
             "5848",
             "7600",
             "8126",
             "8143",
             "9481",
-            "9484",
             "9511"
           ],
           "players_points": {
             "11626": 0.0,
-            "11729": 0.0,
+            "11729": 3.0,
             "11783": 0.0,
             "12490": 0.0,
             "12536": 0.0,
@@ -3401,7 +3421,7 @@
             "5927": 0.0,
             "5947": 0.0,
             "6790": 0.0,
-            "7547": 0.0,
+            "7547": 35.2,
             "7600": 0.0,
             "8126": 0.0,
             "8143": 0.0,
@@ -3443,7 +3463,7 @@
               "D'Andre Swift",
               "Amon-Ra St. Brown",
               "Terry McLaurin",
-              "T.J. Hockenson",
+              "Tucker Kraft",
               "Bhayshul Tuten",
               "DK Metcalf",
               "Jakobi Meyers"
@@ -3457,12 +3477,12 @@
               "Emmett Johnson",
               "Sam Darnold",
               "Christian Kirk",
+              "T.J. Hockenson",
               "Marquise Brown",
               "Pat Freiermuth",
               "Wan'Dale Robinson",
               "Jerome Ford",
               "Luke Musgrave",
-              "Tucker Kraft",
               "Keaton Mitchell"
             ]
           }
@@ -3472,7 +3492,7 @@
           "matchup_id": 2,
           "roster_id": 11,
           "team_label": "MOJO",
-          "points": 0.0,
+          "points": 60.72,
           "custom_points": null,
           "players": [
             "11563",
@@ -3543,13 +3563,13 @@
             "3214": 0.0,
             "4039": 0.0,
             "4147": 0.0,
-            "4984": 0.0,
+            "4984": 39.82,
             "5045": 0.0,
             "6039": 0.0,
             "6801": 0.0,
             "7021": 0.0,
             "7526": 0.0,
-            "8138": 0.0,
+            "8138": 20.9,
             "8228": 0.0,
             "9228": 0.0,
             "9482": 0.0
@@ -3617,7 +3637,7 @@
           "matchup_id": 1,
           "roster_id": 12,
           "team_label": "gullickson",
-          "points": 0.0,
+          "points": -0.1,
           "custom_points": null,
           "players": [
             "10232",
@@ -3683,15 +3703,15 @@
             "13278": 0.0,
             "13287": 0.0,
             "2505": 0.0,
-            "3163": 0.0,
+            "3163": 27.78,
             "421": 0.0,
             "4866": 0.0,
-            "4983": 0.0,
+            "4983": -0.1,
             "5012": 0.0,
             "5022": 0.0,
             "6770": 0.0,
             "7543": 0.0,
-            "7670": 0.0,
+            "7670": 11.3,
             "8180": 0.0,
             "9508": 0.0,
             "9997": 0.0

@@ -2483,13 +2483,85 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 2,
+          "transaction_id": "1406389160427765760",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1789671814594,
+          "created_at": "2026-09-17T19:03:34.594000Z",
+          "status_updated": 1789671814594,
+          "status_updated_at": "2026-09-17T19:03:34.594000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "A B CeeDee"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "A B CeeDee"
+          ],
+          "adds": [
+            {
+              "player_id": "12472",
+              "player_name": "Raheim Sanders",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 2,
+          "transaction_id": "1406483954403377152",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1789694415239,
+          "created_at": "2026-09-18T01:20:15.239000Z",
+          "status_updated": 1789694415239,
+          "status_updated_at": "2026-09-18T01:20:15.239000Z",
+          "creator_user_id": "471424563457028096",
+          "roster_ids": [
+            5
+          ],
+          "team_labels": [
+            "White Ice"
+          ],
+          "consenter_ids": [
+            5
+          ],
+          "consenter_team_labels": [
+            "White Ice"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "13282",
+              "player_name": "Jack Endries",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 2,
+        "transactions": 4,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 2
+        "free_agent_moves": 4
       }
     }
   },
@@ -4963,6 +5035,78 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 2,
+      "transaction_id": "1406389160427765760",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789671814594,
+      "created_at": "2026-09-17T19:03:34.594000Z",
+      "status_updated": 1789671814594,
+      "status_updated_at": "2026-09-17T19:03:34.594000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "12472",
+          "player_name": "Raheim Sanders",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 2,
+      "transaction_id": "1406483954403377152",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789694415239,
+      "created_at": "2026-09-18T01:20:15.239000Z",
+      "status_updated": 1789694415239,
+      "status_updated_at": "2026-09-18T01:20:15.239000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13282",
+          "player_name": "Jack Endries",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -7407,22 +7551,94 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 2,
+      "transaction_id": "1406389160427765760",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789671814594,
+      "created_at": "2026-09-17T19:03:34.594000Z",
+      "status_updated": 1789671814594,
+      "status_updated_at": "2026-09-17T19:03:34.594000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "12472",
+          "player_name": "Raheim Sanders",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 2,
+      "transaction_id": "1406483954403377152",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1789694415239,
+      "created_at": "2026-09-18T01:20:15.239000Z",
+      "status_updated": 1789694415239,
+      "status_updated_at": "2026-09-18T01:20:15.239000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13282",
+          "player_name": "Jack Endries",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 2,
-    "transactions": 59,
+    "transactions": 61,
     "trades": 5,
     "waivers": 3,
-    "free_agent_moves": 50,
+    "free_agent_moves": 52,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 50,
+      "free_agent": 52,
       "trade": 5,
       "waiver": 3
     },
     "by_status": {
-      "complete": 58,
+      "complete": 60,
       "failed": 1
     }
   }
