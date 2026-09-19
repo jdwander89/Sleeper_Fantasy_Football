@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-18T15:01:13.545826Z",
-    "source_snapshot_generated_at": "2026-09-18T15:01:12.028639Z",
+    "generated_at": "2026-09-19T14:29:50.558730Z",
+    "source_snapshot_generated_at": "2026-09-19T14:29:49.008098Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -453,7 +453,7 @@
           "name": "Puka Nacua",
           "team": "LAR",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12519",
@@ -488,7 +488,7 @@
           "name": "Brian Thomas",
           "team": "JAX",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": []
@@ -563,7 +563,7 @@
           "name": "Juwan Johnson",
           "team": "NO",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8148",
@@ -896,7 +896,7 @@
           "name": "Jalen Coker",
           "team": "CAR",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "9500",
@@ -1068,7 +1068,7 @@
           "name": "D'Andre Swift",
           "team": "CHI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7547",
@@ -1110,7 +1110,7 @@
           "name": "Jakobi Meyers",
           "team": "JAX",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -1297,7 +1297,7 @@
           "name": "Zay Flowers",
           "team": "BAL",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": "Doubtful"
         },
         {
           "player_id": "5022",
