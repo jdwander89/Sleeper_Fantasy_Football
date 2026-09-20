@@ -2368,7 +2368,7 @@
             "2216",
             "10859",
             "11584",
-            "6819",
+            "8110",
             "2449"
           ],
           "bench": [
@@ -2380,7 +2380,7 @@
             "5995",
             "6130",
             "6804",
-            "8110",
+            "6819",
             "8121",
             "8147",
             "8161",
@@ -2450,7 +2450,7 @@
               "Mike Evans",
               "Sam LaPorta",
               "Bucky Irving",
-              "Michael Pittman",
+              "Jake Ferguson",
               "Stefon Diggs"
             ],
             "bench": [
@@ -2462,7 +2462,7 @@
               "Justice Hill",
               "Devin Singletary",
               "Jordan Love",
-              "Jake Ferguson",
+              "Michael Pittman",
               "Romeo Doubs",
               "John Metchie",
               "Malik Willis",
@@ -2934,6 +2934,7 @@
             "13311",
             "13414",
             "13533",
+            "3286",
             "4892",
             "7567",
             "8167",
@@ -2966,6 +2967,7 @@
             "13311",
             "13414",
             "13533",
+            "3286",
             "8205"
           ],
           "players_points": {
@@ -2988,6 +2990,7 @@
             "13311": 0.0,
             "13414": 0.0,
             "13533": 0.0,
+            "3286": 0.0,
             "4892": 0.0,
             "7567": 0.0,
             "8167": 0.0,
@@ -3016,6 +3019,7 @@
               "Chris Bell",
               "Kaelon Black",
               "Barion Brown",
+              "Demarcus Robinson",
               "Baker Mayfield",
               "Kenny Gainwell",
               "Christian Watson",
@@ -3048,6 +3052,7 @@
               "Chris Bell",
               "Kaelon Black",
               "Barion Brown",
+              "Demarcus Robinson",
               "Isiah Pacheco"
             ]
           }

@@ -334,7 +334,7 @@
       "2216",
       "10859",
       "11584",
-      "6819",
+      "8110",
       "2449"
     ],
     "bench": [
@@ -346,7 +346,7 @@
       "5995",
       "6130",
       "6804",
-      "8110",
+      "6819",
       "8121",
       "8147",
       "8161",
@@ -397,7 +397,7 @@
         "Mike Evans",
         "Sam LaPorta",
         "Bucky Irving",
-        "Michael Pittman",
+        "Jake Ferguson",
         "Stefon Diggs"
       ],
       "bench": [
@@ -409,7 +409,7 @@
         "Justice Hill",
         "Devin Singletary",
         "Jordan Love",
-        "Jake Ferguson",
+        "Michael Pittman",
         "Romeo Doubs",
         "John Metchie",
         "Malik Willis",
@@ -892,6 +892,7 @@
       "13311",
       "13414",
       "13533",
+      "3286",
       "4892",
       "7567",
       "8167",
@@ -912,7 +913,6 @@
     "bench": [
       "10222",
       "11370",
-      "11559",
       "11637",
       "12504",
       "12524",
@@ -923,16 +923,18 @@
       "13275",
       "13311",
       "13414",
-      "13533"
+      "13533",
+      "3286"
     ],
     "reserve": [
+      "11559",
       "8205"
     ],
     "taxi": [],
-    "player_count": 24,
+    "player_count": 25,
     "starter_count": 9,
     "bench_count": 14,
-    "reserve_count": 1,
+    "reserve_count": 2,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -955,6 +957,7 @@
         "Chris Bell",
         "Kaelon Black",
         "Barion Brown",
+        "Demarcus Robinson",
         "Baker Mayfield",
         "Kenny Gainwell",
         "Christian Watson",
@@ -975,7 +978,6 @@
       "bench": [
         "Jayden Reed",
         "Chris Brooks",
-        "Michael Penix",
         "Keon Coleman",
         "Kaleb Johnson",
         "Shedeur Sanders",
@@ -986,9 +988,11 @@
         "Ty Simpson",
         "Chris Bell",
         "Kaelon Black",
-        "Barion Brown"
+        "Barion Brown",
+        "Demarcus Robinson"
       ],
       "reserve": [
+        "Michael Penix",
         "Isiah Pacheco"
       ],
       "taxi": []

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-19T14:29:50.558730Z",
-    "source_snapshot_generated_at": "2026-09-19T14:29:49.008098Z",
+    "generated_at": "2026-09-20T14:42:58.151788Z",
+    "source_snapshot_generated_at": "2026-09-20T14:42:56.957464Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -55,10 +55,10 @@
     "required_player_ids": 320,
     "compact_player_lookup": 320,
     "missing_player_ids": 0,
-    "transactions": 61,
+    "transactions": 62,
     "trades": 5,
     "waivers": 3,
-    "free_agent_moves": 52,
+    "free_agent_moves": 53,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -372,11 +372,11 @@
           "injury_status": null
         },
         {
-          "player_id": "6819",
-          "name": "Michael Pittman",
-          "team": "PIT",
-          "position": "WR",
-          "injury_status": "Questionable"
+          "player_id": "8110",
+          "name": "Jake Ferguson",
+          "team": "DAL",
+          "position": "TE",
+          "injury_status": null
         },
         {
           "player_id": "2449",
@@ -726,16 +726,16 @@
         "raw_fpts_against_decimal": 16
       },
       "counts": {
-        "players": 24,
+        "players": 25,
         "starters": 9,
         "bench": 14,
-        "reserve": 1
+        "reserve": 2
       },
       "position_counts": {
         "QB": 5,
         "RB": 7,
         "TE": 1,
-        "WR": 11
+        "WR": 12
       },
       "starters": [
         {
@@ -803,6 +803,13 @@
         }
       ],
       "reserve": [
+        {
+          "player_id": "11559",
+          "name": "Michael Penix",
+          "team": "ATL",
+          "position": "QB",
+          "injury_status": "Out"
+        },
         {
           "player_id": "8205",
           "name": "Isiah Pacheco",
@@ -1297,7 +1304,7 @@
           "name": "Zay Flowers",
           "team": "BAL",
           "position": "WR",
-          "injury_status": "Doubtful"
+          "injury_status": "Out"
         },
         {
           "player_id": "5022",
@@ -1625,18 +1632,18 @@
   "transactions": {
     "counts": {
       "weeks": 2,
-      "transactions": 61,
+      "transactions": 62,
       "trades": 5,
       "waivers": 3,
-      "free_agent_moves": 52,
+      "free_agent_moves": 53,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 52,
+        "free_agent": 53,
         "trade": 5,
         "waiver": 3
       },
       "by_status": {
-        "complete": 60,
+        "complete": 61,
         "failed": 1
       }
     },
@@ -1654,10 +1661,10 @@
         "free_agent_moves": 4
       },
       "7": {
-        "transactions": 6,
+        "transactions": 7,
         "trades": 1,
         "waivers": 0,
-        "free_agent_moves": 5
+        "free_agent_moves": 6
       },
       "1": {
         "transactions": 11,
@@ -1715,6 +1722,26 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 2,
+        "transaction_id": "1407385142317645824",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-09-20T13:01:15.181000Z",
+        "team_labels": [
+          "Commish is a bitch"
+        ],
+        "adds": [
+          {
+            "player_id": "3286",
+            "player_name": "Demarcus Robinson",
+            "roster_id": 7,
+            "team_label": "Commish is a bitch"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
       {
         "week": 2,
         "transaction_id": "1406483954403377152",
@@ -2280,26 +2307,6 @@
             "player_name": "Malik Benson",
             "roster_id": 1,
             "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1397626260158431232",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-08-24T14:42:56.363000Z",
-        "team_labels": [
-          "White Ice"
-        ],
-        "adds": [],
-        "drops": [
-          {
-            "player_id": "4018",
-            "player_name": "Joe Mixon",
-            "roster_id": 5,
-            "team_label": "White Ice"
           }
         ],
         "draft_picks": []
