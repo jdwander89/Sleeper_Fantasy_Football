@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-20T14:42:58.151788Z",
-    "source_snapshot_generated_at": "2026-09-20T14:42:56.957464Z",
+    "generated_at": "2026-09-21T17:06:16.160945Z",
+    "source_snapshot_generated_at": "2026-09-21T17:06:14.906973Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -105,7 +105,7 @@
           "name": "Jayden Daniels",
           "team": "WAS",
           "position": "QB",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "12529",
@@ -147,7 +147,7 @@
           "name": "Caleb Douglas",
           "team": "MIA",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11624",
@@ -355,7 +355,7 @@
           "name": "Mike Evans",
           "team": "SF",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "10859",
@@ -524,9 +524,9 @@
       },
       "starters": [
         {
-          "player_id": "11560",
-          "name": "Caleb Williams",
-          "team": "CHI",
+          "player_id": "3294",
+          "name": "Dak Prescott",
+          "team": "DAL",
           "position": "QB",
           "injury_status": null
         },
@@ -573,10 +573,10 @@
           "injury_status": null
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
-          "team": "CHI",
-          "position": "WR",
+          "player_id": "11586",
+          "name": "Blake Corum",
+          "team": "LAR",
+          "position": "RB",
           "injury_status": null
         },
         {
@@ -681,7 +681,7 @@
           "name": "Aaron Jones",
           "team": "MIN",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11834",
@@ -993,7 +993,7 @@
           "name": "Chris Olave",
           "team": "NO",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7553",
@@ -1010,18 +1010,18 @@
           "injury_status": null
         },
         {
-          "player_id": "12489",
-          "name": "RJ Harvey",
-          "team": "DEN",
-          "position": "RB",
-          "injury_status": "Questionable"
+          "player_id": "13285",
+          "name": "Malachi Fields",
+          "team": "NYG",
+          "position": "WR",
+          "injury_status": null
         },
         {
           "player_id": "11583",
           "name": "Jonathon Brooks",
           "team": "CAR",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": []
@@ -1085,9 +1085,9 @@
           "injury_status": null
         },
         {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
-          "team": "WAS",
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "team": "JAX",
           "position": "WR",
           "injury_status": null
         },
@@ -1113,9 +1113,9 @@
           "injury_status": null
         },
         {
-          "player_id": "5947",
-          "name": "Jakobi Meyers",
-          "team": "JAX",
+          "player_id": "5927",
+          "name": "Terry McLaurin",
+          "team": "WAS",
           "position": "WR",
           "injury_status": null
         }
@@ -1228,7 +1228,7 @@
           "name": "Rico Dowdle",
           "team": "PIT",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Out"
         }
       ],
       "reserve": [
@@ -1276,14 +1276,14 @@
           "name": "Joe Burrow",
           "team": "CIN",
           "position": "QB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "4866",
           "name": "Saquon Barkley",
           "team": "PHI",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "13287",
@@ -1297,7 +1297,7 @@
           "name": "Ladd McConkey",
           "team": "LAC",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "9997",
@@ -1311,7 +1311,7 @@
           "name": "Dallas Goedert",
           "team": "PHI",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7543",
@@ -1494,20 +1494,20 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 22.5,
+                "points": 95.84,
                 "custom_points": null
               },
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": -0.1,
+                "points": 51.38,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 1,
               "team_label": "It’s Herbie Hancock",
-              "points": 22.5
+              "points": 95.84
             }
           },
           {
@@ -1516,20 +1516,20 @@
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 0.0,
+                "points": 88.48,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 60.72,
+                "points": 120.12,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 11,
               "team_label": "MOJO",
-              "points": 60.72
+              "points": 120.12
             }
           },
           {
@@ -1538,20 +1538,20 @@
               {
                 "roster_id": 2,
                 "team_label": "A B CeeDee",
-                "points": 0.0,
+                "points": 110.06,
                 "custom_points": null
               },
               {
                 "roster_id": 3,
                 "team_label": "Pol Hol",
-                "points": 17.2,
+                "points": 177.58,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 3,
               "team_label": "Pol Hol",
-              "points": 17.2
+              "points": 177.58
             }
           },
           {
@@ -1560,20 +1560,20 @@
               {
                 "roster_id": 6,
                 "team_label": "andrewwelle",
-                "points": 0.0,
+                "points": 88.4,
                 "custom_points": null
               },
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 35.2,
+                "points": 113.8,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 10,
               "team_label": "Goin in Ra",
-              "points": 35.2
+              "points": 113.8
             }
           },
           {
@@ -1582,17 +1582,21 @@
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 0.0,
+                "points": 119.48,
                 "custom_points": null
               },
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 0.0,
+                "points": 100.12,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 7,
+              "team_label": "Commish is a bitch",
+              "points": 119.48
+            }
           },
           {
             "matchup_id": "6",
@@ -1600,20 +1604,20 @@
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 35.4,
+                "points": 100.76,
                 "custom_points": null
               },
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 0.0,
+                "points": 100.12,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 5,
               "team_label": "White Ice",
-              "points": 35.4
+              "points": 100.76
             }
           }
         ],
