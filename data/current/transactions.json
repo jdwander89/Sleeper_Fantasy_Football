@@ -2591,23 +2591,151 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 2,
+          "transaction_id": "1408315915434471424",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1790131188786,
+          "created_at": "2026-09-23T02:39:48.786000Z",
+          "status_updated": 1790147703937,
+          "status_updated_at": "2026-09-23T07:15:03.937000Z",
+          "creator_user_id": "471451909446692864",
+          "roster_ids": [
+            6
+          ],
+          "team_labels": [
+            "andrewwelle"
+          ],
+          "consenter_ids": [
+            6
+          ],
+          "consenter_team_labels": [
+            "andrewwelle"
+          ],
+          "adds": [
+            {
+              "player_id": "5854",
+              "player_name": "Drew Lock",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "12476",
+              "player_name": "Devin Neal",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 0,
+            "waiver_bid": 0
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
         }
       ],
       "counts": {
-        "transactions": 5,
+        "transactions": 6,
         "trades": 0,
-        "waivers": 0,
+        "waivers": 1,
         "free_agent_moves": 5
       }
     },
     "3": {
       "week": 3,
-      "transactions": [],
+      "transactions": [
+        {
+          "week": 3,
+          "transaction_id": "1408458434109554688",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1790165167885,
+          "created_at": "2026-09-23T12:06:07.885000Z",
+          "status_updated": 1790165167885,
+          "status_updated_at": "2026-09-23T12:06:07.885000Z",
+          "creator_user_id": "471501409838166016",
+          "roster_ids": [
+            9
+          ],
+          "team_labels": [
+            "off"
+          ],
+          "consenter_ids": [
+            9
+          ],
+          "consenter_team_labels": [
+            "off"
+          ],
+          "adds": [
+            {
+              "player_id": "8188",
+              "player_name": "Tyquan Thornton",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 3,
+          "transaction_id": "1408458797739003904",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1790165254581,
+          "created_at": "2026-09-23T12:07:34.581000Z",
+          "status_updated": 1790165254581,
+          "status_updated_at": "2026-09-23T12:07:34.581000Z",
+          "creator_user_id": "471501409838166016",
+          "roster_ids": [
+            9
+          ],
+          "team_labels": [
+            "off"
+          ],
+          "consenter_ids": [
+            9
+          ],
+          "consenter_team_labels": [
+            "off"
+          ],
+          "adds": [
+            {
+              "player_id": "3634",
+              "player_name": "Kalif Raymond",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "13272",
+              "player_name": "Carson Beck",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        }
+      ],
       "counts": {
-        "transactions": 0,
+        "transactions": 2,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 0
+        "free_agent_moves": 2
       }
     }
   },
@@ -5189,6 +5317,133 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 2,
+      "transaction_id": "1408315915434471424",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790131188786,
+      "created_at": "2026-09-23T02:39:48.786000Z",
+      "status_updated": 1790147703937,
+      "status_updated_at": "2026-09-23T07:15:03.937000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "5854",
+          "player_name": "Drew Lock",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12476",
+          "player_name": "Devin Neal",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 3,
+      "transaction_id": "1408458434109554688",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790165167885,
+      "created_at": "2026-09-23T12:06:07.885000Z",
+      "status_updated": 1790165167885,
+      "status_updated_at": "2026-09-23T12:06:07.885000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "8188",
+          "player_name": "Tyquan Thornton",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 3,
+      "transaction_id": "1408458797739003904",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790165254581,
+      "created_at": "2026-09-23T12:07:34.581000Z",
+      "status_updated": 1790165254581,
+      "status_updated_at": "2026-09-23T12:07:34.581000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "3634",
+          "player_name": "Kalif Raymond",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13272",
+          "player_name": "Carson Beck",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -5669,6 +5924,54 @@
       },
       "metadata": {
         "notes": "Unfortunately, your roster will have too many players after this transaction."
+      }
+    },
+    {
+      "week": 2,
+      "transaction_id": "1408315915434471424",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790131188786,
+      "created_at": "2026-09-23T02:39:48.786000Z",
+      "status_updated": 1790147703937,
+      "status_updated_at": "2026-09-23T07:15:03.937000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "5854",
+          "player_name": "Drew Lock",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12476",
+          "player_name": "Devin Neal",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
       }
     }
   ],
@@ -7741,22 +8044,101 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 3,
+      "transaction_id": "1408458434109554688",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790165167885,
+      "created_at": "2026-09-23T12:06:07.885000Z",
+      "status_updated": 1790165167885,
+      "status_updated_at": "2026-09-23T12:06:07.885000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "8188",
+          "player_name": "Tyquan Thornton",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 3,
+      "transaction_id": "1408458797739003904",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790165254581,
+      "created_at": "2026-09-23T12:07:34.581000Z",
+      "status_updated": 1790165254581,
+      "status_updated_at": "2026-09-23T12:07:34.581000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "3634",
+          "player_name": "Kalif Raymond",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13272",
+          "player_name": "Carson Beck",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 3,
-    "transactions": 62,
+    "transactions": 65,
     "trades": 5,
-    "waivers": 3,
-    "free_agent_moves": 53,
+    "waivers": 4,
+    "free_agent_moves": 55,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 53,
+      "free_agent": 55,
       "trade": 5,
-      "waiver": 3
+      "waiver": 4
     },
     "by_status": {
-      "complete": 61,
+      "complete": 64,
       "failed": 1
     }
   }

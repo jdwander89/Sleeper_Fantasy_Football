@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-22T15:32:14.756814Z",
+  "generated_at": "2026-09-23T15:28:01.234967Z",
   "counts": {
-    "required_player_ids": 320,
-    "resolved_player_ids": 320,
+    "required_player_ids": 323,
+    "resolved_player_ids": 323,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -106,6 +106,7 @@
       "dontayvion wicks": "9486",
       "drake london": "8112",
       "drake maye": "11564",
+      "drew lock": "5854",
       "dylan sampson": "12469",
       "eli raridon": "13421",
       "eli stowers": "13349",
@@ -196,6 +197,7 @@
       "juwan johnson": "7002",
       "kaelon black": "13414",
       "kaleb johnson": "12504",
+      "kalif raymond": "3634",
       "kareem hunt": "4098",
       "kayshon boutte": "9504",
       "kaytron allen": "13405",
@@ -317,6 +319,7 @@
       "tyler lockett": "2374",
       "tyler shough": "12545",
       "tyler warren": "12518",
+      "tyquan thornton": "8188",
       "tyreek hill": "3321",
       "tyrone tracy": "11655",
       "wan'dale robinson": "8126",
@@ -396,6 +399,7 @@
         "12519",
         "12534",
         "13411",
+        "3634",
         "6790"
       ],
       "CIN": [
@@ -508,7 +512,8 @@
         "13413",
         "1466",
         "4046",
-        "8151"
+        "8151",
+        "8188"
       ],
       "LAC": [
         "11635",
@@ -652,6 +657,7 @@
         "13286",
         "4039",
         "4943",
+        "5854",
         "8676",
         "9488",
         "9753"
@@ -740,6 +746,7 @@
         "4943",
         "4984",
         "5849",
+        "5854",
         "5870",
         "6770",
         "6797",
@@ -982,6 +989,7 @@
         "3200",
         "3286",
         "3321",
+        "3634",
         "4037",
         "4039",
         "4177",
@@ -1026,6 +1034,7 @@
         "8148",
         "8167",
         "8180",
+        "8188",
         "8676",
         "9486",
         "9487",

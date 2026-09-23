@@ -35,7 +35,7 @@
   ],
   "settings": {
     "best_ball": 0,
-    "last_report": 1,
+    "last_report": 2,
     "waiver_budget": 100,
     "disable_adds": 0,
     "capacity_override": 0,
@@ -81,7 +81,7 @@
     "trade_review_days": 0,
     "bench_lock": 1,
     "offseason_adds": 0,
-    "leg": 2,
+    "leg": 3,
     "reserve_slots": 2,
     "reserve_allow_cov": 1,
     "daily_waivers_last_ran": 9
@@ -206,13 +206,13 @@
   },
   "nfl_state": {
     "week": 3,
-    "season_type": "regular",
-    "season": "2026",
     "leg": 3,
+    "season": "2026",
+    "season_type": "regular",
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
-    "display_week": 2,
+    "display_week": 3,
     "league_create_season": "2026",
     "season_has_scores": true
   }
