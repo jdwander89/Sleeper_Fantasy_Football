@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-23T15:28:01.327458Z",
-    "source_snapshot_generated_at": "2026-09-23T15:28:00.004592Z",
+    "generated_at": "2026-09-24T15:50:24.690082Z",
+    "source_snapshot_generated_at": "2026-09-24T15:50:22.491202Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 3,
     "matchups": 18,
     "matchup_roster_results": 36,
-    "required_player_ids": 323,
-    "compact_player_lookup": 323,
+    "required_player_ids": 325,
+    "compact_player_lookup": 325,
     "missing_player_ids": 0,
-    "transactions": 65,
+    "transactions": 67,
     "trades": 5,
     "waivers": 4,
-    "free_agent_moves": 55,
+    "free_agent_moves": 57,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -206,8 +206,8 @@
       },
       "position_counts": {
         "QB": 2,
-        "RB": 8,
-        "TE": 4,
+        "RB": 9,
+        "TE": 3,
         "WR": 11
       },
       "starters": [
@@ -317,9 +317,9 @@
       },
       "position_counts": {
         "QB": 4,
-        "RB": 7,
+        "RB": 8,
         "TE": 3,
-        "WR": 10
+        "WR": 9
       },
       "starters": [
         {
@@ -628,11 +628,11 @@
       },
       "starters": [
         {
-          "player_id": "12508",
-          "name": "Jaxson Dart",
-          "team": "NYG",
+          "player_id": "5854",
+          "name": "Drew Lock",
+          "team": "SEA",
           "position": "QB",
-          "injury_status": "Doubtful"
+          "injury_status": null
         },
         {
           "player_id": "4034",
@@ -670,10 +670,10 @@
           "injury_status": null
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison",
-          "team": "ARI",
-          "position": "WR",
+          "player_id": "12506",
+          "name": "Harold Fannin",
+          "team": "CLE",
+          "position": "TE",
           "injury_status": null
         },
         {
@@ -681,7 +681,7 @@
           "name": "Aaron Jones",
           "team": "MIN",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11834",
@@ -808,7 +808,7 @@
           "name": "Jayden Reed",
           "team": "GB",
           "position": "WR",
-          "injury_status": "Doubtful"
+          "injury_status": "Out"
         },
         {
           "player_id": "8205",
@@ -903,7 +903,7 @@
           "name": "Jalen Coker",
           "team": "CAR",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9500",
@@ -950,8 +950,8 @@
       "counts": {
         "players": 24,
         "starters": 9,
-        "bench": 13,
-        "reserve": 2
+        "bench": 14,
+        "reserve": 1
       },
       "position_counts": {
         "QB": 4,
@@ -1031,13 +1031,6 @@
           "team": "CAR",
           "position": "RB",
           "injury_status": "IR"
-        },
-        {
-          "player_id": "3321",
-          "name": "Tyreek Hill",
-          "team": null,
-          "position": "WR",
-          "injury_status": "Out"
         }
       ]
     },
@@ -1104,7 +1097,7 @@
           "name": "Jakobi Meyers",
           "team": "JAX",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9484",
@@ -1236,7 +1229,7 @@
           "name": "Jaylen Warren",
           "team": "PIT",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7021",
@@ -1333,7 +1326,7 @@
           "name": "Travis Etienne",
           "team": "NO",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12512",
@@ -1769,18 +1762,18 @@
   "transactions": {
     "counts": {
       "weeks": 3,
-      "transactions": 65,
+      "transactions": 67,
       "trades": 5,
       "waivers": 4,
-      "free_agent_moves": 55,
+      "free_agent_moves": 57,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 55,
+        "free_agent": 57,
         "trade": 5,
         "waiver": 4
       },
       "by_status": {
-        "complete": 64,
+        "complete": 66,
         "failed": 1
       }
     },
@@ -1816,10 +1809,10 @@
         "free_agent_moves": 9
       },
       "2": {
-        "transactions": 11,
+        "transactions": 12,
         "trades": 3,
         "waivers": 0,
-        "free_agent_moves": 7
+        "free_agent_moves": 8
       },
       "10": {
         "transactions": 2,
@@ -1828,10 +1821,10 @@
         "free_agent_moves": 1
       },
       "3": {
-        "transactions": 6,
+        "transactions": 7,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 6
+        "free_agent_moves": 7
       },
       "6": {
         "transactions": 3,
@@ -1859,6 +1852,60 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 3,
+        "transaction_id": "1408575083374518272",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-09-23T19:49:39.237000Z",
+        "team_labels": [
+          "A B CeeDee"
+        ],
+        "adds": [
+          {
+            "player_id": "6828",
+            "player_name": "AJ Dillon",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "8127",
+            "player_name": "Charlie Kolar",
+            "roster_id": 2,
+            "team_label": "A B CeeDee"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 3,
+        "transaction_id": "1408558651156803584",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-09-23T18:44:21.492000Z",
+        "team_labels": [
+          "Pol Hol"
+        ],
+        "adds": [
+          {
+            "player_id": "6931",
+            "player_name": "DeeJay Dallas",
+            "roster_id": 3,
+            "team_label": "Pol Hol"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "8147",
+            "player_name": "John Metchie",
+            "roster_id": 3,
+            "team_label": "Pol Hol"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 3,
         "transaction_id": "1408458797739003904",
@@ -2399,53 +2446,6 @@
             "team_label": "gullickson"
           }
         ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1399986800117727232",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-08-31T03:02:52.946000Z",
-        "team_labels": [
-          "gullickson"
-        ],
-        "adds": [
-          {
-            "player_id": "2505",
-            "player_name": "Darren Waller",
-            "roster_id": 12,
-            "team_label": "gullickson"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "3200",
-            "player_name": "Sterling Shepard",
-            "roster_id": 12,
-            "team_label": "gullickson"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1399946171086086144",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-08-31T00:21:26.230000Z",
-        "team_labels": [
-          "Pol Hol"
-        ],
-        "adds": [
-          {
-            "player_id": "4981",
-            "player_name": "Calvin Ridley",
-            "roster_id": 3,
-            "team_label": "Pol Hol"
-          }
-        ],
-        "drops": [],
         "draft_picks": []
       }
     ]

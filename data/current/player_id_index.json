@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-09-23T15:28:01.234967Z",
+  "generated_at": "2026-09-24T15:50:24.610523Z",
   "counts": {
-    "required_player_ids": 323,
-    "resolved_player_ids": 323,
+    "required_player_ids": 325,
+    "resolved_player_ids": 325,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -14,6 +14,7 @@
       "adam randall": "13302",
       "adonai mitchell": "11625",
       "aj barner": "11603",
+      "aj dillon": "6828",
       "alec pierce": "8142",
       "alvin kamara": "4035",
       "amon-ra st. brown": "7547",
@@ -89,6 +90,7 @@
       "de'von achane": "9226",
       "de'zhaun stribling": "13417",
       "deebo samuel": "5872",
+      "deejay dallas": "6931",
       "demarcus robinson": "3286",
       "demario douglas": "9501",
       "demond claiborne": "13347",
@@ -387,6 +389,7 @@
         "12531",
         "13353",
         "2505",
+        "6828",
         "7594",
         "8147",
         "9228"
@@ -571,6 +574,7 @@
         "5844",
         "5849",
         "6794",
+        "6931",
         "7049",
         "8143",
         "8408",
@@ -834,6 +838,8 @@
         "6790",
         "6806",
         "6813",
+        "6828",
+        "6931",
         "7021",
         "7528",
         "7543",
