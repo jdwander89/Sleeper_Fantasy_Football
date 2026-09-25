@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-24T15:50:24.690082Z",
-    "source_snapshot_generated_at": "2026-09-24T15:50:22.491202Z",
+    "generated_at": "2026-09-25T15:50:35.882850Z",
+    "source_snapshot_generated_at": "2026-09-25T15:50:34.719236Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -294,7 +294,7 @@
     },
     {
       "roster_id": 3,
-      "team_label": "Pol Hol",
+      "team_label": "Laporta Potty",
       "owner_user_id": "471415197991432192",
       "record": {
         "wins": 1,
@@ -348,7 +348,7 @@
           "name": "DeVonta Smith",
           "team": "PHI",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "2216",
@@ -771,7 +771,7 @@
           "name": "Malik Nabers",
           "team": "NYG",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12518",
@@ -1021,7 +1021,7 @@
           "name": "RJ Harvey",
           "team": "DEN",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -1093,11 +1093,11 @@
           "injury_status": null
         },
         {
-          "player_id": "5947",
-          "name": "Jakobi Meyers",
-          "team": "JAX",
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "team": "PIT",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "9484",
@@ -1114,11 +1114,11 @@
           "injury_status": null
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
-          "team": "PIT",
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "team": "JAX",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "5927",
@@ -1405,7 +1405,7 @@
             "teams": [
               {
                 "roster_id": 3,
-                "team_label": "Pol Hol",
+                "team_label": "Laporta Potty",
                 "points": 153.66,
                 "custom_points": null
               },
@@ -1552,14 +1552,14 @@
               },
               {
                 "roster_id": 3,
-                "team_label": "Pol Hol",
+                "team_label": "Laporta Potty",
                 "points": 177.58,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 3,
-              "team_label": "Pol Hol",
+              "team_label": "Laporta Potty",
               "points": 177.58
             }
           },
@@ -1644,7 +1644,7 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 0.0,
+                "points": 49.4,
                 "custom_points": null
               },
               {
@@ -1654,7 +1654,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock",
+              "points": 49.4
+            }
           },
           {
             "matchup_id": "2",
@@ -1679,8 +1683,8 @@
             "teams": [
               {
                 "roster_id": 3,
-                "team_label": "Pol Hol",
-                "points": 0.0,
+                "team_label": "Laporta Potty",
+                "points": 35.3,
                 "custom_points": null
               },
               {
@@ -1690,7 +1694,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 3,
+              "team_label": "Laporta Potty",
+              "points": 35.3
+            }
           },
           {
             "matchup_id": "4",
@@ -1704,11 +1712,15 @@
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 0.0,
+                "points": 6.6,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 10,
+              "team_label": "Goin in Ra",
+              "points": 6.6
+            }
           },
           {
             "matchup_id": "5",
@@ -1722,11 +1734,15 @@
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 0.0,
+                "points": 1.5,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 9,
+              "team_label": "off",
+              "points": 1.5
+            }
           },
           {
             "matchup_id": "6",
@@ -1734,7 +1750,7 @@
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 0.0,
+                "points": 22.6,
                 "custom_points": null
               },
               {
@@ -1744,7 +1760,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 7,
+              "team_label": "Commish is a bitch",
+              "points": 22.6
+            }
           }
         ],
         "counts": {
@@ -1886,14 +1906,14 @@
         "status": "complete",
         "created_at": "2026-09-23T18:44:21.492000Z",
         "team_labels": [
-          "Pol Hol"
+          "Laporta Potty"
         ],
         "adds": [
           {
             "player_id": "6931",
             "player_name": "DeeJay Dallas",
             "roster_id": 3,
-            "team_label": "Pol Hol"
+            "team_label": "Laporta Potty"
           }
         ],
         "drops": [
@@ -1901,7 +1921,7 @@
             "player_id": "8147",
             "player_name": "John Metchie",
             "roster_id": 3,
-            "team_label": "Pol Hol"
+            "team_label": "Laporta Potty"
           }
         ],
         "draft_picks": []
@@ -2047,14 +2067,14 @@
         "status": "complete",
         "created_at": "2026-09-16T22:53:02.520000Z",
         "team_labels": [
-          "Pol Hol"
+          "Laporta Potty"
         ],
         "adds": [
           {
             "player_id": "6130",
             "player_name": "Devin Singletary",
             "roster_id": 3,
-            "team_label": "Pol Hol"
+            "team_label": "Laporta Potty"
           }
         ],
         "drops": [
@@ -2062,7 +2082,7 @@
             "player_id": "7528",
             "player_name": "Najee Harris",
             "roster_id": 3,
-            "team_label": "Pol Hol"
+            "team_label": "Laporta Potty"
           }
         ],
         "draft_picks": []
@@ -2267,14 +2287,14 @@
         "status": "complete",
         "created_at": "2026-09-07T21:27:49.579000Z",
         "team_labels": [
-          "Pol Hol"
+          "Laporta Potty"
         ],
         "adds": [
           {
             "player_id": "9501",
             "player_name": "DeMario Douglas",
             "roster_id": 3,
-            "team_label": "Pol Hol"
+            "team_label": "Laporta Potty"
           }
         ],
         "drops": [
@@ -2282,7 +2302,7 @@
             "player_id": "6149",
             "player_name": "Darius Slayton",
             "roster_id": 3,
-            "team_label": "Pol Hol"
+            "team_label": "Laporta Potty"
           }
         ],
         "draft_picks": []
@@ -2540,7 +2560,7 @@
           {
             "pick_no": 11,
             "roster_id": 3,
-            "team_label": "Pol Hol",
+            "team_label": "Laporta Potty",
             "player_id": "13269",
             "player_name": "Fernando Mendoza"
           },

@@ -171,19 +171,19 @@
   {
     "roster_id": 3,
     "owner_user_id": "471415197991432192",
-    "team_name": "Pol Hol",
-    "display_label": "Pol Hol",
+    "team_name": "Laporta Potty",
+    "display_label": "Laporta Potty",
     "owner": {
       "user_id": "471415197991432192",
       "username": null,
       "display_name": "GarrettHol",
-      "team_name": "Pol Hol",
+      "team_name": "Laporta Potty",
       "is_owner": false,
       "metadata": {
         "allow_pn": "on",
         "allow_sms": "on",
         "mention_pn": "on",
-        "team_name": "Pol Hol"
+        "team_name": "Laporta Potty"
       }
     },
     "record": {
