@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-25T15:50:35.882850Z",
-    "source_snapshot_generated_at": "2026-09-25T15:50:34.719236Z",
+    "generated_at": "2026-09-26T14:59:11.973233Z",
+    "source_snapshot_generated_at": "2026-09-26T14:59:10.821589Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -453,7 +453,7 @@
           "name": "Puka Nacua",
           "team": "LAR",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": "Doubtful"
         },
         {
           "player_id": "12519",
@@ -681,7 +681,7 @@
           "name": "Aaron Jones",
           "team": "MIN",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11834",
@@ -1118,7 +1118,7 @@
           "name": "Jakobi Meyers",
           "team": "JAX",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5927",
@@ -1211,11 +1211,11 @@
           "injury_status": null
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
-          "team": "NE",
+          "player_id": "11604",
+          "name": "Brock Bowers",
+          "team": "LV",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "2133",
@@ -1232,11 +1232,11 @@
           "injury_status": "Questionable"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "team": "PIT",
-          "position": "RB",
-          "injury_status": "Questionable"
+          "player_id": "5045",
+          "name": "Courtland Sutton",
+          "team": "DEN",
+          "position": "WR",
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -1291,7 +1291,7 @@
           "name": "Saquon Barkley",
           "team": "PHI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "13287",
@@ -1326,7 +1326,7 @@
           "name": "Travis Etienne",
           "team": "NO",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12512",
