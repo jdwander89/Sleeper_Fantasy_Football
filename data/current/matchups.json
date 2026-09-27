@@ -3935,7 +3935,6 @@
             "11576",
             "11624",
             "11643",
-            "12455",
             "12498",
             "12501",
             "12522",
@@ -3950,6 +3949,7 @@
             "13349",
             "13402",
             "13421",
+            "13423",
             "7523",
             "8112",
             "8136",
@@ -3971,7 +3971,6 @@
             "11566",
             "11576",
             "11643",
-            "12455",
             "12498",
             "12522",
             "12544",
@@ -3983,6 +3982,7 @@
             "13349",
             "13402",
             "13421",
+            "13423",
             "8136"
           ],
           "players_points": {
@@ -3991,7 +3991,6 @@
             "11576": 0.0,
             "11624": 0.0,
             "11643": 0.0,
-            "12455": 0.0,
             "12498": 0.0,
             "12501": 21.0,
             "12522": 0.0,
@@ -4006,6 +4005,7 @@
             "13349": 0.0,
             "13402": 0.0,
             "13421": 0.0,
+            "13423": 0.0,
             "7523": 0.0,
             "8112": 28.4,
             "8136": 0.0,
@@ -4020,7 +4020,6 @@
               "Braelon Allen",
               "Xavier Worthy",
               "Jaylen Wright",
-              "Brashard Smith",
               "Mason Taylor",
               "Matthew Golden",
               "Cam Ward",
@@ -4035,6 +4034,7 @@
               "Eli Stowers",
               "Skyler Bell",
               "Eli Raridon",
+              "Eli Heidenreich",
               "Trevor Lawrence",
               "Drake London",
               "Rachaad White",
@@ -4056,7 +4056,6 @@
               "Jayden Daniels",
               "Braelon Allen",
               "Jaylen Wright",
-              "Brashard Smith",
               "Mason Taylor",
               "Cam Ward",
               "LeQuint Allen",
@@ -4068,6 +4067,7 @@
               "Eli Stowers",
               "Skyler Bell",
               "Eli Raridon",
+              "Eli Heidenreich",
               "Rachaad White"
             ]
           }
@@ -4547,12 +4547,11 @@
             "8148",
             "8137",
             "5001",
-            "4177",
+            "10213",
             "11586",
             "8134"
           ],
           "bench": [
-            "10213",
             "11560",
             "11589",
             "11620",
@@ -4562,6 +4561,7 @@
             "12499",
             "13288",
             "13317",
+            "4177",
             "7002",
             "7049",
             "7569",
@@ -4629,12 +4629,11 @@
               "Jameson Williams",
               "George Pickens",
               "Dalton Schultz",
-              "Mack Hollins",
+              "Tre Tucker",
               "Blake Corum",
               "Khalil Shakir"
             ],
             "bench": [
-              "Tre Tucker",
               "Caleb Williams",
               "Trey Benson",
               "Rome Odunze",
@@ -4644,6 +4643,7 @@
               "Elic Ayomanor",
               "Nicholas Singleton",
               "Ted Hurst",
+              "Mack Hollins",
               "Juwan Johnson",
               "Jauan Jennings",
               "Nico Collins",
@@ -4661,9 +4661,9 @@
           "custom_points": null,
           "players": [
             "11571",
-            "11627",
             "11628",
             "11638",
+            "1166",
             "11834",
             "12483",
             "12506",
@@ -4687,7 +4687,7 @@
             "8146"
           ],
           "starters": [
-            "5854",
+            "1166",
             "4034",
             "12527",
             "8146",
@@ -4699,7 +4699,6 @@
           ],
           "bench": [
             "11571",
-            "11627",
             "11628",
             "11638",
             "12483",
@@ -4712,14 +4711,15 @@
             "1479",
             "2374",
             "4137",
+            "5854",
             "6803",
             "6806"
           ],
           "players_points": {
             "11571": 0.0,
-            "11627": 0.0,
             "11628": 0.0,
             "11638": 0.0,
+            "1166": 0.0,
             "11834": 0.0,
             "12483": 0.0,
             "12506": 0.0,
@@ -4746,9 +4746,9 @@
           "display": {
             "players": [
               "Isaiah Davis",
-              "Troy Franklin",
               "Marvin Harrison",
               "Ricky Pearsall",
+              "Kirk Cousins",
               "Devaughn Vele",
               "Jack Bech",
               "Harold Fannin",
@@ -4772,7 +4772,7 @@
               "Garrett Wilson"
             ],
             "starters": [
-              "Drew Lock",
+              "Kirk Cousins",
               "Christian McCaffrey",
               "Ashton Jeanty",
               "Garrett Wilson",
@@ -4784,7 +4784,6 @@
             ],
             "bench": [
               "Isaiah Davis",
-              "Troy Franklin",
               "Marvin Harrison",
               "Ricky Pearsall",
               "Jack Bech",
@@ -4797,6 +4796,7 @@
               "Keenan Allen",
               "Tyler Lockett",
               "James Conner",
+              "Drew Lock",
               "Brandon Aiyuk",
               "J.K. Dobbins"
             ]
@@ -5434,7 +5434,7 @@
             "11604",
             "2133",
             "8228",
-            "5045"
+            "3214"
           ],
           "bench": [
             "11563",
@@ -5445,9 +5445,9 @@
             "13320",
             "13411",
             "13424",
-            "3214",
             "4039",
             "4147",
+            "5045",
             "6039",
             "7021",
             "9228",
@@ -5516,7 +5516,7 @@
               "Brock Bowers",
               "Davante Adams",
               "Jaylen Warren",
-              "Courtland Sutton"
+              "Hunter Henry"
             ],
             "bench": [
               "Bo Nix",
@@ -5527,9 +5527,9 @@
               "Zachariah Branch",
               "Zavion Thomas",
               "Seth McGowan",
-              "Hunter Henry",
               "Cooper Kupp",
               "Samaje Perine",
+              "Courtland Sutton",
               "Ty Johnson",
               "Rico Dowdle",
               "Bryce Young",

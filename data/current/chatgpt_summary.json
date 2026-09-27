@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-26T14:59:11.973233Z",
-    "source_snapshot_generated_at": "2026-09-26T14:59:10.821589Z",
+    "generated_at": "2026-09-27T15:40:55.399844Z",
+    "source_snapshot_generated_at": "2026-09-27T15:40:53.162068Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 3,
     "matchups": 18,
     "matchup_roster_results": 36,
-    "required_player_ids": 325,
-    "compact_player_lookup": 325,
+    "required_player_ids": 327,
+    "compact_player_lookup": 327,
     "missing_player_ids": 0,
-    "transactions": 67,
+    "transactions": 69,
     "trades": 5,
     "waivers": 4,
-    "free_agent_moves": 57,
+    "free_agent_moves": 59,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -348,7 +348,7 @@
           "name": "DeVonta Smith",
           "team": "PHI",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "2216",
@@ -566,9 +566,9 @@
           "injury_status": null
         },
         {
-          "player_id": "4177",
-          "name": "Mack Hollins",
-          "team": "NE",
+          "player_id": "10213",
+          "name": "Tre Tucker",
+          "team": "LV",
           "position": "WR",
           "injury_status": null
         },
@@ -621,16 +621,16 @@
         "reserve": 2
       },
       "position_counts": {
-        "QB": 3,
+        "QB": 4,
         "RB": 7,
         "TE": 2,
-        "WR": 13
+        "WR": 12
       },
       "starters": [
         {
-          "player_id": "5854",
-          "name": "Drew Lock",
-          "team": "SEA",
+          "player_id": "1166",
+          "name": "Kirk Cousins",
+          "team": "LV",
           "position": "QB",
           "injury_status": null
         },
@@ -1232,10 +1232,10 @@
           "injury_status": "Questionable"
         },
         {
-          "player_id": "5045",
-          "name": "Courtland Sutton",
-          "team": "DEN",
-          "position": "WR",
+          "player_id": "3214",
+          "name": "Hunter Henry",
+          "team": "NE",
+          "position": "TE",
           "injury_status": null
         }
       ],
@@ -1782,18 +1782,18 @@
   "transactions": {
     "counts": {
       "weeks": 3,
-      "transactions": 67,
+      "transactions": 69,
       "trades": 5,
       "waivers": 4,
-      "free_agent_moves": 57,
+      "free_agent_moves": 59,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 57,
+        "free_agent": 59,
         "trade": 5,
         "waiver": 4
       },
       "by_status": {
-        "complete": 66,
+        "complete": 68,
         "failed": 1
       }
     },
@@ -1817,10 +1817,10 @@
         "free_agent_moves": 6
       },
       "1": {
-        "transactions": 11,
+        "transactions": 12,
         "trades": 2,
         "waivers": 0,
-        "free_agent_moves": 9
+        "free_agent_moves": 10
       },
       "11": {
         "transactions": 12,
@@ -1847,10 +1847,10 @@
         "free_agent_moves": 7
       },
       "6": {
-        "transactions": 3,
+        "transactions": 4,
         "trades": 0,
         "waivers": 1,
-        "free_agent_moves": 2
+        "free_agent_moves": 3
       },
       "4": {
         "transactions": 1,
@@ -1872,6 +1872,60 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 3,
+        "transaction_id": "1409761418353364992",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-09-27T02:23:43.537000Z",
+        "team_labels": [
+          "andrewwelle"
+        ],
+        "adds": [
+          {
+            "player_id": "1166",
+            "player_name": "Kirk Cousins",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "11627",
+            "player_name": "Troy Franklin",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 3,
+        "transaction_id": "1409760920565018624",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-09-27T02:21:44.856000Z",
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "13423",
+            "player_name": "Eli Heidenreich",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "12455",
+            "player_name": "Brashard Smith",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 3,
         "transaction_id": "1408575083374518272",
@@ -2419,53 +2473,6 @@
           }
         ],
         "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1400155458991296512",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-08-31T14:13:04.356000Z",
-        "team_labels": [
-          "It’s Herbie Hancock"
-        ],
-        "adds": [
-          {
-            "player_id": "12455",
-            "player_name": "Brashard Smith",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 1,
-        "transaction_id": "1399986883143946240",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-08-31T03:03:12.741000Z",
-        "team_labels": [
-          "gullickson"
-        ],
-        "adds": [
-          {
-            "player_id": "11237",
-            "player_name": "Jacob Saylors",
-            "roster_id": 12,
-            "team_label": "gullickson"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "4219",
-            "player_name": "Jeremy McNichols",
-            "roster_id": 12,
-            "team_label": "gullickson"
-          }
-        ],
         "draft_picks": []
       }
     ]

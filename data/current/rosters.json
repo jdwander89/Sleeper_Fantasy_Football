@@ -8,7 +8,6 @@
       "11576",
       "11624",
       "11643",
-      "12455",
       "12498",
       "12501",
       "12522",
@@ -23,6 +22,7 @@
       "13349",
       "13402",
       "13421",
+      "13423",
       "7523",
       "8112",
       "8136",
@@ -44,7 +44,6 @@
       "11566",
       "11576",
       "11643",
-      "12455",
       "12498",
       "12522",
       "12544",
@@ -54,6 +53,7 @@
       "13349",
       "13402",
       "13421",
+      "13423",
       "8136"
     ],
     "reserve": [
@@ -73,7 +73,6 @@
         "Braelon Allen",
         "Xavier Worthy",
         "Jaylen Wright",
-        "Brashard Smith",
         "Mason Taylor",
         "Matthew Golden",
         "Cam Ward",
@@ -88,6 +87,7 @@
         "Eli Stowers",
         "Skyler Bell",
         "Eli Raridon",
+        "Eli Heidenreich",
         "Trevor Lawrence",
         "Drake London",
         "Rachaad White",
@@ -109,7 +109,6 @@
         "Jayden Daniels",
         "Braelon Allen",
         "Jaylen Wright",
-        "Brashard Smith",
         "Mason Taylor",
         "Cam Ward",
         "LeQuint Allen",
@@ -119,6 +118,7 @@
         "Eli Stowers",
         "Skyler Bell",
         "Eli Raridon",
+        "Eli Heidenreich",
         "Rachaad White"
       ],
       "reserve": [
@@ -615,12 +615,11 @@
       "8148",
       "8137",
       "5001",
-      "4177",
+      "10213",
       "11586",
       "8134"
     ],
     "bench": [
-      "10213",
       "11560",
       "11620",
       "11625",
@@ -629,6 +628,7 @@
       "12499",
       "13288",
       "13317",
+      "4177",
       "7002",
       "7049",
       "7569",
@@ -678,12 +678,11 @@
         "Jameson Williams",
         "George Pickens",
         "Dalton Schultz",
-        "Mack Hollins",
+        "Tre Tucker",
         "Blake Corum",
         "Khalil Shakir"
       ],
       "bench": [
-        "Tre Tucker",
         "Caleb Williams",
         "Rome Odunze",
         "Adonai Mitchell",
@@ -692,6 +691,7 @@
         "Elic Ayomanor",
         "Nicholas Singleton",
         "Ted Hurst",
+        "Mack Hollins",
         "Juwan Johnson",
         "Jauan Jennings",
         "Nico Collins",
@@ -727,9 +727,9 @@
     "owner_user_id": "471451909446692864",
     "players": [
       "11571",
-      "11627",
       "11628",
       "11638",
+      "1166",
       "11834",
       "12483",
       "12506",
@@ -753,7 +753,7 @@
       "8146"
     ],
     "starters": [
-      "5854",
+      "1166",
       "4034",
       "12527",
       "8146",
@@ -765,7 +765,6 @@
     ],
     "bench": [
       "11571",
-      "11627",
       "11628",
       "12483",
       "12508",
@@ -776,6 +775,7 @@
       "1479",
       "2374",
       "4137",
+      "5854",
       "6803",
       "6806"
     ],
@@ -792,9 +792,9 @@
     "display": {
       "players": [
         "Isaiah Davis",
-        "Troy Franklin",
         "Marvin Harrison",
         "Ricky Pearsall",
+        "Kirk Cousins",
         "Devaughn Vele",
         "Jack Bech",
         "Harold Fannin",
@@ -818,7 +818,7 @@
         "Garrett Wilson"
       ],
       "starters": [
-        "Drew Lock",
+        "Kirk Cousins",
         "Christian McCaffrey",
         "Ashton Jeanty",
         "Garrett Wilson",
@@ -830,7 +830,6 @@
       ],
       "bench": [
         "Isaiah Davis",
-        "Troy Franklin",
         "Marvin Harrison",
         "Jack Bech",
         "Jaxson Dart",
@@ -841,6 +840,7 @@
         "Keenan Allen",
         "Tyler Lockett",
         "James Conner",
+        "Drew Lock",
         "Brandon Aiyuk",
         "J.K. Dobbins"
       ],
@@ -1494,7 +1494,7 @@
       "11604",
       "2133",
       "8228",
-      "5045"
+      "3214"
     ],
     "bench": [
       "11563",
@@ -1504,9 +1504,9 @@
       "13320",
       "13411",
       "13424",
-      "3214",
       "4039",
       "4147",
+      "5045",
       "6039",
       "7021",
       "9228",
@@ -1557,7 +1557,7 @@
         "Brock Bowers",
         "Davante Adams",
         "Jaylen Warren",
-        "Courtland Sutton"
+        "Hunter Henry"
       ],
       "bench": [
         "Bo Nix",
@@ -1567,9 +1567,9 @@
         "Zachariah Branch",
         "Zavion Thomas",
         "Seth McGowan",
-        "Hunter Henry",
         "Cooper Kupp",
         "Samaje Perine",
+        "Courtland Sutton",
         "Ty Johnson",
         "Rico Dowdle",
         "Bryce Young",
