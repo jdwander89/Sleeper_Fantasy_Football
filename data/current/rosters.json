@@ -335,12 +335,13 @@
       "10859",
       "11584",
       "8110",
-      "2449"
+      "8121"
     ],
     "bench": [
       "11655",
       "13268",
       "13269",
+      "2449",
       "4066",
       "4981",
       "5995",
@@ -348,7 +349,6 @@
       "6804",
       "6819",
       "6931",
-      "8121",
       "8161",
       "9501",
       "9506"
@@ -398,12 +398,13 @@
         "Sam LaPorta",
         "Bucky Irving",
         "Jake Ferguson",
-        "Stefon Diggs"
+        "Romeo Doubs"
       ],
       "bench": [
         "Tyrone Tracy",
         "Elijah Sarratt",
         "Fernando Mendoza",
+        "Stefon Diggs",
         "Evan Engram",
         "Calvin Ridley",
         "Justice Hill",
@@ -411,7 +412,6 @@
         "Jordan Love",
         "Michael Pittman",
         "DeeJay Dallas",
-        "Romeo Doubs",
         "Malik Willis",
         "DeMario Douglas",
         "Sean Tucker"
@@ -472,7 +472,7 @@
       "8183",
       "8155",
       "7594",
-      "9493",
+      "7571",
       "12519",
       "9480",
       "13279",
@@ -490,10 +490,10 @@
       "4035",
       "5870",
       "5967",
-      "7571",
       "8111",
       "8132",
-      "8698"
+      "8698",
+      "9493"
     ],
     "reserve": [],
     "taxi": [],
@@ -532,7 +532,7 @@
         "Brock Purdy",
         "Breece Hall",
         "Chuba Hubbard",
-        "Puka Nacua",
+        "Rashod Bateman",
         "Luther Burden",
         "Brenton Strange",
         "Carnell Tate",
@@ -550,10 +550,10 @@
         "Alvin Kamara",
         "Daniel Jones",
         "Tony Pollard",
-        "Rashod Bateman",
         "Cade Otton",
         "Tyler Allgeier",
-        "Jake Tonges"
+        "Jake Tonges",
+        "Puka Nacua"
       ],
       "reserve": [],
       "taxi": []
@@ -1494,7 +1494,7 @@
       "11604",
       "2133",
       "8228",
-      "3214"
+      "5045"
     ],
     "bench": [
       "11563",
@@ -1504,9 +1504,9 @@
       "13320",
       "13411",
       "13424",
+      "3214",
       "4039",
       "4147",
-      "5045",
       "6039",
       "7021",
       "9228",
@@ -1557,7 +1557,7 @@
         "Brock Bowers",
         "Davante Adams",
         "Jaylen Warren",
-        "Hunter Henry"
+        "Courtland Sutton"
       ],
       "bench": [
         "Bo Nix",
@@ -1567,9 +1567,9 @@
         "Zachariah Branch",
         "Zavion Thomas",
         "Seth McGowan",
+        "Hunter Henry",
         "Cooper Kupp",
         "Samaje Perine",
-        "Courtland Sutton",
         "Ty Johnson",
         "Rico Dowdle",
         "Bryce Young",

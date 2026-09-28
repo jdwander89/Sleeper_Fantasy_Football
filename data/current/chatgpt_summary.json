@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-09-27T15:40:55.399844Z",
-    "source_snapshot_generated_at": "2026-09-27T15:40:53.162068Z",
+    "generated_at": "2026-09-28T18:37:26.755951Z",
+    "source_snapshot_generated_at": "2026-09-28T18:37:25.035846Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -355,7 +355,7 @@
           "name": "Mike Evans",
           "team": "SF",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "10859",
@@ -379,9 +379,9 @@
           "injury_status": null
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
-          "team": "WAS",
+          "player_id": "8121",
+          "name": "Romeo Doubs",
+          "team": "NE",
           "position": "WR",
           "injury_status": null
         }
@@ -439,7 +439,7 @@
           "name": "Breece Hall",
           "team": "NYJ",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "7594",
@@ -449,11 +449,11 @@
           "injury_status": null
         },
         {
-          "player_id": "9493",
-          "name": "Puka Nacua",
-          "team": "LAR",
+          "player_id": "7571",
+          "name": "Rashod Bateman",
+          "team": "BAL",
           "position": "WR",
-          "injury_status": "Doubtful"
+          "injury_status": null
         },
         {
           "player_id": "12519",
@@ -875,7 +875,7 @@
           "name": "Justin Jefferson",
           "team": "MIN",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "12514",
@@ -903,7 +903,7 @@
           "name": "Jalen Coker",
           "team": "CAR",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "9500",
@@ -972,7 +972,7 @@
           "name": "De'Von Achane",
           "team": "MIA",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "12507",
@@ -1021,7 +1021,7 @@
           "name": "RJ Harvey",
           "team": "DEN",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -1215,7 +1215,7 @@
           "name": "Brock Bowers",
           "team": "LV",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "2133",
@@ -1229,13 +1229,13 @@
           "name": "Jaylen Warren",
           "team": "PIT",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
-          "team": "NE",
-          "position": "TE",
+          "player_id": "5045",
+          "name": "Courtland Sutton",
+          "team": "DEN",
+          "position": "WR",
           "injury_status": null
         }
       ],
@@ -1312,21 +1312,21 @@
           "name": "Zay Flowers",
           "team": "BAL",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5012",
           "name": "Mark Andrews",
           "team": "BAL",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7543",
           "name": "Travis Etienne",
           "team": "NO",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12512",
@@ -1340,7 +1340,7 @@
           "name": "DJ Moore",
           "team": "BUF",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": []
@@ -1644,20 +1644,20 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 49.4,
+                "points": 109.28,
                 "custom_points": null
               },
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 0.0,
+                "points": 85.78,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 1,
               "team_label": "It’s Herbie Hancock",
-              "points": 49.4
+              "points": 109.28
             }
           },
           {
@@ -1666,17 +1666,21 @@
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 0.0,
+                "points": 150.76,
                 "custom_points": null
               },
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 0.0,
+                "points": 106.48,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 11,
+              "team_label": "MOJO",
+              "points": 150.76
+            }
           },
           {
             "matchup_id": "3",
@@ -1684,20 +1688,20 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 35.3,
+                "points": 104.24,
                 "custom_points": null
               },
               {
                 "roster_id": 6,
                 "team_label": "andrewwelle",
-                "points": 0.0,
+                "points": 168.62,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 3,
-              "team_label": "Laporta Potty",
-              "points": 35.3
+              "roster_id": 6,
+              "team_label": "andrewwelle",
+              "points": 168.62
             }
           },
           {
@@ -1706,20 +1710,20 @@
               {
                 "roster_id": 2,
                 "team_label": "A B CeeDee",
-                "points": 0.0,
+                "points": 81.6,
                 "custom_points": null
               },
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 6.6,
+                "points": 129.04,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 10,
               "team_label": "Goin in Ra",
-              "points": 6.6
+              "points": 129.04
             }
           },
           {
@@ -1728,20 +1732,20 @@
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 0.0,
+                "points": 112.74,
                 "custom_points": null
               },
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 1.5,
+                "points": 90.22,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 9,
-              "team_label": "off",
-              "points": 1.5
+              "roster_id": 5,
+              "team_label": "White Ice",
+              "points": 112.74
             }
           },
           {
@@ -1750,20 +1754,20 @@
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 22.6,
+                "points": 120.76,
                 "custom_points": null
               },
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 0.0,
+                "points": 101.06,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 7,
               "team_label": "Commish is a bitch",
-              "points": 22.6
+              "points": 120.76
             }
           }
         ],
