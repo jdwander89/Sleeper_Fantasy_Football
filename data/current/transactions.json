@@ -2909,6 +2909,16 @@
         "waivers": 0,
         "free_agent_moves": 6
       }
+    },
+    "4": {
+      "week": 4,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
+      }
     }
   },
   "all": [
@@ -8642,7 +8652,7 @@
     }
   ],
   "counts": {
-    "weeks": 3,
+    "weeks": 4,
     "transactions": 69,
     "trades": 5,
     "waivers": 4,

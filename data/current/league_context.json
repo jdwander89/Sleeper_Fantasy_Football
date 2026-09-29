@@ -35,7 +35,7 @@
   ],
   "settings": {
     "best_ball": 0,
-    "last_report": 2,
+    "last_report": 3,
     "waiver_budget": 100,
     "disable_adds": 0,
     "capacity_override": 0,
@@ -52,7 +52,7 @@
     "playoff_type": 1,
     "taxi_slots": 0,
     "sub_start_time_eligibility": 0,
-    "last_scored_leg": 2,
+    "last_scored_leg": 3,
     "daily_waivers_days": 1093,
     "sub_lock_if_starter_active": 0,
     "playoff_week_start": 15,
@@ -205,8 +205,8 @@
     "st_ff": 1.0
   },
   "nfl_state": {
-    "week": 3,
-    "leg": 3,
+    "week": 4,
+    "leg": 4,
     "season": "2026",
     "season_type": "regular",
     "league_season": "2026",
