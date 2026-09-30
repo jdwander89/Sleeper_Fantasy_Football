@@ -2901,23 +2901,279 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 3,
+          "transaction_id": "1410638774588768256",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1790685001564,
+          "created_at": "2026-09-29T12:30:01.564000Z",
+          "status_updated": 1790752516906,
+          "status_updated_at": "2026-09-30T07:15:16.906000Z",
+          "creator_user_id": "471717089472671744",
+          "roster_ids": [
+            10
+          ],
+          "team_labels": [
+            "Goin in Ra"
+          ],
+          "consenter_ids": [
+            10
+          ],
+          "consenter_team_labels": [
+            "Goin in Ra"
+          ],
+          "adds": [
+            {
+              "player_id": "3271",
+              "player_name": "Tyler Higbee",
+              "roster_id": 10,
+              "team_label": "Goin in Ra"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 1,
+            "waiver_bid": 11
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 3,
+          "transaction_id": "1410648238440116224",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1790687257922,
+          "created_at": "2026-09-29T13:07:37.922000Z",
+          "status_updated": 1790752516906,
+          "status_updated_at": "2026-09-30T07:15:16.906000Z",
+          "creator_user_id": "471501409838166016",
+          "roster_ids": [
+            9
+          ],
+          "team_labels": [
+            "off"
+          ],
+          "consenter_ids": [
+            9
+          ],
+          "consenter_team_labels": [
+            "off"
+          ],
+          "adds": [
+            {
+              "player_id": "7528",
+              "player_name": "Najee Harris",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 3,
+            "waiver_bid": 0
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 3,
+          "transaction_id": "1410683834957156352",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1790695744794,
+          "created_at": "2026-09-29T15:29:04.794000Z",
+          "status_updated": 1790752516906,
+          "status_updated_at": "2026-09-30T07:15:16.906000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [
+            {
+              "player_id": "13425",
+              "player_name": "Jalon Daniels",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "13423",
+              "player_name": "Eli Heidenreich",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 4,
+            "waiver_bid": 0
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 3,
+          "transaction_id": "1410831353800392704",
+          "type": "waiver",
+          "status": "failed",
+          "created": 1790730916026,
+          "created_at": "2026-09-30T01:15:16.026000Z",
+          "status_updated": 1790752516906,
+          "status_updated_at": "2026-09-30T07:15:16.906000Z",
+          "creator_user_id": "471424563457028096",
+          "roster_ids": [
+            5
+          ],
+          "team_labels": [
+            "White Ice"
+          ],
+          "consenter_ids": [
+            5
+          ],
+          "consenter_team_labels": [
+            "White Ice"
+          ],
+          "adds": [
+            {
+              "player_id": "3271",
+              "player_name": "Tyler Higbee",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 2,
+            "waiver_bid": 3
+          },
+          "metadata": {
+            "notes": "This player was claimed by another owner."
+          }
+        },
+        {
+          "week": 3,
+          "transaction_id": "1410836831330635776",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1790732221972,
+          "created_at": "2026-09-30T01:37:01.972000Z",
+          "status_updated": 1790752516906,
+          "status_updated_at": "2026-09-30T07:15:16.906000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "9757",
+              "player_name": "Kendre Miller",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 0,
+            "waiver_bid": 30
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
         }
       ],
       "counts": {
-        "transactions": 6,
+        "transactions": 11,
         "trades": 0,
-        "waivers": 0,
+        "waivers": 5,
         "free_agent_moves": 6
       }
     },
     "4": {
       "week": 4,
-      "transactions": [],
+      "transactions": [
+        {
+          "week": 4,
+          "transaction_id": "1410984276006117376",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1790767375521,
+          "created_at": "2026-09-30T11:22:55.521000Z",
+          "status_updated": 1790767375521,
+          "status_updated_at": "2026-09-30T11:22:55.521000Z",
+          "creator_user_id": "459751268567478272",
+          "roster_ids": [
+            7
+          ],
+          "team_labels": [
+            "Commish is a bitch"
+          ],
+          "consenter_ids": [
+            7
+          ],
+          "consenter_team_labels": [
+            "Commish is a bitch"
+          ],
+          "adds": [
+            {
+              "player_id": "13277",
+              "player_name": "CJ Donaldson",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "3286",
+              "player_name": "Demarcus Robinson",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        }
+      ],
       "counts": {
-        "transactions": 0,
+        "transactions": 1,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 0
+        "free_agent_moves": 1
       }
     }
   },
@@ -5798,6 +6054,261 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 3,
+      "transaction_id": "1410638774588768256",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790685001564,
+      "created_at": "2026-09-29T12:30:01.564000Z",
+      "status_updated": 1790752516906,
+      "status_updated_at": "2026-09-30T07:15:16.906000Z",
+      "creator_user_id": "471717089472671744",
+      "roster_ids": [
+        10
+      ],
+      "team_labels": [
+        "Goin in Ra"
+      ],
+      "consenter_ids": [
+        10
+      ],
+      "consenter_team_labels": [
+        "Goin in Ra"
+      ],
+      "adds": [
+        {
+          "player_id": "3271",
+          "player_name": "Tyler Higbee",
+          "roster_id": 10,
+          "team_label": "Goin in Ra"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 11
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 3,
+      "transaction_id": "1410648238440116224",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790687257922,
+      "created_at": "2026-09-29T13:07:37.922000Z",
+      "status_updated": 1790752516906,
+      "status_updated_at": "2026-09-30T07:15:16.906000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "7528",
+          "player_name": "Najee Harris",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 3,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 3,
+      "transaction_id": "1410683834957156352",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790695744794,
+      "created_at": "2026-09-29T15:29:04.794000Z",
+      "status_updated": 1790752516906,
+      "status_updated_at": "2026-09-30T07:15:16.906000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "13425",
+          "player_name": "Jalon Daniels",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13423",
+          "player_name": "Eli Heidenreich",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 4,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 3,
+      "transaction_id": "1410831353800392704",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1790730916026,
+      "created_at": "2026-09-30T01:15:16.026000Z",
+      "status_updated": 1790752516906,
+      "status_updated_at": "2026-09-30T07:15:16.906000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "3271",
+          "player_name": "Tyler Higbee",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 2,
+        "waiver_bid": 3
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 3,
+      "transaction_id": "1410836831330635776",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790732221972,
+      "created_at": "2026-09-30T01:37:01.972000Z",
+      "status_updated": 1790752516906,
+      "status_updated_at": "2026-09-30T07:15:16.906000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "9757",
+          "player_name": "Kendre Miller",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 30
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 4,
+      "transaction_id": "1410984276006117376",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790767375521,
+      "created_at": "2026-09-30T11:22:55.521000Z",
+      "status_updated": 1790767375521,
+      "status_updated_at": "2026-09-30T11:22:55.521000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "13277",
+          "player_name": "CJ Donaldson",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "3286",
+          "player_name": "Demarcus Robinson",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -6323,6 +6834,218 @@
       "settings": {
         "seq": 0,
         "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 3,
+      "transaction_id": "1410638774588768256",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790685001564,
+      "created_at": "2026-09-29T12:30:01.564000Z",
+      "status_updated": 1790752516906,
+      "status_updated_at": "2026-09-30T07:15:16.906000Z",
+      "creator_user_id": "471717089472671744",
+      "roster_ids": [
+        10
+      ],
+      "team_labels": [
+        "Goin in Ra"
+      ],
+      "consenter_ids": [
+        10
+      ],
+      "consenter_team_labels": [
+        "Goin in Ra"
+      ],
+      "adds": [
+        {
+          "player_id": "3271",
+          "player_name": "Tyler Higbee",
+          "roster_id": 10,
+          "team_label": "Goin in Ra"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 11
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 3,
+      "transaction_id": "1410648238440116224",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790687257922,
+      "created_at": "2026-09-29T13:07:37.922000Z",
+      "status_updated": 1790752516906,
+      "status_updated_at": "2026-09-30T07:15:16.906000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "7528",
+          "player_name": "Najee Harris",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 3,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 3,
+      "transaction_id": "1410683834957156352",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790695744794,
+      "created_at": "2026-09-29T15:29:04.794000Z",
+      "status_updated": 1790752516906,
+      "status_updated_at": "2026-09-30T07:15:16.906000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "13425",
+          "player_name": "Jalon Daniels",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13423",
+          "player_name": "Eli Heidenreich",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 4,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 3,
+      "transaction_id": "1410831353800392704",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1790730916026,
+      "created_at": "2026-09-30T01:15:16.026000Z",
+      "status_updated": 1790752516906,
+      "status_updated_at": "2026-09-30T07:15:16.906000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "3271",
+          "player_name": "Tyler Higbee",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 2,
+        "waiver_bid": 3
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 3,
+      "transaction_id": "1410836831330635776",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1790732221972,
+      "created_at": "2026-09-30T01:37:01.972000Z",
+      "status_updated": 1790752516906,
+      "status_updated_at": "2026-09-30T07:15:16.906000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "9757",
+          "player_name": "Kendre Miller",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 30
       },
       "metadata": {
         "notes": "Your waiver claim was processed successfully!"
@@ -8649,23 +9372,66 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1410984276006117376",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790767375521,
+      "created_at": "2026-09-30T11:22:55.521000Z",
+      "status_updated": 1790767375521,
+      "status_updated_at": "2026-09-30T11:22:55.521000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "13277",
+          "player_name": "CJ Donaldson",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "3286",
+          "player_name": "Demarcus Robinson",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 4,
-    "transactions": 69,
+    "transactions": 75,
     "trades": 5,
-    "waivers": 4,
-    "free_agent_moves": 59,
+    "waivers": 9,
+    "free_agent_moves": 60,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 59,
+      "free_agent": 60,
       "trade": 5,
-      "waiver": 4
+      "waiver": 9
     },
     "by_status": {
-      "complete": 68,
-      "failed": 1
+      "complete": 73,
+      "failed": 2
     }
   }
 }

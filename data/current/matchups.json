@@ -5834,7 +5834,7 @@
             "13349",
             "13402",
             "13421",
-            "13423",
+            "13425",
             "7523",
             "8112",
             "8136",
@@ -5843,18 +5843,17 @@
           ],
           "starters": [
             "7523",
-            "12529",
+            "11576",
             "12533",
             "8112",
             "9756",
             "10236",
-            "9504",
+            "12529",
             "11624",
             "12501"
           ],
           "bench": [
             "11566",
-            "11576",
             "11643",
             "12498",
             "12522",
@@ -5867,8 +5866,9 @@
             "13349",
             "13402",
             "13421",
-            "13423",
-            "8136"
+            "13425",
+            "8136",
+            "9504"
           ],
           "players_points": {
             "10236": 0.0,
@@ -5890,7 +5890,7 @@
             "13349": 0.0,
             "13402": 0.0,
             "13421": 0.0,
-            "13423": 0.0,
+            "13425": 0.0,
             "7523": 0.0,
             "8112": 0.0,
             "8136": 0.0,
@@ -5919,7 +5919,7 @@
               "Eli Stowers",
               "Skyler Bell",
               "Eli Raridon",
-              "Eli Heidenreich",
+              "Jalon Daniels",
               "Trevor Lawrence",
               "Drake London",
               "Rachaad White",
@@ -5928,18 +5928,17 @@
             ],
             "starters": [
               "Trevor Lawrence",
-              "TreVeyon Henderson",
+              "Braelon Allen",
               "Jacory Croskey-Merritt",
               "Drake London",
               "Jordan Addison",
               "Dalton Kincaid",
-              "Kayshon Boutte",
+              "TreVeyon Henderson",
               "Xavier Worthy",
               "Matthew Golden"
             ],
             "bench": [
               "Jayden Daniels",
-              "Braelon Allen",
               "Jaylen Wright",
               "Mason Taylor",
               "Cam Ward",
@@ -5952,8 +5951,9 @@
               "Eli Stowers",
               "Skyler Bell",
               "Eli Raridon",
-              "Eli Heidenreich",
-              "Rachaad White"
+              "Jalon Daniels",
+              "Rachaad White",
+              "Kayshon Boutte"
             ]
           }
         },
@@ -6432,14 +6432,15 @@
             "8148",
             "8137",
             "5001",
-            "10213",
-            "11586",
-            "8134"
+            "7049",
+            "11620",
+            "7002"
           ],
           "bench": [
+            "10213",
             "11560",
+            "11586",
             "11589",
-            "11620",
             "11625",
             "12467",
             "12497",
@@ -6447,9 +6448,8 @@
             "13288",
             "13317",
             "4177",
-            "7002",
-            "7049",
             "7569",
+            "8134",
             "9225",
             "9486"
           ],
@@ -6514,14 +6514,15 @@
               "Jameson Williams",
               "George Pickens",
               "Dalton Schultz",
-              "Tre Tucker",
-              "Blake Corum",
-              "Khalil Shakir"
+              "Jauan Jennings",
+              "Rome Odunze",
+              "Juwan Johnson"
             ],
             "bench": [
+              "Tre Tucker",
               "Caleb Williams",
+              "Blake Corum",
               "Trey Benson",
-              "Rome Odunze",
               "Adonai Mitchell",
               "Jordan James",
               "Tory Horton",
@@ -6529,9 +6530,8 @@
               "Nicholas Singleton",
               "Ted Hurst",
               "Mack Hollins",
-              "Juwan Johnson",
-              "Jauan Jennings",
               "Nico Collins",
+              "Khalil Shakir",
               "Tank Bigsby",
               "Dontayvion Wicks"
             ]
@@ -6710,11 +6710,11 @@
             "12545",
             "12547",
             "13275",
+            "13277",
             "13298",
             "13311",
             "13414",
             "13533",
-            "3286",
             "4892",
             "7567",
             "8167",
@@ -6743,10 +6743,10 @@
             "12543",
             "12547",
             "13275",
+            "13277",
             "13311",
             "13414",
             "13533",
-            "3286",
             "4892",
             "8205"
           ],
@@ -6766,11 +6766,11 @@
             "12545": 0.0,
             "12547": 0.0,
             "13275": 0.0,
+            "13277": 0.0,
             "13298": 0.0,
             "13311": 0.0,
             "13414": 0.0,
             "13533": 0.0,
-            "3286": 0.0,
             "4892": 0.0,
             "7567": 0.0,
             "8167": 0.0,
@@ -6795,11 +6795,11 @@
               "Tyler Shough",
               "Kyle Williams",
               "Ty Simpson",
+              "CJ Donaldson",
               "KC Concepcion",
               "Chris Bell",
               "Kaelon Black",
               "Barion Brown",
-              "Demarcus Robinson",
               "Baker Mayfield",
               "Kenny Gainwell",
               "Christian Watson",
@@ -6828,10 +6828,10 @@
               "Tahj Brooks",
               "Kyle Williams",
               "Ty Simpson",
+              "CJ Donaldson",
               "Chris Bell",
               "Kaelon Black",
               "Barion Brown",
-              "Demarcus Robinson",
               "Baker Mayfield",
               "Isiah Pacheco"
             ]
@@ -7012,6 +7012,7 @@
             "3634",
             "5849",
             "7090",
+            "7528",
             "7553",
             "7564",
             "8144",
@@ -7043,6 +7044,7 @@
             "3257",
             "3321",
             "7090",
+            "7528",
             "8154",
             "8172",
             "8188",
@@ -7066,6 +7068,7 @@
             "3634": 0.0,
             "5849": 0.0,
             "7090": 0.0,
+            "7528": 0.0,
             "7553": 0.0,
             "7564": 0.0,
             "8144": 0.0,
@@ -7094,6 +7097,7 @@
               "Kalif Raymond",
               "Kyler Murray",
               "Darnell Mooney",
+              "Najee Harris",
               "Kyle Pitts",
               "Ja'Marr Chase",
               "Chris Olave",
@@ -7125,6 +7129,7 @@
               "Jacoby Brissett",
               "Tyreek Hill",
               "Darnell Mooney",
+              "Najee Harris",
               "Brian Robinson",
               "Greg Dulcich",
               "Tyquan Thornton",
@@ -7148,6 +7153,7 @@
             "13286",
             "13337",
             "3198",
+            "3271",
             "4881",
             "4943",
             "4950",
@@ -7183,6 +7189,7 @@
             "12536",
             "13286",
             "13337",
+            "3271",
             "4943",
             "4950",
             "5844",
@@ -7202,6 +7209,7 @@
             "13286": 0.0,
             "13337": 0.0,
             "3198": 0.0,
+            "3271": 0.0,
             "4881": 0.0,
             "4943": 0.0,
             "4950": 0.0,
@@ -7230,6 +7238,7 @@
               "Jadarian Price",
               "Emmett Johnson",
               "Derrick Henry",
+              "Tyler Higbee",
               "Lamar Jackson",
               "Sam Darnold",
               "Christian Kirk",
@@ -7265,6 +7274,7 @@
               "Jaylin Noel",
               "Jadarian Price",
               "Emmett Johnson",
+              "Tyler Higbee",
               "Sam Darnold",
               "Christian Kirk",
               "T.J. Hockenson",
@@ -7308,7 +7318,8 @@
             "8138",
             "8228",
             "9228",
-            "9482"
+            "9482",
+            "9757"
           ],
           "starters": [
             "4984",
@@ -7336,7 +7347,8 @@
             "6039",
             "7021",
             "9228",
-            "9482"
+            "9482",
+            "9757"
           ],
           "players_points": {
             "11563": 0.0,
@@ -7362,7 +7374,8 @@
             "8138": 0.0,
             "8228": 0.0,
             "9228": 0.0,
-            "9482": 0.0
+            "9482": 0.0,
+            "9757": 0.0
           },
           "starters_points": {},
           "display": {
@@ -7390,7 +7403,8 @@
               "James Cook",
               "Jaylen Warren",
               "Bryce Young",
-              "Michael Mayer"
+              "Michael Mayer",
+              "Kendre Miller"
             ],
             "starters": [
               "Josh Allen",
@@ -7418,7 +7432,8 @@
               "Ty Johnson",
               "Rico Dowdle",
               "Bryce Young",
-              "Michael Mayer"
+              "Michael Mayer",
+              "Kendre Miller"
             ]
           }
         },
