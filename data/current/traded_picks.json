@@ -17,10 +17,32 @@
       "draft_id": null,
       "original_roster_id": 1,
       "original_team_label": "It’s Herbie Hancock",
+      "previous_owner_id": 11,
+      "previous_owner_team_label": "MOJO",
+      "owner_id": 2,
+      "owner_team_label": "A B CeeDee"
+    },
+    {
+      "season": "2028",
+      "round": 3,
+      "draft_id": null,
+      "original_roster_id": 1,
+      "original_team_label": "It’s Herbie Hancock",
       "previous_owner_id": 1,
       "previous_owner_team_label": "It’s Herbie Hancock",
-      "owner_id": 11,
-      "owner_team_label": "MOJO"
+      "owner_id": 3,
+      "owner_team_label": "Laporta Potty"
+    },
+    {
+      "season": "2029",
+      "round": 3,
+      "draft_id": null,
+      "original_roster_id": 1,
+      "original_team_label": "It’s Herbie Hancock",
+      "previous_owner_id": 1,
+      "previous_owner_team_label": "It’s Herbie Hancock",
+      "owner_id": 3,
+      "owner_team_label": "Laporta Potty"
     },
     {
       "season": "2026",
@@ -61,10 +83,10 @@
       "draft_id": null,
       "original_roster_id": 2,
       "original_team_label": "A B CeeDee",
-      "previous_owner_id": 2,
-      "previous_owner_team_label": "A B CeeDee",
-      "owner_id": 1,
-      "owner_team_label": "It’s Herbie Hancock"
+      "previous_owner_id": 1,
+      "previous_owner_team_label": "It’s Herbie Hancock",
+      "owner_id": 3,
+      "owner_team_label": "Laporta Potty"
     },
     {
       "season": "2028",
@@ -76,6 +98,83 @@
       "previous_owner_team_label": "A B CeeDee",
       "owner_id": 10,
       "owner_team_label": "Goin in Ra"
+    },
+    {
+      "season": "2027",
+      "round": 1,
+      "draft_id": null,
+      "original_roster_id": 3,
+      "original_team_label": "Laporta Potty",
+      "previous_owner_id": 3,
+      "previous_owner_team_label": "Laporta Potty",
+      "owner_id": 1,
+      "owner_team_label": "It’s Herbie Hancock"
+    },
+    {
+      "season": "2027",
+      "round": 2,
+      "draft_id": null,
+      "original_roster_id": 3,
+      "original_team_label": "Laporta Potty",
+      "previous_owner_id": 3,
+      "previous_owner_team_label": "Laporta Potty",
+      "owner_id": 1,
+      "owner_team_label": "It’s Herbie Hancock"
+    },
+    {
+      "season": "2028",
+      "round": 1,
+      "draft_id": null,
+      "original_roster_id": 3,
+      "original_team_label": "Laporta Potty",
+      "previous_owner_id": 3,
+      "previous_owner_team_label": "Laporta Potty",
+      "owner_id": 1,
+      "owner_team_label": "It’s Herbie Hancock"
+    },
+    {
+      "season": "2028",
+      "round": 2,
+      "draft_id": null,
+      "original_roster_id": 3,
+      "original_team_label": "Laporta Potty",
+      "previous_owner_id": 3,
+      "previous_owner_team_label": "Laporta Potty",
+      "owner_id": 1,
+      "owner_team_label": "It’s Herbie Hancock"
+    },
+    {
+      "season": "2029",
+      "round": 1,
+      "draft_id": null,
+      "original_roster_id": 3,
+      "original_team_label": "Laporta Potty",
+      "previous_owner_id": 3,
+      "previous_owner_team_label": "Laporta Potty",
+      "owner_id": 1,
+      "owner_team_label": "It’s Herbie Hancock"
+    },
+    {
+      "season": "2029",
+      "round": 2,
+      "draft_id": null,
+      "original_roster_id": 3,
+      "original_team_label": "Laporta Potty",
+      "previous_owner_id": 3,
+      "previous_owner_team_label": "Laporta Potty",
+      "owner_id": 1,
+      "owner_team_label": "It’s Herbie Hancock"
+    },
+    {
+      "season": "2027",
+      "round": 2,
+      "draft_id": null,
+      "original_roster_id": 5,
+      "original_team_label": "White Ice",
+      "previous_owner_id": 5,
+      "previous_owner_team_label": "White Ice",
+      "owner_id": 2,
+      "owner_team_label": "A B CeeDee"
     },
     {
       "season": "2026",
@@ -135,6 +234,17 @@
     {
       "season": "2027",
       "round": 2,
+      "draft_id": null,
+      "original_roster_id": 11,
+      "original_team_label": "MOJO",
+      "previous_owner_id": 11,
+      "previous_owner_team_label": "MOJO",
+      "owner_id": 2,
+      "owner_team_label": "A B CeeDee"
+    },
+    {
+      "season": "2028",
+      "round": 1,
       "draft_id": null,
       "original_roster_id": 11,
       "original_team_label": "MOJO",
@@ -248,7 +358,7 @@
     ]
   },
   "counts": {
-    "league_traded_picks": 14,
+    "league_traded_picks": 24,
     "draft_traded_picks": 8
   }
 }

@@ -3167,13 +3167,531 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411090567546343424",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1790792717399,
+          "created_at": "2026-09-30T18:25:17.399000Z",
+          "status_updated": 1790792717399,
+          "status_updated_at": "2026-09-30T18:25:17.399000Z",
+          "creator_user_id": "471424563457028096",
+          "roster_ids": [
+            5
+          ],
+          "team_labels": [
+            "White Ice"
+          ],
+          "consenter_ids": [
+            5
+          ],
+          "consenter_team_labels": [
+            "White Ice"
+          ],
+          "adds": [
+            {
+              "player_id": "13394",
+              "player_name": "Josh Cameron",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411149934543065088",
+          "type": "trade",
+          "status": "complete",
+          "created": 1790806871595,
+          "created_at": "2026-09-30T22:21:11.595000Z",
+          "status_updated": 1790806914307,
+          "status_updated_at": "2026-09-30T22:21:54.307000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1,
+            3
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock",
+            "Laporta Potty"
+          ],
+          "consenter_ids": [
+            1,
+            3
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock",
+            "Laporta Potty"
+          ],
+          "adds": [
+            {
+              "player_id": "8112",
+              "player_name": "Drake London",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "8112",
+              "player_name": "Drake London",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2028",
+              "round": 3,
+              "original_roster_id": 1,
+              "original_team_label": "It’s Herbie Hancock",
+              "previous_owner_id": 1,
+              "previous_owner_team_label": "It’s Herbie Hancock",
+              "owner_id": 3,
+              "owner_team_label": "Laporta Potty"
+            },
+            {
+              "season": "2029",
+              "round": 3,
+              "original_roster_id": 1,
+              "original_team_label": "It’s Herbie Hancock",
+              "previous_owner_id": 1,
+              "previous_owner_team_label": "It’s Herbie Hancock",
+              "owner_id": 3,
+              "owner_team_label": "Laporta Potty"
+            },
+            {
+              "season": "2027",
+              "round": 3,
+              "original_roster_id": 2,
+              "original_team_label": "A B CeeDee",
+              "previous_owner_id": 1,
+              "previous_owner_team_label": "It’s Herbie Hancock",
+              "owner_id": 3,
+              "owner_team_label": "Laporta Potty"
+            },
+            {
+              "season": "2027",
+              "round": 1,
+              "original_roster_id": 3,
+              "original_team_label": "Laporta Potty",
+              "previous_owner_id": 3,
+              "previous_owner_team_label": "Laporta Potty",
+              "owner_id": 1,
+              "owner_team_label": "It’s Herbie Hancock"
+            },
+            {
+              "season": "2027",
+              "round": 2,
+              "original_roster_id": 3,
+              "original_team_label": "Laporta Potty",
+              "previous_owner_id": 3,
+              "previous_owner_team_label": "Laporta Potty",
+              "owner_id": 1,
+              "owner_team_label": "It’s Herbie Hancock"
+            },
+            {
+              "season": "2028",
+              "round": 1,
+              "original_roster_id": 3,
+              "original_team_label": "Laporta Potty",
+              "previous_owner_id": 3,
+              "previous_owner_team_label": "Laporta Potty",
+              "owner_id": 1,
+              "owner_team_label": "It’s Herbie Hancock"
+            },
+            {
+              "season": "2028",
+              "round": 2,
+              "original_roster_id": 3,
+              "original_team_label": "Laporta Potty",
+              "previous_owner_id": 3,
+              "previous_owner_team_label": "Laporta Potty",
+              "owner_id": 1,
+              "owner_team_label": "It’s Herbie Hancock"
+            },
+            {
+              "season": "2029",
+              "round": 1,
+              "original_roster_id": 3,
+              "original_team_label": "Laporta Potty",
+              "previous_owner_id": 3,
+              "previous_owner_team_label": "Laporta Potty",
+              "owner_id": 1,
+              "owner_team_label": "It’s Herbie Hancock"
+            },
+            {
+              "season": "2029",
+              "round": 2,
+              "original_roster_id": 3,
+              "original_team_label": "Laporta Potty",
+              "previous_owner_id": 3,
+              "previous_owner_team_label": "Laporta Potty",
+              "owner_id": 1,
+              "owner_team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {
+            "is_counter": 1
+          },
+          "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411150234452574208",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1790806943098,
+          "created_at": "2026-09-30T22:22:23.098000Z",
+          "status_updated": 1790806943098,
+          "status_updated_at": "2026-09-30T22:22:23.098000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Laporta Potty"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Laporta Potty"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "6931",
+              "player_name": "DeeJay Dallas",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411157062179643392",
+          "type": "trade",
+          "status": "complete",
+          "created": 1790808570956,
+          "created_at": "2026-09-30T22:49:30.956000Z",
+          "status_updated": 1790809727839,
+          "status_updated_at": "2026-09-30T23:08:47.839000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2,
+            11
+          ],
+          "team_labels": [
+            "A B CeeDee",
+            "MOJO"
+          ],
+          "consenter_ids": [
+            2,
+            11
+          ],
+          "consenter_team_labels": [
+            "A B CeeDee",
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "5859",
+              "player_name": "A.J. Brown",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "5859",
+              "player_name": "A.J. Brown",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2027",
+              "round": 2,
+              "original_roster_id": 1,
+              "original_team_label": "It’s Herbie Hancock",
+              "previous_owner_id": 11,
+              "previous_owner_team_label": "MOJO",
+              "owner_id": 2,
+              "owner_team_label": "A B CeeDee"
+            },
+            {
+              "season": "2028",
+              "round": 1,
+              "original_roster_id": 11,
+              "original_team_label": "MOJO",
+              "previous_owner_id": 11,
+              "previous_owner_team_label": "MOJO",
+              "owner_id": 2,
+              "owner_team_label": "A B CeeDee"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411162601731239936",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1790809891687,
+          "created_at": "2026-09-30T23:11:31.687000Z",
+          "status_updated": 1790809891687,
+          "status_updated_at": "2026-09-30T23:11:31.687000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "13411",
+              "player_name": "Zavion Thomas",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411167116941402112",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1790810968197,
+          "created_at": "2026-09-30T23:29:28.197000Z",
+          "status_updated": 1790810968197,
+          "status_updated_at": "2026-09-30T23:29:28.197000Z",
+          "creator_user_id": "471744678006353920",
+          "roster_ids": [
+            12
+          ],
+          "team_labels": [
+            "gullickson"
+          ],
+          "consenter_ids": [
+            12
+          ],
+          "consenter_team_labels": [
+            "gullickson"
+          ],
+          "adds": [
+            {
+              "player_id": "4454",
+              "player_name": "Kendrick Bourne",
+              "roster_id": 12,
+              "team_label": "gullickson"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411171246955147264",
+          "type": "trade",
+          "status": "complete",
+          "created": 1790811952870,
+          "created_at": "2026-09-30T23:45:52.870000Z",
+          "status_updated": 1790813942465,
+          "status_updated_at": "2026-10-01T00:19:02.465000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2,
+            5
+          ],
+          "team_labels": [
+            "A B CeeDee",
+            "White Ice"
+          ],
+          "consenter_ids": [
+            2,
+            5
+          ],
+          "consenter_team_labels": [
+            "A B CeeDee",
+            "White Ice"
+          ],
+          "adds": [
+            {
+              "player_id": "1466",
+              "player_name": "Travis Kelce",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "1466",
+              "player_name": "Travis Kelce",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2027",
+              "round": 2,
+              "original_roster_id": 5,
+              "original_team_label": "White Ice",
+              "previous_owner_id": 5,
+              "previous_owner_team_label": "White Ice",
+              "owner_id": 2,
+              "owner_team_label": "A B CeeDee"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411179993714688000",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1790814038260,
+          "created_at": "2026-10-01T00:20:38.260000Z",
+          "status_updated": 1790814038260,
+          "status_updated_at": "2026-10-01T00:20:38.260000Z",
+          "creator_user_id": "471424563457028096",
+          "roster_ids": [
+            5
+          ],
+          "team_labels": [
+            "White Ice"
+          ],
+          "consenter_ids": [
+            5
+          ],
+          "consenter_team_labels": [
+            "White Ice"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "13394",
+              "player_name": "Josh Cameron",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411180838573404160",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1790814239690,
+          "created_at": "2026-10-01T00:23:59.690000Z",
+          "status_updated": 1790814239690,
+          "status_updated_at": "2026-10-01T00:23:59.690000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "A B CeeDee"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "A B CeeDee"
+          ],
+          "adds": [
+            {
+              "player_id": "12718",
+              "player_name": "Konata Mumpfield",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411180983331414016",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1790814274202,
+          "created_at": "2026-10-01T00:24:34.202000Z",
+          "status_updated": 1790814274202,
+          "status_updated_at": "2026-10-01T00:24:34.202000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "A B CeeDee"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "A B CeeDee"
+          ],
+          "adds": [
+            {
+              "player_id": "4993",
+              "player_name": "Mike Gesicki",
+              "roster_id": 2,
+              "team_label": "A B CeeDee"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 1,
-        "trades": 0,
+        "transactions": 11,
+        "trades": 3,
         "waivers": 0,
-        "free_agent_moves": 1
+        "free_agent_moves": 8
       }
     }
   },
@@ -6309,6 +6827,524 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411090567546343424",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790792717399,
+      "created_at": "2026-09-30T18:25:17.399000Z",
+      "status_updated": 1790792717399,
+      "status_updated_at": "2026-09-30T18:25:17.399000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "13394",
+          "player_name": "Josh Cameron",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411149934543065088",
+      "type": "trade",
+      "status": "complete",
+      "created": 1790806871595,
+      "created_at": "2026-09-30T22:21:11.595000Z",
+      "status_updated": 1790806914307,
+      "status_updated_at": "2026-09-30T22:21:54.307000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1,
+        3
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        1,
+        3
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "8112",
+          "player_name": "Drake London",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8112",
+          "player_name": "Drake London",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 3,
+          "owner_team_label": "Laporta Potty"
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 3,
+          "owner_team_label": "Laporta Potty"
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team_label": "A B CeeDee",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 3,
+          "owner_team_label": "Laporta Potty"
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team_label": "Laporta Potty",
+          "previous_owner_id": 3,
+          "previous_owner_team_label": "Laporta Potty",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team_label": "Laporta Potty",
+          "previous_owner_id": 3,
+          "previous_owner_team_label": "Laporta Potty",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team_label": "Laporta Potty",
+          "previous_owner_id": 3,
+          "previous_owner_team_label": "Laporta Potty",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team_label": "Laporta Potty",
+          "previous_owner_id": 3,
+          "previous_owner_team_label": "Laporta Potty",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team_label": "Laporta Potty",
+          "previous_owner_id": 3,
+          "previous_owner_team_label": "Laporta Potty",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team_label": "Laporta Potty",
+          "previous_owner_id": 3,
+          "previous_owner_team_label": "Laporta Potty",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {
+        "is_counter": 1
+      },
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411150234452574208",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790806943098,
+      "created_at": "2026-09-30T22:22:23.098000Z",
+      "status_updated": 1790806943098,
+      "status_updated_at": "2026-09-30T22:22:23.098000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6931",
+          "player_name": "DeeJay Dallas",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411157062179643392",
+      "type": "trade",
+      "status": "complete",
+      "created": 1790808570956,
+      "created_at": "2026-09-30T22:49:30.956000Z",
+      "status_updated": 1790809727839,
+      "status_updated_at": "2026-09-30T23:08:47.839000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2,
+        11
+      ],
+      "team_labels": [
+        "A B CeeDee",
+        "MOJO"
+      ],
+      "consenter_ids": [
+        2,
+        11
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee",
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "5859",
+          "player_name": "A.J. Brown",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "5859",
+          "player_name": "A.J. Brown",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 11,
+          "previous_owner_team_label": "MOJO",
+          "owner_id": 2,
+          "owner_team_label": "A B CeeDee"
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 11,
+          "previous_owner_team_label": "MOJO",
+          "owner_id": 2,
+          "owner_team_label": "A B CeeDee"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411162601731239936",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790809891687,
+      "created_at": "2026-09-30T23:11:31.687000Z",
+      "status_updated": 1790809891687,
+      "status_updated_at": "2026-09-30T23:11:31.687000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13411",
+          "player_name": "Zavion Thomas",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411167116941402112",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790810968197,
+      "created_at": "2026-09-30T23:29:28.197000Z",
+      "status_updated": 1790810968197,
+      "status_updated_at": "2026-09-30T23:29:28.197000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [
+        {
+          "player_id": "4454",
+          "player_name": "Kendrick Bourne",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411171246955147264",
+      "type": "trade",
+      "status": "complete",
+      "created": 1790811952870,
+      "created_at": "2026-09-30T23:45:52.870000Z",
+      "status_updated": 1790813942465,
+      "status_updated_at": "2026-10-01T00:19:02.465000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2,
+        5
+      ],
+      "team_labels": [
+        "A B CeeDee",
+        "White Ice"
+      ],
+      "consenter_ids": [
+        2,
+        5
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee",
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "1466",
+          "player_name": "Travis Kelce",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "1466",
+          "player_name": "Travis Kelce",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team_label": "White Ice",
+          "previous_owner_id": 5,
+          "previous_owner_team_label": "White Ice",
+          "owner_id": 2,
+          "owner_team_label": "A B CeeDee"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411179993714688000",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790814038260,
+      "created_at": "2026-10-01T00:20:38.260000Z",
+      "status_updated": 1790814038260,
+      "status_updated_at": "2026-10-01T00:20:38.260000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13394",
+          "player_name": "Josh Cameron",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411180838573404160",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790814239690,
+      "created_at": "2026-10-01T00:23:59.690000Z",
+      "status_updated": 1790814239690,
+      "status_updated_at": "2026-10-01T00:23:59.690000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "12718",
+          "player_name": "Konata Mumpfield",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411180983331414016",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790814274202,
+      "created_at": "2026-10-01T00:24:34.202000Z",
+      "status_updated": 1790814274202,
+      "status_updated_at": "2026-10-01T00:24:34.202000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "4993",
+          "player_name": "Mike Gesicki",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -6664,6 +7700,272 @@
       "settings": {
         "is_counter": 1
       },
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411149934543065088",
+      "type": "trade",
+      "status": "complete",
+      "created": 1790806871595,
+      "created_at": "2026-09-30T22:21:11.595000Z",
+      "status_updated": 1790806914307,
+      "status_updated_at": "2026-09-30T22:21:54.307000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1,
+        3
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        1,
+        3
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "8112",
+          "player_name": "Drake London",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8112",
+          "player_name": "Drake London",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 3,
+          "owner_team_label": "Laporta Potty"
+        },
+        {
+          "season": "2029",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 3,
+          "owner_team_label": "Laporta Potty"
+        },
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 2,
+          "original_team_label": "A B CeeDee",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 3,
+          "owner_team_label": "Laporta Potty"
+        },
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team_label": "Laporta Potty",
+          "previous_owner_id": 3,
+          "previous_owner_team_label": "Laporta Potty",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team_label": "Laporta Potty",
+          "previous_owner_id": 3,
+          "previous_owner_team_label": "Laporta Potty",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team_label": "Laporta Potty",
+          "previous_owner_id": 3,
+          "previous_owner_team_label": "Laporta Potty",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team_label": "Laporta Potty",
+          "previous_owner_id": 3,
+          "previous_owner_team_label": "Laporta Potty",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 3,
+          "original_team_label": "Laporta Potty",
+          "previous_owner_id": 3,
+          "previous_owner_team_label": "Laporta Potty",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        },
+        {
+          "season": "2029",
+          "round": 2,
+          "original_roster_id": 3,
+          "original_team_label": "Laporta Potty",
+          "previous_owner_id": 3,
+          "previous_owner_team_label": "Laporta Potty",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {
+        "is_counter": 1
+      },
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411157062179643392",
+      "type": "trade",
+      "status": "complete",
+      "created": 1790808570956,
+      "created_at": "2026-09-30T22:49:30.956000Z",
+      "status_updated": 1790809727839,
+      "status_updated_at": "2026-09-30T23:08:47.839000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2,
+        11
+      ],
+      "team_labels": [
+        "A B CeeDee",
+        "MOJO"
+      ],
+      "consenter_ids": [
+        2,
+        11
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee",
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "5859",
+          "player_name": "A.J. Brown",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "5859",
+          "player_name": "A.J. Brown",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 11,
+          "previous_owner_team_label": "MOJO",
+          "owner_id": 2,
+          "owner_team_label": "A B CeeDee"
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 11,
+          "previous_owner_team_label": "MOJO",
+          "owner_id": 2,
+          "owner_team_label": "A B CeeDee"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411171246955147264",
+      "type": "trade",
+      "status": "complete",
+      "created": 1790811952870,
+      "created_at": "2026-09-30T23:45:52.870000Z",
+      "status_updated": 1790813942465,
+      "status_updated_at": "2026-10-01T00:19:02.465000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2,
+        5
+      ],
+      "team_labels": [
+        "A B CeeDee",
+        "White Ice"
+      ],
+      "consenter_ids": [
+        2,
+        5
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee",
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "1466",
+          "player_name": "Travis Kelce",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "1466",
+          "player_name": "Travis Kelce",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 5,
+          "original_team_label": "White Ice",
+          "previous_owner_id": 5,
+          "previous_owner_team_label": "White Ice",
+          "owner_id": 2,
+          "owner_team_label": "A B CeeDee"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
       "metadata": {}
     }
   ],
@@ -9415,22 +10717,274 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411090567546343424",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790792717399,
+      "created_at": "2026-09-30T18:25:17.399000Z",
+      "status_updated": 1790792717399,
+      "status_updated_at": "2026-09-30T18:25:17.399000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "13394",
+          "player_name": "Josh Cameron",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411150234452574208",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790806943098,
+      "created_at": "2026-09-30T22:22:23.098000Z",
+      "status_updated": 1790806943098,
+      "status_updated_at": "2026-09-30T22:22:23.098000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6931",
+          "player_name": "DeeJay Dallas",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411162601731239936",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790809891687,
+      "created_at": "2026-09-30T23:11:31.687000Z",
+      "status_updated": 1790809891687,
+      "status_updated_at": "2026-09-30T23:11:31.687000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13411",
+          "player_name": "Zavion Thomas",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411167116941402112",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790810968197,
+      "created_at": "2026-09-30T23:29:28.197000Z",
+      "status_updated": 1790810968197,
+      "status_updated_at": "2026-09-30T23:29:28.197000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [
+        {
+          "player_id": "4454",
+          "player_name": "Kendrick Bourne",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411179993714688000",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790814038260,
+      "created_at": "2026-10-01T00:20:38.260000Z",
+      "status_updated": 1790814038260,
+      "status_updated_at": "2026-10-01T00:20:38.260000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13394",
+          "player_name": "Josh Cameron",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411180838573404160",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790814239690,
+      "created_at": "2026-10-01T00:23:59.690000Z",
+      "status_updated": 1790814239690,
+      "status_updated_at": "2026-10-01T00:23:59.690000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "12718",
+          "player_name": "Konata Mumpfield",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411180983331414016",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790814274202,
+      "created_at": "2026-10-01T00:24:34.202000Z",
+      "status_updated": 1790814274202,
+      "status_updated_at": "2026-10-01T00:24:34.202000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "A B CeeDee"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "A B CeeDee"
+      ],
+      "adds": [
+        {
+          "player_id": "4993",
+          "player_name": "Mike Gesicki",
+          "roster_id": 2,
+          "team_label": "A B CeeDee"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 4,
-    "transactions": 75,
-    "trades": 5,
+    "transactions": 85,
+    "trades": 8,
     "waivers": 9,
-    "free_agent_moves": 60,
+    "free_agent_moves": 67,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 60,
-      "trade": 5,
+      "free_agent": 67,
+      "trade": 8,
       "waiver": 9
     },
     "by_status": {
-      "complete": 73,
+      "complete": 83,
       "failed": 2
     }
   }

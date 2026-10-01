@@ -24,7 +24,6 @@
       "13421",
       "13425",
       "7523",
-      "8112",
       "8136",
       "9504",
       "9756"
@@ -33,12 +32,12 @@
       "7523",
       "11576",
       "12533",
-      "8112",
+      "12501",
       "9756",
       "10236",
       "12529",
       "11624",
-      "12501"
+      "8136"
     ],
     "bench": [
       "11566",
@@ -53,7 +52,6 @@
       "13402",
       "13421",
       "13425",
-      "8136",
       "9504"
     ],
     "reserve": [
@@ -61,9 +59,9 @@
       "13302"
     ],
     "taxi": [],
-    "player_count": 25,
+    "player_count": 24,
     "starter_count": 9,
-    "bench_count": 14,
+    "bench_count": 13,
     "reserve_count": 2,
     "taxi_count": 0,
     "display": {
@@ -89,7 +87,6 @@
         "Eli Raridon",
         "Jalon Daniels",
         "Trevor Lawrence",
-        "Drake London",
         "Rachaad White",
         "Kayshon Boutte",
         "Jordan Addison"
@@ -98,12 +95,12 @@
         "Trevor Lawrence",
         "Braelon Allen",
         "Jacory Croskey-Merritt",
-        "Drake London",
+        "Matthew Golden",
         "Jordan Addison",
         "Dalton Kincaid",
         "TreVeyon Henderson",
         "Xavier Worthy",
-        "Matthew Golden"
+        "Rachaad White"
       ],
       "bench": [
         "Jayden Daniels",
@@ -118,7 +115,6 @@
         "Skyler Bell",
         "Eli Raridon",
         "Jalon Daniels",
-        "Rachaad White",
         "Kayshon Boutte"
       ],
       "reserve": [
@@ -160,12 +156,12 @@
       "12495",
       "12509",
       "12517",
+      "12718",
       "13294",
       "13413",
       "13417",
-      "1466",
+      "4993",
       "5850",
-      "5859",
       "5892",
       "6783",
       "6786",
@@ -186,29 +182,29 @@
       "7588",
       "6786",
       "9487",
-      "1466",
-      "12492",
       "12517",
+      "12492",
+      "9754",
       "12509"
     ],
     "bench": [
       "10235",
       "12472",
       "12495",
+      "12718",
       "13294",
       "13413",
-      "13417",
-      "5859",
+      "4993",
+      "5850",
       "6783",
       "6828",
       "8210",
       "8408",
       "8676",
-      "9754",
       "9758"
     ],
     "reserve": [
-      "5850",
+      "13417",
       "8800"
     ],
     "taxi": [],
@@ -225,12 +221,12 @@
         "Ollie Gordon",
         "Tre' Harris",
         "Colston Loveland",
+        "Konata Mumpfield",
         "Makai Lemon",
         "Cyrus Allen",
         "De'Zhaun Stribling",
-        "Travis Kelce",
+        "Mike Gesicki",
         "Josh Jacobs",
-        "A.J. Brown",
         "David Montgomery",
         "Jerry Jeudy",
         "CeeDee Lamb",
@@ -251,29 +247,29 @@
         "Javonte Williams",
         "CeeDee Lamb",
         "Parker Washington",
-        "Travis Kelce",
-        "Pat Bryant",
         "Colston Loveland",
+        "Pat Bryant",
+        "Quentin Johnston",
         "Tre' Harris"
       ],
       "bench": [
         "Roschon Johnson",
         "Raheim Sanders",
         "Ollie Gordon",
+        "Konata Mumpfield",
         "Makai Lemon",
         "Cyrus Allen",
-        "De'Zhaun Stribling",
-        "A.J. Brown",
+        "Mike Gesicki",
+        "Josh Jacobs",
         "Jerry Jeudy",
         "AJ Dillon",
         "Chig Okonkwo",
         "Jordan Mason",
         "Rashid Shaheed",
-        "Quentin Johnston",
         "C.J. Stroud"
       ],
       "reserve": [
-        "Josh Jacobs",
+        "De'Zhaun Stribling",
         "Malik Davis"
       ],
       "taxi": []
@@ -316,9 +312,9 @@
       "6804",
       "6813",
       "6819",
-      "6931",
       "7525",
       "8110",
+      "8112",
       "8121",
       "8161",
       "9501",
@@ -334,21 +330,21 @@
       "2216",
       "10859",
       "11584",
-      "8110",
-      "8121"
+      "8112",
+      "2449"
     ],
     "bench": [
       "11655",
       "13268",
       "13269",
-      "2449",
       "4066",
       "4981",
       "5995",
       "6130",
       "6804",
       "6819",
-      "6931",
+      "8110",
+      "8121",
       "8161",
       "9501",
       "9506"
@@ -379,9 +375,9 @@
         "Jordan Love",
         "Jonathan Taylor",
         "Michael Pittman",
-        "DeeJay Dallas",
         "DeVonta Smith",
         "Jake Ferguson",
+        "Drake London",
         "Romeo Doubs",
         "Malik Willis",
         "DeMario Douglas",
@@ -397,21 +393,21 @@
         "Mike Evans",
         "Sam LaPorta",
         "Bucky Irving",
-        "Jake Ferguson",
-        "Romeo Doubs"
+        "Drake London",
+        "Stefon Diggs"
       ],
       "bench": [
         "Tyrone Tracy",
         "Elijah Sarratt",
         "Fernando Mendoza",
-        "Stefon Diggs",
         "Evan Engram",
         "Calvin Ridley",
         "Justice Hill",
         "Devin Singletary",
         "Jordan Love",
         "Michael Pittman",
-        "DeeJay Dallas",
+        "Jake Ferguson",
+        "Romeo Doubs",
         "Malik Willis",
         "DeMario Douglas",
         "Sean Tucker"
@@ -470,7 +466,7 @@
     ],
     "starters": [
       "8183",
-      "8155",
+      "4035",
       "7594",
       "7571",
       "12519",
@@ -487,11 +483,11 @@
       "13293",
       "13345",
       "4033",
-      "4035",
       "5870",
       "5967",
       "8111",
       "8132",
+      "8155",
       "8698",
       "9493"
     ],
@@ -530,7 +526,7 @@
       ],
       "starters": [
         "Brock Purdy",
-        "Breece Hall",
+        "Alvin Kamara",
         "Chuba Hubbard",
         "Rashod Bateman",
         "Luther Burden",
@@ -547,11 +543,11 @@
         "Ja'Kobi Lane",
         "Jonah Coleman",
         "David Njoku",
-        "Alvin Kamara",
         "Daniel Jones",
         "Tony Pollard",
         "Cade Otton",
         "Tyler Allgeier",
+        "Breece Hall",
         "Jake Tonges",
         "Puka Nacua"
       ],
@@ -594,6 +590,7 @@
       "12499",
       "13288",
       "13317",
+      "1466",
       "3294",
       "4177",
       "5001",
@@ -614,14 +611,15 @@
       "9224",
       "8148",
       "8137",
-      "5001",
+      "1466",
       "7049",
-      "11620",
-      "7002"
+      "7002",
+      "7569"
     ],
     "bench": [
       "10213",
       "11586",
+      "11620",
       "11625",
       "12467",
       "12497",
@@ -629,7 +627,7 @@
       "13288",
       "13317",
       "4177",
-      "7569",
+      "5001",
       "8134",
       "9225",
       "9486"
@@ -639,9 +637,9 @@
       "11589"
     ],
     "taxi": [],
-    "player_count": 24,
+    "player_count": 25,
     "starter_count": 9,
-    "bench_count": 13,
+    "bench_count": 14,
     "reserve_count": 2,
     "taxi_count": 0,
     "display": {
@@ -657,6 +655,7 @@
         "Elic Ayomanor",
         "Nicholas Singleton",
         "Ted Hurst",
+        "Travis Kelce",
         "Dak Prescott",
         "Mack Hollins",
         "Dalton Schultz",
@@ -677,14 +676,15 @@
         "Chase Brown",
         "Jameson Williams",
         "George Pickens",
-        "Dalton Schultz",
+        "Travis Kelce",
         "Jauan Jennings",
-        "Rome Odunze",
-        "Juwan Johnson"
+        "Juwan Johnson",
+        "Nico Collins"
       ],
       "bench": [
         "Tre Tucker",
         "Blake Corum",
+        "Rome Odunze",
         "Adonai Mitchell",
         "Jordan James",
         "Tory Horton",
@@ -692,7 +692,7 @@
         "Nicholas Singleton",
         "Ted Hurst",
         "Mack Hollins",
-        "Nico Collins",
+        "Dalton Schultz",
         "Khalil Shakir",
         "Tank Bigsby",
         "Dontayvion Wicks"
@@ -761,18 +761,18 @@
       "4217",
       "12506",
       "4199",
-      "11834"
+      "1479"
     ],
     "bench": [
       "11571",
       "11628",
+      "11834",
       "12483",
       "12508",
       "12534",
       "13276",
       "13404",
       "13420",
-      "1479",
       "2374",
       "4137",
       "5854",
@@ -826,18 +826,18 @@
         "George Kittle",
         "Harold Fannin",
         "Aaron Jones",
-        "Devaughn Vele"
+        "Keenan Allen"
       ],
       "bench": [
         "Isaiah Davis",
         "Marvin Harrison",
+        "Devaughn Vele",
         "Jack Bech",
         "Jaxson Dart",
         "Kyle Monangai",
         "Omar Cooper",
         "Garrett Nussmeier",
         "Bryce Lance",
-        "Keenan Allen",
         "Tyler Lockett",
         "James Conner",
         "Drew Lock",
@@ -903,12 +903,12 @@
       "12545",
       "7567",
       "12474",
-      "9488",
+      "13298",
       "11632",
       "12518",
       "8167",
       "12526",
-      "13298"
+      "9488"
     ],
     "bench": [
       "11370",
@@ -968,12 +968,12 @@
         "Tyler Shough",
         "Kenny Gainwell",
         "Woody Marks",
-        "Jaxon Smith-Njigba",
+        "KC Concepcion",
         "Malik Nabers",
         "Tyler Warren",
         "Christian Watson",
         "Tetairoa McMillan",
-        "KC Concepcion"
+        "Jaxon Smith-Njigba"
       ],
       "bench": [
         "Chris Brooks",
@@ -1348,7 +1348,7 @@
       "9511"
     ],
     "starters": [
-      "4881",
+      "4943",
       "3198",
       "6790",
       "7547",
@@ -1366,7 +1366,7 @@
       "13286",
       "13337",
       "3271",
-      "4943",
+      "4881",
       "5844",
       "5848",
       "7600",
@@ -1413,7 +1413,7 @@
         "Keaton Mitchell"
       ],
       "starters": [
-        "Lamar Jackson",
+        "Sam Darnold",
         "Derrick Henry",
         "D'Andre Swift",
         "Amon-Ra St. Brown",
@@ -1431,7 +1431,7 @@
         "Jadarian Price",
         "Emmett Johnson",
         "Tyler Higbee",
-        "Sam Darnold",
+        "Lamar Jackson",
         "T.J. Hockenson",
         "Marquise Brown",
         "Pat Freiermuth",
@@ -1476,7 +1476,6 @@
       "12481",
       "12502",
       "13320",
-      "13411",
       "13424",
       "2133",
       "3214",
@@ -1484,6 +1483,7 @@
       "4147",
       "4984",
       "5045",
+      "5859",
       "6039",
       "6801",
       "7021",
@@ -1511,19 +1511,19 @@
       "12048",
       "12502",
       "13320",
-      "13411",
       "13424",
       "3214",
       "4039",
       "4147",
       "6039",
+      "7021",
       "9228",
       "9482",
       "9757"
     ],
     "reserve": [
       "12469",
-      "7021"
+      "5859"
     ],
     "taxi": [],
     "player_count": 25,
@@ -1541,7 +1541,6 @@
         "Cam Skattebo",
         "Gunnar Helm",
         "Zachariah Branch",
-        "Zavion Thomas",
         "Seth McGowan",
         "Davante Adams",
         "Hunter Henry",
@@ -1549,6 +1548,7 @@
         "Samaje Perine",
         "Josh Allen",
         "Courtland Sutton",
+        "A.J. Brown",
         "Ty Johnson",
         "Tee Higgins",
         "Rico Dowdle",
@@ -1576,19 +1576,19 @@
         "George Holani",
         "Gunnar Helm",
         "Zachariah Branch",
-        "Zavion Thomas",
         "Seth McGowan",
         "Hunter Henry",
         "Cooper Kupp",
         "Samaje Perine",
         "Ty Johnson",
+        "Rico Dowdle",
         "Bryce Young",
         "Michael Mayer",
         "Kendre Miller"
       ],
       "reserve": [
         "Dylan Sampson",
-        "Rico Dowdle"
+        "A.J. Brown"
       ],
       "taxi": []
     },
@@ -1628,6 +1628,7 @@
       "2505",
       "3163",
       "421",
+      "4454",
       "4866",
       "4983",
       "5012",
@@ -1646,14 +1647,12 @@
       "11635",
       "9997",
       "5012",
-      "7543",
+      "10232",
       "12512",
       "4983"
     ],
     "bench": [
-      "10232",
       "11237",
-      "11618",
       "11647",
       "12487",
       "13274",
@@ -1661,17 +1660,21 @@
       "2505",
       "3163",
       "421",
+      "4454",
       "5022",
+      "7543",
       "7670",
       "8180",
       "9508"
     ],
-    "reserve": [],
+    "reserve": [
+      "11618"
+    ],
     "taxi": [],
-    "player_count": 23,
+    "player_count": 24,
     "starter_count": 9,
     "bench_count": 14,
-    "reserve_count": 0,
+    "reserve_count": 1,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -1688,6 +1691,7 @@
         "Darren Waller",
         "Jared Goff",
         "Matthew Stafford",
+        "Kendrick Bourne",
         "Saquon Barkley",
         "DJ Moore",
         "Mark Andrews",
@@ -1706,14 +1710,12 @@
         "Ladd McConkey",
         "Zay Flowers",
         "Mark Andrews",
-        "Travis Etienne",
+        "Michael Wilson",
         "Quinshon Judkins",
         "DJ Moore"
       ],
       "bench": [
-        "Michael Wilson",
         "Jacob Saylors",
-        "Jalen McMillan",
         "Kimani Vidal",
         "Terrance Ferguson",
         "Germie Bernard",
@@ -1721,12 +1723,16 @@
         "Darren Waller",
         "Jared Goff",
         "Matthew Stafford",
+        "Kendrick Bourne",
         "Dallas Goedert",
+        "Travis Etienne",
         "Joshua Palmer",
         "Jalen Nailor",
         "Tyjae Spears"
       ],
-      "reserve": [],
+      "reserve": [
+        "Jalen McMillan"
+      ],
       "taxi": []
     },
     "settings": {
