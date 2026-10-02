@@ -5717,17 +5717,21 @@
             {
               "roster_id": 10,
               "team_label": "Goin in Ra",
-              "points": 0.0,
+              "points": 16.5,
               "custom_points": null
             },
             {
               "roster_id": 11,
               "team_label": "MOJO",
-              "points": 0.0,
+              "points": 15.6,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 10,
+            "team_label": "Goin in Ra",
+            "points": 16.5
+          }
         },
         {
           "week": 4,
@@ -5742,11 +5746,15 @@
             {
               "roster_id": 12,
               "team_label": "gullickson",
-              "points": 0.0,
+              "points": 21.6,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 12,
+            "team_label": "gullickson",
+            "points": 21.6
+          }
         },
         {
           "week": 4,
@@ -5780,11 +5788,15 @@
             {
               "roster_id": 7,
               "team_label": "Commish is a bitch",
-              "points": 0.0,
+              "points": 11.4,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 7,
+            "team_label": "Commish is a bitch",
+            "points": 11.4
+          }
         },
         {
           "week": 4,
@@ -5799,11 +5811,15 @@
             {
               "roster_id": 6,
               "team_label": "andrewwelle",
-              "points": 0.0,
+              "points": 11.7,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 6,
+            "team_label": "andrewwelle",
+            "points": 11.7
+          }
         }
       ],
       "roster_results": [
@@ -5832,6 +5848,7 @@
             "13305",
             "13347",
             "13349",
+            "13394",
             "13402",
             "13421",
             "13425",
@@ -5863,6 +5880,7 @@
             "13305",
             "13347",
             "13349",
+            "13394",
             "13402",
             "13421",
             "13425",
@@ -5886,6 +5904,7 @@
             "13305": 0.0,
             "13347": 0.0,
             "13349": 0.0,
+            "13394": 0.0,
             "13402": 0.0,
             "13421": 0.0,
             "13425": 0.0,
@@ -5914,6 +5933,7 @@
               "Mike Washington",
               "Demond Claiborne",
               "Eli Stowers",
+              "Josh Cameron",
               "Skyler Bell",
               "Eli Raridon",
               "Jalon Daniels",
@@ -5945,6 +5965,7 @@
               "Mike Washington",
               "Demond Claiborne",
               "Eli Stowers",
+              "Josh Cameron",
               "Skyler Bell",
               "Eli Raridon",
               "Jalon Daniels",
@@ -6017,7 +6038,7 @@
           ],
           "players_points": {
             "10235": 0.0,
-            "12472": 0.0,
+            "12472": 3.6,
             "12492": 0.0,
             "12495": 0.0,
             "12509": 0.0,
@@ -6029,7 +6050,7 @@
             "4993": 0.0,
             "5850": 0.0,
             "5892": 0.0,
-            "6783": 0.0,
+            "6783": 6.6,
             "6786": 0.0,
             "6828": 0.0,
             "6904": 0.0,
@@ -6139,11 +6160,11 @@
             "4046",
             "9509",
             "6813",
-            "7525",
+            "8112",
             "2216",
             "10859",
             "11584",
-            "8112",
+            "8110",
             "2449"
           ],
           "bench": [
@@ -6156,7 +6177,7 @@
             "6130",
             "6804",
             "6819",
-            "8110",
+            "7525",
             "8121",
             "8161",
             "9501",
@@ -6178,7 +6199,7 @@
             "6130": 0.0,
             "6804": 0.0,
             "6813": 0.0,
-            "6819": 0.0,
+            "6819": 3.5,
             "7525": 0.0,
             "8110": 0.0,
             "8112": 0.0,
@@ -6221,11 +6242,11 @@
               "Patrick Mahomes",
               "Bijan Robinson",
               "Jonathan Taylor",
-              "DeVonta Smith",
+              "Drake London",
               "Mike Evans",
               "Sam LaPorta",
               "Bucky Irving",
-              "Drake London",
+              "Jake Ferguson",
               "Stefon Diggs"
             ],
             "bench": [
@@ -6238,7 +6259,7 @@
               "Devin Singletary",
               "Jordan Love",
               "Michael Pittman",
-              "Jake Ferguson",
+              "DeVonta Smith",
               "Romeo Doubs",
               "Malik Willis",
               "DeMario Douglas",
@@ -6412,9 +6433,9 @@
             "5001",
             "7002",
             "7049",
+            "7564",
             "7569",
             "8134",
-            "8137",
             "8148",
             "9221",
             "9224",
@@ -6425,8 +6446,8 @@
             "3294",
             "9221",
             "9224",
-            "8148",
-            "8137",
+            "7564",
+            "9486",
             "1466",
             "7049",
             "7002",
@@ -6447,8 +6468,8 @@
             "4177",
             "5001",
             "8134",
-            "9225",
-            "9486"
+            "8148",
+            "9225"
           ],
           "players_points": {
             "10213": 0.0,
@@ -6468,9 +6489,9 @@
             "5001": 0.0,
             "7002": 0.0,
             "7049": 0.0,
+            "7564": 0.0,
             "7569": 0.0,
             "8134": 0.0,
-            "8137": 0.0,
             "8148": 0.0,
             "9221": 0.0,
             "9224": 0.0,
@@ -6497,9 +6518,9 @@
               "Dalton Schultz",
               "Juwan Johnson",
               "Jauan Jennings",
+              "Ja'Marr Chase",
               "Nico Collins",
               "Khalil Shakir",
-              "George Pickens",
               "Jameson Williams",
               "Jahmyr Gibbs",
               "Chase Brown",
@@ -6510,8 +6531,8 @@
               "Dak Prescott",
               "Jahmyr Gibbs",
               "Chase Brown",
-              "Jameson Williams",
-              "George Pickens",
+              "Ja'Marr Chase",
+              "Dontayvion Wicks",
               "Travis Kelce",
               "Jauan Jennings",
               "Juwan Johnson",
@@ -6532,8 +6553,8 @@
               "Mack Hollins",
               "Dalton Schultz",
               "Khalil Shakir",
-              "Tank Bigsby",
-              "Dontayvion Wicks"
+              "Jameson Williams",
+              "Tank Bigsby"
             ]
           }
         },
@@ -6542,7 +6563,7 @@
           "matchup_id": 6,
           "roster_id": 6,
           "team_label": "andrewwelle",
-          "points": 0.0,
+          "points": 11.7,
           "custom_points": null,
           "players": [
             "11571",
@@ -6607,7 +6628,7 @@
             "1166": 0.0,
             "11834": 0.0,
             "12483": 0.0,
-            "12506": 0.0,
+            "12506": 11.7,
             "12508": 0.0,
             "12527": 0.0,
             "12534": 0.0,
@@ -6692,7 +6713,7 @@
           "matchup_id": 5,
           "roster_id": 7,
           "team_label": "Commish is a bitch",
-          "points": 0.0,
+          "points": 11.4,
           "custom_points": null,
           "players": [
             "10222",
@@ -6767,7 +6788,7 @@
             "12547": 0.0,
             "13275": 0.0,
             "13277": 0.0,
-            "13298": 0.0,
+            "13298": 11.4,
             "13311": 0.0,
             "13414": 0.0,
             "13533": 0.0,
@@ -6906,7 +6927,7 @@
             "11564": 0.0,
             "11569": 0.0,
             "11581": 0.0,
-            "11630": 0.0,
+            "11630": 16.4,
             "11646": 0.0,
             "12484": 0.0,
             "12514": 0.0,
@@ -6914,7 +6935,7 @@
             "12531": 0.0,
             "13270": 0.0,
             "13301": 0.0,
-            "13346": 0.0,
+            "13346": 12.9,
             "6794": 0.0,
             "6797": 0.0,
             "7611": 0.0,
@@ -7014,7 +7035,7 @@
             "7090",
             "7528",
             "7553",
-            "7564",
+            "8137",
             "8144",
             "8154",
             "8172",
@@ -7025,7 +7046,7 @@
             "5849",
             "12489",
             "12507",
-            "7564",
+            "8137",
             "8144",
             "7553",
             "10229",
@@ -7070,7 +7091,7 @@
             "7090": 0.0,
             "7528": 0.0,
             "7553": 0.0,
-            "7564": 0.0,
+            "8137": 0.0,
             "8144": 0.0,
             "8154": 0.0,
             "8172": 0.0,
@@ -7099,7 +7120,7 @@
               "Darnell Mooney",
               "Najee Harris",
               "Kyle Pitts",
-              "Ja'Marr Chase",
+              "George Pickens",
               "Chris Olave",
               "Brian Robinson",
               "Greg Dulcich",
@@ -7110,7 +7131,7 @@
               "Kyler Murray",
               "RJ Harvey",
               "Omarion Hampton",
-              "Ja'Marr Chase",
+              "George Pickens",
               "Chris Olave",
               "Kyle Pitts",
               "Rashee Rice",
@@ -7142,7 +7163,7 @@
           "matchup_id": 2,
           "roster_id": 10,
           "team_label": "Goin in Ra",
-          "points": 0.0,
+          "points": 16.5,
           "custom_points": null,
           "players": [
             "11626",
@@ -7214,13 +7235,13 @@
             "4943": 0.0,
             "4950": 0.0,
             "5844": 0.0,
-            "5846": 0.0,
+            "5846": 16.5,
             "5848": 0.0,
             "5927": 0.0,
             "5947": 0.0,
             "6790": 0.0,
             "7547": 0.0,
-            "7600": 0.0,
+            "7600": 10.7,
             "8126": 0.0,
             "8143": 0.0,
             "9481": 0.0,
@@ -7292,7 +7313,7 @@
           "matchup_id": 2,
           "roster_id": 11,
           "team_label": "MOJO",
-          "points": 0.0,
+          "points": 15.6,
           "custom_points": null,
           "players": [
             "11563",
@@ -7372,7 +7393,7 @@
             "7021": 0.0,
             "7526": 0.0,
             "8138": 0.0,
-            "8228": 0.0,
+            "8228": 15.6,
             "9228": 0.0,
             "9482": 0.0,
             "9757": 0.0
@@ -7442,7 +7463,7 @@
           "matchup_id": 3,
           "roster_id": 12,
           "team_label": "gullickson",
-          "points": 0.0,
+          "points": 21.6,
           "custom_points": null,
           "players": [
             "10232",
@@ -7505,8 +7526,8 @@
             "11635": 0.0,
             "11647": 0.0,
             "12487": 0.0,
-            "12512": 0.0,
-            "13274": 0.0,
+            "12512": 21.6,
+            "13274": 3.1,
             "13278": 0.0,
             "13287": 0.0,
             "2505": 0.0,

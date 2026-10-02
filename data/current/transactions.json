@@ -3685,13 +3685,141 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411513848694874112",
+          "type": "trade",
+          "status": "complete",
+          "created": 1790893635490,
+          "created_at": "2026-10-01T22:27:15.490000Z",
+          "status_updated": 1790896130775,
+          "status_updated_at": "2026-10-01T23:08:50.775000Z",
+          "creator_user_id": "471501409838166016",
+          "roster_ids": [
+            5,
+            9
+          ],
+          "team_labels": [
+            "White Ice",
+            "off"
+          ],
+          "consenter_ids": [
+            5,
+            9
+          ],
+          "consenter_team_labels": [
+            "White Ice",
+            "off"
+          ],
+          "adds": [
+            {
+              "player_id": "7564",
+              "player_name": "Ja'Marr Chase",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            },
+            {
+              "player_id": "8137",
+              "player_name": "George Pickens",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "7564",
+              "player_name": "Ja'Marr Chase",
+              "roster_id": 9,
+              "team_label": "off"
+            },
+            {
+              "player_id": "8137",
+              "player_name": "George Pickens",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2027",
+              "round": 1,
+              "original_roster_id": 5,
+              "original_team_label": "White Ice",
+              "previous_owner_id": 5,
+              "previous_owner_team_label": "White Ice",
+              "owner_id": 9,
+              "owner_team_label": "off"
+            },
+            {
+              "season": "2028",
+              "round": 1,
+              "original_roster_id": 5,
+              "original_team_label": "White Ice",
+              "previous_owner_id": 5,
+              "previous_owner_team_label": "White Ice",
+              "owner_id": 9,
+              "owner_team_label": "off"
+            },
+            {
+              "season": "2029",
+              "round": 1,
+              "original_roster_id": 5,
+              "original_team_label": "White Ice",
+              "previous_owner_id": 5,
+              "previous_owner_team_label": "White Ice",
+              "owner_id": 9,
+              "owner_team_label": "off"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {
+            "is_counter": 1
+          },
+          "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411517039922683904",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1790894396337,
+          "created_at": "2026-10-01T22:39:56.337000Z",
+          "status_updated": 1790894396337,
+          "status_updated_at": "2026-10-01T22:39:56.337000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [
+            {
+              "player_id": "13394",
+              "player_name": "Josh Cameron",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 11,
-        "trades": 3,
+        "transactions": 13,
+        "trades": 4,
         "waivers": 0,
-        "free_agent_moves": 8
+        "free_agent_moves": 9
       }
     }
   },
@@ -7345,6 +7473,134 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411513848694874112",
+      "type": "trade",
+      "status": "complete",
+      "created": 1790893635490,
+      "created_at": "2026-10-01T22:27:15.490000Z",
+      "status_updated": 1790896130775,
+      "status_updated_at": "2026-10-01T23:08:50.775000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        5,
+        9
+      ],
+      "team_labels": [
+        "White Ice",
+        "off"
+      ],
+      "consenter_ids": [
+        5,
+        9
+      ],
+      "consenter_team_labels": [
+        "White Ice",
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "7564",
+          "player_name": "Ja'Marr Chase",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        },
+        {
+          "player_id": "8137",
+          "player_name": "George Pickens",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7564",
+          "player_name": "Ja'Marr Chase",
+          "roster_id": 9,
+          "team_label": "off"
+        },
+        {
+          "player_id": "8137",
+          "player_name": "George Pickens",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team_label": "White Ice",
+          "previous_owner_id": 5,
+          "previous_owner_team_label": "White Ice",
+          "owner_id": 9,
+          "owner_team_label": "off"
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team_label": "White Ice",
+          "previous_owner_id": 5,
+          "previous_owner_team_label": "White Ice",
+          "owner_id": 9,
+          "owner_team_label": "off"
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team_label": "White Ice",
+          "previous_owner_id": 5,
+          "previous_owner_team_label": "White Ice",
+          "owner_id": 9,
+          "owner_team_label": "off"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {
+        "is_counter": 1
+      },
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411517039922683904",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790894396337,
+      "created_at": "2026-10-01T22:39:56.337000Z",
+      "status_updated": 1790894396337,
+      "status_updated_at": "2026-10-01T22:39:56.337000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "13394",
+          "player_name": "Josh Cameron",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -7966,6 +8222,98 @@
       ],
       "waiver_budget": [],
       "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411513848694874112",
+      "type": "trade",
+      "status": "complete",
+      "created": 1790893635490,
+      "created_at": "2026-10-01T22:27:15.490000Z",
+      "status_updated": 1790896130775,
+      "status_updated_at": "2026-10-01T23:08:50.775000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        5,
+        9
+      ],
+      "team_labels": [
+        "White Ice",
+        "off"
+      ],
+      "consenter_ids": [
+        5,
+        9
+      ],
+      "consenter_team_labels": [
+        "White Ice",
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "7564",
+          "player_name": "Ja'Marr Chase",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        },
+        {
+          "player_id": "8137",
+          "player_name": "George Pickens",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7564",
+          "player_name": "Ja'Marr Chase",
+          "roster_id": 9,
+          "team_label": "off"
+        },
+        {
+          "player_id": "8137",
+          "player_name": "George Pickens",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team_label": "White Ice",
+          "previous_owner_id": 5,
+          "previous_owner_team_label": "White Ice",
+          "owner_id": 9,
+          "owner_team_label": "off"
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team_label": "White Ice",
+          "previous_owner_id": 5,
+          "previous_owner_team_label": "White Ice",
+          "owner_id": 9,
+          "owner_team_label": "off"
+        },
+        {
+          "season": "2029",
+          "round": 1,
+          "original_roster_id": 5,
+          "original_team_label": "White Ice",
+          "previous_owner_id": 5,
+          "previous_owner_team_label": "White Ice",
+          "owner_id": 9,
+          "owner_team_label": "off"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {
+        "is_counter": 1
+      },
       "metadata": {}
     }
   ],
@@ -10969,22 +11317,58 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411517039922683904",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790894396337,
+      "created_at": "2026-10-01T22:39:56.337000Z",
+      "status_updated": 1790894396337,
+      "status_updated_at": "2026-10-01T22:39:56.337000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "13394",
+          "player_name": "Josh Cameron",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 4,
-    "transactions": 85,
-    "trades": 8,
+    "transactions": 87,
+    "trades": 9,
     "waivers": 9,
-    "free_agent_moves": 67,
+    "free_agent_moves": 68,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 67,
-      "trade": 8,
+      "free_agent": 68,
+      "trade": 9,
       "waiver": 9
     },
     "by_status": {
-      "complete": 83,
+      "complete": 85,
       "failed": 2
     }
   }

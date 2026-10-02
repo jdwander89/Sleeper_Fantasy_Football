@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-01T17:24:28.248276Z",
-    "source_snapshot_generated_at": "2026-10-01T17:24:26.576422Z",
+    "generated_at": "2026-10-02T16:40:47.525133Z",
+    "source_snapshot_generated_at": "2026-10-02T16:40:45.642100Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -55,14 +55,14 @@
     "required_player_ids": 335,
     "compact_player_lookup": 335,
     "missing_player_ids": 0,
-    "transactions": 85,
-    "trades": 8,
+    "transactions": 87,
+    "trades": 9,
     "waivers": 9,
-    "free_agent_moves": 67,
+    "free_agent_moves": 68,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
-    "league_traded_picks": 24
+    "league_traded_picks": 27
   },
   "data_quality": {
     "warnings": [],
@@ -88,16 +88,16 @@
         "raw_fpts_against_decimal": 32
       },
       "counts": {
-        "players": 24,
+        "players": 25,
         "starters": 9,
-        "bench": 13,
+        "bench": 14,
         "reserve": 2
       },
       "position_counts": {
         "QB": 4,
         "RB": 9,
         "TE": 4,
-        "WR": 7
+        "WR": 8
       },
       "starters": [
         {
@@ -344,11 +344,11 @@
           "injury_status": null
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
-          "team": "PHI",
+          "player_id": "8112",
+          "name": "Drake London",
+          "team": "ATL",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "2216",
@@ -372,10 +372,10 @@
           "injury_status": "Questionable"
         },
         {
-          "player_id": "8112",
-          "name": "Drake London",
-          "team": "ATL",
-          "position": "WR",
+          "player_id": "8110",
+          "name": "Jake Ferguson",
+          "team": "DAL",
+          "position": "TE",
           "injury_status": null
         },
         {
@@ -481,7 +481,7 @@
           "name": "Chris Godwin",
           "team": "TB",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11631",
@@ -545,16 +545,16 @@
           "injury_status": null
         },
         {
-          "player_id": "8148",
-          "name": "Jameson Williams",
-          "team": "DET",
+          "player_id": "7564",
+          "name": "Ja'Marr Chase",
+          "team": "CIN",
           "position": "WR",
           "injury_status": null
         },
         {
-          "player_id": "8137",
-          "name": "George Pickens",
-          "team": "DAL",
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "team": "PHI",
           "position": "WR",
           "injury_status": null
         },
@@ -695,7 +695,7 @@
           "name": "Keenan Allen",
           "team": "IND",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -989,9 +989,9 @@
           "injury_status": null
         },
         {
-          "player_id": "7564",
-          "name": "Ja'Marr Chase",
-          "team": "CIN",
+          "player_id": "8137",
+          "name": "George Pickens",
+          "team": "DAL",
           "position": "WR",
           "injury_status": null
         },
@@ -1097,7 +1097,7 @@
           "name": "D'Andre Swift",
           "team": "CHI",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7547",
@@ -1290,8 +1290,8 @@
       "counts": {
         "players": 24,
         "starters": 9,
-        "bench": 14,
-        "reserve": 1
+        "bench": 13,
+        "reserve": 2
       },
       "position_counts": {
         "QB": 3,
@@ -1333,7 +1333,7 @@
           "name": "Zay Flowers",
           "team": "BAL",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5012",
@@ -1370,6 +1370,13 @@
           "name": "Jalen McMillan",
           "team": "TB",
           "position": "WR",
+          "injury_status": "IR"
+        },
+        {
+          "player_id": "7543",
+          "name": "Travis Etienne",
+          "team": "NO",
+          "position": "RB",
           "injury_status": "IR"
         }
       ]
@@ -1833,17 +1840,21 @@
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 0.0,
+                "points": 16.5,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 0.0,
+                "points": 15.6,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 10,
+              "team_label": "Goin in Ra",
+              "points": 16.5
+            }
           },
           {
             "matchup_id": "3",
@@ -1857,11 +1868,15 @@
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 0.0,
+                "points": 21.6,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 12,
+              "team_label": "gullickson",
+              "points": 21.6
+            }
           },
           {
             "matchup_id": "4",
@@ -1893,11 +1908,15 @@
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 0.0,
+                "points": 11.4,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 7,
+              "team_label": "Commish is a bitch",
+              "points": 11.4
+            }
           },
           {
             "matchup_id": "6",
@@ -1911,11 +1930,15 @@
               {
                 "roster_id": 6,
                 "team_label": "andrewwelle",
-                "points": 0.0,
+                "points": 11.7,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 6,
+              "team_label": "andrewwelle",
+              "points": 11.7
+            }
           }
         ],
         "counts": {
@@ -1933,25 +1956,25 @@
   "transactions": {
     "counts": {
       "weeks": 4,
-      "transactions": 85,
-      "trades": 8,
+      "transactions": 87,
+      "trades": 9,
       "waivers": 9,
-      "free_agent_moves": 67,
+      "free_agent_moves": 68,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 67,
-        "trade": 8,
+        "free_agent": 68,
+        "trade": 9,
         "waiver": 9
       },
       "by_status": {
-        "complete": 83,
+        "complete": 85,
         "failed": 2
       }
     },
     "activity_by_roster_id": {
       "9": {
-        "transactions": 8,
-        "trades": 0,
+        "transactions": 9,
+        "trades": 1,
         "waivers": 1,
         "free_agent_moves": 7
       },
@@ -1968,10 +1991,10 @@
         "free_agent_moves": 7
       },
       "1": {
-        "transactions": 14,
+        "transactions": 15,
         "trades": 3,
         "waivers": 1,
-        "free_agent_moves": 10
+        "free_agent_moves": 11
       },
       "11": {
         "transactions": 15,
@@ -2016,13 +2039,104 @@
         "free_agent_moves": 1
       },
       "5": {
-        "transactions": 8,
-        "trades": 1,
+        "transactions": 9,
+        "trades": 2,
         "waivers": 3,
         "free_agent_moves": 4
       }
     },
     "recent_transactions": [
+      {
+        "week": 4,
+        "transaction_id": "1411517039922683904",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-01T22:39:56.337000Z",
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "13394",
+            "player_name": "Josh Cameron",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
+      {
+        "week": 4,
+        "transaction_id": "1411513848694874112",
+        "type": "trade",
+        "status": "complete",
+        "created_at": "2026-10-01T22:27:15.490000Z",
+        "team_labels": [
+          "White Ice",
+          "off"
+        ],
+        "adds": [
+          {
+            "player_id": "7564",
+            "player_name": "Ja'Marr Chase",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          },
+          {
+            "player_id": "8137",
+            "player_name": "George Pickens",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "7564",
+            "player_name": "Ja'Marr Chase",
+            "roster_id": 9,
+            "team_label": "off"
+          },
+          {
+            "player_id": "8137",
+            "player_name": "George Pickens",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          }
+        ],
+        "draft_picks": [
+          {
+            "season": "2027",
+            "round": 1,
+            "original_roster_id": 5,
+            "original_team_label": "White Ice",
+            "previous_owner_id": 5,
+            "previous_owner_team_label": "White Ice",
+            "owner_id": 9,
+            "owner_team_label": "off"
+          },
+          {
+            "season": "2028",
+            "round": 1,
+            "original_roster_id": 5,
+            "original_team_label": "White Ice",
+            "previous_owner_id": 5,
+            "previous_owner_team_label": "White Ice",
+            "owner_id": 9,
+            "owner_team_label": "off"
+          },
+          {
+            "season": "2029",
+            "round": 1,
+            "original_roster_id": 5,
+            "original_team_label": "White Ice",
+            "previous_owner_id": 5,
+            "previous_owner_team_label": "White Ice",
+            "owner_id": 9,
+            "owner_team_label": "off"
+          }
+        ]
+      },
       {
         "week": 4,
         "transaction_id": "1411180983331414016",
@@ -2685,46 +2799,6 @@
           }
         ],
         "draft_picks": []
-      },
-      {
-        "week": 2,
-        "transaction_id": "1407385142317645824",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-09-20T13:01:15.181000Z",
-        "team_labels": [
-          "Commish is a bitch"
-        ],
-        "adds": [
-          {
-            "player_id": "3286",
-            "player_name": "Demarcus Robinson",
-            "roster_id": 7,
-            "team_label": "Commish is a bitch"
-          }
-        ],
-        "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 2,
-        "transaction_id": "1406483954403377152",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-09-18T01:20:15.239000Z",
-        "team_labels": [
-          "White Ice"
-        ],
-        "adds": [],
-        "drops": [
-          {
-            "player_id": "13282",
-            "player_name": "Jack Endries",
-            "roster_id": 5,
-            "team_label": "White Ice"
-          }
-        ],
-        "draft_picks": []
       }
     ]
   },
@@ -2847,7 +2921,7 @@
       }
     ],
     "traded_picks": {
-      "league_traded_picks": 24,
+      "league_traded_picks": 27,
       "draft_traded_picks": 8
     }
   },

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-01T17:24:26.576422Z",
+  "generated_at": "2026-10-02T16:40:45.642100Z",
   "league_id": "1312581067286282240",
   "sport": "nfl",
   "season": "2026",
@@ -44,17 +44,17 @@
     {
       "path": "data/current/rosters.json",
       "exists": true,
-      "size_bytes": 33528
+      "size_bytes": 33606
     },
     {
       "path": "data/current/matchups.json",
       "exists": true,
-      "size_bytes": 188323
+      "size_bytes": 188896
     },
     {
       "path": "data/current/transactions.json",
       "exists": true,
-      "size_bytes": 281495
+      "size_bytes": 291568
     },
     {
       "path": "data/current/drafts.json",
@@ -64,12 +64,12 @@
     {
       "path": "data/current/traded_picks.json",
       "exists": true,
-      "size_bytes": 10148
+      "size_bytes": 10997
     },
     {
       "path": "data/current/player_lookup_compact.json",
       "exists": true,
-      "size_bytes": 119520
+      "size_bytes": 119455
     },
     {
       "path": "data/current/player_id_index.json",
@@ -79,12 +79,12 @@
     {
       "path": "data/current/chatgpt_summary.json",
       "exists": true,
-      "size_bytes": 70617
+      "size_bytes": 72724
     },
     {
       "path": "data/current/chatgpt_bundle.json",
       "exists": true,
-      "size_bytes": 837333
+      "size_bytes": 849756
     }
   ],
   "counts": {
@@ -96,14 +96,14 @@
     "required_player_ids": 335,
     "compact_player_lookup": 335,
     "missing_player_ids": 0,
-    "transactions": 85,
-    "trades": 8,
+    "transactions": 87,
+    "trades": 9,
     "waivers": 9,
-    "free_agent_moves": 67,
+    "free_agent_moves": 68,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
-    "league_traded_picks": 24,
+    "league_traded_picks": 27,
     "summary_teams": 12
   },
   "data_quality": {
@@ -111,5 +111,5 @@
     "errors": [],
     "missing_player_ids": []
   },
-  "summary_generated_at": "2026-10-01T17:24:28.248276Z"
+  "summary_generated_at": "2026-10-02T16:40:47.525133Z"
 }
