@@ -3813,13 +3813,49 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411813457040314368",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1790965067685,
+          "created_at": "2026-10-02T18:17:47.685000Z",
+          "status_updated": 1790965067685,
+          "status_updated_at": "2026-10-02T18:17:47.685000Z",
+          "creator_user_id": "471744678006353920",
+          "roster_ids": [
+            12
+          ],
+          "team_labels": [
+            "gullickson"
+          ],
+          "consenter_ids": [
+            12
+          ],
+          "consenter_team_labels": [
+            "gullickson"
+          ],
+          "adds": [
+            {
+              "player_id": "11608",
+              "player_name": "Isaiah Williams",
+              "roster_id": 12,
+              "team_label": "gullickson"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 13,
+        "transactions": 14,
         "trades": 4,
         "waivers": 0,
-        "free_agent_moves": 9
+        "free_agent_moves": 10
       }
     }
   },
@@ -7601,6 +7637,42 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411813457040314368",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790965067685,
+      "created_at": "2026-10-02T18:17:47.685000Z",
+      "status_updated": 1790965067685,
+      "status_updated_at": "2026-10-02T18:17:47.685000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [
+        {
+          "player_id": "11608",
+          "player_name": "Isaiah Williams",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -11353,22 +11425,58 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411813457040314368",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1790965067685,
+      "created_at": "2026-10-02T18:17:47.685000Z",
+      "status_updated": 1790965067685,
+      "status_updated_at": "2026-10-02T18:17:47.685000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [
+        {
+          "player_id": "11608",
+          "player_name": "Isaiah Williams",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 4,
-    "transactions": 87,
+    "transactions": 88,
     "trades": 9,
     "waivers": 9,
-    "free_agent_moves": 68,
+    "free_agent_moves": 69,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 68,
+      "free_agent": 69,
       "trade": 9,
       "waiver": 9
     },
     "by_status": {
-      "complete": 85,
+      "complete": 86,
       "failed": 2
     }
   }

@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-02T16:40:47.414181Z",
+  "generated_at": "2026-10-03T15:09:10.423609Z",
   "counts": {
-    "required_player_ids": 335,
-    "resolved_player_ids": 335,
+    "required_player_ids": 336,
+    "resolved_player_ids": 336,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -138,6 +138,7 @@
       "isaiah bond": "12503",
       "isaiah davis": "11571",
       "isaiah likely": "8131",
+      "isaiah williams": "11608",
       "isiah pacheco": "8205",
       "j'mari taylor": "13348",
       "j.j. mccarthy": "11565",
@@ -638,6 +639,7 @@
       "NYJ": [
         "11571",
         "11576",
+        "11608",
         "11625",
         "12498",
         "13276",
@@ -954,6 +956,7 @@
         "10229",
         "10232",
         "10444",
+        "11608",
         "11610",
         "11618",
         "11620",

@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-02T16:40:47.525133Z",
-    "source_snapshot_generated_at": "2026-10-02T16:40:45.642100Z",
+    "generated_at": "2026-10-03T15:09:10.519641Z",
+    "source_snapshot_generated_at": "2026-10-03T15:09:09.241697Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 4,
     "matchups": 24,
     "matchup_roster_results": 48,
-    "required_player_ids": 335,
-    "compact_player_lookup": 335,
+    "required_player_ids": 336,
+    "compact_player_lookup": 336,
     "missing_player_ids": 0,
-    "transactions": 87,
+    "transactions": 88,
     "trades": 9,
     "waivers": 9,
-    "free_agent_moves": 68,
+    "free_agent_moves": 69,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -161,7 +161,7 @@
           "name": "Rachaad White",
           "team": "WAS",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         }
       ],
       "reserve": [
@@ -351,11 +351,11 @@
           "injury_status": null
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
-          "team": "SF",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "team": "WAS",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "10859",
@@ -369,7 +369,7 @@
           "name": "Bucky Irving",
           "team": "TB",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8110",
@@ -379,11 +379,11 @@
           "injury_status": null
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
-          "team": "WAS",
+          "player_id": "2216",
+          "name": "Mike Evans",
+          "team": "SF",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -584,7 +584,7 @@
           "name": "Nico Collins",
           "team": "HOU",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -593,7 +593,7 @@
           "name": "Caleb Williams",
           "team": "CHI",
           "position": "QB",
-          "injury_status": "Doubtful"
+          "injury_status": "Out"
         },
         {
           "player_id": "11589",
@@ -695,7 +695,7 @@
           "name": "Keenan Allen",
           "team": "IND",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         }
       ],
       "reserve": [
@@ -878,11 +878,11 @@
           "injury_status": null
         },
         {
-          "player_id": "6794",
-          "name": "Justin Jefferson",
-          "team": "MIN",
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "team": "IND",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12514",
@@ -906,18 +906,18 @@
           "injury_status": null
         },
         {
+          "player_id": "8131",
+          "name": "Isaiah Likely",
+          "team": "NYG",
+          "position": "TE",
+          "injury_status": null
+        },
+        {
           "player_id": "11646",
           "name": "Jalen Coker",
           "team": "CAR",
           "position": "WR",
           "injury_status": "Questionable"
-        },
-        {
-          "player_id": "9500",
-          "name": "Josh Downs",
-          "team": "IND",
-          "position": "WR",
-          "injury_status": null
         }
       ],
       "reserve": [
@@ -1097,7 +1097,7 @@
           "name": "D'Andre Swift",
           "team": "CHI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7547",
@@ -1132,14 +1132,14 @@
           "name": "Jakobi Meyers",
           "team": "JAX",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5927",
           "name": "Terry McLaurin",
           "team": "WAS",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Doubtful"
         }
       ],
       "reserve": [
@@ -1288,16 +1288,16 @@
         "raw_fpts_against_decimal": 50
       },
       "counts": {
-        "players": 24,
+        "players": 25,
         "starters": 9,
-        "bench": 13,
+        "bench": 14,
         "reserve": 2
       },
       "position_counts": {
         "QB": 3,
         "RB": 7,
         "TE": 5,
-        "WR": 9
+        "WR": 10
       },
       "starters": [
         {
@@ -1333,7 +1333,7 @@
           "name": "Zay Flowers",
           "team": "BAL",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "5012",
@@ -1361,7 +1361,7 @@
           "name": "DJ Moore",
           "team": "BUF",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -1956,18 +1956,18 @@
   "transactions": {
     "counts": {
       "weeks": 4,
-      "transactions": 87,
+      "transactions": 88,
       "trades": 9,
       "waivers": 9,
-      "free_agent_moves": 68,
+      "free_agent_moves": 69,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 68,
+        "free_agent": 69,
         "trade": 9,
         "waiver": 9
       },
       "by_status": {
-        "complete": 85,
+        "complete": 86,
         "failed": 2
       }
     },
@@ -1979,10 +1979,10 @@
         "free_agent_moves": 7
       },
       "12": {
-        "transactions": 6,
+        "transactions": 7,
         "trades": 1,
         "waivers": 0,
-        "free_agent_moves": 5
+        "free_agent_moves": 6
       },
       "7": {
         "transactions": 8,
@@ -2046,6 +2046,26 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 4,
+        "transaction_id": "1411813457040314368",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-02T18:17:47.685000Z",
+        "team_labels": [
+          "gullickson"
+        ],
+        "adds": [
+          {
+            "player_id": "11608",
+            "player_name": "Isaiah Williams",
+            "roster_id": 12,
+            "team_label": "gullickson"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
       {
         "week": 4,
         "transaction_id": "1411517039922683904",
@@ -2771,33 +2791,6 @@
           }
         ],
         "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 2,
-        "transaction_id": "1408315915434471424",
-        "type": "waiver",
-        "status": "complete",
-        "created_at": "2026-09-23T02:39:48.786000Z",
-        "team_labels": [
-          "andrewwelle"
-        ],
-        "adds": [
-          {
-            "player_id": "5854",
-            "player_name": "Drew Lock",
-            "roster_id": 6,
-            "team_label": "andrewwelle"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "12476",
-            "player_name": "Devin Neal",
-            "roster_id": 6,
-            "team_label": "andrewwelle"
-          }
-        ],
         "draft_picks": []
       }
     ]

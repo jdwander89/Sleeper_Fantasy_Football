@@ -331,11 +331,11 @@
       "9509",
       "6813",
       "8112",
-      "2216",
+      "2449",
       "10859",
       "11584",
       "8110",
-      "2449"
+      "2216"
     ],
     "bench": [
       "11655",
@@ -394,11 +394,11 @@
         "Bijan Robinson",
         "Jonathan Taylor",
         "Drake London",
-        "Mike Evans",
+        "Stefon Diggs",
         "Sam LaPorta",
         "Bucky Irving",
         "Jake Ferguson",
-        "Stefon Diggs"
+        "Mike Evans"
       ],
       "bench": [
         "Tyrone Tracy",
@@ -1055,12 +1055,12 @@
       "11564",
       "8151",
       "8150",
-      "6794",
+      "9500",
       "12514",
       "8130",
       "7611",
-      "11646",
-      "9500"
+      "8131",
+      "11646"
     ],
     "bench": [
       "11199",
@@ -1073,9 +1073,9 @@
       "13270",
       "13301",
       "13346",
+      "6794",
       "6797",
       "8125",
-      "8131",
       "8142"
     ],
     "reserve": [
@@ -1120,12 +1120,12 @@
         "Drake Maye",
         "Kenneth Walker",
         "Kyren Williams",
-        "Justin Jefferson",
+        "Josh Downs",
         "Emeka Egbuka",
         "Trey McBride",
         "Rhamondre Stevenson",
-        "Jalen Coker",
-        "Josh Downs"
+        "Isaiah Likely",
+        "Jalen Coker"
       ],
       "bench": [
         "Emari Demercado",
@@ -1138,9 +1138,9 @@
         "CJ Daniels",
         "Antonio Williams",
         "Denzel Boston",
+        "Justin Jefferson",
         "Justin Herbert",
         "Calvin Austin",
-        "Isaiah Likely",
         "Alec Pierce"
       ],
       "reserve": [
@@ -1621,6 +1621,7 @@
     "players": [
       "10232",
       "11237",
+      "11608",
       "11618",
       "11635",
       "11647",
@@ -1657,6 +1658,7 @@
     ],
     "bench": [
       "11237",
+      "11608",
       "11647",
       "12487",
       "13274",
@@ -1675,15 +1677,16 @@
       "7543"
     ],
     "taxi": [],
-    "player_count": 24,
+    "player_count": 25,
     "starter_count": 9,
-    "bench_count": 13,
+    "bench_count": 14,
     "reserve_count": 2,
     "taxi_count": 0,
     "display": {
       "players": [
         "Michael Wilson",
         "Jacob Saylors",
+        "Isaiah Williams",
         "Jalen McMillan",
         "Ladd McConkey",
         "Kimani Vidal",
@@ -1720,6 +1723,7 @@
       ],
       "bench": [
         "Jacob Saylors",
+        "Isaiah Williams",
         "Kimani Vidal",
         "Terrance Ferguson",
         "Germie Bernard",

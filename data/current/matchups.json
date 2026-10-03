@@ -6161,11 +6161,11 @@
             "9509",
             "6813",
             "8112",
-            "2216",
+            "2449",
             "10859",
             "11584",
             "8110",
-            "2449"
+            "2216"
           ],
           "bench": [
             "11655",
@@ -6243,11 +6243,11 @@
               "Bijan Robinson",
               "Jonathan Taylor",
               "Drake London",
-              "Mike Evans",
+              "Stefon Diggs",
               "Sam LaPorta",
               "Bucky Irving",
               "Jake Ferguson",
-              "Stefon Diggs"
+              "Mike Evans"
             ],
             "bench": [
               "Tyrone Tracy",
@@ -6896,12 +6896,12 @@
             "11564",
             "8151",
             "8150",
-            "6794",
+            "9500",
             "12514",
             "8130",
             "7611",
-            "11646",
-            "9500"
+            "8131",
+            "11646"
           ],
           "bench": [
             "11199",
@@ -6915,9 +6915,9 @@
             "13270",
             "13301",
             "13346",
+            "6794",
             "6797",
             "8125",
-            "8131",
             "8142",
             "9753"
           ],
@@ -6981,12 +6981,12 @@
               "Drake Maye",
               "Kenneth Walker",
               "Kyren Williams",
-              "Justin Jefferson",
+              "Josh Downs",
               "Emeka Egbuka",
               "Trey McBride",
               "Rhamondre Stevenson",
-              "Jalen Coker",
-              "Josh Downs"
+              "Isaiah Likely",
+              "Jalen Coker"
             ],
             "bench": [
               "Emari Demercado",
@@ -7000,9 +7000,9 @@
               "CJ Daniels",
               "Antonio Williams",
               "Denzel Boston",
+              "Justin Jefferson",
               "Justin Herbert",
               "Calvin Austin",
-              "Isaiah Likely",
               "Alec Pierce",
               "Zach Charbonnet"
             ]
@@ -7468,6 +7468,7 @@
           "players": [
             "10232",
             "11237",
+            "11608",
             "11618",
             "11635",
             "11647",
@@ -7504,6 +7505,7 @@
           ],
           "bench": [
             "11237",
+            "11608",
             "11618",
             "11647",
             "12487",
@@ -7522,6 +7524,7 @@
           "players_points": {
             "10232": 0.0,
             "11237": 0.0,
+            "11608": 0.0,
             "11618": 0.0,
             "11635": 0.0,
             "11647": 0.0,
@@ -7550,6 +7553,7 @@
             "players": [
               "Michael Wilson",
               "Jacob Saylors",
+              "Isaiah Williams",
               "Jalen McMillan",
               "Ladd McConkey",
               "Kimani Vidal",
@@ -7586,6 +7590,7 @@
             ],
             "bench": [
               "Jacob Saylors",
+              "Isaiah Williams",
               "Jalen McMillan",
               "Kimani Vidal",
               "Terrance Ferguson",
