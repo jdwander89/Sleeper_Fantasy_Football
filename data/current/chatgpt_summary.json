@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-03T15:09:10.519641Z",
-    "source_snapshot_generated_at": "2026-10-03T15:09:09.241697Z",
+    "generated_at": "2026-10-04T15:49:25.453655Z",
+    "source_snapshot_generated_at": "2026-10-04T15:49:23.964724Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -552,9 +552,9 @@
           "injury_status": null
         },
         {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "team": "PHI",
+          "player_id": "7569",
+          "name": "Nico Collins",
+          "team": "HOU",
           "position": "WR",
           "injury_status": null
         },
@@ -566,9 +566,9 @@
           "injury_status": null
         },
         {
-          "player_id": "7049",
-          "name": "Jauan Jennings",
-          "team": "MIN",
+          "player_id": "8148",
+          "name": "Jameson Williams",
+          "team": "DET",
           "position": "WR",
           "injury_status": null
         },
@@ -580,9 +580,9 @@
           "injury_status": null
         },
         {
-          "player_id": "7569",
-          "name": "Nico Collins",
-          "team": "HOU",
+          "player_id": "9486",
+          "name": "Dontayvion Wicks",
+          "team": "PHI",
           "position": "WR",
           "injury_status": null
         }
@@ -691,11 +691,11 @@
           "injury_status": null
         },
         {
-          "player_id": "1479",
-          "name": "Keenan Allen",
-          "team": "IND",
+          "player_id": "11834",
+          "name": "Devaughn Vele",
+          "team": "NO",
           "position": "WR",
-          "injury_status": "Out"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -1021,7 +1021,7 @@
           "name": "Kenyon Sadiq",
           "team": "NYJ",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "3634",
@@ -1135,11 +1135,11 @@
           "injury_status": null
         },
         {
-          "player_id": "5927",
-          "name": "Terry McLaurin",
-          "team": "WAS",
+          "player_id": "8126",
+          "name": "Wan'Dale Robinson",
+          "team": "TEN",
           "position": "WR",
-          "injury_status": "Doubtful"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -1333,7 +1333,7 @@
           "name": "Zay Flowers",
           "team": "BAL",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5012",
@@ -1822,17 +1822,21 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 0.0,
+                "points": 6.0,
                 "custom_points": null
               },
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 0.0,
+                "points": 25.1,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 3,
+              "team_label": "Laporta Potty",
+              "points": 25.1
+            }
           },
           {
             "matchup_id": "2",
@@ -1890,11 +1894,15 @@
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 0.0,
+                "points": 4.6,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 8,
+              "team_label": "Back to the Future",
+              "points": 4.6
+            }
           },
           {
             "matchup_id": "5",
@@ -1908,14 +1916,14 @@
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 11.4,
+                "points": 17.8,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 7,
               "team_label": "Commish is a bitch",
-              "points": 11.4
+              "points": 17.8
             }
           },
           {

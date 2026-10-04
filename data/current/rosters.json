@@ -614,11 +614,11 @@
       "9221",
       "9224",
       "7564",
-      "9486",
+      "7569",
       "1466",
-      "7049",
+      "8148",
       "7002",
-      "7569"
+      "9486"
     ],
     "bench": [
       "10213",
@@ -632,8 +632,8 @@
       "13317",
       "4177",
       "5001",
+      "7049",
       "8134",
-      "8148",
       "9225"
     ],
     "reserve": [
@@ -679,11 +679,11 @@
         "Jahmyr Gibbs",
         "Chase Brown",
         "Ja'Marr Chase",
-        "Dontayvion Wicks",
+        "Nico Collins",
         "Travis Kelce",
-        "Jauan Jennings",
+        "Jameson Williams",
         "Juwan Johnson",
-        "Nico Collins"
+        "Dontayvion Wicks"
       ],
       "bench": [
         "Tre Tucker",
@@ -697,8 +697,8 @@
         "Ted Hurst",
         "Mack Hollins",
         "Dalton Schultz",
+        "Jauan Jennings",
         "Khalil Shakir",
-        "Jameson Williams",
         "Tank Bigsby"
       ],
       "reserve": [
@@ -765,18 +765,18 @@
       "4217",
       "12506",
       "4199",
-      "1479"
+      "11834"
     ],
     "bench": [
       "11571",
       "11628",
-      "11834",
       "12483",
       "12508",
       "12534",
       "13276",
       "13404",
       "13420",
+      "1479",
       "2374",
       "4137",
       "5854",
@@ -830,18 +830,18 @@
         "George Kittle",
         "Harold Fannin",
         "Aaron Jones",
-        "Keenan Allen"
+        "Devaughn Vele"
       ],
       "bench": [
         "Isaiah Davis",
         "Marvin Harrison",
-        "Devaughn Vele",
         "Jack Bech",
         "Jaxson Dart",
         "Kyle Monangai",
         "Omar Cooper",
         "Garrett Nussmeier",
         "Bryce Lance",
+        "Keenan Allen",
         "Tyler Lockett",
         "James Conner",
         "Drew Lock",
@@ -1360,7 +1360,7 @@
       "9484",
       "12490",
       "5947",
-      "5927"
+      "8126"
     ],
     "bench": [
       "11626",
@@ -1373,8 +1373,8 @@
       "4881",
       "5844",
       "5848",
+      "5927",
       "7600",
-      "8126",
       "8143",
       "9511"
     ],
@@ -1425,7 +1425,7 @@
         "Tucker Kraft",
         "Bhayshul Tuten",
         "Jakobi Meyers",
-        "Terry McLaurin"
+        "Wan'Dale Robinson"
       ],
       "bench": [
         "Xavier Legette",
@@ -1438,8 +1438,8 @@
         "Lamar Jackson",
         "T.J. Hockenson",
         "Marquise Brown",
+        "Terry McLaurin",
         "Pat Freiermuth",
-        "Wan'Dale Robinson",
         "Jerome Ford",
         "Keaton Mitchell"
       ],
