@@ -93,13 +93,13 @@
   {
     "roster_id": 2,
     "owner_user_id": "471403228244733952",
-    "team_name": "A B CeeDee",
-    "display_label": "A B CeeDee",
+    "team_name": "CeeDee You Later",
+    "display_label": "CeeDee You Later",
     "owner": {
       "user_id": "471403228244733952",
       "username": null,
       "display_name": "Logs24",
-      "team_name": "A B CeeDee",
+      "team_name": "CeeDee You Later",
       "is_owner": false,
       "metadata": {
         "allow_pn": "on",
@@ -126,7 +126,7 @@
         "mascot_message_emotion_leg_6": "idle",
         "mascot_message_leg_6": "No clue",
         "mention_pn": "on",
-        "team_name": "A B CeeDee"
+        "team_name": "CeeDee You Later"
       }
     },
     "record": {

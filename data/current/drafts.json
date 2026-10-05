@@ -163,7 +163,7 @@
           "round": 1,
           "draft_slot": 5,
           "roster_id": 2,
-          "team_label": "A B CeeDee",
+          "team_label": "CeeDee You Later",
           "player_id": "13294",
           "player_name": "Makai Lemon",
           "metadata": {
@@ -475,7 +475,7 @@
           "round": 2,
           "draft_slot": 5,
           "roster_id": 2,
-          "team_label": "A B CeeDee",
+          "team_label": "CeeDee You Later",
           "player_id": "13417",
           "player_name": "De'Zhaun Stribling",
           "metadata": {
@@ -735,7 +735,7 @@
           "round": 3,
           "draft_slot": 3,
           "roster_id": 2,
-          "team_label": "A B CeeDee",
+          "team_label": "CeeDee You Later",
           "player_id": "8210",
           "player_name": "Chig Okonkwo",
           "metadata": {
@@ -1385,7 +1385,7 @@
           "round": 5,
           "draft_slot": 4,
           "roster_id": 2,
-          "team_label": "A B CeeDee",
+          "team_label": "CeeDee You Later",
           "player_id": "13338",
           "player_name": "Kevin Coleman",
           "metadata": {
@@ -1726,7 +1726,7 @@
             "round": 1,
             "draft_slot": 5,
             "roster_id": 2,
-            "team_label": "A B CeeDee",
+            "team_label": "CeeDee You Later",
             "player_id": "13294",
             "player_name": "Makai Lemon",
             "metadata": {
@@ -2040,7 +2040,7 @@
             "round": 2,
             "draft_slot": 5,
             "roster_id": 2,
-            "team_label": "A B CeeDee",
+            "team_label": "CeeDee You Later",
             "player_id": "13417",
             "player_name": "De'Zhaun Stribling",
             "metadata": {
@@ -2302,7 +2302,7 @@
             "round": 3,
             "draft_slot": 3,
             "roster_id": 2,
-            "team_label": "A B CeeDee",
+            "team_label": "CeeDee You Later",
             "player_id": "8210",
             "player_name": "Chig Okonkwo",
             "metadata": {
@@ -2956,7 +2956,7 @@
             "round": 5,
             "draft_slot": 4,
             "roster_id": 2,
-            "team_label": "A B CeeDee",
+            "team_label": "CeeDee You Later",
             "player_id": "13338",
             "player_name": "Kevin Coleman",
             "metadata": {
@@ -3197,16 +3197,16 @@
           "previous_owner_id": 1,
           "previous_owner_team_label": "It’s Herbie Hancock",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         },
         {
           "season": "2026",
           "round": 3,
           "draft_id": 1312581067298836480,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "A B CeeDee",
+          "previous_owner_team_label": "CeeDee You Later",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         },
@@ -3215,9 +3215,9 @@
           "round": 4,
           "draft_id": 1312581067298836480,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "A B CeeDee",
+          "previous_owner_team_label": "CeeDee You Later",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         },
@@ -3226,9 +3226,9 @@
           "round": 5,
           "draft_id": 1312581067298836480,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "A B CeeDee",
+          "previous_owner_team_label": "CeeDee You Later",
           "owner_id": 10,
           "owner_team_label": "Goin in Ra"
         },
@@ -3252,7 +3252,7 @@
           "previous_owner_id": 10,
           "previous_owner_team_label": "Goin in Ra",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         },
         {
           "season": "2026",

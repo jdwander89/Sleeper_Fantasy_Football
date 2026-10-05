@@ -341,7 +341,7 @@
           ],
           "team_labels": [
             "It’s Herbie Hancock",
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "consenter_ids": [
             1,
@@ -349,14 +349,14 @@
           ],
           "consenter_team_labels": [
             "It’s Herbie Hancock",
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "adds": [
             {
               "player_id": "8408",
               "player_name": "Jordan Mason",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "drops": [
@@ -376,15 +376,15 @@
               "previous_owner_id": 1,
               "previous_owner_team_label": "It’s Herbie Hancock",
               "owner_id": 2,
-              "owner_team_label": "A B CeeDee"
+              "owner_team_label": "CeeDee You Later"
             },
             {
               "season": "2026",
               "round": 3,
               "original_roster_id": 2,
-              "original_team_label": "A B CeeDee",
+              "original_team_label": "CeeDee You Later",
               "previous_owner_id": 2,
-              "previous_owner_team_label": "A B CeeDee",
+              "previous_owner_team_label": "CeeDee You Later",
               "owner_id": 1,
               "owner_team_label": "It’s Herbie Hancock"
             },
@@ -392,9 +392,9 @@
               "season": "2026",
               "round": 4,
               "original_roster_id": 2,
-              "original_team_label": "A B CeeDee",
+              "original_team_label": "CeeDee You Later",
               "previous_owner_id": 2,
-              "previous_owner_team_label": "A B CeeDee",
+              "previous_owner_team_label": "CeeDee You Later",
               "owner_id": 1,
               "owner_team_label": "It’s Herbie Hancock"
             },
@@ -402,9 +402,9 @@
               "season": "2027",
               "round": 3,
               "original_roster_id": 2,
-              "original_team_label": "A B CeeDee",
+              "original_team_label": "CeeDee You Later",
               "previous_owner_id": 2,
-              "previous_owner_team_label": "A B CeeDee",
+              "previous_owner_team_label": "CeeDee You Later",
               "owner_id": 1,
               "owner_team_label": "It’s Herbie Hancock"
             }
@@ -428,7 +428,7 @@
             10
           ],
           "team_labels": [
-            "A B CeeDee",
+            "CeeDee You Later",
             "Goin in Ra"
           ],
           "consenter_ids": [
@@ -436,7 +436,7 @@
             10
           ],
           "consenter_team_labels": [
-            "A B CeeDee",
+            "CeeDee You Later",
             "Goin in Ra"
           ],
           "adds": [],
@@ -450,15 +450,15 @@
               "previous_owner_id": 10,
               "previous_owner_team_label": "Goin in Ra",
               "owner_id": 2,
-              "owner_team_label": "A B CeeDee"
+              "owner_team_label": "CeeDee You Later"
             },
             {
               "season": "2026",
               "round": 5,
               "original_roster_id": 2,
-              "original_team_label": "A B CeeDee",
+              "original_team_label": "CeeDee You Later",
               "previous_owner_id": 2,
-              "previous_owner_team_label": "A B CeeDee",
+              "previous_owner_team_label": "CeeDee You Later",
               "owner_id": 10,
               "owner_team_label": "Goin in Ra"
             },
@@ -466,9 +466,9 @@
               "season": "2028",
               "round": 3,
               "original_roster_id": 2,
-              "original_team_label": "A B CeeDee",
+              "original_team_label": "CeeDee You Later",
               "previous_owner_id": 2,
-              "previous_owner_team_label": "A B CeeDee",
+              "previous_owner_team_label": "CeeDee You Later",
               "owner_id": 10,
               "owner_team_label": "Goin in Ra"
             }
@@ -563,20 +563,20 @@
             2
           ],
           "team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "adds": [
             {
               "player_id": "13413",
               "player_name": "Cyrus Allen",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "drops": [
@@ -584,7 +584,7 @@
               "player_id": "13338",
               "player_name": "Kevin Coleman",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "draft_picks": [],
@@ -958,20 +958,20 @@
             2
           ],
           "team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "adds": [
             {
               "player_id": "8800",
               "player_name": "Malik Davis",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "drops": [
@@ -979,7 +979,7 @@
               "player_id": "12455",
               "player_name": "Brashard Smith",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "draft_picks": [],
@@ -1044,13 +1044,13 @@
             2
           ],
           "team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "adds": [],
           "drops": [
@@ -1058,7 +1058,7 @@
               "player_id": "5850",
               "player_name": "Josh Jacobs",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "draft_picks": [],
@@ -1080,7 +1080,7 @@
             2
           ],
           "team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "consenter_ids": [],
           "consenter_team_labels": [],
@@ -1089,7 +1089,7 @@
               "player_id": "5850",
               "player_name": "Josh Jacobs",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "drops": [],
@@ -1866,20 +1866,20 @@
             2
           ],
           "team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "adds": [
             {
               "player_id": "4017",
               "player_name": "Deshaun Watson",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "drops": [],
@@ -2104,7 +2104,7 @@
             11
           ],
           "team_labels": [
-            "A B CeeDee",
+            "CeeDee You Later",
             "MOJO"
           ],
           "consenter_ids": [
@@ -2112,7 +2112,7 @@
             11
           ],
           "consenter_team_labels": [
-            "A B CeeDee",
+            "CeeDee You Later",
             "MOJO"
           ],
           "adds": [
@@ -2128,7 +2128,7 @@
               "player_id": "12469",
               "player_name": "Dylan Sampson",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "draft_picks": [
@@ -2140,7 +2140,7 @@
               "previous_owner_id": 11,
               "previous_owner_team_label": "MOJO",
               "owner_id": 2,
-              "owner_team_label": "A B CeeDee"
+              "owner_team_label": "CeeDee You Later"
             }
           ],
           "waiver_budget": [],
@@ -2163,20 +2163,20 @@
             2
           ],
           "team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "adds": [
             {
               "player_id": "10235",
               "player_name": "Roschon Johnson",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "drops": [],
@@ -2235,20 +2235,20 @@
             2
           ],
           "team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "adds": [
             {
               "player_id": "8127",
               "player_name": "Charlie Kolar",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "drops": [
@@ -2256,7 +2256,7 @@
               "player_id": "4017",
               "player_name": "Deshaun Watson",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "draft_picks": [],
@@ -2498,20 +2498,20 @@
             2
           ],
           "team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "adds": [
             {
               "player_id": "12472",
               "player_name": "Raheim Sanders",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "drops": [],
@@ -2787,20 +2787,20 @@
             2
           ],
           "team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "adds": [
             {
               "player_id": "6828",
               "player_name": "AJ Dillon",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "drops": [
@@ -2808,7 +2808,7 @@
               "player_id": "8127",
               "player_name": "Charlie Kolar",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "draft_picks": [],
@@ -3271,7 +3271,7 @@
               "season": "2027",
               "round": 3,
               "original_roster_id": 2,
-              "original_team_label": "A B CeeDee",
+              "original_team_label": "CeeDee You Later",
               "previous_owner_id": 1,
               "previous_owner_team_label": "It’s Herbie Hancock",
               "owner_id": 3,
@@ -3395,7 +3395,7 @@
             11
           ],
           "team_labels": [
-            "A B CeeDee",
+            "CeeDee You Later",
             "MOJO"
           ],
           "consenter_ids": [
@@ -3403,7 +3403,7 @@
             11
           ],
           "consenter_team_labels": [
-            "A B CeeDee",
+            "CeeDee You Later",
             "MOJO"
           ],
           "adds": [
@@ -3419,7 +3419,7 @@
               "player_id": "5859",
               "player_name": "A.J. Brown",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "draft_picks": [
@@ -3431,7 +3431,7 @@
               "previous_owner_id": 11,
               "previous_owner_team_label": "MOJO",
               "owner_id": 2,
-              "owner_team_label": "A B CeeDee"
+              "owner_team_label": "CeeDee You Later"
             },
             {
               "season": "2028",
@@ -3441,7 +3441,7 @@
               "previous_owner_id": 11,
               "previous_owner_team_label": "MOJO",
               "owner_id": 2,
-              "owner_team_label": "A B CeeDee"
+              "owner_team_label": "CeeDee You Later"
             }
           ],
           "waiver_budget": [],
@@ -3535,7 +3535,7 @@
             5
           ],
           "team_labels": [
-            "A B CeeDee",
+            "CeeDee You Later",
             "White Ice"
           ],
           "consenter_ids": [
@@ -3543,7 +3543,7 @@
             5
           ],
           "consenter_team_labels": [
-            "A B CeeDee",
+            "CeeDee You Later",
             "White Ice"
           ],
           "adds": [
@@ -3559,7 +3559,7 @@
               "player_id": "1466",
               "player_name": "Travis Kelce",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "draft_picks": [
@@ -3571,7 +3571,7 @@
               "previous_owner_id": 5,
               "previous_owner_team_label": "White Ice",
               "owner_id": 2,
-              "owner_team_label": "A B CeeDee"
+              "owner_team_label": "CeeDee You Later"
             }
           ],
           "waiver_budget": [],
@@ -3628,20 +3628,20 @@
             2
           ],
           "team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "adds": [
             {
               "player_id": "12718",
               "player_name": "Konata Mumpfield",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "drops": [],
@@ -3664,20 +3664,20 @@
             2
           ],
           "team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "A B CeeDee"
+            "CeeDee You Later"
           ],
           "adds": [
             {
               "player_id": "4993",
               "player_name": "Mike Gesicki",
               "roster_id": 2,
-              "team_label": "A B CeeDee"
+              "team_label": "CeeDee You Later"
             }
           ],
           "drops": [],
@@ -3849,13 +3849,165 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1411843225349615616",
+          "type": "trade",
+          "status": "complete",
+          "created": 1790972165003,
+          "created_at": "2026-10-02T20:16:05.003000Z",
+          "status_updated": 1791131923986,
+          "status_updated_at": "2026-10-04T16:38:43.986000Z",
+          "creator_user_id": "471457570825957376",
+          "roster_ids": [
+            2,
+            8
+          ],
+          "team_labels": [
+            "CeeDee You Later",
+            "Back to the Future"
+          ],
+          "consenter_ids": [
+            2,
+            8
+          ],
+          "consenter_team_labels": [
+            "CeeDee You Later",
+            "Back to the Future"
+          ],
+          "adds": [
+            {
+              "player_id": "6786",
+              "player_name": "CeeDee Lamb",
+              "roster_id": 8,
+              "team_label": "Back to the Future"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "6786",
+              "player_name": "CeeDee Lamb",
+              "roster_id": 2,
+              "team_label": "CeeDee You Later"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2027",
+              "round": 1,
+              "original_roster_id": 8,
+              "original_team_label": "Back to the Future",
+              "previous_owner_id": 8,
+              "previous_owner_team_label": "Back to the Future",
+              "owner_id": 2,
+              "owner_team_label": "CeeDee You Later"
+            },
+            {
+              "season": "2027",
+              "round": 2,
+              "original_roster_id": 8,
+              "original_team_label": "Back to the Future",
+              "previous_owner_id": 8,
+              "previous_owner_team_label": "Back to the Future",
+              "owner_id": 2,
+              "owner_team_label": "CeeDee You Later"
+            },
+            {
+              "season": "2028",
+              "round": 1,
+              "original_roster_id": 8,
+              "original_team_label": "Back to the Future",
+              "previous_owner_id": 8,
+              "previous_owner_team_label": "Back to the Future",
+              "owner_id": 2,
+              "owner_team_label": "CeeDee You Later"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {
+            "is_counter": 1
+          },
+          "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1412514693351763968",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1791132255450,
+          "created_at": "2026-10-04T16:44:15.450000Z",
+          "status_updated": 1791132255450,
+          "status_updated_at": "2026-10-04T16:44:15.450000Z",
+          "creator_user_id": "471457570825957376",
+          "roster_ids": [
+            8
+          ],
+          "team_labels": [
+            "Back to the Future"
+          ],
+          "consenter_ids": [
+            8
+          ],
+          "consenter_team_labels": [
+            "Back to the Future"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "11199",
+              "player_name": "Emari Demercado",
+              "roster_id": 8,
+              "team_label": "Back to the Future"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1412517333024473088",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1791132884797,
+          "created_at": "2026-10-04T16:54:44.797000Z",
+          "status_updated": 1791132884797,
+          "status_updated_at": "2026-10-04T16:54:44.797000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "CeeDee You Later"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "CeeDee You Later"
+          ],
+          "adds": [
+            {
+              "player_id": "4018",
+              "player_name": "Joe Mixon",
+              "roster_id": 2,
+              "team_label": "CeeDee You Later"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 14,
-        "trades": 4,
+        "transactions": 17,
+        "trades": 5,
         "waivers": 0,
-        "free_agent_moves": 10
+        "free_agent_moves": 12
       }
     }
   },
@@ -4198,7 +4350,7 @@
       ],
       "team_labels": [
         "It’s Herbie Hancock",
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         1,
@@ -4206,14 +4358,14 @@
       ],
       "consenter_team_labels": [
         "It’s Herbie Hancock",
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "8408",
           "player_name": "Jordan Mason",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [
@@ -4233,15 +4385,15 @@
           "previous_owner_id": 1,
           "previous_owner_team_label": "It’s Herbie Hancock",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         },
         {
           "season": "2026",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "A B CeeDee",
+          "previous_owner_team_label": "CeeDee You Later",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         },
@@ -4249,9 +4401,9 @@
           "season": "2026",
           "round": 4,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "A B CeeDee",
+          "previous_owner_team_label": "CeeDee You Later",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         },
@@ -4259,9 +4411,9 @@
           "season": "2027",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "A B CeeDee",
+          "previous_owner_team_label": "CeeDee You Later",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         }
@@ -4285,7 +4437,7 @@
         10
       ],
       "team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "Goin in Ra"
       ],
       "consenter_ids": [
@@ -4293,7 +4445,7 @@
         10
       ],
       "consenter_team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "Goin in Ra"
       ],
       "adds": [],
@@ -4307,15 +4459,15 @@
           "previous_owner_id": 10,
           "previous_owner_team_label": "Goin in Ra",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         },
         {
           "season": "2026",
           "round": 5,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "A B CeeDee",
+          "previous_owner_team_label": "CeeDee You Later",
           "owner_id": 10,
           "owner_team_label": "Goin in Ra"
         },
@@ -4323,9 +4475,9 @@
           "season": "2028",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "A B CeeDee",
+          "previous_owner_team_label": "CeeDee You Later",
           "owner_id": 10,
           "owner_team_label": "Goin in Ra"
         }
@@ -4420,20 +4572,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "13413",
           "player_name": "Cyrus Allen",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [
@@ -4441,7 +4593,7 @@
           "player_id": "13338",
           "player_name": "Kevin Coleman",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [],
@@ -4815,20 +4967,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "8800",
           "player_name": "Malik Davis",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [
@@ -4836,7 +4988,7 @@
           "player_id": "12455",
           "player_name": "Brashard Smith",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [],
@@ -4901,13 +5053,13 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [],
       "drops": [
@@ -4915,7 +5067,7 @@
           "player_id": "5850",
           "player_name": "Josh Jacobs",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [],
@@ -4937,7 +5089,7 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [],
       "consenter_team_labels": [],
@@ -4946,7 +5098,7 @@
           "player_id": "5850",
           "player_name": "Josh Jacobs",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [],
@@ -5723,20 +5875,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "4017",
           "player_name": "Deshaun Watson",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [],
@@ -5961,7 +6113,7 @@
         11
       ],
       "team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "MOJO"
       ],
       "consenter_ids": [
@@ -5969,7 +6121,7 @@
         11
       ],
       "consenter_team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "MOJO"
       ],
       "adds": [
@@ -5985,7 +6137,7 @@
           "player_id": "12469",
           "player_name": "Dylan Sampson",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [
@@ -5997,7 +6149,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         }
       ],
       "waiver_budget": [],
@@ -6020,20 +6172,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "10235",
           "player_name": "Roschon Johnson",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [],
@@ -6092,20 +6244,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "8127",
           "player_name": "Charlie Kolar",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [
@@ -6113,7 +6265,7 @@
           "player_id": "4017",
           "player_name": "Deshaun Watson",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [],
@@ -6344,20 +6496,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "12472",
           "player_name": "Raheim Sanders",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [],
@@ -6622,20 +6774,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "6828",
           "player_name": "AJ Dillon",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [
@@ -6643,7 +6795,7 @@
           "player_id": "8127",
           "player_name": "Charlie Kolar",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [],
@@ -7095,7 +7247,7 @@
           "season": "2027",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 1,
           "previous_owner_team_label": "It’s Herbie Hancock",
           "owner_id": 3,
@@ -7219,7 +7371,7 @@
         11
       ],
       "team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "MOJO"
       ],
       "consenter_ids": [
@@ -7227,7 +7379,7 @@
         11
       ],
       "consenter_team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "MOJO"
       ],
       "adds": [
@@ -7243,7 +7395,7 @@
           "player_id": "5859",
           "player_name": "A.J. Brown",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [
@@ -7255,7 +7407,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         },
         {
           "season": "2028",
@@ -7265,7 +7417,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         }
       ],
       "waiver_budget": [],
@@ -7359,7 +7511,7 @@
         5
       ],
       "team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "White Ice"
       ],
       "consenter_ids": [
@@ -7367,7 +7519,7 @@
         5
       ],
       "consenter_team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "White Ice"
       ],
       "adds": [
@@ -7383,7 +7535,7 @@
           "player_id": "1466",
           "player_name": "Travis Kelce",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [
@@ -7395,7 +7547,7 @@
           "previous_owner_id": 5,
           "previous_owner_team_label": "White Ice",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         }
       ],
       "waiver_budget": [],
@@ -7452,20 +7604,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "12718",
           "player_name": "Konata Mumpfield",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [],
@@ -7488,20 +7640,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "4993",
           "player_name": "Mike Gesicki",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [],
@@ -7673,6 +7825,158 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411843225349615616",
+      "type": "trade",
+      "status": "complete",
+      "created": 1790972165003,
+      "created_at": "2026-10-02T20:16:05.003000Z",
+      "status_updated": 1791131923986,
+      "status_updated_at": "2026-10-04T16:38:43.986000Z",
+      "creator_user_id": "471457570825957376",
+      "roster_ids": [
+        2,
+        8
+      ],
+      "team_labels": [
+        "CeeDee You Later",
+        "Back to the Future"
+      ],
+      "consenter_ids": [
+        2,
+        8
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later",
+        "Back to the Future"
+      ],
+      "adds": [
+        {
+          "player_id": "6786",
+          "player_name": "CeeDee Lamb",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6786",
+          "player_name": "CeeDee Lamb",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team_label": "Back to the Future",
+          "previous_owner_id": 8,
+          "previous_owner_team_label": "Back to the Future",
+          "owner_id": 2,
+          "owner_team_label": "CeeDee You Later"
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team_label": "Back to the Future",
+          "previous_owner_id": 8,
+          "previous_owner_team_label": "Back to the Future",
+          "owner_id": 2,
+          "owner_team_label": "CeeDee You Later"
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team_label": "Back to the Future",
+          "previous_owner_id": 8,
+          "previous_owner_team_label": "Back to the Future",
+          "owner_id": 2,
+          "owner_team_label": "CeeDee You Later"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {
+        "is_counter": 1
+      },
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1412514693351763968",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791132255450,
+      "created_at": "2026-10-04T16:44:15.450000Z",
+      "status_updated": 1791132255450,
+      "status_updated_at": "2026-10-04T16:44:15.450000Z",
+      "creator_user_id": "471457570825957376",
+      "roster_ids": [
+        8
+      ],
+      "team_labels": [
+        "Back to the Future"
+      ],
+      "consenter_ids": [
+        8
+      ],
+      "consenter_team_labels": [
+        "Back to the Future"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11199",
+          "player_name": "Emari Demercado",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1412517333024473088",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791132884797,
+      "created_at": "2026-10-04T16:54:44.797000Z",
+      "status_updated": 1791132884797,
+      "status_updated_at": "2026-10-04T16:54:44.797000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "CeeDee You Later"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later"
+      ],
+      "adds": [
+        {
+          "player_id": "4018",
+          "player_name": "Joe Mixon",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -7834,7 +8138,7 @@
       ],
       "team_labels": [
         "It’s Herbie Hancock",
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         1,
@@ -7842,14 +8146,14 @@
       ],
       "consenter_team_labels": [
         "It’s Herbie Hancock",
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "8408",
           "player_name": "Jordan Mason",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [
@@ -7869,15 +8173,15 @@
           "previous_owner_id": 1,
           "previous_owner_team_label": "It’s Herbie Hancock",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         },
         {
           "season": "2026",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "A B CeeDee",
+          "previous_owner_team_label": "CeeDee You Later",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         },
@@ -7885,9 +8189,9 @@
           "season": "2026",
           "round": 4,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "A B CeeDee",
+          "previous_owner_team_label": "CeeDee You Later",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         },
@@ -7895,9 +8199,9 @@
           "season": "2027",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "A B CeeDee",
+          "previous_owner_team_label": "CeeDee You Later",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         }
@@ -7921,7 +8225,7 @@
         10
       ],
       "team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "Goin in Ra"
       ],
       "consenter_ids": [
@@ -7929,7 +8233,7 @@
         10
       ],
       "consenter_team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "Goin in Ra"
       ],
       "adds": [],
@@ -7943,15 +8247,15 @@
           "previous_owner_id": 10,
           "previous_owner_team_label": "Goin in Ra",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         },
         {
           "season": "2026",
           "round": 5,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "A B CeeDee",
+          "previous_owner_team_label": "CeeDee You Later",
           "owner_id": 10,
           "owner_team_label": "Goin in Ra"
         },
@@ -7959,9 +8263,9 @@
           "season": "2028",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "A B CeeDee",
+          "previous_owner_team_label": "CeeDee You Later",
           "owner_id": 10,
           "owner_team_label": "Goin in Ra"
         }
@@ -7985,7 +8289,7 @@
         11
       ],
       "team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "MOJO"
       ],
       "consenter_ids": [
@@ -7993,7 +8297,7 @@
         11
       ],
       "consenter_team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "MOJO"
       ],
       "adds": [
@@ -8009,7 +8313,7 @@
           "player_id": "12469",
           "player_name": "Dylan Sampson",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [
@@ -8021,7 +8325,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         }
       ],
       "waiver_budget": [],
@@ -8097,7 +8401,7 @@
           "season": "2027",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "A B CeeDee",
+          "original_team_label": "CeeDee You Later",
           "previous_owner_id": 1,
           "previous_owner_team_label": "It’s Herbie Hancock",
           "owner_id": 3,
@@ -8185,7 +8489,7 @@
         11
       ],
       "team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "MOJO"
       ],
       "consenter_ids": [
@@ -8193,7 +8497,7 @@
         11
       ],
       "consenter_team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "MOJO"
       ],
       "adds": [
@@ -8209,7 +8513,7 @@
           "player_id": "5859",
           "player_name": "A.J. Brown",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [
@@ -8221,7 +8525,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         },
         {
           "season": "2028",
@@ -8231,7 +8535,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         }
       ],
       "waiver_budget": [],
@@ -8253,7 +8557,7 @@
         5
       ],
       "team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "White Ice"
       ],
       "consenter_ids": [
@@ -8261,7 +8565,7 @@
         5
       ],
       "consenter_team_labels": [
-        "A B CeeDee",
+        "CeeDee You Later",
         "White Ice"
       ],
       "adds": [
@@ -8277,7 +8581,7 @@
           "player_id": "1466",
           "player_name": "Travis Kelce",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [
@@ -8289,7 +8593,7 @@
           "previous_owner_id": 5,
           "previous_owner_team_label": "White Ice",
           "owner_id": 2,
-          "owner_team_label": "A B CeeDee"
+          "owner_team_label": "CeeDee You Later"
         }
       ],
       "waiver_budget": [],
@@ -8380,6 +8684,86 @@
           "previous_owner_team_label": "White Ice",
           "owner_id": 9,
           "owner_team_label": "off"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {
+        "is_counter": 1
+      },
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1411843225349615616",
+      "type": "trade",
+      "status": "complete",
+      "created": 1790972165003,
+      "created_at": "2026-10-02T20:16:05.003000Z",
+      "status_updated": 1791131923986,
+      "status_updated_at": "2026-10-04T16:38:43.986000Z",
+      "creator_user_id": "471457570825957376",
+      "roster_ids": [
+        2,
+        8
+      ],
+      "team_labels": [
+        "CeeDee You Later",
+        "Back to the Future"
+      ],
+      "consenter_ids": [
+        2,
+        8
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later",
+        "Back to the Future"
+      ],
+      "adds": [
+        {
+          "player_id": "6786",
+          "player_name": "CeeDee Lamb",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6786",
+          "player_name": "CeeDee Lamb",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team_label": "Back to the Future",
+          "previous_owner_id": 8,
+          "previous_owner_team_label": "Back to the Future",
+          "owner_id": 2,
+          "owner_team_label": "CeeDee You Later"
+        },
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 8,
+          "original_team_label": "Back to the Future",
+          "previous_owner_id": 8,
+          "previous_owner_team_label": "Back to the Future",
+          "owner_id": 2,
+          "owner_team_label": "CeeDee You Later"
+        },
+        {
+          "season": "2028",
+          "round": 1,
+          "original_roster_id": 8,
+          "original_team_label": "Back to the Future",
+          "previous_owner_id": 8,
+          "previous_owner_team_label": "Back to the Future",
+          "owner_id": 2,
+          "owner_team_label": "CeeDee You Later"
         }
       ],
       "waiver_budget": [],
@@ -9041,20 +9425,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "13413",
           "player_name": "Cyrus Allen",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [
@@ -9062,7 +9446,7 @@
           "player_id": "13338",
           "player_name": "Kevin Coleman",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [],
@@ -9436,20 +9820,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "8800",
           "player_name": "Malik Davis",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [
@@ -9457,7 +9841,7 @@
           "player_id": "12455",
           "player_name": "Brashard Smith",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [],
@@ -9522,13 +9906,13 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [],
       "drops": [
@@ -9536,7 +9920,7 @@
           "player_id": "5850",
           "player_name": "Josh Jacobs",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [],
@@ -10312,20 +10696,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "4017",
           "player_name": "Deshaun Watson",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [],
@@ -10549,20 +10933,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "10235",
           "player_name": "Roschon Johnson",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [],
@@ -10621,20 +11005,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "8127",
           "player_name": "Charlie Kolar",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [
@@ -10642,7 +11026,7 @@
           "player_id": "4017",
           "player_name": "Deshaun Watson",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [],
@@ -10750,20 +11134,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "12472",
           "player_name": "Raheim Sanders",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [],
@@ -10980,20 +11364,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "6828",
           "player_name": "AJ Dillon",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [
@@ -11001,7 +11385,7 @@
           "player_id": "8127",
           "player_name": "Charlie Kolar",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "draft_picks": [],
@@ -11332,20 +11716,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "12718",
           "player_name": "Konata Mumpfield",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [],
@@ -11368,20 +11752,20 @@
         2
       ],
       "team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "A B CeeDee"
+        "CeeDee You Later"
       ],
       "adds": [
         {
           "player_id": "4993",
           "player_name": "Mike Gesicki",
           "roster_id": 2,
-          "team_label": "A B CeeDee"
+          "team_label": "CeeDee You Later"
         }
       ],
       "drops": [],
@@ -11461,22 +11845,94 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1412514693351763968",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791132255450,
+      "created_at": "2026-10-04T16:44:15.450000Z",
+      "status_updated": 1791132255450,
+      "status_updated_at": "2026-10-04T16:44:15.450000Z",
+      "creator_user_id": "471457570825957376",
+      "roster_ids": [
+        8
+      ],
+      "team_labels": [
+        "Back to the Future"
+      ],
+      "consenter_ids": [
+        8
+      ],
+      "consenter_team_labels": [
+        "Back to the Future"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11199",
+          "player_name": "Emari Demercado",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1412517333024473088",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791132884797,
+      "created_at": "2026-10-04T16:54:44.797000Z",
+      "status_updated": 1791132884797,
+      "status_updated_at": "2026-10-04T16:54:44.797000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "CeeDee You Later"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later"
+      ],
+      "adds": [
+        {
+          "player_id": "4018",
+          "player_name": "Joe Mixon",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 4,
-    "transactions": 88,
-    "trades": 9,
+    "transactions": 91,
+    "trades": 10,
     "waivers": 9,
-    "free_agent_moves": 69,
+    "free_agent_moves": 71,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 69,
-      "trade": 9,
+      "free_agent": 71,
+      "trade": 10,
       "waiver": 9
     },
     "by_status": {
-      "complete": 86,
+      "complete": 89,
       "failed": 2
     }
   }
