@@ -31,7 +31,7 @@
     "years_exp": 3,
     "age": 27,
     "depth_chart_position": "RB",
-    "search_rank": 125
+    "search_rank": 127
   },
   "10222": {
     "player_id": "10222",
@@ -286,7 +286,7 @@
     "years_exp": 2,
     "age": 25,
     "depth_chart_position": "QB",
-    "search_rank": 20
+    "search_rank": 22
   },
   "11569": {
     "player_id": "11569",
@@ -424,23 +424,6 @@
     "depth_chart_position": "RB",
     "search_rank": 68
   },
-  "11589": {
-    "player_id": "11589",
-    "name": "Trey Benson",
-    "first_name": "Trey",
-    "last_name": "Benson",
-    "team": "ARI",
-    "position": "RB",
-    "fantasy_positions": [
-      "RB"
-    ],
-    "status": "Inactive",
-    "injury_status": "IR",
-    "years_exp": 2,
-    "age": 24,
-    "depth_chart_position": "RB",
-    "search_rank": 114
-  },
   "11603": {
     "player_id": "11603",
     "name": "AJ Barner",
@@ -541,7 +524,7 @@
     "years_exp": 2,
     "age": 24,
     "depth_chart_position": "LWR",
-    "search_rank": 65
+    "search_rank": 63
   },
   "11624": {
     "player_id": "11624",
@@ -677,7 +660,7 @@
     "years_exp": 2,
     "age": 24,
     "depth_chart_position": "SWR",
-    "search_rank": 34
+    "search_rank": 35
   },
   "11637": {
     "player_id": "11637",
@@ -1102,7 +1085,7 @@
     "years_exp": 1,
     "age": 22,
     "depth_chart_position": "RB",
-    "search_rank": 466
+    "search_rank": 465
   },
   "12497": {
     "player_id": "12497",
@@ -1340,7 +1323,7 @@
     "years_exp": 1,
     "age": 24,
     "depth_chart_position": "TE",
-    "search_rank": 49
+    "search_rank": 47
   },
   "12519": {
     "player_id": "12519",
@@ -1864,7 +1847,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 0,
     "age": 21,
     "depth_chart_position": "RB",
@@ -1902,7 +1885,7 @@
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "RWR",
-    "search_rank": 146
+    "search_rank": 148
   },
   "13294": {
     "player_id": "13294",
@@ -1987,7 +1970,7 @@
     "years_exp": 0,
     "age": 22,
     "depth_chart_position": "RB",
-    "search_rank": 402
+    "search_rank": 401
   },
   "13305": {
     "player_id": "13305",
@@ -2548,7 +2531,7 @@
     "years_exp": 10,
     "age": 31,
     "depth_chart_position": "QB",
-    "search_rank": 62
+    "search_rank": 61
   },
   "3198": {
     "player_id": "3198",
@@ -2674,7 +2657,7 @@
     "name": "Joe Mixon",
     "first_name": "Joe",
     "last_name": "Mixon",
-    "team": null,
+    "team": "SEA",
     "position": "RB",
     "fantasy_positions": [
       "RB"
@@ -2682,9 +2665,9 @@
     "status": "Active",
     "injury_status": "Active",
     "years_exp": 9,
-    "age": 29,
+    "age": 30,
     "depth_chart_position": null,
-    "search_rank": 212
+    "search_rank": 164
   },
   "4033": {
     "player_id": "4033",
@@ -2731,7 +2714,7 @@
       "RB"
     ],
     "status": "Active",
-    "injury_status": null,
+    "injury_status": "Questionable",
     "years_exp": 9,
     "age": 31,
     "depth_chart_position": "RB",
@@ -2769,7 +2752,7 @@
     "years_exp": 9,
     "age": 33,
     "depth_chart_position": "SWR",
-    "search_rank": 196
+    "search_rank": 197
   },
   "4046": {
     "player_id": "4046",
@@ -2803,7 +2786,7 @@
     "years_exp": 9,
     "age": 32,
     "depth_chart_position": "TE",
-    "search_rank": 461
+    "search_rank": 463
   },
   "4137": {
     "player_id": "4137",
@@ -3041,7 +3024,7 @@
     "years_exp": 8,
     "age": 29,
     "depth_chart_position": "LWR",
-    "search_rank": 48
+    "search_rank": 50
   },
   "4984": {
     "player_id": "4984",
@@ -3568,7 +3551,7 @@
     "years_exp": 6,
     "age": 27,
     "depth_chart_position": "QB",
-    "search_rank": 69
+    "search_rank": 68
   },
   "6806": {
     "player_id": "6806",
@@ -3736,7 +3719,7 @@
     "status": "Active",
     "injury_status": null,
     "years_exp": 5,
-    "age": 26,
+    "age": 27,
     "depth_chart_position": "QB",
     "search_rank": 41
   },
@@ -3838,7 +3821,7 @@
     "status": "Active",
     "injury_status": null,
     "years_exp": 5,
-    "age": 25,
+    "age": 26,
     "depth_chart_position": "TE",
     "search_rank": 67
   },
@@ -4129,7 +4112,7 @@
     "years_exp": 4,
     "age": 26,
     "depth_chart_position": "TE",
-    "search_rank": 104
+    "search_rank": 106
   },
   "8132": {
     "player_id": "8132",
@@ -4384,7 +4367,7 @@
     "years_exp": 4,
     "age": 27,
     "depth_chart_position": "QB",
-    "search_rank": 118
+    "search_rank": 120
   },
   "8167": {
     "player_id": "8167",
@@ -4537,7 +4520,7 @@
     "years_exp": 4,
     "age": 27,
     "depth_chart_position": "RB",
-    "search_rank": 90
+    "search_rank": 92
   },
   "8676": {
     "player_id": "8676",
@@ -4622,7 +4605,7 @@
     "years_exp": 3,
     "age": 26,
     "depth_chart_position": "RB",
-    "search_rank": 14
+    "search_rank": 15
   },
   "9225": {
     "player_id": "9225",
@@ -4634,8 +4617,8 @@
     "fantasy_positions": [
       "RB"
     ],
-    "status": "Active",
-    "injury_status": "Questionable",
+    "status": "Inactive",
+    "injury_status": "Out",
     "years_exp": 3,
     "age": 24,
     "depth_chart_position": "RB",
@@ -4673,7 +4656,7 @@
     "years_exp": 3,
     "age": 25,
     "depth_chart_position": "QB",
-    "search_rank": 132
+    "search_rank": 134
   },
   "9480": {
     "player_id": "9480",
@@ -4741,7 +4724,7 @@
     "years_exp": 3,
     "age": 25,
     "depth_chart_position": "TE",
-    "search_rank": 65
+    "search_rank": 64
   },
   "9486": {
     "player_id": "9486",
@@ -5030,7 +5013,7 @@
     "years_exp": 3,
     "age": 25,
     "depth_chart_position": "QB",
-    "search_rank": 102
+    "search_rank": 101
   },
   "9997": {
     "player_id": "9997",
@@ -5099,6 +5082,23 @@
     "age": 27,
     "depth_chart_position": "RB",
     "search_rank": 502
+  },
+  "11589": {
+    "player_id": "11589",
+    "name": "Trey Benson",
+    "first_name": "Trey",
+    "last_name": "Benson",
+    "team": "ARI",
+    "position": "RB",
+    "fantasy_positions": [
+      "RB"
+    ],
+    "status": "Inactive",
+    "injury_status": "IR",
+    "years_exp": 2,
+    "age": 24,
+    "depth_chart_position": "RB",
+    "search_rank": 114
   },
   "11597": {
     "player_id": "11597",
@@ -5285,7 +5285,7 @@
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "QB",
-    "search_rank": 286
+    "search_rank": 287
   },
   "13282": {
     "player_id": "13282",
@@ -5404,7 +5404,7 @@
     "years_exp": 0,
     "age": 23,
     "depth_chart_position": "RB",
-    "search_rank": 489
+    "search_rank": 487
   },
   "3200": {
     "player_id": "3200",
@@ -5420,7 +5420,7 @@
     "injury_status": null,
     "years_exp": 10,
     "age": 33,
-    "depth_chart_position": "SWR",
+    "depth_chart_position": null,
     "search_rank": 311
   },
   "3286": {

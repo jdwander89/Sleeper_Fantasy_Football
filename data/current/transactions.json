@@ -4001,13 +4001,59 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1413218934982803456",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1791300159739,
+          "created_at": "2026-10-06T15:22:39.739000Z",
+          "status_updated": 1791300159739,
+          "status_updated_at": "2026-10-06T15:22:39.739000Z",
+          "creator_user_id": "471424563457028096",
+          "roster_ids": [
+            5
+          ],
+          "team_labels": [
+            "White Ice"
+          ],
+          "consenter_ids": [
+            5
+          ],
+          "consenter_team_labels": [
+            "White Ice"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "11589",
+              "player_name": "Trey Benson",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 17,
+        "transactions": 18,
         "trades": 5,
         "waivers": 0,
-        "free_agent_moves": 12
+        "free_agent_moves": 13
+      }
+    },
+    "5": {
+      "week": 5,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
       }
     }
   },
@@ -7977,6 +8023,42 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413218934982803456",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791300159739,
+      "created_at": "2026-10-06T15:22:39.739000Z",
+      "status_updated": 1791300159739,
+      "status_updated_at": "2026-10-06T15:22:39.739000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11589",
+          "player_name": "Trey Benson",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -11917,22 +11999,58 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413218934982803456",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791300159739,
+      "created_at": "2026-10-06T15:22:39.739000Z",
+      "status_updated": 1791300159739,
+      "status_updated_at": "2026-10-06T15:22:39.739000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "11589",
+          "player_name": "Trey Benson",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
-    "weeks": 4,
-    "transactions": 91,
+    "weeks": 5,
+    "transactions": 92,
     "trades": 10,
     "waivers": 9,
-    "free_agent_moves": 71,
+    "free_agent_moves": 72,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 71,
+      "free_agent": 72,
       "trade": 10,
       "waiver": 9
     },
     "by_status": {
-      "complete": 89,
+      "complete": 90,
       "failed": 2
     }
   }

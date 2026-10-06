@@ -37,23 +37,23 @@
       "9756",
       "10236",
       "12529",
-      "11624",
-      "8136"
+      "13296",
+      "13305"
     ],
     "bench": [
       "11566",
+      "11624",
       "11643",
       "12498",
       "12522",
       "12544",
-      "13296",
-      "13305",
       "13347",
       "13349",
       "13394",
       "13402",
       "13421",
       "13425",
+      "8136",
       "9504"
     ],
     "reserve": [
@@ -102,23 +102,23 @@
         "Jordan Addison",
         "Dalton Kincaid",
         "TreVeyon Henderson",
-        "Xavier Worthy",
-        "Rachaad White"
+        "Caleb Douglas",
+        "Mike Washington"
       ],
       "bench": [
         "Jayden Daniels",
+        "Xavier Worthy",
         "Jaylen Wright",
         "Mason Taylor",
         "Cam Ward",
         "LeQuint Allen",
-        "Caleb Douglas",
-        "Mike Washington",
         "Demond Claiborne",
         "Eli Stowers",
         "Josh Cameron",
         "Skyler Bell",
         "Eli Raridon",
         "Jalon Daniels",
+        "Rachaad White",
         "Kayshon Boutte"
       ],
       "reserve": [
@@ -128,13 +128,13 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 285,
-      "fpts_against": 248,
-      "fpts_against_decimal": 32,
-      "fpts_decimal": 98,
-      "losses": 1,
-      "ppts": 350,
-      "ppts_decimal": 10,
+      "fpts": 352,
+      "fpts_against": 384,
+      "fpts_against_decimal": 2,
+      "fpts_decimal": 46,
+      "losses": 2,
+      "ppts": 427,
+      "ppts_decimal": 18,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -145,9 +145,9 @@
       "allow_pn_inactive_starters": "off",
       "allow_pn_player_injury_status": "off",
       "allow_pn_scoring": "off",
-      "record": "LWW",
+      "record": "LWWL",
       "restrict_pn_scoring_starters_only": "off",
-      "streak": "2W"
+      "streak": "1L"
     }
   },
   {
@@ -181,20 +181,20 @@
       "9758"
     ],
     "starters": [
-      "6904",
+      "9758",
       "5892",
       "7588",
       "13294",
       "9487",
       "12517",
-      "12492",
+      "12495",
       "9754",
       "12509"
     ],
     "bench": [
       "10235",
       "12472",
-      "12495",
+      "12492",
       "12718",
       "13413",
       "4018",
@@ -202,10 +202,10 @@
       "5850",
       "6783",
       "6828",
+      "6904",
       "8210",
       "8408",
-      "8676",
-      "9758"
+      "8676"
     ],
     "reserve": [
       "13417",
@@ -246,20 +246,20 @@
         "C.J. Stroud"
       ],
       "starters": [
-        "Jalen Hurts",
+        "C.J. Stroud",
         "David Montgomery",
         "Javonte Williams",
         "Makai Lemon",
         "Parker Washington",
         "Colston Loveland",
-        "Pat Bryant",
+        "Ollie Gordon",
         "Quentin Johnston",
         "Tre' Harris"
       ],
       "bench": [
         "Roschon Johnson",
         "Raheim Sanders",
-        "Ollie Gordon",
+        "Pat Bryant",
         "Konata Mumpfield",
         "Cyrus Allen",
         "Joe Mixon",
@@ -267,10 +267,10 @@
         "Josh Jacobs",
         "Jerry Jeudy",
         "AJ Dillon",
+        "Jalen Hurts",
         "Chig Okonkwo",
         "Jordan Mason",
-        "Rashid Shaheed",
-        "C.J. Stroud"
+        "Rashid Shaheed"
       ],
       "reserve": [
         "De'Zhaun Stribling",
@@ -279,13 +279,13 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 343,
-      "fpts_against": 443,
-      "fpts_against_decimal": 42,
-      "fpts_decimal": 30,
-      "losses": 2,
-      "ppts": 399,
-      "ppts_decimal": 86,
+      "fpts": 432,
+      "fpts_against": 586,
+      "fpts_against_decimal": 46,
+      "fpts_decimal": 52,
+      "losses": 3,
+      "ppts": 531,
+      "ppts_decimal": 54,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -293,8 +293,8 @@
       "wins": 1
     },
     "metadata": {
-      "record": "WLL",
-      "streak": "2L"
+      "record": "WLLL",
+      "streak": "3L"
     }
   },
   {
@@ -422,22 +422,22 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 447,
-      "fpts_against": 446,
-      "fpts_against_decimal": 4,
-      "fpts_decimal": 98,
+      "fpts": 583,
+      "fpts_against": 512,
+      "fpts_against_decimal": 52,
+      "fpts_decimal": 68,
       "losses": 2,
-      "ppts": 458,
-      "ppts_decimal": 72,
+      "ppts": 615,
+      "ppts_decimal": 2,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 1,
-      "wins": 1
+      "wins": 2
     },
     "metadata": {
-      "record": "LWL",
-      "streak": "1L"
+      "record": "LWLW",
+      "streak": "1W"
     }
   },
   {
@@ -559,13 +559,13 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 311,
-      "fpts_against": 410,
-      "fpts_against_decimal": 46,
-      "fpts_decimal": 96,
-      "losses": 3,
-      "ppts": 382,
-      "ppts_decimal": 36,
+      "fpts": 475,
+      "fpts_against": 592,
+      "fpts_against_decimal": 52,
+      "fpts_decimal": 48,
+      "losses": 4,
+      "ppts": 551,
+      "ppts_decimal": 28,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -575,8 +575,8 @@
     "metadata": {
       "allow_pn_news": "off",
       "allow_pn_scoring": "off",
-      "record": "LLL",
-      "streak": "3L"
+      "record": "LLLL",
+      "streak": "4L"
     }
   },
   {
@@ -586,7 +586,6 @@
       "10213",
       "11560",
       "11586",
-      "11589",
       "11620",
       "11625",
       "12467",
@@ -615,35 +614,34 @@
       "9224",
       "7564",
       "7569",
-      "1466",
-      "8148",
       "7002",
-      "9486"
+      "8148",
+      "11620",
+      "8134"
     ],
     "bench": [
       "10213",
       "11586",
-      "11620",
       "11625",
       "12467",
       "12497",
       "12499",
       "13288",
       "13317",
+      "1466",
       "4177",
       "5001",
       "7049",
-      "8134",
-      "9225"
+      "9486"
     ],
     "reserve": [
       "11560",
-      "11589"
+      "9225"
     ],
     "taxi": [],
-    "player_count": 25,
+    "player_count": 24,
     "starter_count": 9,
-    "bench_count": 14,
+    "bench_count": 13,
     "reserve_count": 2,
     "taxi_count": 0,
     "display": {
@@ -651,7 +649,6 @@
         "Tre Tucker",
         "Caleb Williams",
         "Blake Corum",
-        "Trey Benson",
         "Rome Odunze",
         "Adonai Mitchell",
         "Jordan James",
@@ -680,41 +677,40 @@
         "Chase Brown",
         "Ja'Marr Chase",
         "Nico Collins",
-        "Travis Kelce",
-        "Jameson Williams",
         "Juwan Johnson",
-        "Dontayvion Wicks"
+        "Jameson Williams",
+        "Rome Odunze",
+        "Khalil Shakir"
       ],
       "bench": [
         "Tre Tucker",
         "Blake Corum",
-        "Rome Odunze",
         "Adonai Mitchell",
         "Jordan James",
         "Tory Horton",
         "Elic Ayomanor",
         "Nicholas Singleton",
         "Ted Hurst",
+        "Travis Kelce",
         "Mack Hollins",
         "Dalton Schultz",
         "Jauan Jennings",
-        "Khalil Shakir",
-        "Tank Bigsby"
+        "Dontayvion Wicks"
       ],
       "reserve": [
         "Caleb Williams",
-        "Trey Benson"
+        "Tank Bigsby"
       ],
       "taxi": []
     },
     "settings": {
-      "fpts": 373,
-      "fpts_against": 319,
-      "fpts_against_decimal": 88,
-      "fpts_decimal": 86,
-      "losses": 1,
-      "ppts": 475,
-      "ppts_decimal": 96,
+      "fpts": 501,
+      "fpts_against": 461,
+      "fpts_against_decimal": 68,
+      "fpts_decimal": 66,
+      "losses": 2,
+      "ppts": 625,
+      "ppts_decimal": 76,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -722,8 +718,8 @@
       "wins": 2
     },
     "metadata": {
-      "record": "WLW",
-      "streak": "1W"
+      "record": "WLWL",
+      "streak": "1L"
     }
   },
   {
@@ -855,22 +851,22 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 383,
-      "fpts_against": 362,
-      "fpts_against_decimal": 46,
-      "fpts_decimal": 82,
+      "fpts": 525,
+      "fpts_against": 490,
+      "fpts_against_decimal": 26,
+      "fpts_decimal": 62,
       "losses": 2,
-      "ppts": 448,
-      "ppts_decimal": 22,
+      "ppts": 612,
+      "ppts_decimal": 32,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 8,
-      "wins": 1
+      "wins": 2
     },
     "metadata": {
-      "record": "LLW",
-      "streak": "1W"
+      "record": "LLWW",
+      "streak": "2W"
     }
   },
   {
@@ -911,15 +907,15 @@
       "11632",
       "12518",
       "8167",
-      "12526",
+      "11637",
       "9488"
     ],
     "bench": [
       "11370",
       "11559",
-      "11637",
       "12504",
       "12524",
+      "12526",
       "12535",
       "12543",
       "12547",
@@ -976,15 +972,15 @@
         "Malik Nabers",
         "Tyler Warren",
         "Christian Watson",
-        "Tetairoa McMillan",
+        "Keon Coleman",
         "Jaxon Smith-Njigba"
       ],
       "bench": [
         "Chris Brooks",
         "Michael Penix",
-        "Keon Coleman",
         "Kaleb Johnson",
         "Shedeur Sanders",
+        "Tetairoa McMillan",
         "Isaac TeSlaa",
         "Tahj Brooks",
         "Kyle Williams",
@@ -1002,23 +998,23 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 356,
-      "fpts_against": 357,
-      "fpts_against_decimal": 34,
-      "fpts_decimal": 18,
+      "fpts": 499,
+      "fpts_against": 446,
+      "fpts_against_decimal": 56,
+      "fpts_decimal": 22,
       "losses": 1,
-      "ppts": 408,
-      "ppts_decimal": 4,
+      "ppts": 569,
+      "ppts_decimal": 8,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 3,
-      "wins": 2
+      "wins": 3
     },
     "metadata": {
       "p_nick_3164": "ZEEK",
-      "record": "LWW",
-      "streak": "2W"
+      "record": "LWWW",
+      "streak": "3W"
     }
   },
   {
@@ -1150,24 +1146,24 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 396,
-      "fpts_against": 304,
-      "fpts_against_decimal": 84,
-      "fpts_decimal": 30,
+      "fpts": 578,
+      "fpts_against": 468,
+      "fpts_against_decimal": 36,
+      "fpts_decimal": 36,
       "losses": 1,
-      "ppts": 469,
-      "ppts_decimal": 62,
+      "ppts": 688,
+      "ppts_decimal": 98,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 2,
-      "wins": 2
+      "wins": 3
     },
     "metadata": {
       "allow_pn_news": "on",
       "allow_pn_scoring": "on",
-      "record": "WWL",
-      "streak": "1L"
+      "record": "WWLW",
+      "streak": "1W"
     }
   },
   {
@@ -1207,15 +1203,15 @@
       "8137",
       "8144",
       "7553",
-      "10229",
+      "13285",
       "13330",
       "3634"
     ],
     "bench": [
       "10219",
+      "10229",
       "11565",
       "12493",
-      "13285",
       "13380",
       "13405",
       "3161",
@@ -1272,15 +1268,15 @@
         "George Pickens",
         "Chris Olave",
         "Kyle Pitts",
-        "Rashee Rice",
+        "Malachi Fields",
         "Kenyon Sadiq",
         "Kalif Raymond"
       ],
       "bench": [
         "Chris Rodriguez",
+        "Rashee Rice",
         "J.J. McCarthy",
         "Oronde Gadsden",
-        "Malachi Fields",
         "Brenen Thompson",
         "Kaytron Allen",
         "Carson Wentz",
@@ -1299,13 +1295,13 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 269,
-      "fpts_against": 413,
-      "fpts_against_decimal": 74,
-      "fpts_decimal": 46,
-      "losses": 3,
-      "ppts": 388,
-      "ppts_decimal": 98,
+      "fpts": 351,
+      "fpts_against": 524,
+      "fpts_against_decimal": 26,
+      "fpts_decimal": 94,
+      "losses": 4,
+      "ppts": 536,
+      "ppts_decimal": 96,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -1316,9 +1312,9 @@
       "allow_pn_inactive_starters": "off",
       "allow_pn_player_injury_status": "off",
       "allow_pn_scoring": "off",
-      "record": "LLL",
+      "record": "LLLL",
       "restrict_pn_scoring_starters_only": "on",
-      "streak": "3L"
+      "streak": "4L"
     }
   },
   {
@@ -1450,13 +1446,13 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 421,
-      "fpts_against": 344,
-      "fpts_against_decimal": 18,
-      "fpts_decimal": 0,
-      "losses": 0,
-      "ppts": 461,
-      "ppts_decimal": 72,
+      "fpts": 533,
+      "fpts_against": 471,
+      "fpts_against_decimal": 60,
+      "fpts_decimal": 52,
+      "losses": 1,
+      "ppts": 604,
+      "ppts_decimal": 80,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 11,
@@ -1464,8 +1460,8 @@
       "wins": 3
     },
     "metadata": {
-      "record": "WWW",
-      "streak": "3W"
+      "record": "WWWL",
+      "streak": "1L"
     }
   },
   {
@@ -1507,7 +1503,7 @@
       "11604",
       "2133",
       "8228",
-      "5045"
+      "3214"
     ],
     "bench": [
       "11563",
@@ -1516,9 +1512,9 @@
       "12502",
       "13320",
       "13424",
-      "3214",
       "4039",
       "4147",
+      "5045",
       "6039",
       "7021",
       "9228",
@@ -1572,7 +1568,7 @@
         "Brock Bowers",
         "Davante Adams",
         "Jaylen Warren",
-        "Courtland Sutton"
+        "Hunter Henry"
       ],
       "bench": [
         "Bo Nix",
@@ -1581,9 +1577,9 @@
         "Gunnar Helm",
         "Zachariah Branch",
         "Seth McGowan",
-        "Hunter Henry",
         "Cooper Kupp",
         "Samaje Perine",
+        "Courtland Sutton",
         "Ty Johnson",
         "Rico Dowdle",
         "Bryce Young",
@@ -1597,22 +1593,22 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 410,
-      "fpts_against": 284,
-      "fpts_against_decimal": 82,
-      "fpts_decimal": 24,
+      "fpts": 537,
+      "fpts_against": 397,
+      "fpts_against_decimal": 34,
+      "fpts_decimal": 66,
       "losses": 0,
-      "ppts": 443,
-      "ppts_decimal": 82,
+      "ppts": 593,
+      "ppts_decimal": 98,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 32,
       "waiver_position": 9,
-      "wins": 3
+      "wins": 4
     },
     "metadata": {
-      "record": "WWW",
-      "streak": "3W"
+      "record": "WWWW",
+      "streak": "4W"
     }
   },
   {
@@ -1744,22 +1740,22 @@
       "taxi": []
     },
     "settings": {
-      "fpts": 299,
-      "fpts_against": 364,
-      "fpts_against_decimal": 50,
-      "fpts_decimal": 92,
+      "fpts": 410,
+      "fpts_against": 446,
+      "fpts_against_decimal": 98,
+      "fpts_decimal": 44,
       "losses": 2,
-      "ppts": 409,
-      "ppts_decimal": 70,
+      "ppts": 550,
+      "ppts_decimal": 2,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 6,
-      "wins": 1
+      "wins": 2
     },
     "metadata": {
-      "record": "WLL",
-      "streak": "2L"
+      "record": "WLLW",
+      "streak": "1W"
     }
   }
 ]
