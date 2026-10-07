@@ -4004,6 +4004,136 @@
         },
         {
           "week": 4,
+          "transaction_id": "1413105682407862272",
+          "type": "waiver",
+          "status": "failed",
+          "created": 1791273158222,
+          "created_at": "2026-10-06T07:52:38.222000Z",
+          "status_updated": 1791357313722,
+          "status_updated_at": "2026-10-07T07:15:13.722000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Laporta Potty"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Laporta Potty"
+          ],
+          "adds": [
+            {
+              "player_id": "13264",
+              "player_name": "Dohnte Meyers",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 3,
+            "waiver_bid": 8
+          },
+          "metadata": {
+            "notes": "This player was claimed by another owner."
+          }
+        },
+        {
+          "week": 4,
+          "transaction_id": "1413159435236384768",
+          "type": "waiver",
+          "status": "failed",
+          "created": 1791285973894,
+          "created_at": "2026-10-06T11:26:13.894000Z",
+          "status_updated": 1791357313722,
+          "status_updated_at": "2026-10-07T07:15:13.722000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "CeeDee You Later"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "CeeDee You Later"
+          ],
+          "adds": [
+            {
+              "player_id": "13264",
+              "player_name": "Dohnte Meyers",
+              "roster_id": 2,
+              "team_label": "CeeDee You Later"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 1,
+            "waiver_bid": 25
+          },
+          "metadata": {
+            "notes": "This player was claimed by another owner."
+          }
+        },
+        {
+          "week": 4,
+          "transaction_id": "1413198058920931328",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1791295182498,
+          "created_at": "2026-10-06T13:59:42.498000Z",
+          "status_updated": 1791357313722,
+          "status_updated_at": "2026-10-07T07:15:13.722000Z",
+          "creator_user_id": "459751268567478272",
+          "roster_ids": [
+            7
+          ],
+          "team_labels": [
+            "Commish is a bitch"
+          ],
+          "consenter_ids": [
+            7
+          ],
+          "consenter_team_labels": [
+            "Commish is a bitch"
+          ],
+          "adds": [
+            {
+              "player_id": "13264",
+              "player_name": "Dohnte Meyers",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "12524",
+              "player_name": "Shedeur Sanders",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 0,
+            "waiver_bid": 31
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 4,
           "transaction_id": "1413218934982803456",
           "type": "free_agent",
           "status": "complete",
@@ -4037,23 +4167,224 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 4,
+          "transaction_id": "1413219326462332928",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1791300253076,
+          "created_at": "2026-10-06T15:24:13.076000Z",
+          "status_updated": 1791357313722,
+          "status_updated_at": "2026-10-07T07:15:13.722000Z",
+          "creator_user_id": "471424563457028096",
+          "roster_ids": [
+            5
+          ],
+          "team_labels": [
+            "White Ice"
+          ],
+          "consenter_ids": [
+            5
+          ],
+          "consenter_team_labels": [
+            "White Ice"
+          ],
+          "adds": [
+            {
+              "player_id": "11577",
+              "player_name": "Will Shipley",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 2,
+            "waiver_bid": 12
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 4,
+          "transaction_id": "1413245445664227328",
+          "type": "waiver",
+          "status": "failed",
+          "created": 1791306480379,
+          "created_at": "2026-10-06T17:08:00.379000Z",
+          "status_updated": 1791357313722,
+          "status_updated_at": "2026-10-07T07:15:13.722000Z",
+          "creator_user_id": "471451909446692864",
+          "roster_ids": [
+            6
+          ],
+          "team_labels": [
+            "andrewwelle"
+          ],
+          "consenter_ids": [
+            6
+          ],
+          "consenter_team_labels": [
+            "andrewwelle"
+          ],
+          "adds": [
+            {
+              "player_id": "13264",
+              "player_name": "Dohnte Meyers",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 6,
+            "waiver_bid": 0
+          },
+          "metadata": {
+            "notes": "This player was claimed by another owner."
+          }
+        },
+        {
+          "week": 4,
+          "transaction_id": "1413377199079178240",
+          "type": "waiver",
+          "status": "failed",
+          "created": 1791337892840,
+          "created_at": "2026-10-07T01:51:32.840000Z",
+          "status_updated": 1791357313722,
+          "status_updated_at": "2026-10-07T07:15:13.722000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Laporta Potty"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Laporta Potty"
+          ],
+          "adds": [
+            {
+              "player_id": "11577",
+              "player_name": "Will Shipley",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 4,
+            "waiver_bid": 2
+          },
+          "metadata": {
+            "notes": "This player was claimed by another owner."
+          }
+        },
+        {
+          "week": 4,
+          "transaction_id": "1413377799288270848",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1791338035941,
+          "created_at": "2026-10-07T01:53:55.941000Z",
+          "status_updated": 1791357313722,
+          "status_updated_at": "2026-10-07T07:15:13.722000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Laporta Potty"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Laporta Potty"
+          ],
+          "adds": [
+            {
+              "player_id": "13150",
+              "player_name": "Darius Cooper",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 5,
+            "waiver_bid": 1
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
         }
       ],
       "counts": {
-        "transactions": 18,
+        "transactions": 25,
         "trades": 5,
-        "waivers": 0,
+        "waivers": 7,
         "free_agent_moves": 13
       }
     },
     "5": {
       "week": 5,
-      "transactions": [],
+      "transactions": [
+        {
+          "week": 5,
+          "transaction_id": "1413511999173775360",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1791370031688,
+          "created_at": "2026-10-07T10:47:11.688000Z",
+          "status_updated": 1791370031688,
+          "status_updated_at": "2026-10-07T10:47:11.688000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Laporta Potty"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Laporta Potty"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "6130",
+              "player_name": "Devin Singletary",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        }
+      ],
       "counts": {
-        "transactions": 0,
+        "transactions": 1,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 0
+        "free_agent_moves": 1
       }
     }
   },
@@ -8026,6 +8357,136 @@
     },
     {
       "week": 4,
+      "transaction_id": "1413105682407862272",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1791273158222,
+      "created_at": "2026-10-06T07:52:38.222000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "13264",
+          "player_name": "Dohnte Meyers",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 3,
+        "waiver_bid": 8
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413159435236384768",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1791285973894,
+      "created_at": "2026-10-06T11:26:13.894000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "CeeDee You Later"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later"
+      ],
+      "adds": [
+        {
+          "player_id": "13264",
+          "player_name": "Dohnte Meyers",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 25
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413198058920931328",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1791295182498,
+      "created_at": "2026-10-06T13:59:42.498000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "13264",
+          "player_name": "Dohnte Meyers",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12524",
+          "player_name": "Shedeur Sanders",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 31
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 4,
       "transaction_id": "1413218934982803456",
       "type": "free_agent",
       "status": "complete",
@@ -8053,6 +8514,206 @@
           "player_name": "Trey Benson",
           "roster_id": 5,
           "team_label": "White Ice"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413219326462332928",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1791300253076,
+      "created_at": "2026-10-06T15:24:13.076000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "11577",
+          "player_name": "Will Shipley",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 2,
+        "waiver_bid": 12
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413245445664227328",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1791306480379,
+      "created_at": "2026-10-06T17:08:00.379000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "13264",
+          "player_name": "Dohnte Meyers",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 6,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413377199079178240",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1791337892840,
+      "created_at": "2026-10-07T01:51:32.840000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "11577",
+          "player_name": "Will Shipley",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 4,
+        "waiver_bid": 2
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413377799288270848",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1791338035941,
+      "created_at": "2026-10-07T01:53:55.941000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "13150",
+          "player_name": "Darius Cooper",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 5,
+        "waiver_bid": 1
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 5,
+      "transaction_id": "1413511999173775360",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791370031688,
+      "created_at": "2026-10-07T10:47:11.688000Z",
+      "status_updated": 1791370031688,
+      "status_updated_at": "2026-10-07T10:47:11.688000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6130",
+          "player_name": "Devin Singletary",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
         }
       ],
       "draft_picks": [],
@@ -9234,6 +9895,300 @@
       "settings": {
         "seq": 0,
         "waiver_bid": 30
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413105682407862272",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1791273158222,
+      "created_at": "2026-10-06T07:52:38.222000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "13264",
+          "player_name": "Dohnte Meyers",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 3,
+        "waiver_bid": 8
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413159435236384768",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1791285973894,
+      "created_at": "2026-10-06T11:26:13.894000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "CeeDee You Later"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later"
+      ],
+      "adds": [
+        {
+          "player_id": "13264",
+          "player_name": "Dohnte Meyers",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 25
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413198058920931328",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1791295182498,
+      "created_at": "2026-10-06T13:59:42.498000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "13264",
+          "player_name": "Dohnte Meyers",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12524",
+          "player_name": "Shedeur Sanders",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 31
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413219326462332928",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1791300253076,
+      "created_at": "2026-10-06T15:24:13.076000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "11577",
+          "player_name": "Will Shipley",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 2,
+        "waiver_bid": 12
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413245445664227328",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1791306480379,
+      "created_at": "2026-10-06T17:08:00.379000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "13264",
+          "player_name": "Dohnte Meyers",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 6,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413377199079178240",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1791337892840,
+      "created_at": "2026-10-07T01:51:32.840000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "11577",
+          "player_name": "Will Shipley",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 4,
+        "waiver_bid": 2
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 4,
+      "transaction_id": "1413377799288270848",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1791338035941,
+      "created_at": "2026-10-07T01:53:55.941000Z",
+      "status_updated": 1791357313722,
+      "status_updated_at": "2026-10-07T07:15:13.722000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "13150",
+          "player_name": "Darius Cooper",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 5,
+        "waiver_bid": 1
       },
       "metadata": {
         "notes": "Your waiver claim was processed successfully!"
@@ -12035,23 +12990,59 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1413511999173775360",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791370031688,
+      "created_at": "2026-10-07T10:47:11.688000Z",
+      "status_updated": 1791370031688,
+      "status_updated_at": "2026-10-07T10:47:11.688000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "6130",
+          "player_name": "Devin Singletary",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 5,
-    "transactions": 92,
+    "transactions": 100,
     "trades": 10,
-    "waivers": 9,
-    "free_agent_moves": 72,
+    "waivers": 16,
+    "free_agent_moves": 73,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 72,
+      "free_agent": 73,
       "trade": 10,
-      "waiver": 9
+      "waiver": 16
     },
     "by_status": {
-      "complete": 90,
-      "failed": 2
+      "complete": 94,
+      "failed": 6
     }
   }
 }

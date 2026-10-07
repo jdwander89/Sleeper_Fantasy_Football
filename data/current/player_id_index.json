@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-06T17:16:02.784572Z",
+  "generated_at": "2026-10-07T17:50:37.625764Z",
   "counts": {
-    "required_player_ids": 336,
-    "resolved_player_ids": 336,
+    "required_player_ids": 338,
+    "resolved_player_ids": 338,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -81,6 +81,7 @@
       "dalton kincaid": "10236",
       "dalton schultz": "5001",
       "daniel jones": "5870",
+      "darius cooper": "13150",
       "darius slayton": "6149",
       "darnell mooney": "7090",
       "darnell washington": "9479",
@@ -336,6 +337,7 @@
       "tyreek hill": "3321",
       "tyrone tracy": "11655",
       "wan'dale robinson": "8126",
+      "will shipley": "11577",
       "woody marks": "12474",
       "xavier legette": "11626",
       "xavier worthy": "11624",
@@ -584,7 +586,6 @@
         "9226"
       ],
       "MIN": [
-        "12476",
         "13347",
         "3161",
         "4199",
@@ -650,7 +651,9 @@
         "8155"
       ],
       "PHI": [
+        "11577",
         "12457",
+        "13150",
         "13294",
         "13349",
         "4866",
@@ -680,7 +683,6 @@
         "12497",
         "12521",
         "13286",
-        "4018",
         "4039",
         "4943",
         "5854",
@@ -799,6 +801,7 @@
         "11571",
         "11575",
         "11576",
+        "11577",
         "11581",
         "11583",
         "11584",
@@ -992,6 +995,7 @@
         "12540",
         "12547",
         "12718",
+        "13150",
         "13264",
         "13268",
         "13270",

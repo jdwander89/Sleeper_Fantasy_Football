@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-10-06T17:16:00.928538Z",
+    "generated_at": "2026-10-07T17:50:35.316653Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -89,7 +89,7 @@
       "trade_review_days": 0,
       "bench_lock": 1,
       "offseason_adds": 0,
-      "leg": 4,
+      "leg": 5,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
       "daily_waivers_last_ran": 9
@@ -220,7 +220,7 @@
       "league_season": "2026",
       "previous_season": "2025",
       "season_start_date": "2026-09-09",
-      "display_week": 4,
+      "display_week": 5,
       "league_create_season": "2026",
       "season_has_scores": true
     }
@@ -288,7 +288,7 @@
         "raw_fpts_against_decimal": 2
       },
       "waivers": {
-        "waiver_position": 12,
+        "waiver_position": 9,
         "waiver_budget_used": 0
       },
       "activity": {
@@ -305,7 +305,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 12,
+        "waiver_position": 9,
         "wins": 2
       },
       "metadata": {
@@ -370,7 +370,7 @@
         "raw_fpts_against_decimal": 46
       },
       "waivers": {
-        "waiver_position": 4,
+        "waiver_position": 2,
         "waiver_budget_used": 0
       },
       "activity": {
@@ -387,7 +387,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 4,
+        "waiver_position": 2,
         "wins": 1
       },
       "metadata": {
@@ -427,8 +427,8 @@
         "raw_fpts_against_decimal": 52
       },
       "waivers": {
-        "waiver_position": 1,
-        "waiver_budget_used": 0
+        "waiver_position": 12,
+        "waiver_budget_used": 1
       },
       "activity": {
         "total_moves": 0
@@ -443,8 +443,8 @@
         "ppts_decimal": 2,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 0,
-        "waiver_position": 1,
+        "waiver_budget_used": 1,
+        "waiver_position": 12,
         "wins": 2
       },
       "metadata": {
@@ -483,7 +483,7 @@
         "raw_fpts_against_decimal": 52
       },
       "waivers": {
-        "waiver_position": 5,
+        "waiver_position": 3,
         "waiver_budget_used": 0
       },
       "activity": {
@@ -500,7 +500,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 5,
+        "waiver_position": 3,
         "wins": 0
       },
       "metadata": {
@@ -541,8 +541,8 @@
         "raw_fpts_against_decimal": 68
       },
       "waivers": {
-        "waiver_position": 7,
-        "waiver_budget_used": 0
+        "waiver_position": 11,
+        "waiver_budget_used": 12
       },
       "activity": {
         "total_moves": 0
@@ -557,8 +557,8 @@
         "ppts_decimal": 76,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 0,
-        "waiver_position": 7,
+        "waiver_budget_used": 12,
+        "waiver_position": 11,
         "wins": 2
       },
       "metadata": {
@@ -596,7 +596,7 @@
         "raw_fpts_against_decimal": 26
       },
       "waivers": {
-        "waiver_position": 8,
+        "waiver_position": 5,
         "waiver_budget_used": 0
       },
       "activity": {
@@ -613,7 +613,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 5,
         "wins": 2
       },
       "metadata": {
@@ -671,8 +671,8 @@
         "raw_fpts_against_decimal": 56
       },
       "waivers": {
-        "waiver_position": 3,
-        "waiver_budget_used": 0
+        "waiver_position": 10,
+        "waiver_budget_used": 31
       },
       "activity": {
         "total_moves": 0
@@ -687,8 +687,8 @@
         "ppts_decimal": 8,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 0,
-        "waiver_position": 3,
+        "waiver_budget_used": 31,
+        "waiver_position": 10,
         "wins": 3
       },
       "metadata": {
@@ -748,7 +748,7 @@
         "raw_fpts_against_decimal": 36
       },
       "waivers": {
-        "waiver_position": 2,
+        "waiver_position": 1,
         "waiver_budget_used": 0
       },
       "activity": {
@@ -765,7 +765,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 2,
+        "waiver_position": 1,
         "wins": 3
       },
       "metadata": {
@@ -817,7 +817,7 @@
         "raw_fpts_against_decimal": 26
       },
       "waivers": {
-        "waiver_position": 11,
+        "waiver_position": 8,
         "waiver_budget_used": 0
       },
       "activity": {
@@ -834,7 +834,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 11,
+        "waiver_position": 8,
         "wins": 0
       },
       "metadata": {
@@ -889,7 +889,7 @@
         "raw_fpts_against_decimal": 60
       },
       "waivers": {
-        "waiver_position": 10,
+        "waiver_position": 7,
         "waiver_budget_used": 11
       },
       "activity": {
@@ -906,7 +906,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 11,
-        "waiver_position": 10,
+        "waiver_position": 7,
         "wins": 3
       },
       "metadata": {
@@ -949,7 +949,7 @@
         "raw_fpts_against_decimal": 34
       },
       "waivers": {
-        "waiver_position": 9,
+        "waiver_position": 6,
         "waiver_budget_used": 32
       },
       "activity": {
@@ -966,7 +966,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 32,
-        "waiver_position": 9,
+        "waiver_position": 6,
         "wins": 4
       },
       "metadata": {
@@ -1025,7 +1025,7 @@
         "raw_fpts_against_decimal": 98
       },
       "waivers": {
-        "waiver_position": 6,
+        "waiver_position": 4,
         "waiver_budget_used": 0
       },
       "activity": {
@@ -1042,7 +1042,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 6,
+        "waiver_position": 4,
         "wins": 2
       },
       "metadata": {
@@ -1191,7 +1191,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 12,
+        "waiver_position": 9,
         "wins": 2
       },
       "metadata": {
@@ -1234,7 +1234,7 @@
         "9758"
       ],
       "starters": [
-        "9758",
+        "6904",
         "5892",
         "7588",
         "13294",
@@ -1255,10 +1255,10 @@
         "5850",
         "6783",
         "6828",
-        "6904",
         "8210",
         "8408",
-        "8676"
+        "8676",
+        "9758"
       ],
       "reserve": [
         "13417",
@@ -1299,7 +1299,7 @@
           "C.J. Stroud"
         ],
         "starters": [
-          "C.J. Stroud",
+          "Jalen Hurts",
           "David Montgomery",
           "Javonte Williams",
           "Makai Lemon",
@@ -1320,10 +1320,10 @@
           "Josh Jacobs",
           "Jerry Jeudy",
           "AJ Dillon",
-          "Jalen Hurts",
           "Chig Okonkwo",
           "Jordan Mason",
-          "Rashid Shaheed"
+          "Rashid Shaheed",
+          "C.J. Stroud"
         ],
         "reserve": [
           "De'Zhaun Stribling",
@@ -1342,7 +1342,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 4,
+        "waiver_position": 2,
         "wins": 1
       },
       "metadata": {
@@ -1357,6 +1357,7 @@
         "10859",
         "11584",
         "11655",
+        "13150",
         "13268",
         "13269",
         "2216",
@@ -1365,7 +1366,6 @@
         "4066",
         "4981",
         "5995",
-        "6130",
         "6804",
         "6813",
         "6819",
@@ -1380,28 +1380,28 @@
         "9509"
       ],
       "starters": [
-        "4046",
+        "6804",
         "9509",
         "6813",
         "8112",
         "2449",
         "10859",
         "11584",
-        "8110",
+        "8121",
         "2216"
       ],
       "bench": [
         "11655",
+        "13150",
         "13268",
         "13269",
+        "4046",
         "4066",
         "4981",
         "5995",
-        "6130",
-        "6804",
         "6819",
         "7525",
-        "8121",
+        "8110",
         "8161",
         "9501",
         "9506"
@@ -1420,6 +1420,7 @@
           "Sam LaPorta",
           "Bucky Irving",
           "Tyrone Tracy",
+          "Darius Cooper",
           "Elijah Sarratt",
           "Fernando Mendoza",
           "Mike Evans",
@@ -1428,7 +1429,6 @@
           "Evan Engram",
           "Calvin Ridley",
           "Justice Hill",
-          "Devin Singletary",
           "Jordan Love",
           "Jonathan Taylor",
           "Michael Pittman",
@@ -1443,28 +1443,28 @@
           "Bijan Robinson"
         ],
         "starters": [
-          "Patrick Mahomes",
+          "Jordan Love",
           "Bijan Robinson",
           "Jonathan Taylor",
           "Drake London",
           "Stefon Diggs",
           "Sam LaPorta",
           "Bucky Irving",
-          "Jake Ferguson",
+          "Romeo Doubs",
           "Mike Evans"
         ],
         "bench": [
           "Tyrone Tracy",
+          "Darius Cooper",
           "Elijah Sarratt",
           "Fernando Mendoza",
+          "Patrick Mahomes",
           "Evan Engram",
           "Calvin Ridley",
           "Justice Hill",
-          "Devin Singletary",
-          "Jordan Love",
           "Michael Pittman",
           "DeVonta Smith",
-          "Romeo Doubs",
+          "Jake Ferguson",
           "Malik Willis",
           "DeMario Douglas",
           "Sean Tucker"
@@ -1484,8 +1484,8 @@
         "ppts_decimal": 2,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 0,
-        "waiver_position": 1,
+        "waiver_budget_used": 1,
+        "waiver_position": 12,
         "wins": 2
       },
       "metadata": {
@@ -1622,7 +1622,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 5,
+        "waiver_position": 3,
         "wins": 0
       },
       "metadata": {
@@ -1638,6 +1638,7 @@
       "players": [
         "10213",
         "11560",
+        "11577",
         "11586",
         "11620",
         "11625",
@@ -1674,6 +1675,7 @@
       ],
       "bench": [
         "10213",
+        "11577",
         "11586",
         "11625",
         "12467",
@@ -1692,15 +1694,16 @@
         "9225"
       ],
       "taxi": [],
-      "player_count": 24,
+      "player_count": 25,
       "starter_count": 9,
-      "bench_count": 13,
+      "bench_count": 14,
       "reserve_count": 2,
       "taxi_count": 0,
       "display": {
         "players": [
           "Tre Tucker",
           "Caleb Williams",
+          "Will Shipley",
           "Blake Corum",
           "Rome Odunze",
           "Adonai Mitchell",
@@ -1737,6 +1740,7 @@
         ],
         "bench": [
           "Tre Tucker",
+          "Will Shipley",
           "Blake Corum",
           "Adonai Mitchell",
           "Jordan James",
@@ -1766,8 +1770,8 @@
         "ppts_decimal": 76,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 0,
-        "waiver_position": 7,
+        "waiver_budget_used": 12,
+        "waiver_position": 11,
         "wins": 2
       },
       "metadata": {
@@ -1812,7 +1816,7 @@
         "8146",
         "5872",
         "4217",
-        "12506",
+        "12534",
         "4199",
         "11834"
       ],
@@ -1820,8 +1824,8 @@
         "11571",
         "11628",
         "12483",
+        "12506",
         "12508",
-        "12534",
         "13276",
         "13404",
         "13420",
@@ -1877,7 +1881,7 @@
           "Garrett Wilson",
           "Deebo Samuel",
           "George Kittle",
-          "Harold Fannin",
+          "Kyle Monangai",
           "Aaron Jones",
           "Devaughn Vele"
         ],
@@ -1885,8 +1889,8 @@
           "Isaiah Davis",
           "Marvin Harrison",
           "Jack Bech",
+          "Harold Fannin",
           "Jaxson Dart",
-          "Kyle Monangai",
           "Omar Cooper",
           "Garrett Nussmeier",
           "Bryce Lance",
@@ -1914,7 +1918,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 8,
+        "waiver_position": 5,
         "wins": 2
       },
       "metadata": {
@@ -1934,12 +1938,12 @@
         "12474",
         "12504",
         "12518",
-        "12524",
         "12526",
         "12535",
         "12543",
         "12545",
         "12547",
+        "13264",
         "13275",
         "13277",
         "13298",
@@ -1967,11 +1971,11 @@
         "11370",
         "11559",
         "12504",
-        "12524",
         "12526",
         "12535",
         "12543",
         "12547",
+        "13264",
         "13275",
         "13277",
         "13311",
@@ -1999,12 +2003,12 @@
           "Woody Marks",
           "Kaleb Johnson",
           "Tyler Warren",
-          "Shedeur Sanders",
           "Tetairoa McMillan",
           "Isaac TeSlaa",
           "Tahj Brooks",
           "Tyler Shough",
           "Kyle Williams",
+          "Dohnte Meyers",
           "Ty Simpson",
           "CJ Donaldson",
           "KC Concepcion",
@@ -2032,11 +2036,11 @@
           "Chris Brooks",
           "Michael Penix",
           "Kaleb Johnson",
-          "Shedeur Sanders",
           "Tetairoa McMillan",
           "Isaac TeSlaa",
           "Tahj Brooks",
           "Kyle Williams",
+          "Dohnte Meyers",
           "Ty Simpson",
           "CJ Donaldson",
           "Chris Bell",
@@ -2060,8 +2064,8 @@
         "ppts_decimal": 8,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 0,
-        "waiver_position": 3,
+        "waiver_budget_used": 31,
+        "waiver_position": 10,
         "wins": 3
       },
       "metadata": {
@@ -2209,7 +2213,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 2,
+        "waiver_position": 1,
         "wins": 3
       },
       "metadata": {
@@ -2258,7 +2262,7 @@
         "7553",
         "13285",
         "13330",
-        "3634"
+        "8154"
       ],
       "bench": [
         "10219",
@@ -2270,9 +2274,9 @@
         "3161",
         "3257",
         "3321",
+        "3634",
         "7090",
         "7528",
-        "8154",
         "8172",
         "8188"
       ],
@@ -2323,7 +2327,7 @@
           "Kyle Pitts",
           "Malachi Fields",
           "Kenyon Sadiq",
-          "Kalif Raymond"
+          "Brian Robinson"
         ],
         "bench": [
           "Chris Rodriguez",
@@ -2335,9 +2339,9 @@
           "Carson Wentz",
           "Jacoby Brissett",
           "Tyreek Hill",
+          "Kalif Raymond",
           "Darnell Mooney",
           "Najee Harris",
-          "Brian Robinson",
           "Greg Dulcich",
           "Tyquan Thornton"
         ],
@@ -2358,7 +2362,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 11,
+        "waiver_position": 8,
         "wins": 0
       },
       "metadata": {
@@ -2509,7 +2513,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 11,
-        "waiver_position": 10,
+        "waiver_position": 7,
         "wins": 3
       },
       "metadata": {
@@ -2656,7 +2660,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 32,
-        "waiver_position": 9,
+        "waiver_position": 6,
         "wins": 4
       },
       "metadata": {
@@ -2696,18 +2700,18 @@
       ],
       "starters": [
         "6770",
-        "4866",
+        "12512",
         "13287",
-        "11635",
+        "11608",
         "9997",
         "5012",
         "10232",
-        "12512",
+        "9508",
         "4983"
       ],
       "bench": [
         "11237",
-        "11608",
+        "11635",
         "11647",
         "12487",
         "13274",
@@ -2716,10 +2720,10 @@
         "3163",
         "421",
         "4454",
+        "4866",
         "5022",
         "7670",
-        "8180",
-        "9508"
+        "8180"
       ],
       "reserve": [
         "11618",
@@ -2761,18 +2765,18 @@
         ],
         "starters": [
           "Joe Burrow",
-          "Saquon Barkley",
+          "Quinshon Judkins",
           "Jeremiyah Love",
-          "Ladd McConkey",
+          "Isaiah Williams",
           "Zay Flowers",
           "Mark Andrews",
           "Michael Wilson",
-          "Quinshon Judkins",
+          "Tyjae Spears",
           "DJ Moore"
         ],
         "bench": [
           "Jacob Saylors",
-          "Isaiah Williams",
+          "Ladd McConkey",
           "Kimani Vidal",
           "Terrance Ferguson",
           "Germie Bernard",
@@ -2781,10 +2785,10 @@
           "Jared Goff",
           "Matthew Stafford",
           "Kendrick Bourne",
+          "Saquon Barkley",
           "Dallas Goedert",
           "Joshua Palmer",
-          "Jalen Nailor",
-          "Tyjae Spears"
+          "Jalen Nailor"
         ],
         "reserve": [
           "Jalen McMillan",
@@ -2803,7 +2807,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 0,
-        "waiver_position": 6,
+        "waiver_position": 4,
         "wins": 2
       },
       "metadata": {
@@ -2846,7 +2850,7 @@
         "years_exp": 3,
         "age": 27,
         "depth_chart_position": "RB",
-        "search_rank": 127
+        "search_rank": 125
       },
       "10222": {
         "player_id": "10222",
@@ -3033,7 +3037,7 @@
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "QB",
-        "search_rank": 21
+        "search_rank": 22
       },
       "11563": {
         "player_id": "11563",
@@ -3050,7 +3054,7 @@
         "years_exp": 2,
         "age": 26,
         "depth_chart_position": "QB",
-        "search_rank": 45
+        "search_rank": 44
       },
       "11564": {
         "player_id": "11564",
@@ -3097,11 +3101,11 @@
           "QB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 2,
         "age": 25,
         "depth_chart_position": "QB",
-        "search_rank": 22
+        "search_rank": 21
       },
       "11569": {
         "player_id": "11569",
@@ -3170,6 +3174,23 @@
         "age": 22,
         "depth_chart_position": "RB",
         "search_rank": 135
+      },
+      "11577": {
+        "player_id": "11577",
+        "name": "Will Shipley",
+        "first_name": "Will",
+        "last_name": "Shipley",
+        "team": "PHI",
+        "position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 2,
+        "age": 24,
+        "depth_chart_position": "RB",
+        "search_rank": 686
       },
       "11581": {
         "player_id": "11581",
@@ -3305,7 +3326,7 @@
         "years_exp": 2,
         "age": 25,
         "depth_chart_position": "SWR",
-        "search_rank": 176
+        "search_rank": 177
       },
       "11618": {
         "player_id": "11618",
@@ -3339,7 +3360,7 @@
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "LWR",
-        "search_rank": 63
+        "search_rank": 65
       },
       "11624": {
         "player_id": "11624",
@@ -3369,7 +3390,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Doubtful",
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "RWR",
@@ -3471,11 +3492,11 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "SWR",
-        "search_rank": 35
+        "search_rank": 36
       },
       "11637": {
         "player_id": "11637",
@@ -3594,7 +3615,7 @@
         "years_exp": 14,
         "age": 38,
         "depth_chart_position": "QB",
-        "search_rank": 270
+        "search_rank": 268
       },
       "11729": {
         "player_id": "11729",
@@ -3692,7 +3713,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "RB",
@@ -3764,7 +3785,7 @@
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "RB",
-        "search_rank": 36
+        "search_rank": 35
       },
       "12483": {
         "player_id": "12483",
@@ -3862,7 +3883,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "SWR",
@@ -3900,7 +3921,7 @@
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "RB",
-        "search_rank": 465
+        "search_rank": 466
       },
       "12497": {
         "player_id": "12497",
@@ -3930,7 +3951,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "TE",
@@ -4138,7 +4159,7 @@
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "TE",
-        "search_rank": 47
+        "search_rank": 49
       },
       "12519": {
         "player_id": "12519",
@@ -4189,24 +4210,7 @@
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "QB",
-        "search_rank": 114
-      },
-      "12524": {
-        "player_id": "12524",
-        "name": "Shedeur Sanders",
-        "first_name": "Shedeur",
-        "last_name": "Sanders",
-        "team": "CLE",
-        "position": "QB",
-        "fantasy_positions": [
-          "QB"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 1,
-        "age": 24,
-        "depth_chart_position": "QB",
-        "search_rank": 227
+        "search_rank": 115
       },
       "12526": {
         "player_id": "12526",
@@ -4447,6 +4451,40 @@
         "depth_chart_position": "SWR",
         "search_rank": 678
       },
+      "13150": {
+        "player_id": "13150",
+        "name": "Darius Cooper",
+        "first_name": "Darius",
+        "last_name": "Cooper",
+        "team": "PHI",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 1,
+        "age": 24,
+        "depth_chart_position": "RWR",
+        "search_rank": 658
+      },
+      "13264": {
+        "player_id": "13264",
+        "name": "Dohnte Meyers",
+        "first_name": "Dohnte",
+        "last_name": "Meyers",
+        "team": "CIN",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 0,
+        "age": 26,
+        "depth_chart_position": "SWR",
+        "search_rank": 628
+      },
       "13268": {
         "player_id": "13268",
         "name": "Elijah Sarratt",
@@ -4492,7 +4530,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 0,
         "age": 24,
         "depth_chart_position": "LWR",
@@ -4526,7 +4564,7 @@
           "QB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "QB",
@@ -4730,7 +4768,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RWR",
@@ -4785,7 +4823,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "RB",
-        "search_rank": 401
+        "search_rank": 402
       },
       "13305": {
         "player_id": "13305",
@@ -4985,11 +5023,11 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RWR",
-        "search_rank": 507
+        "search_rank": 508
       },
       "13394": {
         "player_id": "13394",
@@ -5019,7 +5057,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 0,
         "age": 24,
         "depth_chart_position": "SWR",
@@ -5108,7 +5146,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "SWR",
-        "search_rank": 111
+        "search_rank": 113
       },
       "13420": {
         "player_id": "13420",
@@ -5223,7 +5261,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 13,
         "age": 34,
         "depth_chart_position": "RWR",
@@ -5291,7 +5329,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 11,
         "age": 32,
         "depth_chart_position": "SWR",
@@ -5431,7 +5469,7 @@
         "years_exp": 10,
         "age": 33,
         "depth_chart_position": "QB",
-        "search_rank": 39
+        "search_rank": 38
       },
       "3321": {
         "player_id": "3321",
@@ -5472,13 +5510,13 @@
         "name": "Joe Mixon",
         "first_name": "Joe",
         "last_name": "Mixon",
-        "team": "SEA",
+        "team": null,
         "position": "RB",
         "fantasy_positions": [
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Active",
+        "injury_status": "",
         "years_exp": 9,
         "age": 30,
         "depth_chart_position": null,
@@ -5529,7 +5567,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "RB",
@@ -5584,7 +5622,7 @@
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "QB",
-        "search_rank": 39
+        "search_rank": 40
       },
       "4066": {
         "player_id": "4066",
@@ -5686,7 +5724,7 @@
         "years_exp": 17,
         "age": 38,
         "depth_chart_position": "QB",
-        "search_rank": 66
+        "search_rank": 65
       },
       "4217": {
         "player_id": "4217",
@@ -5733,7 +5771,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 8,
         "age": 29,
         "depth_chart_position": "RB",
@@ -5754,7 +5792,7 @@
         "years_exp": 8,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 10
+        "search_rank": 8
       },
       "4892": {
         "player_id": "4892",
@@ -5920,7 +5958,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Doubtful",
         "years_exp": 8,
         "age": 31,
         "depth_chart_position": "TE",
@@ -5988,7 +6026,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "SWR",
@@ -6077,7 +6115,7 @@
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 132
+        "search_rank": 131
       },
       "5872": {
         "player_id": "5872",
@@ -6094,7 +6132,7 @@
         "years_exp": 7,
         "age": 30,
         "depth_chart_position": "SWR",
-        "search_rank": 130
+        "search_rank": 131
       },
       "5892": {
         "player_id": "5892",
@@ -6124,7 +6162,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 7,
         "age": 31,
         "depth_chart_position": "LWR",
@@ -6198,23 +6236,6 @@
         "depth_chart_position": "RB",
         "search_rank": 534
       },
-      "6130": {
-        "player_id": "6130",
-        "name": "Devin Singletary",
-        "first_name": "Devin",
-        "last_name": "Singletary",
-        "team": "NYG",
-        "position": "RB",
-        "fantasy_positions": [
-          "RB"
-        ],
-        "status": "Active",
-        "injury_status": "Out",
-        "years_exp": 7,
-        "age": 29,
-        "depth_chart_position": "RB",
-        "search_rank": 660
-      },
       "6770": {
         "player_id": "6770",
         "name": "Joe Burrow",
@@ -6281,7 +6302,7 @@
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "RB",
-        "search_rank": 46
+        "search_rank": 44
       },
       "6794": {
         "player_id": "6794",
@@ -6294,7 +6315,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "LWR",
@@ -6315,7 +6336,7 @@
         "years_exp": 6,
         "age": 28,
         "depth_chart_position": "QB",
-        "search_rank": 33
+        "search_rank": 34
       },
       "6801": {
         "player_id": "6801",
@@ -6366,7 +6387,7 @@
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "QB",
-        "search_rank": 68
+        "search_rank": 69
       },
       "6806": {
         "player_id": "6806",
@@ -6451,7 +6472,7 @@
         "years_exp": 6,
         "age": 28,
         "depth_chart_position": "QB",
-        "search_rank": 28
+        "search_rank": 26
       },
       "7002": {
         "player_id": "7002",
@@ -6481,7 +6502,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 6,
         "age": 28,
         "depth_chart_position": "RB",
@@ -6549,7 +6570,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 5,
         "age": 27,
         "depth_chart_position": "LWR",
@@ -6651,7 +6672,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 5,
         "age": 26,
         "depth_chart_position": "LWR",
@@ -6770,7 +6791,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 5,
         "age": 28,
         "depth_chart_position": "RB",
@@ -6974,7 +6995,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 4,
         "age": 27,
         "depth_chart_position": "RB",
@@ -7161,7 +7182,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Doubtful",
         "years_exp": 4,
         "age": 25,
         "depth_chart_position": "RB",
@@ -7182,7 +7203,7 @@
         "years_exp": 4,
         "age": 27,
         "depth_chart_position": "QB",
-        "search_rank": 120
+        "search_rank": 119
       },
       "8167": {
         "player_id": "8167",
@@ -7250,7 +7271,7 @@
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "QB",
-        "search_rank": 56
+        "search_rank": 55
       },
       "8188": {
         "player_id": "8188",
@@ -7433,7 +7454,7 @@
           "RB"
         ],
         "status": "Inactive",
-        "injury_status": "Out",
+        "injury_status": "IR",
         "years_exp": 3,
         "age": 24,
         "depth_chart_position": "RB",
@@ -7641,7 +7662,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "SWR",
-        "search_rank": 501
+        "search_rank": 502
       },
       "9502": {
         "player_id": "9502",
@@ -7828,7 +7849,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "QB",
-        "search_rank": 101
+        "search_rank": 102
       },
       "9997": {
         "player_id": "9997",
@@ -7892,7 +7913,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 3,
         "age": 27,
         "depth_chart_position": "RB",
@@ -7994,7 +8015,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "RB",
@@ -8005,7 +8026,7 @@
         "name": "Devin Neal",
         "first_name": "Devin",
         "last_name": "Neal",
-        "team": "MIN",
+        "team": null,
         "position": "RB",
         "fantasy_positions": [
           "RB"
@@ -8051,6 +8072,23 @@
         "depth_chart_position": "SWR",
         "search_rank": 683
       },
+      "12524": {
+        "player_id": "12524",
+        "name": "Shedeur Sanders",
+        "first_name": "Shedeur",
+        "last_name": "Sanders",
+        "team": "CLE",
+        "position": "QB",
+        "fantasy_positions": [
+          "QB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 1,
+        "age": 24,
+        "depth_chart_position": "QB",
+        "search_rank": 227
+      },
       "12540": {
         "player_id": "12540",
         "name": "Chimere Dike",
@@ -8068,23 +8106,6 @@
         "depth_chart_position": "SWR",
         "search_rank": 175
       },
-      "13264": {
-        "player_id": "13264",
-        "name": "Dohnte Meyers",
-        "first_name": "Dohnte",
-        "last_name": "Meyers",
-        "team": "CIN",
-        "position": "WR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 0,
-        "age": 26,
-        "depth_chart_position": "SWR",
-        "search_rank": 628
-      },
       "13272": {
         "player_id": "13272",
         "name": "Carson Beck",
@@ -8096,7 +8117,7 @@
           "QB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "QB",
@@ -8215,11 +8236,11 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RB",
-        "search_rank": 487
+        "search_rank": 490
       },
       "3200": {
         "player_id": "3200",
@@ -8357,6 +8378,23 @@
         "depth_chart_position": "RWR",
         "search_rank": 585
       },
+      "6130": {
+        "player_id": "6130",
+        "name": "Devin Singletary",
+        "first_name": "Devin",
+        "last_name": "Singletary",
+        "team": "NYG",
+        "position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 7,
+        "age": 29,
+        "depth_chart_position": "RB",
+        "search_rank": 660
+      },
       "6149": {
         "player_id": "6149",
         "name": "Darius Slayton",
@@ -8368,7 +8406,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "RWR",
@@ -8402,7 +8440,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "TE",
@@ -8436,7 +8474,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 5,
         "age": 27,
         "depth_chart_position": "RB",
@@ -8470,7 +8508,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 4,
         "age": 27,
         "depth_chart_position": "TE",
@@ -16458,7 +16496,7 @@
               "9758"
             ],
             "starters": [
-              "9758",
+              "6904",
               "5892",
               "7588",
               "13294",
@@ -16480,11 +16518,11 @@
               "5850",
               "6783",
               "6828",
-              "6904",
               "8210",
               "8408",
               "8676",
-              "8800"
+              "8800",
+              "9758"
             ],
             "players_points": {
               "10235": 0.0,
@@ -16543,7 +16581,7 @@
                 "C.J. Stroud"
               ],
               "starters": [
-                "C.J. Stroud",
+                "Jalen Hurts",
                 "David Montgomery",
                 "Javonte Williams",
                 "Makai Lemon",
@@ -16565,11 +16603,11 @@
                 "Josh Jacobs",
                 "Jerry Jeudy",
                 "AJ Dillon",
-                "Jalen Hurts",
                 "Chig Okonkwo",
                 "Jordan Mason",
                 "Rashid Shaheed",
-                "Malik Davis"
+                "Malik Davis",
+                "C.J. Stroud"
               ]
             }
           },
@@ -16584,6 +16622,7 @@
               "10859",
               "11584",
               "11655",
+              "13150",
               "13268",
               "13269",
               "2216",
@@ -16592,7 +16631,6 @@
               "4066",
               "4981",
               "5995",
-              "6130",
               "6804",
               "6813",
               "6819",
@@ -16619,13 +16657,13 @@
             ],
             "bench": [
               "11655",
+              "13150",
               "13268",
               "13269",
               "4046",
               "4066",
               "4981",
               "5995",
-              "6130",
               "6819",
               "7525",
               "8110",
@@ -16638,6 +16676,7 @@
               "10859": 0.0,
               "11584": 0.0,
               "11655": 0.0,
+              "13150": 0.0,
               "13268": 0.0,
               "13269": 0.0,
               "2216": 0.0,
@@ -16646,7 +16685,6 @@
               "4066": 0.0,
               "4981": 0.0,
               "5995": 0.0,
-              "6130": 0.0,
               "6804": 0.0,
               "6813": 0.0,
               "6819": 0.0,
@@ -16666,6 +16704,7 @@
                 "Sam LaPorta",
                 "Bucky Irving",
                 "Tyrone Tracy",
+                "Darius Cooper",
                 "Elijah Sarratt",
                 "Fernando Mendoza",
                 "Mike Evans",
@@ -16674,7 +16713,6 @@
                 "Evan Engram",
                 "Calvin Ridley",
                 "Justice Hill",
-                "Devin Singletary",
                 "Jordan Love",
                 "Jonathan Taylor",
                 "Michael Pittman",
@@ -16701,13 +16739,13 @@
               ],
               "bench": [
                 "Tyrone Tracy",
+                "Darius Cooper",
                 "Elijah Sarratt",
                 "Fernando Mendoza",
                 "Patrick Mahomes",
                 "Evan Engram",
                 "Calvin Ridley",
                 "Justice Hill",
-                "Devin Singletary",
                 "Michael Pittman",
                 "DeVonta Smith",
                 "Jake Ferguson",
@@ -16868,6 +16906,7 @@
             "players": [
               "10213",
               "11560",
+              "11577",
               "11586",
               "11620",
               "11625",
@@ -16905,6 +16944,7 @@
             "bench": [
               "10213",
               "11560",
+              "11577",
               "11586",
               "11625",
               "12467",
@@ -16922,6 +16962,7 @@
             "players_points": {
               "10213": 0.0,
               "11560": 0.0,
+              "11577": 0.0,
               "11586": 0.0,
               "11620": 0.0,
               "11625": 0.0,
@@ -16950,6 +16991,7 @@
               "players": [
                 "Tre Tucker",
                 "Caleb Williams",
+                "Will Shipley",
                 "Blake Corum",
                 "Rome Odunze",
                 "Adonai Mitchell",
@@ -16987,6 +17029,7 @@
               "bench": [
                 "Tre Tucker",
                 "Caleb Williams",
+                "Will Shipley",
                 "Blake Corum",
                 "Adonai Mitchell",
                 "Jordan James",
@@ -17044,7 +17087,7 @@
               "8146",
               "5872",
               "4217",
-              "12506",
+              "12534",
               "4199",
               "11834"
             ],
@@ -17053,8 +17096,8 @@
               "11628",
               "11638",
               "12483",
+              "12506",
               "12508",
-              "12534",
               "13276",
               "13353",
               "13404",
@@ -17129,7 +17172,7 @@
                 "Garrett Wilson",
                 "Deebo Samuel",
                 "George Kittle",
-                "Harold Fannin",
+                "Kyle Monangai",
                 "Aaron Jones",
                 "Devaughn Vele"
               ],
@@ -17138,8 +17181,8 @@
                 "Marvin Harrison",
                 "Ricky Pearsall",
                 "Jack Bech",
+                "Harold Fannin",
                 "Jaxson Dart",
-                "Kyle Monangai",
                 "Omar Cooper",
                 "Chris Brazzell",
                 "Garrett Nussmeier",
@@ -17169,12 +17212,12 @@
               "12474",
               "12504",
               "12518",
-              "12524",
               "12526",
               "12535",
               "12543",
               "12545",
               "12547",
+              "13264",
               "13275",
               "13277",
               "13298",
@@ -17203,11 +17246,11 @@
               "11370",
               "11559",
               "12504",
-              "12524",
               "12526",
               "12535",
               "12543",
               "12547",
+              "13264",
               "13275",
               "13277",
               "13311",
@@ -17225,12 +17268,12 @@
               "12474": 0.0,
               "12504": 0.0,
               "12518": 0.0,
-              "12524": 0.0,
               "12526": 0.0,
               "12535": 0.0,
               "12543": 0.0,
               "12545": 0.0,
               "12547": 0.0,
+              "13264": 0.0,
               "13275": 0.0,
               "13277": 0.0,
               "13298": 0.0,
@@ -17254,12 +17297,12 @@
                 "Woody Marks",
                 "Kaleb Johnson",
                 "Tyler Warren",
-                "Shedeur Sanders",
                 "Tetairoa McMillan",
                 "Isaac TeSlaa",
                 "Tahj Brooks",
                 "Tyler Shough",
                 "Kyle Williams",
+                "Dohnte Meyers",
                 "Ty Simpson",
                 "CJ Donaldson",
                 "KC Concepcion",
@@ -17288,11 +17331,11 @@
                 "Chris Brooks",
                 "Michael Penix",
                 "Kaleb Johnson",
-                "Shedeur Sanders",
                 "Tetairoa McMillan",
                 "Isaac TeSlaa",
                 "Tahj Brooks",
                 "Kyle Williams",
+                "Dohnte Meyers",
                 "Ty Simpson",
                 "CJ Donaldson",
                 "Chris Bell",
@@ -17496,7 +17539,7 @@
               "7553",
               "13285",
               "13330",
-              "3634"
+              "8154"
             ],
             "bench": [
               "10219",
@@ -17509,9 +17552,9 @@
               "3161",
               "3257",
               "3321",
+              "3634",
               "7090",
               "7528",
-              "8154",
               "8172",
               "8188",
               "9226"
@@ -17581,7 +17624,7 @@
                 "Kyle Pitts",
                 "Malachi Fields",
                 "Kenyon Sadiq",
-                "Kalif Raymond"
+                "Brian Robinson"
               ],
               "bench": [
                 "Chris Rodriguez",
@@ -17594,9 +17637,9 @@
                 "Carson Wentz",
                 "Jacoby Brissett",
                 "Tyreek Hill",
+                "Kalif Raymond",
                 "Darnell Mooney",
                 "Najee Harris",
-                "Brian Robinson",
                 "Greg Dulcich",
                 "Tyquan Thornton",
                 "De'Von Achane"
@@ -17939,19 +17982,19 @@
             ],
             "starters": [
               "6770",
-              "4866",
+              "12512",
               "13287",
-              "11635",
+              "11608",
               "9997",
               "5012",
               "10232",
-              "12512",
+              "9508",
               "4983"
             ],
             "bench": [
               "11237",
-              "11608",
               "11618",
+              "11635",
               "11647",
               "12487",
               "13274",
@@ -17960,11 +18003,11 @@
               "3163",
               "421",
               "4454",
+              "4866",
               "5022",
               "7543",
               "7670",
-              "8180",
-              "9508"
+              "8180"
             ],
             "players_points": {
               "10232": 0.0,
@@ -18024,19 +18067,19 @@
               ],
               "starters": [
                 "Joe Burrow",
-                "Saquon Barkley",
+                "Quinshon Judkins",
                 "Jeremiyah Love",
-                "Ladd McConkey",
+                "Isaiah Williams",
                 "Zay Flowers",
                 "Mark Andrews",
                 "Michael Wilson",
-                "Quinshon Judkins",
+                "Tyjae Spears",
                 "DJ Moore"
               ],
               "bench": [
                 "Jacob Saylors",
-                "Isaiah Williams",
                 "Jalen McMillan",
+                "Ladd McConkey",
                 "Kimani Vidal",
                 "Terrance Ferguson",
                 "Germie Bernard",
@@ -18045,11 +18088,11 @@
                 "Jared Goff",
                 "Matthew Stafford",
                 "Kendrick Bourne",
+                "Saquon Barkley",
                 "Dallas Goedert",
                 "Travis Etienne",
                 "Joshua Palmer",
-                "Jalen Nailor",
-                "Tyjae Spears"
+                "Jalen Nailor"
               ]
             }
           }
@@ -22072,6 +22115,136 @@
           },
           {
             "week": 4,
+            "transaction_id": "1413105682407862272",
+            "type": "waiver",
+            "status": "failed",
+            "created": 1791273158222,
+            "created_at": "2026-10-06T07:52:38.222000Z",
+            "status_updated": 1791357313722,
+            "status_updated_at": "2026-10-07T07:15:13.722000Z",
+            "creator_user_id": "471415197991432192",
+            "roster_ids": [
+              3
+            ],
+            "team_labels": [
+              "Laporta Potty"
+            ],
+            "consenter_ids": [
+              3
+            ],
+            "consenter_team_labels": [
+              "Laporta Potty"
+            ],
+            "adds": [
+              {
+                "player_id": "13264",
+                "player_name": "Dohnte Meyers",
+                "roster_id": 3,
+                "team_label": "Laporta Potty"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {
+              "seq": 3,
+              "waiver_bid": 8
+            },
+            "metadata": {
+              "notes": "This player was claimed by another owner."
+            }
+          },
+          {
+            "week": 4,
+            "transaction_id": "1413159435236384768",
+            "type": "waiver",
+            "status": "failed",
+            "created": 1791285973894,
+            "created_at": "2026-10-06T11:26:13.894000Z",
+            "status_updated": 1791357313722,
+            "status_updated_at": "2026-10-07T07:15:13.722000Z",
+            "creator_user_id": "471403228244733952",
+            "roster_ids": [
+              2
+            ],
+            "team_labels": [
+              "CeeDee You Later"
+            ],
+            "consenter_ids": [
+              2
+            ],
+            "consenter_team_labels": [
+              "CeeDee You Later"
+            ],
+            "adds": [
+              {
+                "player_id": "13264",
+                "player_name": "Dohnte Meyers",
+                "roster_id": 2,
+                "team_label": "CeeDee You Later"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {
+              "seq": 1,
+              "waiver_bid": 25
+            },
+            "metadata": {
+              "notes": "This player was claimed by another owner."
+            }
+          },
+          {
+            "week": 4,
+            "transaction_id": "1413198058920931328",
+            "type": "waiver",
+            "status": "complete",
+            "created": 1791295182498,
+            "created_at": "2026-10-06T13:59:42.498000Z",
+            "status_updated": 1791357313722,
+            "status_updated_at": "2026-10-07T07:15:13.722000Z",
+            "creator_user_id": "459751268567478272",
+            "roster_ids": [
+              7
+            ],
+            "team_labels": [
+              "Commish is a bitch"
+            ],
+            "consenter_ids": [
+              7
+            ],
+            "consenter_team_labels": [
+              "Commish is a bitch"
+            ],
+            "adds": [
+              {
+                "player_id": "13264",
+                "player_name": "Dohnte Meyers",
+                "roster_id": 7,
+                "team_label": "Commish is a bitch"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "12524",
+                "player_name": "Shedeur Sanders",
+                "roster_id": 7,
+                "team_label": "Commish is a bitch"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {
+              "seq": 0,
+              "waiver_bid": 31
+            },
+            "metadata": {
+              "notes": "Your waiver claim was processed successfully!"
+            }
+          },
+          {
+            "week": 4,
             "transaction_id": "1413218934982803456",
             "type": "free_agent",
             "status": "complete",
@@ -22105,23 +22278,224 @@
             "waiver_budget": [],
             "settings": {},
             "metadata": {}
+          },
+          {
+            "week": 4,
+            "transaction_id": "1413219326462332928",
+            "type": "waiver",
+            "status": "complete",
+            "created": 1791300253076,
+            "created_at": "2026-10-06T15:24:13.076000Z",
+            "status_updated": 1791357313722,
+            "status_updated_at": "2026-10-07T07:15:13.722000Z",
+            "creator_user_id": "471424563457028096",
+            "roster_ids": [
+              5
+            ],
+            "team_labels": [
+              "White Ice"
+            ],
+            "consenter_ids": [
+              5
+            ],
+            "consenter_team_labels": [
+              "White Ice"
+            ],
+            "adds": [
+              {
+                "player_id": "11577",
+                "player_name": "Will Shipley",
+                "roster_id": 5,
+                "team_label": "White Ice"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {
+              "seq": 2,
+              "waiver_bid": 12
+            },
+            "metadata": {
+              "notes": "Your waiver claim was processed successfully!"
+            }
+          },
+          {
+            "week": 4,
+            "transaction_id": "1413245445664227328",
+            "type": "waiver",
+            "status": "failed",
+            "created": 1791306480379,
+            "created_at": "2026-10-06T17:08:00.379000Z",
+            "status_updated": 1791357313722,
+            "status_updated_at": "2026-10-07T07:15:13.722000Z",
+            "creator_user_id": "471451909446692864",
+            "roster_ids": [
+              6
+            ],
+            "team_labels": [
+              "andrewwelle"
+            ],
+            "consenter_ids": [
+              6
+            ],
+            "consenter_team_labels": [
+              "andrewwelle"
+            ],
+            "adds": [
+              {
+                "player_id": "13264",
+                "player_name": "Dohnte Meyers",
+                "roster_id": 6,
+                "team_label": "andrewwelle"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {
+              "seq": 6,
+              "waiver_bid": 0
+            },
+            "metadata": {
+              "notes": "This player was claimed by another owner."
+            }
+          },
+          {
+            "week": 4,
+            "transaction_id": "1413377199079178240",
+            "type": "waiver",
+            "status": "failed",
+            "created": 1791337892840,
+            "created_at": "2026-10-07T01:51:32.840000Z",
+            "status_updated": 1791357313722,
+            "status_updated_at": "2026-10-07T07:15:13.722000Z",
+            "creator_user_id": "471415197991432192",
+            "roster_ids": [
+              3
+            ],
+            "team_labels": [
+              "Laporta Potty"
+            ],
+            "consenter_ids": [
+              3
+            ],
+            "consenter_team_labels": [
+              "Laporta Potty"
+            ],
+            "adds": [
+              {
+                "player_id": "11577",
+                "player_name": "Will Shipley",
+                "roster_id": 3,
+                "team_label": "Laporta Potty"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {
+              "seq": 4,
+              "waiver_bid": 2
+            },
+            "metadata": {
+              "notes": "This player was claimed by another owner."
+            }
+          },
+          {
+            "week": 4,
+            "transaction_id": "1413377799288270848",
+            "type": "waiver",
+            "status": "complete",
+            "created": 1791338035941,
+            "created_at": "2026-10-07T01:53:55.941000Z",
+            "status_updated": 1791357313722,
+            "status_updated_at": "2026-10-07T07:15:13.722000Z",
+            "creator_user_id": "471415197991432192",
+            "roster_ids": [
+              3
+            ],
+            "team_labels": [
+              "Laporta Potty"
+            ],
+            "consenter_ids": [
+              3
+            ],
+            "consenter_team_labels": [
+              "Laporta Potty"
+            ],
+            "adds": [
+              {
+                "player_id": "13150",
+                "player_name": "Darius Cooper",
+                "roster_id": 3,
+                "team_label": "Laporta Potty"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {
+              "seq": 5,
+              "waiver_bid": 1
+            },
+            "metadata": {
+              "notes": "Your waiver claim was processed successfully!"
+            }
           }
         ],
         "counts": {
-          "transactions": 18,
+          "transactions": 25,
           "trades": 5,
-          "waivers": 0,
+          "waivers": 7,
           "free_agent_moves": 13
         }
       },
       "5": {
         "week": 5,
-        "transactions": [],
+        "transactions": [
+          {
+            "week": 5,
+            "transaction_id": "1413511999173775360",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1791370031688,
+            "created_at": "2026-10-07T10:47:11.688000Z",
+            "status_updated": 1791370031688,
+            "status_updated_at": "2026-10-07T10:47:11.688000Z",
+            "creator_user_id": "471415197991432192",
+            "roster_ids": [
+              3
+            ],
+            "team_labels": [
+              "Laporta Potty"
+            ],
+            "consenter_ids": [
+              3
+            ],
+            "consenter_team_labels": [
+              "Laporta Potty"
+            ],
+            "adds": [],
+            "drops": [
+              {
+                "player_id": "6130",
+                "player_name": "Devin Singletary",
+                "roster_id": 3,
+                "team_label": "Laporta Potty"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
+          }
+        ],
         "counts": {
-          "transactions": 0,
+          "transactions": 1,
           "trades": 0,
           "waivers": 0,
-          "free_agent_moves": 0
+          "free_agent_moves": 1
         }
       }
     },
@@ -26094,6 +26468,136 @@
       },
       {
         "week": 4,
+        "transaction_id": "1413105682407862272",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1791273158222,
+        "created_at": "2026-10-06T07:52:38.222000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "13264",
+            "player_name": "Dohnte Meyers",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 3,
+          "waiver_bid": 8
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 4,
+        "transaction_id": "1413159435236384768",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1791285973894,
+        "created_at": "2026-10-06T11:26:13.894000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "471403228244733952",
+        "roster_ids": [
+          2
+        ],
+        "team_labels": [
+          "CeeDee You Later"
+        ],
+        "consenter_ids": [
+          2
+        ],
+        "consenter_team_labels": [
+          "CeeDee You Later"
+        ],
+        "adds": [
+          {
+            "player_id": "13264",
+            "player_name": "Dohnte Meyers",
+            "roster_id": 2,
+            "team_label": "CeeDee You Later"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 1,
+          "waiver_bid": 25
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 4,
+        "transaction_id": "1413198058920931328",
+        "type": "waiver",
+        "status": "complete",
+        "created": 1791295182498,
+        "created_at": "2026-10-06T13:59:42.498000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "459751268567478272",
+        "roster_ids": [
+          7
+        ],
+        "team_labels": [
+          "Commish is a bitch"
+        ],
+        "consenter_ids": [
+          7
+        ],
+        "consenter_team_labels": [
+          "Commish is a bitch"
+        ],
+        "adds": [
+          {
+            "player_id": "13264",
+            "player_name": "Dohnte Meyers",
+            "roster_id": 7,
+            "team_label": "Commish is a bitch"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "12524",
+            "player_name": "Shedeur Sanders",
+            "roster_id": 7,
+            "team_label": "Commish is a bitch"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 0,
+          "waiver_bid": 31
+        },
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        }
+      },
+      {
+        "week": 4,
         "transaction_id": "1413218934982803456",
         "type": "free_agent",
         "status": "complete",
@@ -26121,6 +26625,206 @@
             "player_name": "Trey Benson",
             "roster_id": 5,
             "team_label": "White Ice"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 4,
+        "transaction_id": "1413219326462332928",
+        "type": "waiver",
+        "status": "complete",
+        "created": 1791300253076,
+        "created_at": "2026-10-06T15:24:13.076000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "471424563457028096",
+        "roster_ids": [
+          5
+        ],
+        "team_labels": [
+          "White Ice"
+        ],
+        "consenter_ids": [
+          5
+        ],
+        "consenter_team_labels": [
+          "White Ice"
+        ],
+        "adds": [
+          {
+            "player_id": "11577",
+            "player_name": "Will Shipley",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 2,
+          "waiver_bid": 12
+        },
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        }
+      },
+      {
+        "week": 4,
+        "transaction_id": "1413245445664227328",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1791306480379,
+        "created_at": "2026-10-06T17:08:00.379000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "471451909446692864",
+        "roster_ids": [
+          6
+        ],
+        "team_labels": [
+          "andrewwelle"
+        ],
+        "consenter_ids": [
+          6
+        ],
+        "consenter_team_labels": [
+          "andrewwelle"
+        ],
+        "adds": [
+          {
+            "player_id": "13264",
+            "player_name": "Dohnte Meyers",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 6,
+          "waiver_bid": 0
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 4,
+        "transaction_id": "1413377199079178240",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1791337892840,
+        "created_at": "2026-10-07T01:51:32.840000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "11577",
+            "player_name": "Will Shipley",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 4,
+          "waiver_bid": 2
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 4,
+        "transaction_id": "1413377799288270848",
+        "type": "waiver",
+        "status": "complete",
+        "created": 1791338035941,
+        "created_at": "2026-10-07T01:53:55.941000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "13150",
+            "player_name": "Darius Cooper",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 5,
+          "waiver_bid": 1
+        },
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        }
+      },
+      {
+        "week": 5,
+        "transaction_id": "1413511999173775360",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1791370031688,
+        "created_at": "2026-10-07T10:47:11.688000Z",
+        "status_updated": 1791370031688,
+        "status_updated_at": "2026-10-07T10:47:11.688000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "6130",
+            "player_name": "Devin Singletary",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
           }
         ],
         "draft_picks": [],
@@ -27302,6 +28006,300 @@
         "settings": {
           "seq": 0,
           "waiver_bid": 30
+        },
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        }
+      },
+      {
+        "week": 4,
+        "transaction_id": "1413105682407862272",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1791273158222,
+        "created_at": "2026-10-06T07:52:38.222000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "13264",
+            "player_name": "Dohnte Meyers",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 3,
+          "waiver_bid": 8
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 4,
+        "transaction_id": "1413159435236384768",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1791285973894,
+        "created_at": "2026-10-06T11:26:13.894000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "471403228244733952",
+        "roster_ids": [
+          2
+        ],
+        "team_labels": [
+          "CeeDee You Later"
+        ],
+        "consenter_ids": [
+          2
+        ],
+        "consenter_team_labels": [
+          "CeeDee You Later"
+        ],
+        "adds": [
+          {
+            "player_id": "13264",
+            "player_name": "Dohnte Meyers",
+            "roster_id": 2,
+            "team_label": "CeeDee You Later"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 1,
+          "waiver_bid": 25
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 4,
+        "transaction_id": "1413198058920931328",
+        "type": "waiver",
+        "status": "complete",
+        "created": 1791295182498,
+        "created_at": "2026-10-06T13:59:42.498000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "459751268567478272",
+        "roster_ids": [
+          7
+        ],
+        "team_labels": [
+          "Commish is a bitch"
+        ],
+        "consenter_ids": [
+          7
+        ],
+        "consenter_team_labels": [
+          "Commish is a bitch"
+        ],
+        "adds": [
+          {
+            "player_id": "13264",
+            "player_name": "Dohnte Meyers",
+            "roster_id": 7,
+            "team_label": "Commish is a bitch"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "12524",
+            "player_name": "Shedeur Sanders",
+            "roster_id": 7,
+            "team_label": "Commish is a bitch"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 0,
+          "waiver_bid": 31
+        },
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        }
+      },
+      {
+        "week": 4,
+        "transaction_id": "1413219326462332928",
+        "type": "waiver",
+        "status": "complete",
+        "created": 1791300253076,
+        "created_at": "2026-10-06T15:24:13.076000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "471424563457028096",
+        "roster_ids": [
+          5
+        ],
+        "team_labels": [
+          "White Ice"
+        ],
+        "consenter_ids": [
+          5
+        ],
+        "consenter_team_labels": [
+          "White Ice"
+        ],
+        "adds": [
+          {
+            "player_id": "11577",
+            "player_name": "Will Shipley",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 2,
+          "waiver_bid": 12
+        },
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        }
+      },
+      {
+        "week": 4,
+        "transaction_id": "1413245445664227328",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1791306480379,
+        "created_at": "2026-10-06T17:08:00.379000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "471451909446692864",
+        "roster_ids": [
+          6
+        ],
+        "team_labels": [
+          "andrewwelle"
+        ],
+        "consenter_ids": [
+          6
+        ],
+        "consenter_team_labels": [
+          "andrewwelle"
+        ],
+        "adds": [
+          {
+            "player_id": "13264",
+            "player_name": "Dohnte Meyers",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 6,
+          "waiver_bid": 0
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 4,
+        "transaction_id": "1413377199079178240",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1791337892840,
+        "created_at": "2026-10-07T01:51:32.840000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "11577",
+            "player_name": "Will Shipley",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 4,
+          "waiver_bid": 2
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 4,
+        "transaction_id": "1413377799288270848",
+        "type": "waiver",
+        "status": "complete",
+        "created": 1791338035941,
+        "created_at": "2026-10-07T01:53:55.941000Z",
+        "status_updated": 1791357313722,
+        "status_updated_at": "2026-10-07T07:15:13.722000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "13150",
+            "player_name": "Darius Cooper",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 5,
+          "waiver_bid": 1
         },
         "metadata": {
           "notes": "Your waiver claim was processed successfully!"
@@ -30103,23 +31101,59 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 5,
+        "transaction_id": "1413511999173775360",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1791370031688,
+        "created_at": "2026-10-07T10:47:11.688000Z",
+        "status_updated": 1791370031688,
+        "status_updated_at": "2026-10-07T10:47:11.688000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "6130",
+            "player_name": "Devin Singletary",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "counts": {
       "weeks": 5,
-      "transactions": 92,
+      "transactions": 100,
       "trades": 10,
-      "waivers": 9,
-      "free_agent_moves": 72,
+      "waivers": 16,
+      "free_agent_moves": 73,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 72,
+        "free_agent": 73,
         "trade": 10,
-        "waiver": 9
+        "waiver": 16
       },
       "by_status": {
-        "complete": 90,
-        "failed": 2
+        "complete": 94,
+        "failed": 6
       }
     }
   },
@@ -33993,6 +35027,7 @@
       "dalton kincaid": "10236",
       "dalton schultz": "5001",
       "daniel jones": "5870",
+      "darius cooper": "13150",
       "darnell mooney": "7090",
       "darren waller": "2505",
       "davante adams": "2133",
@@ -34006,10 +35041,10 @@
       "denzel boston": "13346",
       "derrick henry": "3198",
       "devaughn vele": "11834",
-      "devin singletary": "6130",
       "devonta smith": "7525",
       "dj moore": "4983",
       "dk metcalf": "5846",
+      "dohnte meyers": "13264",
       "dontayvion wicks": "9486",
       "drake london": "8112",
       "drake maye": "11564",
@@ -34183,7 +35218,6 @@
       "saquon barkley": "4866",
       "sean tucker": "9506",
       "seth mcgowan": "13424",
-      "shedeur sanders": "12524",
       "sione vaki": "11729",
       "skyler bell": "13402",
       "stefon diggs": "2449",
@@ -34220,6 +35254,7 @@
       "tyreek hill": "3321",
       "tyrone tracy": "11655",
       "wan'dale robinson": "8126",
+      "will shipley": "11577",
       "woody marks": "12474",
       "xavier legette": "11626",
       "xavier worthy": "11624",

@@ -81,7 +81,7 @@
     "trade_review_days": 0,
     "bench_lock": 1,
     "offseason_adds": 0,
-    "leg": 4,
+    "leg": 5,
     "reserve_slots": 2,
     "reserve_allow_cov": 1,
     "daily_waivers_last_ran": 9
@@ -212,7 +212,7 @@
     "league_season": "2026",
     "previous_season": "2025",
     "season_start_date": "2026-09-09",
-    "display_week": 4,
+    "display_week": 5,
     "league_create_season": "2026",
     "season_has_scores": true
   }
