@@ -4378,11 +4378,93 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 5,
+          "transaction_id": "1413761993491431424",
+          "type": "trade",
+          "status": "complete",
+          "created": 1791429634977,
+          "created_at": "2026-10-08T03:20:34.977000Z",
+          "status_updated": 1791463500026,
+          "status_updated_at": "2026-10-08T12:45:00.026000Z",
+          "creator_user_id": "471451909446692864",
+          "roster_ids": [
+            2,
+            6
+          ],
+          "team_labels": [
+            "CeeDee You Later",
+            "andrewwelle"
+          ],
+          "consenter_ids": [
+            2,
+            6
+          ],
+          "consenter_team_labels": [
+            "CeeDee You Later",
+            "andrewwelle"
+          ],
+          "adds": [
+            {
+              "player_id": "13276",
+              "player_name": "Omar Cooper",
+              "roster_id": 2,
+              "team_label": "CeeDee You Later"
+            },
+            {
+              "player_id": "7588",
+              "player_name": "Javonte Williams",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "13276",
+              "player_name": "Omar Cooper",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            },
+            {
+              "player_id": "7588",
+              "player_name": "Javonte Williams",
+              "roster_id": 2,
+              "team_label": "CeeDee You Later"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2027",
+              "round": 2,
+              "original_roster_id": 6,
+              "original_team_label": "andrewwelle",
+              "previous_owner_id": 6,
+              "previous_owner_team_label": "andrewwelle",
+              "owner_id": 2,
+              "owner_team_label": "CeeDee You Later"
+            },
+            {
+              "season": "2028",
+              "round": 2,
+              "original_roster_id": 6,
+              "original_team_label": "andrewwelle",
+              "previous_owner_id": 6,
+              "previous_owner_team_label": "andrewwelle",
+              "owner_id": 2,
+              "owner_team_label": "CeeDee You Later"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {
+            "expires_at": 1792034434
+          },
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 1,
-        "trades": 0,
+        "transactions": 2,
+        "trades": 1,
         "waivers": 0,
         "free_agent_moves": 1
       }
@@ -8720,6 +8802,88 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1413761993491431424",
+      "type": "trade",
+      "status": "complete",
+      "created": 1791429634977,
+      "created_at": "2026-10-08T03:20:34.977000Z",
+      "status_updated": 1791463500026,
+      "status_updated_at": "2026-10-08T12:45:00.026000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        2,
+        6
+      ],
+      "team_labels": [
+        "CeeDee You Later",
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        2,
+        6
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later",
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "13276",
+          "player_name": "Omar Cooper",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        },
+        {
+          "player_id": "7588",
+          "player_name": "Javonte Williams",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13276",
+          "player_name": "Omar Cooper",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        },
+        {
+          "player_id": "7588",
+          "player_name": "Javonte Williams",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team_label": "andrewwelle",
+          "previous_owner_id": 6,
+          "previous_owner_team_label": "andrewwelle",
+          "owner_id": 2,
+          "owner_team_label": "CeeDee You Later"
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team_label": "andrewwelle",
+          "previous_owner_id": 6,
+          "previous_owner_team_label": "andrewwelle",
+          "owner_id": 2,
+          "owner_team_label": "CeeDee You Later"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {
+        "expires_at": 1792034434
+      },
+      "metadata": {}
     }
   ],
   "trades": [
@@ -9512,6 +9676,88 @@
       "waiver_budget": [],
       "settings": {
         "is_counter": 1
+      },
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1413761993491431424",
+      "type": "trade",
+      "status": "complete",
+      "created": 1791429634977,
+      "created_at": "2026-10-08T03:20:34.977000Z",
+      "status_updated": 1791463500026,
+      "status_updated_at": "2026-10-08T12:45:00.026000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        2,
+        6
+      ],
+      "team_labels": [
+        "CeeDee You Later",
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        2,
+        6
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later",
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "13276",
+          "player_name": "Omar Cooper",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        },
+        {
+          "player_id": "7588",
+          "player_name": "Javonte Williams",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13276",
+          "player_name": "Omar Cooper",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        },
+        {
+          "player_id": "7588",
+          "player_name": "Javonte Williams",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team_label": "andrewwelle",
+          "previous_owner_id": 6,
+          "previous_owner_team_label": "andrewwelle",
+          "owner_id": 2,
+          "owner_team_label": "CeeDee You Later"
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 6,
+          "original_team_label": "andrewwelle",
+          "previous_owner_id": 6,
+          "previous_owner_team_label": "andrewwelle",
+          "owner_id": 2,
+          "owner_team_label": "CeeDee You Later"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {
+        "expires_at": 1792034434
       },
       "metadata": {}
     }
@@ -13030,18 +13276,18 @@
   ],
   "counts": {
     "weeks": 5,
-    "transactions": 100,
-    "trades": 10,
+    "transactions": 101,
+    "trades": 11,
     "waivers": 16,
     "free_agent_moves": 73,
     "by_type": {
       "commissioner": 1,
       "free_agent": 73,
-      "trade": 10,
+      "trade": 11,
       "waiver": 16
     },
     "by_status": {
-      "complete": 94,
+      "complete": 95,
       "failed": 6
     }
   }
