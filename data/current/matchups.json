@@ -7652,7 +7652,7 @@
             {
               "roster_id": 3,
               "team_label": "Laporta Potty",
-              "points": 0.0,
+              "points": 31.5,
               "custom_points": null
             },
             {
@@ -7662,7 +7662,11 @@
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 3,
+            "team_label": "Laporta Potty",
+            "points": 31.5
+          }
         },
         {
           "week": 5,
@@ -7671,7 +7675,7 @@
             {
               "roster_id": 8,
               "team_label": "Back to the Future",
-              "points": 0.0,
+              "points": 2.9,
               "custom_points": null
             },
             {
@@ -7681,7 +7685,11 @@
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 8,
+            "team_label": "Back to the Future",
+            "points": 2.9
+          }
         },
         {
           "week": 5,
@@ -7690,17 +7698,21 @@
             {
               "roster_id": 4,
               "team_label": "Puka Troopas",
-              "points": 0.0,
+              "points": 7.0,
               "custom_points": null
             },
             {
               "roster_id": 9,
               "team_label": "off",
-              "points": 0.0,
+              "points": 28.0,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 9,
+            "team_label": "off",
+            "points": 28.0
+          }
         },
         {
           "week": 5,
@@ -7715,11 +7727,15 @@
             {
               "roster_id": 5,
               "team_label": "White Ice",
-              "points": 0.0,
+              "points": 12.64,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 5,
+            "team_label": "White Ice",
+            "points": 12.64
+          }
         },
         {
           "week": 5,
@@ -7728,17 +7744,21 @@
             {
               "roster_id": 6,
               "team_label": "andrewwelle",
-              "points": 0.0,
+              "points": 14.2,
               "custom_points": null
             },
             {
               "roster_id": 7,
               "team_label": "Commish is a bitch",
-              "points": 0.0,
+              "points": 5.8,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 6,
+            "team_label": "andrewwelle",
+            "points": 14.2
+          }
         }
       ],
       "roster_results": [
@@ -7760,6 +7780,7 @@
             "12522",
             "12529",
             "12533",
+            "12542",
             "12544",
             "13281",
             "13296",
@@ -7770,40 +7791,39 @@
             "13394",
             "13402",
             "13421",
-            "13425",
-            "7523",
             "8136",
             "9504",
-            "9756"
+            "9756",
+            "9758"
           ],
           "starters": [
-            "7523",
+            "11566",
             "11576",
             "12533",
             "12501",
             "9756",
             "10236",
             "12529",
-            "13296",
+            "9504",
             "13305"
           ],
           "bench": [
-            "11566",
             "11624",
             "11643",
             "12498",
             "12522",
+            "12542",
             "12544",
             "13281",
+            "13296",
             "13302",
             "13347",
             "13349",
             "13394",
             "13402",
             "13421",
-            "13425",
             "8136",
-            "9504"
+            "9758"
           ],
           "players_points": {
             "10236": 0.0,
@@ -7816,6 +7836,7 @@
             "12522": 0.0,
             "12529": 0.0,
             "12533": 0.0,
+            "12542": 0.0,
             "12544": 0.0,
             "13281": 0.0,
             "13296": 0.0,
@@ -7826,11 +7847,10 @@
             "13394": 0.0,
             "13402": 0.0,
             "13421": 0.0,
-            "13425": 0.0,
-            "7523": 0.0,
             "8136": 0.0,
             "9504": 0.0,
-            "9756": 0.0
+            "9756": 0.0,
+            "9758": 0.0
           },
           "starters_points": {},
           "display": {
@@ -7845,6 +7865,7 @@
               "Cam Ward",
               "TreVeyon Henderson",
               "Jacory Croskey-Merritt",
+              "Efton Chism",
               "LeQuint Allen",
               "Jordyn Tyson",
               "Caleb Douglas",
@@ -7855,40 +7876,39 @@
               "Josh Cameron",
               "Skyler Bell",
               "Eli Raridon",
-              "Jalon Daniels",
-              "Trevor Lawrence",
               "Rachaad White",
               "Kayshon Boutte",
-              "Jordan Addison"
+              "Jordan Addison",
+              "C.J. Stroud"
             ],
             "starters": [
-              "Trevor Lawrence",
+              "Jayden Daniels",
               "Braelon Allen",
               "Jacory Croskey-Merritt",
               "Matthew Golden",
               "Jordan Addison",
               "Dalton Kincaid",
               "TreVeyon Henderson",
-              "Caleb Douglas",
+              "Kayshon Boutte",
               "Mike Washington"
             ],
             "bench": [
-              "Jayden Daniels",
               "Xavier Worthy",
               "Jaylen Wright",
               "Mason Taylor",
               "Cam Ward",
+              "Efton Chism",
               "LeQuint Allen",
               "Jordyn Tyson",
+              "Caleb Douglas",
               "Adam Randall",
               "Demond Claiborne",
               "Eli Stowers",
               "Josh Cameron",
               "Skyler Bell",
               "Eli Raridon",
-              "Jalon Daniels",
               "Rachaad White",
-              "Kayshon Boutte"
+              "C.J. Stroud"
             ]
           }
         },
@@ -7909,26 +7929,26 @@
             "12718",
             "13276",
             "13294",
+            "13338",
             "13413",
             "13417",
             "4018",
             "4993",
             "5850",
-            "5892",
-            "6783",
             "6828",
             "6904",
+            "7523",
+            "8129",
             "8210",
             "8408",
             "8676",
             "8800",
             "9487",
-            "9754",
-            "9758"
+            "9754"
           ],
           "starters": [
-            "6904",
-            "5892",
+            "7523",
+            "12472",
             "12495",
             "13294",
             "9487",
@@ -7939,21 +7959,21 @@
           ],
           "bench": [
             "10235",
-            "12472",
             "12492",
             "12718",
             "13276",
+            "13338",
             "13413",
             "13417",
             "4018",
             "5850",
-            "6783",
             "6828",
+            "6904",
+            "8129",
             "8210",
             "8408",
             "8676",
-            "8800",
-            "9758"
+            "8800"
           ],
           "players_points": {
             "10235": 0.0,
@@ -7965,22 +7985,22 @@
             "12718": 0.0,
             "13276": 0.0,
             "13294": 0.0,
+            "13338": 0.0,
             "13413": 0.0,
             "13417": 0.0,
             "4018": 0.0,
             "4993": 0.0,
             "5850": 0.0,
-            "5892": 0.0,
-            "6783": 0.0,
             "6828": 0.0,
             "6904": 0.0,
+            "7523": 0.0,
+            "8129": 0.0,
             "8210": 0.0,
             "8408": 0.0,
             "8676": 0.0,
             "8800": 0.0,
             "9487": 0.0,
-            "9754": 0.0,
-            "9758": 0.0
+            "9754": 0.0
           },
           "starters_points": {},
           "display": {
@@ -7994,26 +8014,26 @@
               "Konata Mumpfield",
               "Omar Cooper",
               "Makai Lemon",
+              "Kevin Coleman",
               "Cyrus Allen",
               "De'Zhaun Stribling",
               "Joe Mixon",
               "Mike Gesicki",
               "Josh Jacobs",
-              "David Montgomery",
-              "Jerry Jeudy",
               "AJ Dillon",
               "Jalen Hurts",
+              "Trevor Lawrence",
+              "Dameon Pierce",
               "Chig Okonkwo",
               "Jordan Mason",
               "Rashid Shaheed",
               "Malik Davis",
               "Parker Washington",
-              "Quentin Johnston",
-              "C.J. Stroud"
+              "Quentin Johnston"
             ],
             "starters": [
-              "Jalen Hurts",
-              "David Montgomery",
+              "Trevor Lawrence",
+              "Raheim Sanders",
               "Ollie Gordon",
               "Makai Lemon",
               "Parker Washington",
@@ -8024,21 +8044,21 @@
             ],
             "bench": [
               "Roschon Johnson",
-              "Raheim Sanders",
               "Pat Bryant",
               "Konata Mumpfield",
               "Omar Cooper",
+              "Kevin Coleman",
               "Cyrus Allen",
               "De'Zhaun Stribling",
               "Joe Mixon",
               "Josh Jacobs",
-              "Jerry Jeudy",
               "AJ Dillon",
+              "Jalen Hurts",
+              "Dameon Pierce",
               "Chig Okonkwo",
               "Jordan Mason",
               "Rashid Shaheed",
-              "Malik Davis",
-              "C.J. Stroud"
+              "Malik Davis"
             ]
           }
         },
@@ -8047,7 +8067,7 @@
           "matchup_id": 2,
           "roster_id": 3,
           "team_label": "Laporta Potty",
-          "points": 0.0,
+          "points": 31.5,
           "custom_points": null,
           "players": [
             "10859",
@@ -8080,17 +8100,17 @@
             "9509",
             "6813",
             "8112",
-            "2449",
+            "8121",
             "10859",
             "11584",
-            "8121",
+            "13150",
             "2216"
           ],
           "bench": [
             "11655",
-            "13150",
             "13268",
             "13269",
+            "2449",
             "4046",
             "4066",
             "4981",
@@ -8105,7 +8125,7 @@
           ],
           "players_points": {
             "10859": 0.0,
-            "11584": 0.0,
+            "11584": 31.5,
             "11655": 0.0,
             "13150": 0.0,
             "13268": 0.0,
@@ -8120,13 +8140,13 @@
             "6813": 0.0,
             "6819": 0.0,
             "7525": 0.0,
-            "8110": 0.0,
+            "8110": 4.9,
             "8112": 0.0,
             "8121": 0.0,
             "8161": 0.0,
             "9501": 0.0,
             "9502": 0.0,
-            "9506": 0.0,
+            "9506": 1.8,
             "9509": 0.0
           },
           "starters_points": {},
@@ -8162,17 +8182,17 @@
               "Bijan Robinson",
               "Jonathan Taylor",
               "Drake London",
-              "Stefon Diggs",
+              "Romeo Doubs",
               "Sam LaPorta",
               "Bucky Irving",
-              "Romeo Doubs",
+              "Darius Cooper",
               "Mike Evans"
             ],
             "bench": [
               "Tyrone Tracy",
-              "Darius Cooper",
               "Elijah Sarratt",
               "Fernando Mendoza",
+              "Stefon Diggs",
               "Patrick Mahomes",
               "Evan Engram",
               "Calvin Ridley",
@@ -8192,7 +8212,7 @@
           "matchup_id": 4,
           "roster_id": 4,
           "team_label": "Puka Troopas",
-          "points": 0.0,
+          "points": 7.0,
           "custom_points": null,
           "players": [
             "11603",
@@ -8258,12 +8278,12 @@
             "13345": 0.0,
             "4033": 0.0,
             "4035": 0.0,
-            "4037": 0.0,
+            "4037": 7.0,
             "5870": 0.0,
             "5967": 0.0,
             "7571": 0.0,
             "7594": 0.0,
-            "8111": 0.0,
+            "8111": 5.5,
             "8132": 0.0,
             "8155": 0.0,
             "8183": 0.0,
@@ -8332,7 +8352,7 @@
           "matchup_id": 5,
           "roster_id": 5,
           "team_label": "White Ice",
-          "points": 0.0,
+          "points": 12.64,
           "custom_points": null,
           "players": [
             "10213",
@@ -8403,7 +8423,7 @@
             "13288": 0.0,
             "13317": 0.0,
             "1466": 0.0,
-            "3294": 0.0,
+            "3294": 12.64,
             "4177": 0.0,
             "5001": 0.0,
             "7002": 0.0,
@@ -8482,7 +8502,7 @@
           "matchup_id": 6,
           "roster_id": 6,
           "team_label": "andrewwelle",
-          "points": 0.0,
+          "points": 14.2,
           "custom_points": null,
           "players": [
             "11571",
@@ -8564,7 +8584,7 @@
             "5872": 0.0,
             "6803": 0.0,
             "6806": 0.0,
-            "7588": 0.0,
+            "7588": 14.2,
             "8146": 0.0
           },
           "starters_points": {},
@@ -8632,7 +8652,7 @@
           "matchup_id": 6,
           "roster_id": 7,
           "team_label": "Commish is a bitch",
-          "points": 0.0,
+          "points": 5.8,
           "custom_points": null,
           "players": [
             "10222",
@@ -8712,7 +8732,7 @@
             "13414": 0.0,
             "13533": 0.0,
             "4892": 0.0,
-            "7567": 0.0,
+            "7567": 5.8,
             "8167": 0.0,
             "8205": 0.0,
             "9488": 0.0
@@ -8782,7 +8802,7 @@
           "matchup_id": 3,
           "roster_id": 8,
           "team_label": "Back to the Future",
-          "points": 0.0,
+          "points": 2.9,
           "custom_points": null,
           "players": [
             "11435",
@@ -8848,13 +8868,13 @@
             "11630": 0.0,
             "11646": 0.0,
             "12484": 0.0,
-            "12514": 0.0,
+            "12514": 17.2,
             "12521": 0.0,
             "12531": 0.0,
             "13270": 0.0,
             "13301": 0.0,
             "13346": 0.0,
-            "6786": 0.0,
+            "6786": 2.9,
             "6794": 0.0,
             "6797": 0.0,
             "7611": 0.0,
@@ -8932,7 +8952,7 @@
           "matchup_id": 4,
           "roster_id": 9,
           "team_label": "off",
-          "points": 0.0,
+          "points": 28.0,
           "custom_points": null,
           "players": [
             "10219",
@@ -9010,7 +9030,7 @@
             "7090": 0.0,
             "7528": 0.0,
             "7553": 0.0,
-            "8137": 0.0,
+            "8137": 28.0,
             "8144": 0.0,
             "8154": 0.0,
             "8172": 0.0,
@@ -9120,7 +9140,7 @@
             "9484",
             "12490",
             "5947",
-            "8126"
+            "5844"
           ],
           "bench": [
             "11626",
@@ -9132,10 +9152,10 @@
             "3271",
             "4881",
             "4950",
-            "5844",
             "5848",
             "5927",
             "7600",
+            "8126",
             "8143",
             "9481",
             "9511"
@@ -9143,7 +9163,7 @@
           "players_points": {
             "11626": 0.0,
             "11729": 0.0,
-            "11783": 0.0,
+            "11783": 12.0,
             "12490": 0.0,
             "12536": 0.0,
             "13286": 0.0,
@@ -9205,7 +9225,7 @@
               "Tucker Kraft",
               "Bhayshul Tuten",
               "Jakobi Meyers",
-              "Wan'Dale Robinson"
+              "T.J. Hockenson"
             ],
             "bench": [
               "Xavier Legette",
@@ -9217,10 +9237,10 @@
               "Tyler Higbee",
               "Lamar Jackson",
               "Christian Kirk",
-              "T.J. Hockenson",
               "Marquise Brown",
               "Terry McLaurin",
               "Pat Freiermuth",
+              "Wan'Dale Robinson",
               "Jerome Ford",
               "Luke Musgrave",
               "Keaton Mitchell"
@@ -9238,7 +9258,6 @@
             "11563",
             "11575",
             "11604",
-            "12048",
             "12469",
             "12481",
             "12502",
@@ -9246,12 +9265,13 @@
             "13424",
             "2133",
             "3214",
-            "4039",
             "4147",
             "4984",
             "5045",
             "5859",
+            "5892",
             "6039",
+            "6783",
             "6801",
             "7021",
             "7526",
@@ -9270,21 +9290,21 @@
             "11604",
             "2133",
             "8228",
-            "3214"
+            "5892"
           ],
           "bench": [
             "11563",
             "11575",
-            "12048",
             "12469",
             "12502",
             "13320",
             "13424",
-            "4039",
+            "3214",
             "4147",
             "5045",
             "5859",
             "6039",
+            "6783",
             "7021",
             "9228",
             "9482",
@@ -9294,7 +9314,6 @@
             "11563": 0.0,
             "11575": 0.0,
             "11604": 0.0,
-            "12048": 0.0,
             "12469": 0.0,
             "12481": 0.0,
             "12502": 0.0,
@@ -9302,12 +9321,13 @@
             "13424": 0.0,
             "2133": 0.0,
             "3214": 0.0,
-            "4039": 0.0,
             "4147": 0.0,
             "4984": 0.0,
             "5045": 0.0,
             "5859": 0.0,
+            "5892": 0.0,
             "6039": 0.0,
+            "6783": 0.0,
             "6801": 0.0,
             "7021": 0.0,
             "7526": 0.0,
@@ -9323,7 +9343,6 @@
               "Bo Nix",
               "Ray Davis",
               "Brock Bowers",
-              "George Holani",
               "Dylan Sampson",
               "Cam Skattebo",
               "Gunnar Helm",
@@ -9331,12 +9350,13 @@
               "Seth McGowan",
               "Davante Adams",
               "Hunter Henry",
-              "Cooper Kupp",
               "Samaje Perine",
               "Josh Allen",
               "Courtland Sutton",
               "A.J. Brown",
+              "David Montgomery",
               "Ty Johnson",
+              "Jerry Jeudy",
               "Tee Higgins",
               "Rico Dowdle",
               "Jaylen Waddle",
@@ -9355,21 +9375,21 @@
               "Brock Bowers",
               "Davante Adams",
               "Jaylen Warren",
-              "Hunter Henry"
+              "David Montgomery"
             ],
             "bench": [
               "Bo Nix",
               "Ray Davis",
-              "George Holani",
               "Dylan Sampson",
               "Gunnar Helm",
               "Zachariah Branch",
               "Seth McGowan",
-              "Cooper Kupp",
+              "Hunter Henry",
               "Samaje Perine",
               "Courtland Sutton",
               "A.J. Brown",
               "Ty Johnson",
+              "Jerry Jeudy",
               "Rico Dowdle",
               "Bryce Young",
               "Michael Mayer",

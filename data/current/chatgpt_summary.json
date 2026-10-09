@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-08T17:53:55.566468Z",
-    "source_snapshot_generated_at": "2026-10-08T17:53:54.099820Z",
+    "generated_at": "2026-10-09T17:27:50.248769Z",
+    "source_snapshot_generated_at": "2026-10-09T17:27:48.600324Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,17 +52,17 @@
     "included_weeks": 5,
     "matchups": 30,
     "matchup_roster_results": 60,
-    "required_player_ids": 338,
-    "compact_player_lookup": 338,
+    "required_player_ids": 340,
+    "compact_player_lookup": 340,
     "missing_player_ids": 0,
-    "transactions": 101,
-    "trades": 11,
+    "transactions": 108,
+    "trades": 13,
     "waivers": 16,
-    "free_agent_moves": 73,
+    "free_agent_moves": 78,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
-    "league_traded_picks": 32
+    "league_traded_picks": 33
   },
   "data_quality": {
     "warnings": [],
@@ -94,16 +94,16 @@
         "reserve": 2
       },
       "position_counts": {
-        "QB": 4,
+        "QB": 3,
         "RB": 9,
         "TE": 4,
-        "WR": 8
+        "WR": 9
       },
       "starters": [
         {
-          "player_id": "7523",
-          "name": "Trevor Lawrence",
-          "team": "JAX",
+          "player_id": "11566",
+          "name": "Jayden Daniels",
+          "team": "WAS",
           "position": "QB",
           "injury_status": null
         },
@@ -150,11 +150,11 @@
           "injury_status": null
         },
         {
-          "player_id": "13296",
-          "name": "Caleb Douglas",
-          "team": "MIA",
+          "player_id": "9504",
+          "name": "Kayshon Boutte",
+          "team": "HOU",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "13305",
@@ -212,16 +212,16 @@
       },
       "starters": [
         {
-          "player_id": "6904",
-          "name": "Jalen Hurts",
-          "team": "PHI",
+          "player_id": "7523",
+          "name": "Trevor Lawrence",
+          "team": "JAX",
           "position": "QB",
           "injury_status": null
         },
         {
-          "player_id": "5892",
-          "name": "David Montgomery",
-          "team": "HOU",
+          "player_id": "12472",
+          "name": "Raheim Sanders",
+          "team": "CLE",
           "position": "RB",
           "injury_status": null
         },
@@ -351,11 +351,11 @@
           "injury_status": null
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
-          "team": "WAS",
+          "player_id": "8121",
+          "name": "Romeo Doubs",
+          "team": "NE",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "10859",
@@ -372,9 +372,9 @@
           "injury_status": null
         },
         {
-          "player_id": "8121",
-          "name": "Romeo Doubs",
-          "team": "NE",
+          "player_id": "13150",
+          "name": "Darius Cooper",
+          "team": "PHI",
           "position": "WR",
           "injury_status": null
         },
@@ -653,7 +653,7 @@
           "name": "Ashton Jeanty",
           "team": "LV",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8146",
@@ -750,7 +750,7 @@
           "name": "Tyler Shough",
           "team": "NO",
           "position": "QB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7567",
@@ -917,7 +917,7 @@
           "name": "CeeDee Lamb",
           "team": "DAL",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -1000,7 +1000,7 @@
           "name": "Chris Olave",
           "team": "NO",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7553",
@@ -1135,10 +1135,10 @@
           "injury_status": null
         },
         {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
-          "team": "TEN",
-          "position": "WR",
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "team": "MIN",
+          "position": "TE",
           "injury_status": null
         }
       ],
@@ -1229,7 +1229,7 @@
           "name": "Brock Bowers",
           "team": "LV",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "2133",
@@ -1246,10 +1246,10 @@
           "injury_status": null
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
-          "team": "NE",
-          "position": "TE",
+          "player_id": "5892",
+          "name": "David Montgomery",
+          "team": "HOU",
+          "position": "RB",
           "injury_status": null
         }
       ],
@@ -1982,7 +1982,7 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 0.0,
+                "points": 31.5,
                 "custom_points": null
               },
               {
@@ -1992,7 +1992,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 3,
+              "team_label": "Laporta Potty",
+              "points": 31.5
+            }
           },
           {
             "matchup_id": "3",
@@ -2000,7 +2004,7 @@
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 0.0,
+                "points": 2.9,
                 "custom_points": null
               },
               {
@@ -2010,7 +2014,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 8,
+              "team_label": "Back to the Future",
+              "points": 2.9
+            }
           },
           {
             "matchup_id": "4",
@@ -2018,17 +2026,21 @@
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 0.0,
+                "points": 7.0,
                 "custom_points": null
               },
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 0.0,
+                "points": 28.0,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 9,
+              "team_label": "off",
+              "points": 28.0
+            }
           },
           {
             "matchup_id": "5",
@@ -2042,11 +2054,15 @@
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 0.0,
+                "points": 12.64,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 5,
+              "team_label": "White Ice",
+              "points": 12.64
+            }
           },
           {
             "matchup_id": "6",
@@ -2054,17 +2070,21 @@
               {
                 "roster_id": 6,
                 "team_label": "andrewwelle",
-                "points": 0.0,
+                "points": 14.2,
                 "custom_points": null
               },
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 0.0,
+                "points": 5.8,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 6,
+              "team_label": "andrewwelle",
+              "points": 14.2
+            }
           }
         ],
         "counts": {
@@ -2082,18 +2102,18 @@
   "transactions": {
     "counts": {
       "weeks": 5,
-      "transactions": 101,
-      "trades": 11,
+      "transactions": 108,
+      "trades": 13,
       "waivers": 16,
-      "free_agent_moves": 73,
+      "free_agent_moves": 78,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 73,
-        "trade": 11,
+        "free_agent": 78,
+        "trade": 13,
         "waiver": 16
       },
       "by_status": {
-        "complete": 95,
+        "complete": 102,
         "failed": 6
       }
     },
@@ -2117,22 +2137,22 @@
         "free_agent_moves": 7
       },
       "1": {
-        "transactions": 15,
-        "trades": 3,
+        "transactions": 17,
+        "trades": 4,
         "waivers": 1,
-        "free_agent_moves": 11
+        "free_agent_moves": 12
       },
       "11": {
-        "transactions": 15,
-        "trades": 3,
+        "transactions": 18,
+        "trades": 4,
         "waivers": 2,
-        "free_agent_moves": 10
+        "free_agent_moves": 12
       },
       "2": {
-        "transactions": 20,
-        "trades": 7,
+        "transactions": 24,
+        "trades": 9,
         "waivers": 1,
-        "free_agent_moves": 11
+        "free_agent_moves": 13
       },
       "10": {
         "transactions": 3,
@@ -2172,6 +2192,215 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 5,
+        "transaction_id": "1414084575650500608",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-09T00:42:24.557000Z",
+        "team_labels": [
+          "CeeDee You Later"
+        ],
+        "adds": [
+          {
+            "player_id": "13338",
+            "player_name": "Kevin Coleman",
+            "roster_id": 2,
+            "team_label": "CeeDee You Later"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
+      {
+        "week": 5,
+        "transaction_id": "1414084282011402240",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-09T00:41:14.548000Z",
+        "team_labels": [
+          "CeeDee You Later"
+        ],
+        "adds": [
+          {
+            "player_id": "8129",
+            "player_name": "Dameon Pierce",
+            "roster_id": 2,
+            "team_label": "CeeDee You Later"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
+      {
+        "week": 5,
+        "transaction_id": "1414084210079117312",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-09T00:40:57.398000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "12048",
+            "player_name": "George Holani",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 5,
+        "transaction_id": "1414084060149448704",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-09T00:40:21.652000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "4039",
+            "player_name": "Cooper Kupp",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 5,
+        "transaction_id": "1414082440967839744",
+        "type": "trade",
+        "status": "complete",
+        "created_at": "2026-10-09T00:33:55.610000Z",
+        "team_labels": [
+          "CeeDee You Later",
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "5892",
+            "player_name": "David Montgomery",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          },
+          {
+            "player_id": "6783",
+            "player_name": "Jerry Jeudy",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "5892",
+            "player_name": "David Montgomery",
+            "roster_id": 2,
+            "team_label": "CeeDee You Later"
+          },
+          {
+            "player_id": "6783",
+            "player_name": "Jerry Jeudy",
+            "roster_id": 2,
+            "team_label": "CeeDee You Later"
+          }
+        ],
+        "draft_picks": [
+          {
+            "season": "2028",
+            "round": 2,
+            "original_roster_id": 11,
+            "original_team_label": "MOJO",
+            "previous_owner_id": 11,
+            "previous_owner_team_label": "MOJO",
+            "owner_id": 2,
+            "owner_team_label": "CeeDee You Later"
+          }
+        ]
+      },
+      {
+        "week": 5,
+        "transaction_id": "1414051297979596800",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-08T22:30:10.542000Z",
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "12542",
+            "player_name": "Efton Chism",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13425",
+            "player_name": "Jalon Daniels",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 5,
+        "transaction_id": "1414050421491671040",
+        "type": "trade",
+        "status": "complete",
+        "created_at": "2026-10-08T22:26:41.572000Z",
+        "team_labels": [
+          "It’s Herbie Hancock",
+          "CeeDee You Later"
+        ],
+        "adds": [
+          {
+            "player_id": "7523",
+            "player_name": "Trevor Lawrence",
+            "roster_id": 2,
+            "team_label": "CeeDee You Later"
+          },
+          {
+            "player_id": "9758",
+            "player_name": "C.J. Stroud",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "7523",
+            "player_name": "Trevor Lawrence",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          },
+          {
+            "player_id": "9758",
+            "player_name": "C.J. Stroud",
+            "roster_id": 2,
+            "team_label": "CeeDee You Later"
+          }
+        ],
+        "draft_picks": [
+          {
+            "season": "2027",
+            "round": 2,
+            "original_roster_id": 11,
+            "original_team_label": "MOJO",
+            "previous_owner_id": 2,
+            "previous_owner_team_label": "CeeDee You Later",
+            "owner_id": 1,
+            "owner_team_label": "It’s Herbie Hancock"
+          }
+        ]
+      },
       {
         "week": 5,
         "transaction_id": "1413761993491431424",
@@ -2669,293 +2898,6 @@
         ],
         "drops": [],
         "draft_picks": []
-      },
-      {
-        "week": 4,
-        "transaction_id": "1411179993714688000",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-10-01T00:20:38.260000Z",
-        "team_labels": [
-          "White Ice"
-        ],
-        "adds": [],
-        "drops": [
-          {
-            "player_id": "13394",
-            "player_name": "Josh Cameron",
-            "roster_id": 5,
-            "team_label": "White Ice"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 4,
-        "transaction_id": "1411171246955147264",
-        "type": "trade",
-        "status": "complete",
-        "created_at": "2026-09-30T23:45:52.870000Z",
-        "team_labels": [
-          "CeeDee You Later",
-          "White Ice"
-        ],
-        "adds": [
-          {
-            "player_id": "1466",
-            "player_name": "Travis Kelce",
-            "roster_id": 5,
-            "team_label": "White Ice"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "1466",
-            "player_name": "Travis Kelce",
-            "roster_id": 2,
-            "team_label": "CeeDee You Later"
-          }
-        ],
-        "draft_picks": [
-          {
-            "season": "2027",
-            "round": 2,
-            "original_roster_id": 5,
-            "original_team_label": "White Ice",
-            "previous_owner_id": 5,
-            "previous_owner_team_label": "White Ice",
-            "owner_id": 2,
-            "owner_team_label": "CeeDee You Later"
-          }
-        ]
-      },
-      {
-        "week": 4,
-        "transaction_id": "1411167116941402112",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-09-30T23:29:28.197000Z",
-        "team_labels": [
-          "gullickson"
-        ],
-        "adds": [
-          {
-            "player_id": "4454",
-            "player_name": "Kendrick Bourne",
-            "roster_id": 12,
-            "team_label": "gullickson"
-          }
-        ],
-        "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 4,
-        "transaction_id": "1411162601731239936",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-09-30T23:11:31.687000Z",
-        "team_labels": [
-          "MOJO"
-        ],
-        "adds": [],
-        "drops": [
-          {
-            "player_id": "13411",
-            "player_name": "Zavion Thomas",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 4,
-        "transaction_id": "1411157062179643392",
-        "type": "trade",
-        "status": "complete",
-        "created_at": "2026-09-30T22:49:30.956000Z",
-        "team_labels": [
-          "CeeDee You Later",
-          "MOJO"
-        ],
-        "adds": [
-          {
-            "player_id": "5859",
-            "player_name": "A.J. Brown",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "5859",
-            "player_name": "A.J. Brown",
-            "roster_id": 2,
-            "team_label": "CeeDee You Later"
-          }
-        ],
-        "draft_picks": [
-          {
-            "season": "2027",
-            "round": 2,
-            "original_roster_id": 1,
-            "original_team_label": "It’s Herbie Hancock",
-            "previous_owner_id": 11,
-            "previous_owner_team_label": "MOJO",
-            "owner_id": 2,
-            "owner_team_label": "CeeDee You Later"
-          },
-          {
-            "season": "2028",
-            "round": 1,
-            "original_roster_id": 11,
-            "original_team_label": "MOJO",
-            "previous_owner_id": 11,
-            "previous_owner_team_label": "MOJO",
-            "owner_id": 2,
-            "owner_team_label": "CeeDee You Later"
-          }
-        ]
-      },
-      {
-        "week": 4,
-        "transaction_id": "1411150234452574208",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-09-30T22:22:23.098000Z",
-        "team_labels": [
-          "Laporta Potty"
-        ],
-        "adds": [],
-        "drops": [
-          {
-            "player_id": "6931",
-            "player_name": "DeeJay Dallas",
-            "roster_id": 3,
-            "team_label": "Laporta Potty"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 4,
-        "transaction_id": "1411149934543065088",
-        "type": "trade",
-        "status": "complete",
-        "created_at": "2026-09-30T22:21:11.595000Z",
-        "team_labels": [
-          "It’s Herbie Hancock",
-          "Laporta Potty"
-        ],
-        "adds": [
-          {
-            "player_id": "8112",
-            "player_name": "Drake London",
-            "roster_id": 3,
-            "team_label": "Laporta Potty"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "8112",
-            "player_name": "Drake London",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "draft_picks": [
-          {
-            "season": "2028",
-            "round": 3,
-            "original_roster_id": 1,
-            "original_team_label": "It’s Herbie Hancock",
-            "previous_owner_id": 1,
-            "previous_owner_team_label": "It’s Herbie Hancock",
-            "owner_id": 3,
-            "owner_team_label": "Laporta Potty"
-          },
-          {
-            "season": "2029",
-            "round": 3,
-            "original_roster_id": 1,
-            "original_team_label": "It’s Herbie Hancock",
-            "previous_owner_id": 1,
-            "previous_owner_team_label": "It’s Herbie Hancock",
-            "owner_id": 3,
-            "owner_team_label": "Laporta Potty"
-          },
-          {
-            "season": "2027",
-            "round": 3,
-            "original_roster_id": 2,
-            "original_team_label": "CeeDee You Later",
-            "previous_owner_id": 1,
-            "previous_owner_team_label": "It’s Herbie Hancock",
-            "owner_id": 3,
-            "owner_team_label": "Laporta Potty"
-          },
-          {
-            "season": "2027",
-            "round": 1,
-            "original_roster_id": 3,
-            "original_team_label": "Laporta Potty",
-            "previous_owner_id": 3,
-            "previous_owner_team_label": "Laporta Potty",
-            "owner_id": 1,
-            "owner_team_label": "It’s Herbie Hancock"
-          },
-          {
-            "season": "2027",
-            "round": 2,
-            "original_roster_id": 3,
-            "original_team_label": "Laporta Potty",
-            "previous_owner_id": 3,
-            "previous_owner_team_label": "Laporta Potty",
-            "owner_id": 1,
-            "owner_team_label": "It’s Herbie Hancock"
-          },
-          {
-            "season": "2028",
-            "round": 1,
-            "original_roster_id": 3,
-            "original_team_label": "Laporta Potty",
-            "previous_owner_id": 3,
-            "previous_owner_team_label": "Laporta Potty",
-            "owner_id": 1,
-            "owner_team_label": "It’s Herbie Hancock"
-          },
-          {
-            "season": "2028",
-            "round": 2,
-            "original_roster_id": 3,
-            "original_team_label": "Laporta Potty",
-            "previous_owner_id": 3,
-            "previous_owner_team_label": "Laporta Potty",
-            "owner_id": 1,
-            "owner_team_label": "It’s Herbie Hancock"
-          },
-          {
-            "season": "2029",
-            "round": 1,
-            "original_roster_id": 3,
-            "original_team_label": "Laporta Potty",
-            "previous_owner_id": 3,
-            "previous_owner_team_label": "Laporta Potty",
-            "owner_id": 1,
-            "owner_team_label": "It’s Herbie Hancock"
-          },
-          {
-            "season": "2029",
-            "round": 2,
-            "original_roster_id": 3,
-            "original_team_label": "Laporta Potty",
-            "previous_owner_id": 3,
-            "previous_owner_team_label": "Laporta Potty",
-            "owner_id": 1,
-            "owner_team_label": "It’s Herbie Hancock"
-          }
-        ]
       }
     ]
   },
@@ -3078,7 +3020,7 @@
       }
     ],
     "traded_picks": {
-      "league_traded_picks": 32,
+      "league_traded_picks": 33,
       "draft_traded_picks": 8
     }
   },

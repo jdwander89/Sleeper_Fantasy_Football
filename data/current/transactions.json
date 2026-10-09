@@ -4460,13 +4460,342 @@
             "expires_at": 1792034434
           },
           "metadata": {}
+        },
+        {
+          "week": 5,
+          "transaction_id": "1414050421491671040",
+          "type": "trade",
+          "status": "complete",
+          "created": 1791498401572,
+          "created_at": "2026-10-08T22:26:41.572000Z",
+          "status_updated": 1791498473394,
+          "status_updated_at": "2026-10-08T22:27:53.394000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            1,
+            2
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock",
+            "CeeDee You Later"
+          ],
+          "consenter_ids": [
+            1,
+            2
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock",
+            "CeeDee You Later"
+          ],
+          "adds": [
+            {
+              "player_id": "7523",
+              "player_name": "Trevor Lawrence",
+              "roster_id": 2,
+              "team_label": "CeeDee You Later"
+            },
+            {
+              "player_id": "9758",
+              "player_name": "C.J. Stroud",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "7523",
+              "player_name": "Trevor Lawrence",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            },
+            {
+              "player_id": "9758",
+              "player_name": "C.J. Stroud",
+              "roster_id": 2,
+              "team_label": "CeeDee You Later"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2027",
+              "round": 2,
+              "original_roster_id": 11,
+              "original_team_label": "MOJO",
+              "previous_owner_id": 2,
+              "previous_owner_team_label": "CeeDee You Later",
+              "owner_id": 1,
+              "owner_team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 5,
+          "transaction_id": "1414051297979596800",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1791498610542,
+          "created_at": "2026-10-08T22:30:10.542000Z",
+          "status_updated": 1791498610542,
+          "status_updated_at": "2026-10-08T22:30:10.542000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [
+            {
+              "player_id": "12542",
+              "player_name": "Efton Chism",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "13425",
+              "player_name": "Jalon Daniels",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 5,
+          "transaction_id": "1414082440967839744",
+          "type": "trade",
+          "status": "complete",
+          "created": 1791506035610,
+          "created_at": "2026-10-09T00:33:55.610000Z",
+          "status_updated": 1791506092821,
+          "status_updated_at": "2026-10-09T00:34:52.821000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            2,
+            11
+          ],
+          "team_labels": [
+            "CeeDee You Later",
+            "MOJO"
+          ],
+          "consenter_ids": [
+            2,
+            11
+          ],
+          "consenter_team_labels": [
+            "CeeDee You Later",
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "5892",
+              "player_name": "David Montgomery",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            },
+            {
+              "player_id": "6783",
+              "player_name": "Jerry Jeudy",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "5892",
+              "player_name": "David Montgomery",
+              "roster_id": 2,
+              "team_label": "CeeDee You Later"
+            },
+            {
+              "player_id": "6783",
+              "player_name": "Jerry Jeudy",
+              "roster_id": 2,
+              "team_label": "CeeDee You Later"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2028",
+              "round": 2,
+              "original_roster_id": 11,
+              "original_team_label": "MOJO",
+              "previous_owner_id": 11,
+              "previous_owner_team_label": "MOJO",
+              "owner_id": 2,
+              "owner_team_label": "CeeDee You Later"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {
+            "is_counter": 1
+          },
+          "metadata": {}
+        },
+        {
+          "week": 5,
+          "transaction_id": "1414084060149448704",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1791506421652,
+          "created_at": "2026-10-09T00:40:21.652000Z",
+          "status_updated": 1791506421652,
+          "status_updated_at": "2026-10-09T00:40:21.652000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "4039",
+              "player_name": "Cooper Kupp",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 5,
+          "transaction_id": "1414084210079117312",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1791506457398,
+          "created_at": "2026-10-09T00:40:57.398000Z",
+          "status_updated": 1791506457398,
+          "status_updated_at": "2026-10-09T00:40:57.398000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "12048",
+              "player_name": "George Holani",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 5,
+          "transaction_id": "1414084282011402240",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1791506474548,
+          "created_at": "2026-10-09T00:41:14.548000Z",
+          "status_updated": 1791506474548,
+          "status_updated_at": "2026-10-09T00:41:14.548000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "CeeDee You Later"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "CeeDee You Later"
+          ],
+          "adds": [
+            {
+              "player_id": "8129",
+              "player_name": "Dameon Pierce",
+              "roster_id": 2,
+              "team_label": "CeeDee You Later"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 5,
+          "transaction_id": "1414084575650500608",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1791506544557,
+          "created_at": "2026-10-09T00:42:24.557000Z",
+          "status_updated": 1791506544557,
+          "status_updated_at": "2026-10-09T00:42:24.557000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "CeeDee You Later"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "CeeDee You Later"
+          ],
+          "adds": [
+            {
+              "player_id": "13338",
+              "player_name": "Kevin Coleman",
+              "roster_id": 2,
+              "team_label": "CeeDee You Later"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 2,
-        "trades": 1,
+        "transactions": 9,
+        "trades": 3,
         "waivers": 0,
-        "free_agent_moves": 1
+        "free_agent_moves": 6
       }
     }
   },
@@ -8884,6 +9213,335 @@
         "expires_at": 1792034434
       },
       "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414050421491671040",
+      "type": "trade",
+      "status": "complete",
+      "created": 1791498401572,
+      "created_at": "2026-10-08T22:26:41.572000Z",
+      "status_updated": 1791498473394,
+      "status_updated_at": "2026-10-08T22:27:53.394000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        1,
+        2
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "CeeDee You Later"
+      ],
+      "consenter_ids": [
+        1,
+        2
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "CeeDee You Later"
+      ],
+      "adds": [
+        {
+          "player_id": "7523",
+          "player_name": "Trevor Lawrence",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        },
+        {
+          "player_id": "9758",
+          "player_name": "C.J. Stroud",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7523",
+          "player_name": "Trevor Lawrence",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        },
+        {
+          "player_id": "9758",
+          "player_name": "C.J. Stroud",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "CeeDee You Later",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414051297979596800",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791498610542,
+      "created_at": "2026-10-08T22:30:10.542000Z",
+      "status_updated": 1791498610542,
+      "status_updated_at": "2026-10-08T22:30:10.542000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "12542",
+          "player_name": "Efton Chism",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13425",
+          "player_name": "Jalon Daniels",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414082440967839744",
+      "type": "trade",
+      "status": "complete",
+      "created": 1791506035610,
+      "created_at": "2026-10-09T00:33:55.610000Z",
+      "status_updated": 1791506092821,
+      "status_updated_at": "2026-10-09T00:34:52.821000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        2,
+        11
+      ],
+      "team_labels": [
+        "CeeDee You Later",
+        "MOJO"
+      ],
+      "consenter_ids": [
+        2,
+        11
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later",
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "5892",
+          "player_name": "David Montgomery",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        },
+        {
+          "player_id": "6783",
+          "player_name": "Jerry Jeudy",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "5892",
+          "player_name": "David Montgomery",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        },
+        {
+          "player_id": "6783",
+          "player_name": "Jerry Jeudy",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 11,
+          "previous_owner_team_label": "MOJO",
+          "owner_id": 2,
+          "owner_team_label": "CeeDee You Later"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {
+        "is_counter": 1
+      },
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414084060149448704",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791506421652,
+      "created_at": "2026-10-09T00:40:21.652000Z",
+      "status_updated": 1791506421652,
+      "status_updated_at": "2026-10-09T00:40:21.652000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4039",
+          "player_name": "Cooper Kupp",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414084210079117312",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791506457398,
+      "created_at": "2026-10-09T00:40:57.398000Z",
+      "status_updated": 1791506457398,
+      "status_updated_at": "2026-10-09T00:40:57.398000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12048",
+          "player_name": "George Holani",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414084282011402240",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791506474548,
+      "created_at": "2026-10-09T00:41:14.548000Z",
+      "status_updated": 1791506474548,
+      "status_updated_at": "2026-10-09T00:41:14.548000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "CeeDee You Later"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later"
+      ],
+      "adds": [
+        {
+          "player_id": "8129",
+          "player_name": "Dameon Pierce",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414084575650500608",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791506544557,
+      "created_at": "2026-10-09T00:42:24.557000Z",
+      "status_updated": 1791506544557,
+      "status_updated_at": "2026-10-09T00:42:24.557000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "CeeDee You Later"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later"
+      ],
+      "adds": [
+        {
+          "player_id": "13338",
+          "player_name": "Kevin Coleman",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -9758,6 +10416,148 @@
       "waiver_budget": [],
       "settings": {
         "expires_at": 1792034434
+      },
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414050421491671040",
+      "type": "trade",
+      "status": "complete",
+      "created": 1791498401572,
+      "created_at": "2026-10-08T22:26:41.572000Z",
+      "status_updated": 1791498473394,
+      "status_updated_at": "2026-10-08T22:27:53.394000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        1,
+        2
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "CeeDee You Later"
+      ],
+      "consenter_ids": [
+        1,
+        2
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "CeeDee You Later"
+      ],
+      "adds": [
+        {
+          "player_id": "7523",
+          "player_name": "Trevor Lawrence",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        },
+        {
+          "player_id": "9758",
+          "player_name": "C.J. Stroud",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7523",
+          "player_name": "Trevor Lawrence",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        },
+        {
+          "player_id": "9758",
+          "player_name": "C.J. Stroud",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "CeeDee You Later",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414082440967839744",
+      "type": "trade",
+      "status": "complete",
+      "created": 1791506035610,
+      "created_at": "2026-10-09T00:33:55.610000Z",
+      "status_updated": 1791506092821,
+      "status_updated_at": "2026-10-09T00:34:52.821000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        2,
+        11
+      ],
+      "team_labels": [
+        "CeeDee You Later",
+        "MOJO"
+      ],
+      "consenter_ids": [
+        2,
+        11
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later",
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "5892",
+          "player_name": "David Montgomery",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        },
+        {
+          "player_id": "6783",
+          "player_name": "Jerry Jeudy",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "5892",
+          "player_name": "David Montgomery",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        },
+        {
+          "player_id": "6783",
+          "player_name": "Jerry Jeudy",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 11,
+          "previous_owner_team_label": "MOJO",
+          "owner_id": 2,
+          "owner_team_label": "CeeDee You Later"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {
+        "is_counter": 1
       },
       "metadata": {}
     }
@@ -13272,22 +14072,209 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414051297979596800",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791498610542,
+      "created_at": "2026-10-08T22:30:10.542000Z",
+      "status_updated": 1791498610542,
+      "status_updated_at": "2026-10-08T22:30:10.542000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "12542",
+          "player_name": "Efton Chism",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13425",
+          "player_name": "Jalon Daniels",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414084060149448704",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791506421652,
+      "created_at": "2026-10-09T00:40:21.652000Z",
+      "status_updated": 1791506421652,
+      "status_updated_at": "2026-10-09T00:40:21.652000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4039",
+          "player_name": "Cooper Kupp",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414084210079117312",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791506457398,
+      "created_at": "2026-10-09T00:40:57.398000Z",
+      "status_updated": 1791506457398,
+      "status_updated_at": "2026-10-09T00:40:57.398000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12048",
+          "player_name": "George Holani",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414084282011402240",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791506474548,
+      "created_at": "2026-10-09T00:41:14.548000Z",
+      "status_updated": 1791506474548,
+      "status_updated_at": "2026-10-09T00:41:14.548000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "CeeDee You Later"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later"
+      ],
+      "adds": [
+        {
+          "player_id": "8129",
+          "player_name": "Dameon Pierce",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414084575650500608",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791506544557,
+      "created_at": "2026-10-09T00:42:24.557000Z",
+      "status_updated": 1791506544557,
+      "status_updated_at": "2026-10-09T00:42:24.557000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "CeeDee You Later"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later"
+      ],
+      "adds": [
+        {
+          "player_id": "13338",
+          "player_name": "Kevin Coleman",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 5,
-    "transactions": 101,
-    "trades": 11,
+    "transactions": 108,
+    "trades": 13,
     "waivers": 16,
-    "free_agent_moves": 73,
+    "free_agent_moves": 78,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 73,
-      "trade": 11,
+      "free_agent": 78,
+      "trade": 13,
       "waiver": 16
     },
     "by_status": {
-      "complete": 95,
+      "complete": 102,
       "failed": 6
     }
   }
