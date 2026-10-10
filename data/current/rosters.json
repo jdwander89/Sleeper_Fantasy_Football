@@ -182,20 +182,19 @@
     ],
     "starters": [
       "7523",
-      "12472",
+      "10235",
       "12495",
       "13294",
       "9487",
       "12517",
       "4993",
-      "9754",
+      "8210",
       "12509"
     ],
     "bench": [
-      "10235",
+      "12472",
       "12492",
       "12718",
-      "13276",
       "13338",
       "13413",
       "4018",
@@ -203,13 +202,14 @@
       "6828",
       "6904",
       "8129",
-      "8210",
       "8408",
-      "8676"
+      "8676",
+      "8800",
+      "9754"
     ],
     "reserve": [
-      "13417",
-      "8800"
+      "13276",
+      "13417"
     ],
     "taxi": [],
     "player_count": 25,
@@ -247,20 +247,19 @@
       ],
       "starters": [
         "Trevor Lawrence",
-        "Raheim Sanders",
+        "Roschon Johnson",
         "Ollie Gordon",
         "Makai Lemon",
         "Parker Washington",
         "Colston Loveland",
         "Mike Gesicki",
-        "Quentin Johnston",
+        "Chig Okonkwo",
         "Tre' Harris"
       ],
       "bench": [
-        "Roschon Johnson",
+        "Raheim Sanders",
         "Pat Bryant",
         "Konata Mumpfield",
-        "Omar Cooper",
         "Kevin Coleman",
         "Cyrus Allen",
         "Joe Mixon",
@@ -268,13 +267,14 @@
         "AJ Dillon",
         "Jalen Hurts",
         "Dameon Pierce",
-        "Chig Okonkwo",
         "Jordan Mason",
-        "Rashid Shaheed"
+        "Rashid Shaheed",
+        "Malik Davis",
+        "Quentin Johnston"
       ],
       "reserve": [
-        "De'Zhaun Stribling",
-        "Malik Davis"
+        "Omar Cooper",
+        "De'Zhaun Stribling"
       ],
       "taxi": []
     },
@@ -1653,7 +1653,7 @@
       "9997",
       "5012",
       "10232",
-      "9508",
+      "5022",
       "4983"
     ],
     "bench": [
@@ -1668,9 +1668,9 @@
       "421",
       "4454",
       "4866",
-      "5022",
       "7670",
-      "8180"
+      "8180",
+      "9508"
     ],
     "reserve": [
       "11618",
@@ -1718,7 +1718,7 @@
         "Zay Flowers",
         "Mark Andrews",
         "Michael Wilson",
-        "Tyjae Spears",
+        "Dallas Goedert",
         "DJ Moore"
       ],
       "bench": [
@@ -1733,9 +1733,9 @@
         "Matthew Stafford",
         "Kendrick Bourne",
         "Saquon Barkley",
-        "Dallas Goedert",
         "Joshua Palmer",
-        "Jalen Nailor"
+        "Jalen Nailor",
+        "Tyjae Spears"
       ],
       "reserve": [
         "Jalen McMillan",

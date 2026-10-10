@@ -7948,17 +7948,17 @@
           ],
           "starters": [
             "7523",
-            "12472",
+            "10235",
             "12495",
             "13294",
             "9487",
             "12517",
             "4993",
-            "9754",
+            "8210",
             "12509"
           ],
           "bench": [
-            "10235",
+            "12472",
             "12492",
             "12718",
             "13276",
@@ -7970,10 +7970,10 @@
             "6828",
             "6904",
             "8129",
-            "8210",
             "8408",
             "8676",
-            "8800"
+            "8800",
+            "9754"
           ],
           "players_points": {
             "10235": 0.0,
@@ -8033,17 +8033,17 @@
             ],
             "starters": [
               "Trevor Lawrence",
-              "Raheim Sanders",
+              "Roschon Johnson",
               "Ollie Gordon",
               "Makai Lemon",
               "Parker Washington",
               "Colston Loveland",
               "Mike Gesicki",
-              "Quentin Johnston",
+              "Chig Okonkwo",
               "Tre' Harris"
             ],
             "bench": [
-              "Roschon Johnson",
+              "Raheim Sanders",
               "Pat Bryant",
               "Konata Mumpfield",
               "Omar Cooper",
@@ -8055,10 +8055,10 @@
               "AJ Dillon",
               "Jalen Hurts",
               "Dameon Pierce",
-              "Chig Okonkwo",
               "Jordan Mason",
               "Rashid Shaheed",
-              "Malik Davis"
+              "Malik Davis",
+              "Quentin Johnston"
             ]
           }
         },
@@ -9439,7 +9439,7 @@
             "9997",
             "5012",
             "10232",
-            "9508",
+            "5022",
             "4983"
           ],
           "bench": [
@@ -9455,10 +9455,10 @@
             "421",
             "4454",
             "4866",
-            "5022",
             "7543",
             "7670",
-            "8180"
+            "8180",
+            "9508"
           ],
           "players_points": {
             "10232": 0.0,
@@ -9524,7 +9524,7 @@
               "Zay Flowers",
               "Mark Andrews",
               "Michael Wilson",
-              "Tyjae Spears",
+              "Dallas Goedert",
               "DJ Moore"
             ],
             "bench": [
@@ -9540,10 +9540,10 @@
               "Matthew Stafford",
               "Kendrick Bourne",
               "Saquon Barkley",
-              "Dallas Goedert",
               "Travis Etienne",
               "Joshua Palmer",
-              "Jalen Nailor"
+              "Jalen Nailor",
+              "Tyjae Spears"
             ]
           }
         }

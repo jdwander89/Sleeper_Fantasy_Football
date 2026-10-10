@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-09T17:27:50.248769Z",
-    "source_snapshot_generated_at": "2026-10-09T17:27:48.600324Z",
+    "generated_at": "2026-10-10T16:15:39.591857Z",
+    "source_snapshot_generated_at": "2026-10-10T16:15:38.295179Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -119,7 +119,7 @@
           "name": "Jacory Croskey-Merritt",
           "team": "WAS",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12501",
@@ -219,9 +219,9 @@
           "injury_status": null
         },
         {
-          "player_id": "12472",
-          "name": "Raheim Sanders",
-          "team": "CLE",
+          "player_id": "10235",
+          "name": "Roschon Johnson",
+          "team": "CHI",
           "position": "RB",
           "injury_status": null
         },
@@ -261,11 +261,11 @@
           "injury_status": null
         },
         {
-          "player_id": "9754",
-          "name": "Quentin Johnston",
-          "team": "LAC",
-          "position": "WR",
-          "injury_status": "Questionable"
+          "player_id": "8210",
+          "name": "Chig Okonkwo",
+          "team": "WAS",
+          "position": "TE",
+          "injury_status": null
         },
         {
           "player_id": "12509",
@@ -277,17 +277,17 @@
       ],
       "reserve": [
         {
-          "player_id": "13417",
-          "name": "De'Zhaun Stribling",
-          "team": "SF",
+          "player_id": "13276",
+          "name": "Omar Cooper",
+          "team": "NYJ",
           "position": "WR",
           "injury_status": "IR"
         },
         {
-          "player_id": "8800",
-          "name": "Malik Davis",
-          "team": "DAL",
-          "position": "RB",
+          "player_id": "13417",
+          "name": "De'Zhaun Stribling",
+          "team": "SF",
+          "position": "WR",
           "injury_status": "IR"
         }
       ]
@@ -383,7 +383,7 @@
           "name": "Mike Evans",
           "team": "SF",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -474,7 +474,7 @@
           "name": "Carnell Tate",
           "team": "TEN",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "4037",
@@ -593,7 +593,7 @@
           "name": "Caleb Williams",
           "team": "CHI",
           "position": "QB",
-          "injury_status": "Out"
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9225",
@@ -778,7 +778,7 @@
           "name": "Malik Nabers",
           "team": "NYG",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12518",
@@ -910,7 +910,7 @@
           "name": "Isaiah Likely",
           "team": "NYG",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "6786",
@@ -1000,7 +1000,7 @@
           "name": "Chris Olave",
           "team": "NO",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7553",
@@ -1097,7 +1097,7 @@
           "name": "D'Andre Swift",
           "team": "CHI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7547",
@@ -1208,7 +1208,7 @@
           "name": "Cam Skattebo",
           "team": "NYG",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "6801",
@@ -1319,7 +1319,7 @@
           "name": "Jeremiyah Love",
           "team": "ARI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11608",
@@ -1350,10 +1350,10 @@
           "injury_status": null
         },
         {
-          "player_id": "9508",
-          "name": "Tyjae Spears",
-          "team": "TEN",
-          "position": "RB",
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "team": "PHI",
+          "position": "TE",
           "injury_status": null
         },
         {
