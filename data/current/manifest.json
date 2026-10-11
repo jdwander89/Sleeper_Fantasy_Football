@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-10T16:15:38.295179Z",
+  "generated_at": "2026-10-11T16:39:57.787027Z",
   "league_id": "1312581067286282240",
   "sport": "nfl",
   "season": "2026",
@@ -45,17 +45,17 @@
     {
       "path": "data/current/rosters.json",
       "exists": true,
-      "size_bytes": 33683
+      "size_bytes": 33765
     },
     {
       "path": "data/current/matchups.json",
       "exists": true,
-      "size_bytes": 237253
+      "size_bytes": 237505
     },
     {
       "path": "data/current/transactions.json",
       "exists": true,
-      "size_bytes": 367754
+      "size_bytes": 376946
     },
     {
       "path": "data/current/drafts.json",
@@ -70,22 +70,22 @@
     {
       "path": "data/current/player_lookup_compact.json",
       "exists": true,
-      "size_bytes": 121171
+      "size_bytes": 121739
     },
     {
       "path": "data/current/player_id_index.json",
       "exists": true,
-      "size_bytes": 22837
+      "size_bytes": 22960
     },
     {
       "path": "data/current/chatgpt_summary.json",
       "exists": true,
-      "size_bytes": 75296
+      "size_bytes": 74366
     },
     {
       "path": "data/current/chatgpt_bundle.json",
       "exists": true,
-      "size_bytes": 988431
+      "size_bytes": 999452
     }
   ],
   "counts": {
@@ -94,13 +94,13 @@
     "included_weeks": 5,
     "matchups": 30,
     "matchup_roster_results": 60,
-    "required_player_ids": 340,
-    "compact_player_lookup": 340,
+    "required_player_ids": 342,
+    "compact_player_lookup": 342,
     "missing_player_ids": 0,
-    "transactions": 108,
+    "transactions": 111,
     "trades": 13,
     "waivers": 16,
-    "free_agent_moves": 78,
+    "free_agent_moves": 81,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -112,5 +112,5 @@
     "errors": [],
     "missing_player_ids": []
   },
-  "summary_generated_at": "2026-10-10T16:15:39.591857Z"
+  "summary_generated_at": "2026-10-11T16:39:59.639190Z"
 }

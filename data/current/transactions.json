@@ -4789,13 +4789,135 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 5,
+          "transaction_id": "1414730934472712192",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1791660648510,
+          "created_at": "2026-10-10T19:30:48.510000Z",
+          "status_updated": 1791660648510,
+          "status_updated_at": "2026-10-10T19:30:48.510000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Laporta Potty"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Laporta Potty"
+          ],
+          "adds": [
+            {
+              "player_id": "7039",
+              "player_name": "Cody White",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 5,
+          "transaction_id": "1414994596726906880",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1791723510489,
+          "created_at": "2026-10-11T12:58:30.489000Z",
+          "status_updated": 1791723510489,
+          "status_updated_at": "2026-10-11T12:58:30.489000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "CeeDee You Later"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "CeeDee You Later"
+          ],
+          "adds": [
+            {
+              "player_id": "12048",
+              "player_name": "George Holani",
+              "roster_id": 2,
+              "team_label": "CeeDee You Later"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "6828",
+              "player_name": "AJ Dillon",
+              "roster_id": 2,
+              "team_label": "CeeDee You Later"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 5,
+          "transaction_id": "1415028473231081472",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1791731587277,
+          "created_at": "2026-10-11T15:13:07.277000Z",
+          "status_updated": 1791731587277,
+          "status_updated_at": "2026-10-11T15:13:07.277000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "4663",
+              "player_name": "Austin Ekeler",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "9757",
+              "player_name": "Kendre Miller",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 9,
+        "transactions": 12,
         "trades": 3,
         "waivers": 0,
-        "free_agent_moves": 6
+        "free_agent_moves": 9
       }
     }
   },
@@ -9542,6 +9664,128 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414730934472712192",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791660648510,
+      "created_at": "2026-10-10T19:30:48.510000Z",
+      "status_updated": 1791660648510,
+      "status_updated_at": "2026-10-10T19:30:48.510000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "7039",
+          "player_name": "Cody White",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414994596726906880",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791723510489,
+      "created_at": "2026-10-11T12:58:30.489000Z",
+      "status_updated": 1791723510489,
+      "status_updated_at": "2026-10-11T12:58:30.489000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "CeeDee You Later"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later"
+      ],
+      "adds": [
+        {
+          "player_id": "12048",
+          "player_name": "George Holani",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6828",
+          "player_name": "AJ Dillon",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1415028473231081472",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791731587277,
+      "created_at": "2026-10-11T15:13:07.277000Z",
+      "status_updated": 1791731587277,
+      "status_updated_at": "2026-10-11T15:13:07.277000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "4663",
+          "player_name": "Austin Ekeler",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9757",
+          "player_name": "Kendre Miller",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -14259,22 +14503,144 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414730934472712192",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791660648510,
+      "created_at": "2026-10-10T19:30:48.510000Z",
+      "status_updated": 1791660648510,
+      "status_updated_at": "2026-10-10T19:30:48.510000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "7039",
+          "player_name": "Cody White",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1414994596726906880",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791723510489,
+      "created_at": "2026-10-11T12:58:30.489000Z",
+      "status_updated": 1791723510489,
+      "status_updated_at": "2026-10-11T12:58:30.489000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "CeeDee You Later"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "CeeDee You Later"
+      ],
+      "adds": [
+        {
+          "player_id": "12048",
+          "player_name": "George Holani",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "6828",
+          "player_name": "AJ Dillon",
+          "roster_id": 2,
+          "team_label": "CeeDee You Later"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1415028473231081472",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791731587277,
+      "created_at": "2026-10-11T15:13:07.277000Z",
+      "status_updated": 1791731587277,
+      "status_updated_at": "2026-10-11T15:13:07.277000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "4663",
+          "player_name": "Austin Ekeler",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9757",
+          "player_name": "Kendre Miller",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 5,
-    "transactions": 108,
+    "transactions": 111,
     "trades": 13,
     "waivers": 16,
-    "free_agent_moves": 78,
+    "free_agent_moves": 81,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 78,
+      "free_agent": 81,
       "trade": 13,
       "waiver": 16
     },
     "by_status": {
-      "complete": 102,
+      "complete": 105,
       "failed": 6
     }
   }

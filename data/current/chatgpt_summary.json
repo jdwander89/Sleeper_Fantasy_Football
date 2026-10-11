@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-10T16:15:39.591857Z",
-    "source_snapshot_generated_at": "2026-10-10T16:15:38.295179Z",
+    "generated_at": "2026-10-11T16:39:59.639190Z",
+    "source_snapshot_generated_at": "2026-10-11T16:39:57.787027Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 5,
     "matchups": 30,
     "matchup_roster_results": 60,
-    "required_player_ids": 340,
-    "compact_player_lookup": 340,
+    "required_player_ids": 342,
+    "compact_player_lookup": 342,
     "missing_player_ids": 0,
-    "transactions": 108,
+    "transactions": 111,
     "trades": 13,
     "waivers": 16,
-    "free_agent_moves": 78,
+    "free_agent_moves": 81,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -133,7 +133,7 @@
           "name": "Jordan Addison",
           "team": "MIN",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "10236",
@@ -150,9 +150,9 @@
           "injury_status": null
         },
         {
-          "player_id": "9504",
-          "name": "Kayshon Boutte",
-          "team": "HOU",
+          "player_id": "12542",
+          "name": "Efton Chism",
+          "team": "NE",
           "position": "WR",
           "injury_status": null
         },
@@ -310,16 +310,16 @@
         "raw_fpts_against_decimal": 52
       },
       "counts": {
-        "players": 24,
+        "players": 25,
         "starters": 9,
         "bench": 14,
-        "reserve": 1
+        "reserve": 2
       },
       "position_counts": {
         "QB": 4,
         "RB": 6,
         "TE": 3,
-        "WR": 11
+        "WR": 12
       },
       "starters": [
         {
@@ -388,6 +388,13 @@
       ],
       "reserve": [
         {
+          "player_id": "6819",
+          "name": "Michael Pittman",
+          "team": "PIT",
+          "position": "WR",
+          "injury_status": "IR"
+        },
+        {
           "player_id": "9502",
           "name": "Tank Dell",
           "team": "HOU",
@@ -439,12 +446,12 @@
           "name": "Alvin Kamara",
           "team": "NO",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
-          "player_id": "7594",
-          "name": "Chuba Hubbard",
-          "team": "CAR",
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "team": "ARI",
           "position": "RB",
           "injury_status": null
         },
@@ -474,7 +481,7 @@
           "name": "Carnell Tate",
           "team": "TEN",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "4037",
@@ -545,9 +552,9 @@
           "injury_status": null
         },
         {
-          "player_id": "11620",
-          "name": "Rome Odunze",
-          "team": "CHI",
+          "player_id": "7564",
+          "name": "Ja'Marr Chase",
+          "team": "CIN",
           "position": "WR",
           "injury_status": null
         },
@@ -577,23 +584,23 @@
           "name": "Will Shipley",
           "team": "PHI",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
-          "player_id": "8134",
-          "name": "Khalil Shakir",
-          "team": "BUF",
+          "player_id": "11620",
+          "name": "Rome Odunze",
+          "team": "CHI",
           "position": "WR",
           "injury_status": null
         }
       ],
       "reserve": [
         {
-          "player_id": "11560",
-          "name": "Caleb Williams",
-          "team": "CHI",
-          "position": "QB",
-          "injury_status": "Questionable"
+          "player_id": "4177",
+          "name": "Mack Hollins",
+          "team": "NE",
+          "position": "WR",
+          "injury_status": "IR"
         },
         {
           "player_id": "9225",
@@ -653,7 +660,7 @@
           "name": "Ashton Jeanty",
           "team": "LV",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8146",
@@ -903,7 +910,7 @@
           "name": "Rhamondre Stevenson",
           "team": "NE",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8131",
@@ -1215,7 +1222,7 @@
           "name": "Tee Higgins",
           "team": "CIN",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7526",
@@ -1970,11 +1977,15 @@
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 0.0,
+                "points": 12.9,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 10,
+              "team_label": "Goin in Ra",
+              "points": 12.9
+            }
           },
           {
             "matchup_id": "2",
@@ -1982,7 +1993,7 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 31.5,
+                "points": 46.7,
                 "custom_points": null
               },
               {
@@ -1995,7 +2006,7 @@
             "winner": {
               "roster_id": 3,
               "team_label": "Laporta Potty",
-              "points": 31.5
+              "points": 46.7
             }
           },
           {
@@ -2010,14 +2021,14 @@
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 0.0,
+                "points": 5.7,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 8,
-              "team_label": "Back to the Future",
-              "points": 2.9
+              "roster_id": 12,
+              "team_label": "gullickson",
+              "points": 5.7
             }
           },
           {
@@ -2026,7 +2037,7 @@
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 7.0,
+                "points": 20.8,
                 "custom_points": null
               },
               {
@@ -2048,20 +2059,20 @@
               {
                 "roster_id": 2,
                 "team_label": "CeeDee You Later",
-                "points": 0.0,
+                "points": 39.94,
                 "custom_points": null
               },
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 12.64,
+                "points": 20.94,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 5,
-              "team_label": "White Ice",
-              "points": 12.64
+              "roster_id": 2,
+              "team_label": "CeeDee You Later",
+              "points": 39.94
             }
           },
           {
@@ -2102,18 +2113,18 @@
   "transactions": {
     "counts": {
       "weeks": 5,
-      "transactions": 108,
+      "transactions": 111,
       "trades": 13,
       "waivers": 16,
-      "free_agent_moves": 78,
+      "free_agent_moves": 81,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 78,
+        "free_agent": 81,
         "trade": 13,
         "waiver": 16
       },
       "by_status": {
-        "complete": 102,
+        "complete": 105,
         "failed": 6
       }
     },
@@ -2143,16 +2154,16 @@
         "free_agent_moves": 12
       },
       "11": {
-        "transactions": 18,
+        "transactions": 19,
         "trades": 4,
         "waivers": 2,
-        "free_agent_moves": 12
+        "free_agent_moves": 13
       },
       "2": {
-        "transactions": 24,
+        "transactions": 25,
         "trades": 9,
         "waivers": 1,
-        "free_agent_moves": 13
+        "free_agent_moves": 14
       },
       "10": {
         "transactions": 3,
@@ -2161,10 +2172,10 @@
         "free_agent_moves": 1
       },
       "3": {
-        "transactions": 13,
+        "transactions": 14,
         "trades": 1,
         "waivers": 3,
-        "free_agent_moves": 9
+        "free_agent_moves": 10
       },
       "6": {
         "transactions": 6,
@@ -2192,6 +2203,80 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 5,
+        "transaction_id": "1415028473231081472",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-11T15:13:07.277000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "4663",
+            "player_name": "Austin Ekeler",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "9757",
+            "player_name": "Kendre Miller",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 5,
+        "transaction_id": "1414994596726906880",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-11T12:58:30.489000Z",
+        "team_labels": [
+          "CeeDee You Later"
+        ],
+        "adds": [
+          {
+            "player_id": "12048",
+            "player_name": "George Holani",
+            "roster_id": 2,
+            "team_label": "CeeDee You Later"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "6828",
+            "player_name": "AJ Dillon",
+            "roster_id": 2,
+            "team_label": "CeeDee You Later"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 5,
+        "transaction_id": "1414730934472712192",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-10T19:30:48.510000Z",
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "7039",
+            "player_name": "Cody White",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
       {
         "week": 5,
         "transaction_id": "1414084575650500608",
@@ -2783,117 +2868,6 @@
             "player_name": "Josh Cameron",
             "roster_id": 1,
             "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 4,
-        "transaction_id": "1411513848694874112",
-        "type": "trade",
-        "status": "complete",
-        "created_at": "2026-10-01T22:27:15.490000Z",
-        "team_labels": [
-          "White Ice",
-          "off"
-        ],
-        "adds": [
-          {
-            "player_id": "7564",
-            "player_name": "Ja'Marr Chase",
-            "roster_id": 5,
-            "team_label": "White Ice"
-          },
-          {
-            "player_id": "8137",
-            "player_name": "George Pickens",
-            "roster_id": 9,
-            "team_label": "off"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "7564",
-            "player_name": "Ja'Marr Chase",
-            "roster_id": 9,
-            "team_label": "off"
-          },
-          {
-            "player_id": "8137",
-            "player_name": "George Pickens",
-            "roster_id": 5,
-            "team_label": "White Ice"
-          }
-        ],
-        "draft_picks": [
-          {
-            "season": "2027",
-            "round": 1,
-            "original_roster_id": 5,
-            "original_team_label": "White Ice",
-            "previous_owner_id": 5,
-            "previous_owner_team_label": "White Ice",
-            "owner_id": 9,
-            "owner_team_label": "off"
-          },
-          {
-            "season": "2028",
-            "round": 1,
-            "original_roster_id": 5,
-            "original_team_label": "White Ice",
-            "previous_owner_id": 5,
-            "previous_owner_team_label": "White Ice",
-            "owner_id": 9,
-            "owner_team_label": "off"
-          },
-          {
-            "season": "2029",
-            "round": 1,
-            "original_roster_id": 5,
-            "original_team_label": "White Ice",
-            "previous_owner_id": 5,
-            "previous_owner_team_label": "White Ice",
-            "owner_id": 9,
-            "owner_team_label": "off"
-          }
-        ]
-      },
-      {
-        "week": 4,
-        "transaction_id": "1411180983331414016",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-10-01T00:24:34.202000Z",
-        "team_labels": [
-          "CeeDee You Later"
-        ],
-        "adds": [
-          {
-            "player_id": "4993",
-            "player_name": "Mike Gesicki",
-            "roster_id": 2,
-            "team_label": "CeeDee You Later"
-          }
-        ],
-        "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 4,
-        "transaction_id": "1411180838573404160",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-10-01T00:23:59.690000Z",
-        "team_labels": [
-          "CeeDee You Later"
-        ],
-        "adds": [
-          {
-            "player_id": "12718",
-            "player_name": "Konata Mumpfield",
-            "roster_id": 2,
-            "team_label": "CeeDee You Later"
           }
         ],
         "drops": [],
