@@ -341,7 +341,7 @@
           ],
           "team_labels": [
             "It’s Herbie Hancock",
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             1,
@@ -349,14 +349,14 @@
           ],
           "consenter_team_labels": [
             "It’s Herbie Hancock",
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "8408",
               "player_name": "Jordan Mason",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [
@@ -376,15 +376,15 @@
               "previous_owner_id": 1,
               "previous_owner_team_label": "It’s Herbie Hancock",
               "owner_id": 2,
-              "owner_team_label": "CeeDee You Later"
+              "owner_team_label": "Washington Monument"
             },
             {
               "season": "2026",
               "round": 3,
               "original_roster_id": 2,
-              "original_team_label": "CeeDee You Later",
+              "original_team_label": "Washington Monument",
               "previous_owner_id": 2,
-              "previous_owner_team_label": "CeeDee You Later",
+              "previous_owner_team_label": "Washington Monument",
               "owner_id": 1,
               "owner_team_label": "It’s Herbie Hancock"
             },
@@ -392,9 +392,9 @@
               "season": "2026",
               "round": 4,
               "original_roster_id": 2,
-              "original_team_label": "CeeDee You Later",
+              "original_team_label": "Washington Monument",
               "previous_owner_id": 2,
-              "previous_owner_team_label": "CeeDee You Later",
+              "previous_owner_team_label": "Washington Monument",
               "owner_id": 1,
               "owner_team_label": "It’s Herbie Hancock"
             },
@@ -402,9 +402,9 @@
               "season": "2027",
               "round": 3,
               "original_roster_id": 2,
-              "original_team_label": "CeeDee You Later",
+              "original_team_label": "Washington Monument",
               "previous_owner_id": 2,
-              "previous_owner_team_label": "CeeDee You Later",
+              "previous_owner_team_label": "Washington Monument",
               "owner_id": 1,
               "owner_team_label": "It’s Herbie Hancock"
             }
@@ -428,7 +428,7 @@
             10
           ],
           "team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "Goin in Ra"
           ],
           "consenter_ids": [
@@ -436,7 +436,7 @@
             10
           ],
           "consenter_team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "Goin in Ra"
           ],
           "adds": [],
@@ -450,15 +450,15 @@
               "previous_owner_id": 10,
               "previous_owner_team_label": "Goin in Ra",
               "owner_id": 2,
-              "owner_team_label": "CeeDee You Later"
+              "owner_team_label": "Washington Monument"
             },
             {
               "season": "2026",
               "round": 5,
               "original_roster_id": 2,
-              "original_team_label": "CeeDee You Later",
+              "original_team_label": "Washington Monument",
               "previous_owner_id": 2,
-              "previous_owner_team_label": "CeeDee You Later",
+              "previous_owner_team_label": "Washington Monument",
               "owner_id": 10,
               "owner_team_label": "Goin in Ra"
             },
@@ -466,9 +466,9 @@
               "season": "2028",
               "round": 3,
               "original_roster_id": 2,
-              "original_team_label": "CeeDee You Later",
+              "original_team_label": "Washington Monument",
               "previous_owner_id": 2,
-              "previous_owner_team_label": "CeeDee You Later",
+              "previous_owner_team_label": "Washington Monument",
               "owner_id": 10,
               "owner_team_label": "Goin in Ra"
             }
@@ -563,20 +563,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "13413",
               "player_name": "Cyrus Allen",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [
@@ -584,7 +584,7 @@
               "player_id": "13338",
               "player_name": "Kevin Coleman",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "draft_picks": [],
@@ -958,20 +958,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "8800",
               "player_name": "Malik Davis",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [
@@ -979,7 +979,7 @@
               "player_id": "12455",
               "player_name": "Brashard Smith",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "draft_picks": [],
@@ -1044,13 +1044,13 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [],
           "drops": [
@@ -1058,7 +1058,7 @@
               "player_id": "5850",
               "player_name": "Josh Jacobs",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "draft_picks": [],
@@ -1080,7 +1080,7 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [],
           "consenter_team_labels": [],
@@ -1089,7 +1089,7 @@
               "player_id": "5850",
               "player_name": "Josh Jacobs",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [],
@@ -1866,20 +1866,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "4017",
               "player_name": "Deshaun Watson",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [],
@@ -2104,7 +2104,7 @@
             11
           ],
           "team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "MOJO"
           ],
           "consenter_ids": [
@@ -2112,7 +2112,7 @@
             11
           ],
           "consenter_team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "MOJO"
           ],
           "adds": [
@@ -2128,7 +2128,7 @@
               "player_id": "12469",
               "player_name": "Dylan Sampson",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "draft_picks": [
@@ -2140,7 +2140,7 @@
               "previous_owner_id": 11,
               "previous_owner_team_label": "MOJO",
               "owner_id": 2,
-              "owner_team_label": "CeeDee You Later"
+              "owner_team_label": "Washington Monument"
             }
           ],
           "waiver_budget": [],
@@ -2163,20 +2163,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "10235",
               "player_name": "Roschon Johnson",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [],
@@ -2235,20 +2235,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "8127",
               "player_name": "Charlie Kolar",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [
@@ -2256,7 +2256,7 @@
               "player_id": "4017",
               "player_name": "Deshaun Watson",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "draft_picks": [],
@@ -2498,20 +2498,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "12472",
               "player_name": "Raheim Sanders",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [],
@@ -2787,20 +2787,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "6828",
               "player_name": "AJ Dillon",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [
@@ -2808,7 +2808,7 @@
               "player_id": "8127",
               "player_name": "Charlie Kolar",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "draft_picks": [],
@@ -3271,7 +3271,7 @@
               "season": "2027",
               "round": 3,
               "original_roster_id": 2,
-              "original_team_label": "CeeDee You Later",
+              "original_team_label": "Washington Monument",
               "previous_owner_id": 1,
               "previous_owner_team_label": "It’s Herbie Hancock",
               "owner_id": 3,
@@ -3395,7 +3395,7 @@
             11
           ],
           "team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "MOJO"
           ],
           "consenter_ids": [
@@ -3403,7 +3403,7 @@
             11
           ],
           "consenter_team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "MOJO"
           ],
           "adds": [
@@ -3419,7 +3419,7 @@
               "player_id": "5859",
               "player_name": "A.J. Brown",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "draft_picks": [
@@ -3431,7 +3431,7 @@
               "previous_owner_id": 11,
               "previous_owner_team_label": "MOJO",
               "owner_id": 2,
-              "owner_team_label": "CeeDee You Later"
+              "owner_team_label": "Washington Monument"
             },
             {
               "season": "2028",
@@ -3441,7 +3441,7 @@
               "previous_owner_id": 11,
               "previous_owner_team_label": "MOJO",
               "owner_id": 2,
-              "owner_team_label": "CeeDee You Later"
+              "owner_team_label": "Washington Monument"
             }
           ],
           "waiver_budget": [],
@@ -3535,7 +3535,7 @@
             5
           ],
           "team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "White Ice"
           ],
           "consenter_ids": [
@@ -3543,7 +3543,7 @@
             5
           ],
           "consenter_team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "White Ice"
           ],
           "adds": [
@@ -3559,7 +3559,7 @@
               "player_id": "1466",
               "player_name": "Travis Kelce",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "draft_picks": [
@@ -3571,7 +3571,7 @@
               "previous_owner_id": 5,
               "previous_owner_team_label": "White Ice",
               "owner_id": 2,
-              "owner_team_label": "CeeDee You Later"
+              "owner_team_label": "Washington Monument"
             }
           ],
           "waiver_budget": [],
@@ -3628,20 +3628,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "12718",
               "player_name": "Konata Mumpfield",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [],
@@ -3664,20 +3664,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "4993",
               "player_name": "Mike Gesicki",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [],
@@ -3865,7 +3865,7 @@
             8
           ],
           "team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "Back to the Future"
           ],
           "consenter_ids": [
@@ -3873,7 +3873,7 @@
             8
           ],
           "consenter_team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "Back to the Future"
           ],
           "adds": [
@@ -3889,7 +3889,7 @@
               "player_id": "6786",
               "player_name": "CeeDee Lamb",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "draft_picks": [
@@ -3901,7 +3901,7 @@
               "previous_owner_id": 8,
               "previous_owner_team_label": "Back to the Future",
               "owner_id": 2,
-              "owner_team_label": "CeeDee You Later"
+              "owner_team_label": "Washington Monument"
             },
             {
               "season": "2027",
@@ -3911,7 +3911,7 @@
               "previous_owner_id": 8,
               "previous_owner_team_label": "Back to the Future",
               "owner_id": 2,
-              "owner_team_label": "CeeDee You Later"
+              "owner_team_label": "Washington Monument"
             },
             {
               "season": "2028",
@@ -3921,7 +3921,7 @@
               "previous_owner_id": 8,
               "previous_owner_team_label": "Back to the Future",
               "owner_id": 2,
-              "owner_team_label": "CeeDee You Later"
+              "owner_team_label": "Washington Monument"
             }
           ],
           "waiver_budget": [],
@@ -3980,20 +3980,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "4018",
               "player_name": "Joe Mixon",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [],
@@ -4057,20 +4057,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "13264",
               "player_name": "Dohnte Meyers",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [],
@@ -4394,7 +4394,7 @@
             6
           ],
           "team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "andrewwelle"
           ],
           "consenter_ids": [
@@ -4402,7 +4402,7 @@
             6
           ],
           "consenter_team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "andrewwelle"
           ],
           "adds": [
@@ -4410,7 +4410,7 @@
               "player_id": "13276",
               "player_name": "Omar Cooper",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             },
             {
               "player_id": "7588",
@@ -4430,7 +4430,7 @@
               "player_id": "7588",
               "player_name": "Javonte Williams",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "draft_picks": [
@@ -4442,7 +4442,7 @@
               "previous_owner_id": 6,
               "previous_owner_team_label": "andrewwelle",
               "owner_id": 2,
-              "owner_team_label": "CeeDee You Later"
+              "owner_team_label": "Washington Monument"
             },
             {
               "season": "2028",
@@ -4452,7 +4452,7 @@
               "previous_owner_id": 6,
               "previous_owner_team_label": "andrewwelle",
               "owner_id": 2,
-              "owner_team_label": "CeeDee You Later"
+              "owner_team_label": "Washington Monument"
             }
           ],
           "waiver_budget": [],
@@ -4477,7 +4477,7 @@
           ],
           "team_labels": [
             "It’s Herbie Hancock",
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             1,
@@ -4485,14 +4485,14 @@
           ],
           "consenter_team_labels": [
             "It’s Herbie Hancock",
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "7523",
               "player_name": "Trevor Lawrence",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             },
             {
               "player_id": "9758",
@@ -4512,7 +4512,7 @@
               "player_id": "9758",
               "player_name": "C.J. Stroud",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "draft_picks": [
@@ -4522,7 +4522,7 @@
               "original_roster_id": 11,
               "original_team_label": "MOJO",
               "previous_owner_id": 2,
-              "previous_owner_team_label": "CeeDee You Later",
+              "previous_owner_team_label": "Washington Monument",
               "owner_id": 1,
               "owner_team_label": "It’s Herbie Hancock"
             }
@@ -4589,7 +4589,7 @@
             11
           ],
           "team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "MOJO"
           ],
           "consenter_ids": [
@@ -4597,7 +4597,7 @@
             11
           ],
           "consenter_team_labels": [
-            "CeeDee You Later",
+            "Washington Monument",
             "MOJO"
           ],
           "adds": [
@@ -4619,13 +4619,13 @@
               "player_id": "5892",
               "player_name": "David Montgomery",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             },
             {
               "player_id": "6783",
               "player_name": "Jerry Jeudy",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "draft_picks": [
@@ -4637,7 +4637,7 @@
               "previous_owner_id": 11,
               "previous_owner_team_label": "MOJO",
               "owner_id": 2,
-              "owner_team_label": "CeeDee You Later"
+              "owner_team_label": "Washington Monument"
             }
           ],
           "waiver_budget": [],
@@ -4732,20 +4732,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "8129",
               "player_name": "Dameon Pierce",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [],
@@ -4768,20 +4768,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "13338",
               "player_name": "Kevin Coleman",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [],
@@ -4840,20 +4840,20 @@
             2
           ],
           "team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "consenter_ids": [
             2
           ],
           "consenter_team_labels": [
-            "CeeDee You Later"
+            "Washington Monument"
           ],
           "adds": [
             {
               "player_id": "12048",
               "player_name": "George Holani",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "drops": [
@@ -4861,7 +4861,7 @@
               "player_id": "6828",
               "player_name": "AJ Dillon",
               "roster_id": 2,
-              "team_label": "CeeDee You Later"
+              "team_label": "Washington Monument"
             }
           ],
           "draft_picks": [],
@@ -5260,7 +5260,7 @@
       ],
       "team_labels": [
         "It’s Herbie Hancock",
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         1,
@@ -5268,14 +5268,14 @@
       ],
       "consenter_team_labels": [
         "It’s Herbie Hancock",
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "8408",
           "player_name": "Jordan Mason",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [
@@ -5295,15 +5295,15 @@
           "previous_owner_id": 1,
           "previous_owner_team_label": "It’s Herbie Hancock",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         },
         {
           "season": "2026",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "CeeDee You Later",
+          "original_team_label": "Washington Monument",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "CeeDee You Later",
+          "previous_owner_team_label": "Washington Monument",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         },
@@ -5311,9 +5311,9 @@
           "season": "2026",
           "round": 4,
           "original_roster_id": 2,
-          "original_team_label": "CeeDee You Later",
+          "original_team_label": "Washington Monument",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "CeeDee You Later",
+          "previous_owner_team_label": "Washington Monument",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         },
@@ -5321,9 +5321,9 @@
           "season": "2027",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "CeeDee You Later",
+          "original_team_label": "Washington Monument",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "CeeDee You Later",
+          "previous_owner_team_label": "Washington Monument",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         }
@@ -5347,7 +5347,7 @@
         10
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "Goin in Ra"
       ],
       "consenter_ids": [
@@ -5355,7 +5355,7 @@
         10
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "Goin in Ra"
       ],
       "adds": [],
@@ -5369,15 +5369,15 @@
           "previous_owner_id": 10,
           "previous_owner_team_label": "Goin in Ra",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         },
         {
           "season": "2026",
           "round": 5,
           "original_roster_id": 2,
-          "original_team_label": "CeeDee You Later",
+          "original_team_label": "Washington Monument",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "CeeDee You Later",
+          "previous_owner_team_label": "Washington Monument",
           "owner_id": 10,
           "owner_team_label": "Goin in Ra"
         },
@@ -5385,9 +5385,9 @@
           "season": "2028",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "CeeDee You Later",
+          "original_team_label": "Washington Monument",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "CeeDee You Later",
+          "previous_owner_team_label": "Washington Monument",
           "owner_id": 10,
           "owner_team_label": "Goin in Ra"
         }
@@ -5482,20 +5482,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "13413",
           "player_name": "Cyrus Allen",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [
@@ -5503,7 +5503,7 @@
           "player_id": "13338",
           "player_name": "Kevin Coleman",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [],
@@ -5877,20 +5877,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "8800",
           "player_name": "Malik Davis",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [
@@ -5898,7 +5898,7 @@
           "player_id": "12455",
           "player_name": "Brashard Smith",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [],
@@ -5963,13 +5963,13 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [],
       "drops": [
@@ -5977,7 +5977,7 @@
           "player_id": "5850",
           "player_name": "Josh Jacobs",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [],
@@ -5999,7 +5999,7 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [],
       "consenter_team_labels": [],
@@ -6008,7 +6008,7 @@
           "player_id": "5850",
           "player_name": "Josh Jacobs",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -6785,20 +6785,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "4017",
           "player_name": "Deshaun Watson",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -7023,7 +7023,7 @@
         11
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "MOJO"
       ],
       "consenter_ids": [
@@ -7031,7 +7031,7 @@
         11
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "MOJO"
       ],
       "adds": [
@@ -7047,7 +7047,7 @@
           "player_id": "12469",
           "player_name": "Dylan Sampson",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -7059,7 +7059,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         }
       ],
       "waiver_budget": [],
@@ -7082,20 +7082,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "10235",
           "player_name": "Roschon Johnson",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -7154,20 +7154,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "8127",
           "player_name": "Charlie Kolar",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [
@@ -7175,7 +7175,7 @@
           "player_id": "4017",
           "player_name": "Deshaun Watson",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [],
@@ -7406,20 +7406,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "12472",
           "player_name": "Raheim Sanders",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -7684,20 +7684,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "6828",
           "player_name": "AJ Dillon",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [
@@ -7705,7 +7705,7 @@
           "player_id": "8127",
           "player_name": "Charlie Kolar",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [],
@@ -8157,7 +8157,7 @@
           "season": "2027",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "CeeDee You Later",
+          "original_team_label": "Washington Monument",
           "previous_owner_id": 1,
           "previous_owner_team_label": "It’s Herbie Hancock",
           "owner_id": 3,
@@ -8281,7 +8281,7 @@
         11
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "MOJO"
       ],
       "consenter_ids": [
@@ -8289,7 +8289,7 @@
         11
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "MOJO"
       ],
       "adds": [
@@ -8305,7 +8305,7 @@
           "player_id": "5859",
           "player_name": "A.J. Brown",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -8317,7 +8317,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         },
         {
           "season": "2028",
@@ -8327,7 +8327,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         }
       ],
       "waiver_budget": [],
@@ -8421,7 +8421,7 @@
         5
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "White Ice"
       ],
       "consenter_ids": [
@@ -8429,7 +8429,7 @@
         5
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "White Ice"
       ],
       "adds": [
@@ -8445,7 +8445,7 @@
           "player_id": "1466",
           "player_name": "Travis Kelce",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -8457,7 +8457,7 @@
           "previous_owner_id": 5,
           "previous_owner_team_label": "White Ice",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         }
       ],
       "waiver_budget": [],
@@ -8514,20 +8514,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "12718",
           "player_name": "Konata Mumpfield",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -8550,20 +8550,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "4993",
           "player_name": "Mike Gesicki",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -8751,7 +8751,7 @@
         8
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "Back to the Future"
       ],
       "consenter_ids": [
@@ -8759,7 +8759,7 @@
         8
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "Back to the Future"
       ],
       "adds": [
@@ -8775,7 +8775,7 @@
           "player_id": "6786",
           "player_name": "CeeDee Lamb",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -8787,7 +8787,7 @@
           "previous_owner_id": 8,
           "previous_owner_team_label": "Back to the Future",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         },
         {
           "season": "2027",
@@ -8797,7 +8797,7 @@
           "previous_owner_id": 8,
           "previous_owner_team_label": "Back to the Future",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         },
         {
           "season": "2028",
@@ -8807,7 +8807,7 @@
           "previous_owner_id": 8,
           "previous_owner_team_label": "Back to the Future",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         }
       ],
       "waiver_budget": [],
@@ -8866,20 +8866,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "4018",
           "player_name": "Joe Mixon",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -8943,20 +8943,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "13264",
           "player_name": "Dohnte Meyers",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -9269,7 +9269,7 @@
         6
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "andrewwelle"
       ],
       "consenter_ids": [
@@ -9277,7 +9277,7 @@
         6
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "andrewwelle"
       ],
       "adds": [
@@ -9285,7 +9285,7 @@
           "player_id": "13276",
           "player_name": "Omar Cooper",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         },
         {
           "player_id": "7588",
@@ -9305,7 +9305,7 @@
           "player_id": "7588",
           "player_name": "Javonte Williams",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -9317,7 +9317,7 @@
           "previous_owner_id": 6,
           "previous_owner_team_label": "andrewwelle",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         },
         {
           "season": "2028",
@@ -9327,7 +9327,7 @@
           "previous_owner_id": 6,
           "previous_owner_team_label": "andrewwelle",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         }
       ],
       "waiver_budget": [],
@@ -9352,7 +9352,7 @@
       ],
       "team_labels": [
         "It’s Herbie Hancock",
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         1,
@@ -9360,14 +9360,14 @@
       ],
       "consenter_team_labels": [
         "It’s Herbie Hancock",
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "7523",
           "player_name": "Trevor Lawrence",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         },
         {
           "player_id": "9758",
@@ -9387,7 +9387,7 @@
           "player_id": "9758",
           "player_name": "C.J. Stroud",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -9397,7 +9397,7 @@
           "original_roster_id": 11,
           "original_team_label": "MOJO",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "CeeDee You Later",
+          "previous_owner_team_label": "Washington Monument",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         }
@@ -9464,7 +9464,7 @@
         11
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "MOJO"
       ],
       "consenter_ids": [
@@ -9472,7 +9472,7 @@
         11
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "MOJO"
       ],
       "adds": [
@@ -9494,13 +9494,13 @@
           "player_id": "5892",
           "player_name": "David Montgomery",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         },
         {
           "player_id": "6783",
           "player_name": "Jerry Jeudy",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -9512,7 +9512,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         }
       ],
       "waiver_budget": [],
@@ -9607,20 +9607,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "8129",
           "player_name": "Dameon Pierce",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -9643,20 +9643,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "13338",
           "player_name": "Kevin Coleman",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -9715,20 +9715,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "12048",
           "player_name": "George Holani",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [
@@ -9736,7 +9736,7 @@
           "player_id": "6828",
           "player_name": "AJ Dillon",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [],
@@ -9947,7 +9947,7 @@
       ],
       "team_labels": [
         "It’s Herbie Hancock",
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         1,
@@ -9955,14 +9955,14 @@
       ],
       "consenter_team_labels": [
         "It’s Herbie Hancock",
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "8408",
           "player_name": "Jordan Mason",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [
@@ -9982,15 +9982,15 @@
           "previous_owner_id": 1,
           "previous_owner_team_label": "It’s Herbie Hancock",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         },
         {
           "season": "2026",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "CeeDee You Later",
+          "original_team_label": "Washington Monument",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "CeeDee You Later",
+          "previous_owner_team_label": "Washington Monument",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         },
@@ -9998,9 +9998,9 @@
           "season": "2026",
           "round": 4,
           "original_roster_id": 2,
-          "original_team_label": "CeeDee You Later",
+          "original_team_label": "Washington Monument",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "CeeDee You Later",
+          "previous_owner_team_label": "Washington Monument",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         },
@@ -10008,9 +10008,9 @@
           "season": "2027",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "CeeDee You Later",
+          "original_team_label": "Washington Monument",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "CeeDee You Later",
+          "previous_owner_team_label": "Washington Monument",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         }
@@ -10034,7 +10034,7 @@
         10
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "Goin in Ra"
       ],
       "consenter_ids": [
@@ -10042,7 +10042,7 @@
         10
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "Goin in Ra"
       ],
       "adds": [],
@@ -10056,15 +10056,15 @@
           "previous_owner_id": 10,
           "previous_owner_team_label": "Goin in Ra",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         },
         {
           "season": "2026",
           "round": 5,
           "original_roster_id": 2,
-          "original_team_label": "CeeDee You Later",
+          "original_team_label": "Washington Monument",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "CeeDee You Later",
+          "previous_owner_team_label": "Washington Monument",
           "owner_id": 10,
           "owner_team_label": "Goin in Ra"
         },
@@ -10072,9 +10072,9 @@
           "season": "2028",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "CeeDee You Later",
+          "original_team_label": "Washington Monument",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "CeeDee You Later",
+          "previous_owner_team_label": "Washington Monument",
           "owner_id": 10,
           "owner_team_label": "Goin in Ra"
         }
@@ -10098,7 +10098,7 @@
         11
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "MOJO"
       ],
       "consenter_ids": [
@@ -10106,7 +10106,7 @@
         11
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "MOJO"
       ],
       "adds": [
@@ -10122,7 +10122,7 @@
           "player_id": "12469",
           "player_name": "Dylan Sampson",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -10134,7 +10134,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         }
       ],
       "waiver_budget": [],
@@ -10210,7 +10210,7 @@
           "season": "2027",
           "round": 3,
           "original_roster_id": 2,
-          "original_team_label": "CeeDee You Later",
+          "original_team_label": "Washington Monument",
           "previous_owner_id": 1,
           "previous_owner_team_label": "It’s Herbie Hancock",
           "owner_id": 3,
@@ -10298,7 +10298,7 @@
         11
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "MOJO"
       ],
       "consenter_ids": [
@@ -10306,7 +10306,7 @@
         11
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "MOJO"
       ],
       "adds": [
@@ -10322,7 +10322,7 @@
           "player_id": "5859",
           "player_name": "A.J. Brown",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -10334,7 +10334,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         },
         {
           "season": "2028",
@@ -10344,7 +10344,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         }
       ],
       "waiver_budget": [],
@@ -10366,7 +10366,7 @@
         5
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "White Ice"
       ],
       "consenter_ids": [
@@ -10374,7 +10374,7 @@
         5
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "White Ice"
       ],
       "adds": [
@@ -10390,7 +10390,7 @@
           "player_id": "1466",
           "player_name": "Travis Kelce",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -10402,7 +10402,7 @@
           "previous_owner_id": 5,
           "previous_owner_team_label": "White Ice",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         }
       ],
       "waiver_budget": [],
@@ -10516,7 +10516,7 @@
         8
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "Back to the Future"
       ],
       "consenter_ids": [
@@ -10524,7 +10524,7 @@
         8
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "Back to the Future"
       ],
       "adds": [
@@ -10540,7 +10540,7 @@
           "player_id": "6786",
           "player_name": "CeeDee Lamb",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -10552,7 +10552,7 @@
           "previous_owner_id": 8,
           "previous_owner_team_label": "Back to the Future",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         },
         {
           "season": "2027",
@@ -10562,7 +10562,7 @@
           "previous_owner_id": 8,
           "previous_owner_team_label": "Back to the Future",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         },
         {
           "season": "2028",
@@ -10572,7 +10572,7 @@
           "previous_owner_id": 8,
           "previous_owner_team_label": "Back to the Future",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         }
       ],
       "waiver_budget": [],
@@ -10596,7 +10596,7 @@
         6
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "andrewwelle"
       ],
       "consenter_ids": [
@@ -10604,7 +10604,7 @@
         6
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "andrewwelle"
       ],
       "adds": [
@@ -10612,7 +10612,7 @@
           "player_id": "13276",
           "player_name": "Omar Cooper",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         },
         {
           "player_id": "7588",
@@ -10632,7 +10632,7 @@
           "player_id": "7588",
           "player_name": "Javonte Williams",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -10644,7 +10644,7 @@
           "previous_owner_id": 6,
           "previous_owner_team_label": "andrewwelle",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         },
         {
           "season": "2028",
@@ -10654,7 +10654,7 @@
           "previous_owner_id": 6,
           "previous_owner_team_label": "andrewwelle",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         }
       ],
       "waiver_budget": [],
@@ -10679,7 +10679,7 @@
       ],
       "team_labels": [
         "It’s Herbie Hancock",
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         1,
@@ -10687,14 +10687,14 @@
       ],
       "consenter_team_labels": [
         "It’s Herbie Hancock",
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "7523",
           "player_name": "Trevor Lawrence",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         },
         {
           "player_id": "9758",
@@ -10714,7 +10714,7 @@
           "player_id": "9758",
           "player_name": "C.J. Stroud",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -10724,7 +10724,7 @@
           "original_roster_id": 11,
           "original_team_label": "MOJO",
           "previous_owner_id": 2,
-          "previous_owner_team_label": "CeeDee You Later",
+          "previous_owner_team_label": "Washington Monument",
           "owner_id": 1,
           "owner_team_label": "It’s Herbie Hancock"
         }
@@ -10748,7 +10748,7 @@
         11
       ],
       "team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "MOJO"
       ],
       "consenter_ids": [
@@ -10756,7 +10756,7 @@
         11
       ],
       "consenter_team_labels": [
-        "CeeDee You Later",
+        "Washington Monument",
         "MOJO"
       ],
       "adds": [
@@ -10778,13 +10778,13 @@
           "player_id": "5892",
           "player_name": "David Montgomery",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         },
         {
           "player_id": "6783",
           "player_name": "Jerry Jeudy",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [
@@ -10796,7 +10796,7 @@
           "previous_owner_id": 11,
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
-          "owner_team_label": "CeeDee You Later"
+          "owner_team_label": "Washington Monument"
         }
       ],
       "waiver_budget": [],
@@ -11245,20 +11245,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "13264",
           "player_name": "Dohnte Meyers",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -11752,20 +11752,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "13413",
           "player_name": "Cyrus Allen",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [
@@ -11773,7 +11773,7 @@
           "player_id": "13338",
           "player_name": "Kevin Coleman",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [],
@@ -12147,20 +12147,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "8800",
           "player_name": "Malik Davis",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [
@@ -12168,7 +12168,7 @@
           "player_id": "12455",
           "player_name": "Brashard Smith",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [],
@@ -12233,13 +12233,13 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [],
       "drops": [
@@ -12247,7 +12247,7 @@
           "player_id": "5850",
           "player_name": "Josh Jacobs",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [],
@@ -13023,20 +13023,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "4017",
           "player_name": "Deshaun Watson",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -13260,20 +13260,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "10235",
           "player_name": "Roschon Johnson",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -13332,20 +13332,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "8127",
           "player_name": "Charlie Kolar",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [
@@ -13353,7 +13353,7 @@
           "player_id": "4017",
           "player_name": "Deshaun Watson",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [],
@@ -13461,20 +13461,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "12472",
           "player_name": "Raheim Sanders",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -13691,20 +13691,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "6828",
           "player_name": "AJ Dillon",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [
@@ -13712,7 +13712,7 @@
           "player_id": "8127",
           "player_name": "Charlie Kolar",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [],
@@ -14043,20 +14043,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "12718",
           "player_name": "Konata Mumpfield",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -14079,20 +14079,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "4993",
           "player_name": "Mike Gesicki",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -14223,20 +14223,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "4018",
           "player_name": "Joe Mixon",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -14446,20 +14446,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "8129",
           "player_name": "Dameon Pierce",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -14482,20 +14482,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "13338",
           "player_name": "Kevin Coleman",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [],
@@ -14554,20 +14554,20 @@
         2
       ],
       "team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "consenter_ids": [
         2
       ],
       "consenter_team_labels": [
-        "CeeDee You Later"
+        "Washington Monument"
       ],
       "adds": [
         {
           "player_id": "12048",
           "player_name": "George Holani",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "drops": [
@@ -14575,7 +14575,7 @@
           "player_id": "6828",
           "player_name": "AJ Dillon",
           "roster_id": 2,
-          "team_label": "CeeDee You Later"
+          "team_label": "Washington Monument"
         }
       ],
       "draft_picks": [],

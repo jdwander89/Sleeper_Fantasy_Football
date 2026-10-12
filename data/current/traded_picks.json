@@ -9,7 +9,7 @@
       "previous_owner_id": 1,
       "previous_owner_team_label": "It’s Herbie Hancock",
       "owner_id": 2,
-      "owner_team_label": "CeeDee You Later"
+      "owner_team_label": "Washington Monument"
     },
     {
       "season": "2027",
@@ -20,7 +20,7 @@
       "previous_owner_id": 11,
       "previous_owner_team_label": "MOJO",
       "owner_id": 2,
-      "owner_team_label": "CeeDee You Later"
+      "owner_team_label": "Washington Monument"
     },
     {
       "season": "2028",
@@ -49,9 +49,9 @@
       "round": 3,
       "draft_id": null,
       "original_roster_id": 2,
-      "original_team_label": "CeeDee You Later",
+      "original_team_label": "Washington Monument",
       "previous_owner_id": 2,
-      "previous_owner_team_label": "CeeDee You Later",
+      "previous_owner_team_label": "Washington Monument",
       "owner_id": 1,
       "owner_team_label": "It’s Herbie Hancock"
     },
@@ -60,9 +60,9 @@
       "round": 4,
       "draft_id": null,
       "original_roster_id": 2,
-      "original_team_label": "CeeDee You Later",
+      "original_team_label": "Washington Monument",
       "previous_owner_id": 2,
-      "previous_owner_team_label": "CeeDee You Later",
+      "previous_owner_team_label": "Washington Monument",
       "owner_id": 1,
       "owner_team_label": "It’s Herbie Hancock"
     },
@@ -71,9 +71,9 @@
       "round": 5,
       "draft_id": null,
       "original_roster_id": 2,
-      "original_team_label": "CeeDee You Later",
+      "original_team_label": "Washington Monument",
       "previous_owner_id": 2,
-      "previous_owner_team_label": "CeeDee You Later",
+      "previous_owner_team_label": "Washington Monument",
       "owner_id": 10,
       "owner_team_label": "Goin in Ra"
     },
@@ -82,7 +82,7 @@
       "round": 3,
       "draft_id": null,
       "original_roster_id": 2,
-      "original_team_label": "CeeDee You Later",
+      "original_team_label": "Washington Monument",
       "previous_owner_id": 1,
       "previous_owner_team_label": "It’s Herbie Hancock",
       "owner_id": 3,
@@ -93,9 +93,9 @@
       "round": 3,
       "draft_id": null,
       "original_roster_id": 2,
-      "original_team_label": "CeeDee You Later",
+      "original_team_label": "Washington Monument",
       "previous_owner_id": 2,
-      "previous_owner_team_label": "CeeDee You Later",
+      "previous_owner_team_label": "Washington Monument",
       "owner_id": 10,
       "owner_team_label": "Goin in Ra"
     },
@@ -185,7 +185,7 @@
       "previous_owner_id": 5,
       "previous_owner_team_label": "White Ice",
       "owner_id": 2,
-      "owner_team_label": "CeeDee You Later"
+      "owner_team_label": "Washington Monument"
     },
     {
       "season": "2028",
@@ -218,7 +218,7 @@
       "previous_owner_id": 6,
       "previous_owner_team_label": "andrewwelle",
       "owner_id": 2,
-      "owner_team_label": "CeeDee You Later"
+      "owner_team_label": "Washington Monument"
     },
     {
       "season": "2028",
@@ -229,7 +229,7 @@
       "previous_owner_id": 6,
       "previous_owner_team_label": "andrewwelle",
       "owner_id": 2,
-      "owner_team_label": "CeeDee You Later"
+      "owner_team_label": "Washington Monument"
     },
     {
       "season": "2026",
@@ -262,7 +262,7 @@
       "previous_owner_id": 8,
       "previous_owner_team_label": "Back to the Future",
       "owner_id": 2,
-      "owner_team_label": "CeeDee You Later"
+      "owner_team_label": "Washington Monument"
     },
     {
       "season": "2027",
@@ -273,7 +273,7 @@
       "previous_owner_id": 8,
       "previous_owner_team_label": "Back to the Future",
       "owner_id": 2,
-      "owner_team_label": "CeeDee You Later"
+      "owner_team_label": "Washington Monument"
     },
     {
       "season": "2028",
@@ -284,7 +284,7 @@
       "previous_owner_id": 8,
       "previous_owner_team_label": "Back to the Future",
       "owner_id": 2,
-      "owner_team_label": "CeeDee You Later"
+      "owner_team_label": "Washington Monument"
     },
     {
       "season": "2026",
@@ -295,7 +295,7 @@
       "previous_owner_id": 10,
       "previous_owner_team_label": "Goin in Ra",
       "owner_id": 2,
-      "owner_team_label": "CeeDee You Later"
+      "owner_team_label": "Washington Monument"
     },
     {
       "season": "2026",
@@ -326,7 +326,7 @@
       "original_roster_id": 11,
       "original_team_label": "MOJO",
       "previous_owner_id": 2,
-      "previous_owner_team_label": "CeeDee You Later",
+      "previous_owner_team_label": "Washington Monument",
       "owner_id": 1,
       "owner_team_label": "It’s Herbie Hancock"
     },
@@ -339,7 +339,7 @@
       "previous_owner_id": 11,
       "previous_owner_team_label": "MOJO",
       "owner_id": 2,
-      "owner_team_label": "CeeDee You Later"
+      "owner_team_label": "Washington Monument"
     },
     {
       "season": "2028",
@@ -350,7 +350,7 @@
       "previous_owner_id": 11,
       "previous_owner_team_label": "MOJO",
       "owner_id": 2,
-      "owner_team_label": "CeeDee You Later"
+      "owner_team_label": "Washington Monument"
     },
     {
       "season": "2026",
@@ -375,16 +375,16 @@
         "previous_owner_id": 1,
         "previous_owner_team_label": "It’s Herbie Hancock",
         "owner_id": 2,
-        "owner_team_label": "CeeDee You Later"
+        "owner_team_label": "Washington Monument"
       },
       {
         "season": "2026",
         "round": 3,
         "draft_id": 1312581067298836480,
         "original_roster_id": 2,
-        "original_team_label": "CeeDee You Later",
+        "original_team_label": "Washington Monument",
         "previous_owner_id": 2,
-        "previous_owner_team_label": "CeeDee You Later",
+        "previous_owner_team_label": "Washington Monument",
         "owner_id": 1,
         "owner_team_label": "It’s Herbie Hancock"
       },
@@ -393,9 +393,9 @@
         "round": 4,
         "draft_id": 1312581067298836480,
         "original_roster_id": 2,
-        "original_team_label": "CeeDee You Later",
+        "original_team_label": "Washington Monument",
         "previous_owner_id": 2,
-        "previous_owner_team_label": "CeeDee You Later",
+        "previous_owner_team_label": "Washington Monument",
         "owner_id": 1,
         "owner_team_label": "It’s Herbie Hancock"
       },
@@ -404,9 +404,9 @@
         "round": 5,
         "draft_id": 1312581067298836480,
         "original_roster_id": 2,
-        "original_team_label": "CeeDee You Later",
+        "original_team_label": "Washington Monument",
         "previous_owner_id": 2,
-        "previous_owner_team_label": "CeeDee You Later",
+        "previous_owner_team_label": "Washington Monument",
         "owner_id": 10,
         "owner_team_label": "Goin in Ra"
       },
@@ -430,7 +430,7 @@
         "previous_owner_id": 10,
         "previous_owner_team_label": "Goin in Ra",
         "owner_id": 2,
-        "owner_team_label": "CeeDee You Later"
+        "owner_team_label": "Washington Monument"
       },
       {
         "season": "2026",
