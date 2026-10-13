@@ -4911,13 +4911,66 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 5,
+          "transaction_id": "1415512880022831104",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1791847078857,
+          "created_at": "2026-10-12T23:17:58.857000Z",
+          "status_updated": 1791847078857,
+          "status_updated_at": "2026-10-12T23:17:58.857000Z",
+          "creator_user_id": "471744678006353920",
+          "roster_ids": [
+            12
+          ],
+          "team_labels": [
+            "gullickson"
+          ],
+          "consenter_ids": [
+            12
+          ],
+          "consenter_team_labels": [
+            "gullickson"
+          ],
+          "adds": [
+            {
+              "player_id": "5906",
+              "player_name": "Dawson Knox",
+              "roster_id": 12,
+              "team_label": "gullickson"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "7670",
+              "player_name": "Joshua Palmer",
+              "roster_id": 12,
+              "team_label": "gullickson"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 12,
+        "transactions": 13,
         "trades": 3,
         "waivers": 0,
-        "free_agent_moves": 9
+        "free_agent_moves": 10
+      }
+    },
+    "6": {
+      "week": 6,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
       }
     }
   },
@@ -9786,6 +9839,49 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1415512880022831104",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791847078857,
+      "created_at": "2026-10-12T23:17:58.857000Z",
+      "status_updated": 1791847078857,
+      "status_updated_at": "2026-10-12T23:17:58.857000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [
+        {
+          "player_id": "5906",
+          "player_name": "Dawson Knox",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7670",
+          "player_name": "Joshua Palmer",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -14625,22 +14721,65 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 5,
+      "transaction_id": "1415512880022831104",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1791847078857,
+      "created_at": "2026-10-12T23:17:58.857000Z",
+      "status_updated": 1791847078857,
+      "status_updated_at": "2026-10-12T23:17:58.857000Z",
+      "creator_user_id": "471744678006353920",
+      "roster_ids": [
+        12
+      ],
+      "team_labels": [
+        "gullickson"
+      ],
+      "consenter_ids": [
+        12
+      ],
+      "consenter_team_labels": [
+        "gullickson"
+      ],
+      "adds": [
+        {
+          "player_id": "5906",
+          "player_name": "Dawson Knox",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7670",
+          "player_name": "Joshua Palmer",
+          "roster_id": 12,
+          "team_label": "gullickson"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
-    "weeks": 5,
-    "transactions": 111,
+    "weeks": 6,
+    "transactions": 112,
     "trades": 13,
     "waivers": 16,
-    "free_agent_moves": 81,
+    "free_agent_moves": 82,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 81,
+      "free_agent": 82,
       "trade": 13,
       "waiver": 16
     },
     "by_status": {
-      "complete": 105,
+      "complete": 106,
       "failed": 6
     }
   }
