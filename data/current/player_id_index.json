@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-13T18:22:08.203475Z",
+  "generated_at": "2026-10-14T15:50:43.665623Z",
   "counts": {
-    "required_player_ids": 343,
-    "resolved_player_ids": 343,
+    "required_player_ids": 345,
+    "resolved_player_ids": 345,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -75,6 +75,7 @@
       "colby parkinson": "6865",
       "colston loveland": "12517",
       "cooper kupp": "4039",
+      "corey kiner": "12491",
       "courtland sutton": "5045",
       "cyrus allen": "13413",
       "d'andre swift": "6790",
@@ -162,6 +163,7 @@
       "jake ferguson": "8110",
       "jake tonges": "8698",
       "jakobi meyers": "5947",
+      "jaleel mclaughlin": "11439",
       "jalen coker": "11646",
       "jalen hurts": "6904",
       "jalen mcmillan": "11618",
@@ -437,6 +439,7 @@
         "9224"
       ],
       "CLE": [
+        "11439",
         "12469",
         "12472",
         "12503",
@@ -606,6 +609,7 @@
       ],
       "NE": [
         "11564",
+        "12491",
         "12529",
         "12542",
         "12547",
@@ -807,6 +811,7 @@
         "11237",
         "11370",
         "11435",
+        "11439",
         "11569",
         "11571",
         "11575",
@@ -833,6 +838,7 @@
         "12481",
         "12489",
         "12490",
+        "12491",
         "12495",
         "12504",
         "12507",

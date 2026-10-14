@@ -138,7 +138,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 3
     },
     "metadata": {
@@ -157,6 +157,7 @@
       "10235",
       "12048",
       "12472",
+      "12491",
       "12492",
       "12495",
       "12509",
@@ -167,8 +168,6 @@
       "13338",
       "13413",
       "13417",
-      "4018",
-      "4993",
       "5850",
       "6904",
       "7523",
@@ -178,34 +177,35 @@
       "8676",
       "8800",
       "9487",
+      "96",
       "9754"
     ],
     "starters": [
       "7523",
-      "10235",
+      "12048",
       "8129",
-      "13294",
+      "8676",
       "9487",
       "12517",
-      "12048",
+      "9754",
       "8210",
-      "8676"
+      "13294"
     ],
     "bench": [
+      "10235",
       "12472",
+      "12491",
       "12492",
       "12495",
       "12509",
       "12718",
       "13338",
       "13413",
-      "4018",
-      "4993",
       "5850",
       "6904",
       "8408",
       "8800",
-      "9754"
+      "96"
     ],
     "reserve": [
       "13276",
@@ -222,6 +222,7 @@
         "Roschon Johnson",
         "George Holani",
         "Raheim Sanders",
+        "Corey Kiner",
         "Pat Bryant",
         "Ollie Gordon",
         "Tre' Harris",
@@ -232,8 +233,6 @@
         "Kevin Coleman",
         "Cyrus Allen",
         "De'Zhaun Stribling",
-        "Joe Mixon",
-        "Mike Gesicki",
         "Josh Jacobs",
         "Jalen Hurts",
         "Trevor Lawrence",
@@ -243,34 +242,35 @@
         "Rashid Shaheed",
         "Malik Davis",
         "Parker Washington",
+        "Aaron Rodgers",
         "Quentin Johnston"
       ],
       "starters": [
         "Trevor Lawrence",
-        "Roschon Johnson",
+        "George Holani",
         "Dameon Pierce",
-        "Makai Lemon",
+        "Rashid Shaheed",
         "Parker Washington",
         "Colston Loveland",
-        "George Holani",
+        "Quentin Johnston",
         "Chig Okonkwo",
-        "Rashid Shaheed"
+        "Makai Lemon"
       ],
       "bench": [
+        "Roschon Johnson",
         "Raheim Sanders",
+        "Corey Kiner",
         "Pat Bryant",
         "Ollie Gordon",
         "Tre' Harris",
         "Konata Mumpfield",
         "Kevin Coleman",
         "Cyrus Allen",
-        "Joe Mixon",
-        "Mike Gesicki",
         "Josh Jacobs",
         "Jalen Hurts",
         "Jordan Mason",
         "Malik Davis",
-        "Quentin Johnston"
+        "Aaron Rodgers"
       ],
       "reserve": [
         "Omar Cooper",
@@ -289,7 +289,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 2,
+      "waiver_position": 12,
       "wins": 1
     },
     "metadata": {
@@ -436,7 +436,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 1,
-      "waiver_position": 12,
+      "waiver_position": 10,
       "wins": 3
     },
     "metadata": {
@@ -573,7 +573,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 3,
+      "waiver_position": 2,
       "wins": 1
     },
     "metadata": {
@@ -589,7 +589,6 @@
     "players": [
       "10213",
       "11560",
-      "11577",
       "11586",
       "11620",
       "11625",
@@ -611,33 +610,34 @@
       "9221",
       "9224",
       "9225",
-      "9486"
+      "9486",
+      "9757"
     ],
     "starters": [
       "3294",
-      "9221",
-      "9224",
-      "7564",
+      "11586",
+      "9757",
+      "10213",
       "7569",
       "7002",
-      "8148",
-      "11577",
+      "8134",
+      "1466",
       "11620"
     ],
     "bench": [
-      "10213",
       "11560",
-      "11586",
       "11625",
       "12467",
       "12497",
       "12499",
       "13288",
       "13317",
-      "1466",
       "5001",
       "7049",
-      "8134",
+      "7564",
+      "8148",
+      "9221",
+      "9224",
       "9486"
     ],
     "reserve": [
@@ -654,7 +654,6 @@
       "players": [
         "Tre Tucker",
         "Caleb Williams",
-        "Will Shipley",
         "Blake Corum",
         "Rome Odunze",
         "Adonai Mitchell",
@@ -676,33 +675,34 @@
         "Jahmyr Gibbs",
         "Chase Brown",
         "Tank Bigsby",
-        "Dontayvion Wicks"
+        "Dontayvion Wicks",
+        "Kendre Miller"
       ],
       "starters": [
         "Dak Prescott",
-        "Jahmyr Gibbs",
-        "Chase Brown",
-        "Ja'Marr Chase",
+        "Blake Corum",
+        "Kendre Miller",
+        "Tre Tucker",
         "Nico Collins",
         "Juwan Johnson",
-        "Jameson Williams",
-        "Will Shipley",
+        "Khalil Shakir",
+        "Travis Kelce",
         "Rome Odunze"
       ],
       "bench": [
-        "Tre Tucker",
         "Caleb Williams",
-        "Blake Corum",
         "Adonai Mitchell",
         "Jordan James",
         "Tory Horton",
         "Elic Ayomanor",
         "Nicholas Singleton",
         "Ted Hurst",
-        "Travis Kelce",
         "Dalton Schultz",
         "Jauan Jennings",
-        "Khalil Shakir",
+        "Ja'Marr Chase",
+        "Jameson Williams",
+        "Jahmyr Gibbs",
+        "Chase Brown",
         "Dontayvion Wicks"
       ],
       "reserve": [
@@ -721,7 +721,7 @@
       "ppts_decimal": 60,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 12,
+      "waiver_budget_used": 15,
       "waiver_position": 11,
       "wins": 3
     },
@@ -765,10 +765,10 @@
       "7588",
       "12527",
       "8146",
-      "5872",
+      "1479",
       "4217",
       "11834",
-      "4199",
+      "12534",
       "4034"
     ],
     "bench": [
@@ -777,13 +777,13 @@
       "12483",
       "12506",
       "12508",
-      "12534",
       "13404",
       "13420",
-      "1479",
       "2374",
       "4137",
+      "4199",
       "5854",
+      "5872",
       "6803",
       "6806"
     ],
@@ -830,10 +830,10 @@
         "Javonte Williams",
         "Ashton Jeanty",
         "Garrett Wilson",
-        "Deebo Samuel",
+        "Keenan Allen",
         "George Kittle",
         "Devaughn Vele",
-        "Aaron Jones",
+        "Kyle Monangai",
         "Christian McCaffrey"
       ],
       "bench": [
@@ -842,13 +842,13 @@
         "Jack Bech",
         "Harold Fannin",
         "Jaxson Dart",
-        "Kyle Monangai",
         "Garrett Nussmeier",
         "Bryce Lance",
-        "Keenan Allen",
         "Tyler Lockett",
         "James Conner",
+        "Aaron Jones",
         "Drew Lock",
+        "Deebo Samuel",
         "Brandon Aiyuk",
         "J.K. Dobbins"
       ],
@@ -869,7 +869,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 5,
+      "waiver_position": 4,
       "wins": 2
     },
     "metadata": {
@@ -1016,7 +1016,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 31,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 4
     },
     "metadata": {
@@ -1212,14 +1212,14 @@
       "8144",
       "7553",
       "13285",
-      "13330",
+      "10229",
       "8154"
     ],
     "bench": [
       "10219",
-      "10229",
       "11565",
       "12493",
+      "13330",
       "13380",
       "13405",
       "3161",
@@ -1277,14 +1277,14 @@
         "Chris Olave",
         "Kyle Pitts",
         "Malachi Fields",
-        "Kenyon Sadiq",
+        "Rashee Rice",
         "Brian Robinson"
       ],
       "bench": [
         "Chris Rodriguez",
-        "Rashee Rice",
         "J.J. McCarthy",
         "Oronde Gadsden",
+        "Kenyon Sadiq",
         "Brenen Thompson",
         "Kaytron Allen",
         "Carson Wentz",
@@ -1313,7 +1313,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 0
     },
     "metadata": {
@@ -1356,15 +1356,15 @@
       "9511"
     ],
     "starters": [
-      "4943",
+      "4881",
       "3198",
       "6790",
-      "7547",
+      "5927",
       "5846",
       "9484",
       "12490",
       "5947",
-      "5844"
+      "8126"
     ],
     "bench": [
       "11626",
@@ -1374,11 +1374,11 @@
       "13286",
       "13337",
       "3271",
-      "4881",
+      "4943",
+      "5844",
       "5848",
-      "5927",
+      "7547",
       "7600",
-      "8126",
       "8143",
       "9511"
     ],
@@ -1421,15 +1421,15 @@
         "Keaton Mitchell"
       ],
       "starters": [
-        "Sam Darnold",
+        "Lamar Jackson",
         "Derrick Henry",
         "D'Andre Swift",
-        "Amon-Ra St. Brown",
+        "Terry McLaurin",
         "DK Metcalf",
         "Tucker Kraft",
         "Bhayshul Tuten",
         "Jakobi Meyers",
-        "T.J. Hockenson"
+        "Wan'Dale Robinson"
       ],
       "bench": [
         "Xavier Legette",
@@ -1439,11 +1439,11 @@
         "Jadarian Price",
         "Emmett Johnson",
         "Tyler Higbee",
-        "Lamar Jackson",
+        "Sam Darnold",
+        "T.J. Hockenson",
         "Marquise Brown",
-        "Terry McLaurin",
+        "Amon-Ra St. Brown",
         "Pat Freiermuth",
-        "Wan'Dale Robinson",
         "Jerome Ford",
         "Keaton Mitchell"
       ],
@@ -1464,7 +1464,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 11,
-      "waiver_position": 7,
+      "waiver_position": 6,
       "wins": 3
     },
     "metadata": {
@@ -1476,6 +1476,7 @@
     "roster_id": 11,
     "owner_user_id": "471724614532198400",
     "players": [
+      "11439",
       "11563",
       "11575",
       "11604",
@@ -1487,7 +1488,6 @@
       "2133",
       "3214",
       "4147",
-      "4663",
       "4984",
       "5045",
       "5859",
@@ -1514,6 +1514,7 @@
       "5892"
     ],
     "bench": [
+      "11439",
       "11563",
       "11575",
       "12502",
@@ -1521,7 +1522,6 @@
       "13424",
       "3214",
       "4147",
-      "4663",
       "5045",
       "6039",
       "6783",
@@ -1541,6 +1541,7 @@
     "taxi_count": 0,
     "display": {
       "players": [
+        "Jaleel McLaughlin",
         "Bo Nix",
         "Ray Davis",
         "Brock Bowers",
@@ -1552,7 +1553,6 @@
         "Davante Adams",
         "Hunter Henry",
         "Samaje Perine",
-        "Austin Ekeler",
         "Josh Allen",
         "Courtland Sutton",
         "A.J. Brown",
@@ -1579,6 +1579,7 @@
         "David Montgomery"
       ],
       "bench": [
+        "Jaleel McLaughlin",
         "Bo Nix",
         "Ray Davis",
         "Gunnar Helm",
@@ -1586,7 +1587,6 @@
         "Seth McGowan",
         "Hunter Henry",
         "Samaje Perine",
-        "Austin Ekeler",
         "Courtland Sutton",
         "Ty Johnson",
         "Jerry Jeudy",
@@ -1611,7 +1611,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 32,
-      "waiver_position": 6,
+      "waiver_position": 5,
       "wins": 4
     },
     "metadata": {
@@ -1650,29 +1650,29 @@
       "9997"
     ],
     "starters": [
-      "6770",
+      "421",
       "12512",
       "13287",
-      "11608",
+      "4983",
       "9997",
       "5012",
       "10232",
-      "5022",
-      "5906"
+      "4866",
+      "13274"
     ],
     "bench": [
       "11237",
+      "11608",
       "11635",
       "11647",
       "12487",
-      "13274",
       "13278",
       "2505",
       "3163",
-      "421",
       "4454",
-      "4866",
-      "4983",
+      "5022",
+      "5906",
+      "6770",
       "8180",
       "9508"
     ],
@@ -1715,29 +1715,29 @@
         "Zay Flowers"
       ],
       "starters": [
-        "Joe Burrow",
+        "Matthew Stafford",
         "Quinshon Judkins",
         "Jeremiyah Love",
-        "Isaiah Williams",
+        "DJ Moore",
         "Zay Flowers",
         "Mark Andrews",
         "Michael Wilson",
-        "Dallas Goedert",
-        "Dawson Knox"
+        "Saquon Barkley",
+        "Germie Bernard"
       ],
       "bench": [
         "Jacob Saylors",
+        "Isaiah Williams",
         "Ladd McConkey",
         "Kimani Vidal",
         "Terrance Ferguson",
-        "Germie Bernard",
         "Max Klare",
         "Darren Waller",
         "Jared Goff",
-        "Matthew Stafford",
         "Kendrick Bourne",
-        "Saquon Barkley",
-        "DJ Moore",
+        "Dallas Goedert",
+        "Dawson Knox",
+        "Joe Burrow",
         "Jalen Nailor",
         "Tyjae Spears"
       ],
@@ -1758,7 +1758,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 4,
+      "waiver_position": 3,
       "wins": 2
     },
     "metadata": {
