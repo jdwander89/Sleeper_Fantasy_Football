@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-10-14T15:50:41.292915Z",
+    "generated_at": "2026-10-15T15:37:39.224437Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -1089,9 +1089,9 @@
         "12501",
         "11624",
         "10236",
-        "9504",
         "12542",
-        "13305"
+        "8136",
+        "9504"
       ],
       "bench": [
         "11643",
@@ -1100,12 +1100,12 @@
         "12529",
         "12544",
         "13296",
+        "13305",
         "13347",
         "13349",
         "13394",
         "13402",
         "13421",
-        "8136",
         "9756",
         "9758"
       ],
@@ -1154,9 +1154,9 @@
           "Matthew Golden",
           "Xavier Worthy",
           "Dalton Kincaid",
-          "Kayshon Boutte",
           "Efton Chism",
-          "Mike Washington"
+          "Rachaad White",
+          "Kayshon Boutte"
         ],
         "bench": [
           "Jaylen Wright",
@@ -1165,12 +1165,12 @@
           "TreVeyon Henderson",
           "LeQuint Allen",
           "Caleb Douglas",
+          "Mike Washington",
           "Demond Claiborne",
           "Eli Stowers",
           "Josh Cameron",
           "Skyler Bell",
           "Eli Raridon",
-          "Rachaad White",
           "Jordan Addison",
           "C.J. Stroud"
         ],
@@ -1385,24 +1385,24 @@
         "9509",
         "6813",
         "8112",
-        "8121",
-        "10859",
+        "2449",
+        "8110",
         "11584",
-        "13150",
+        "7525",
         "2216"
       ],
       "bench": [
+        "10859",
         "11655",
+        "13150",
         "13268",
         "13269",
-        "2449",
         "4046",
         "4066",
         "4981",
         "5995",
         "7039",
-        "7525",
-        "8110",
+        "8121",
         "8161",
         "9501",
         "9506"
@@ -1450,24 +1450,24 @@
           "Bijan Robinson",
           "Jonathan Taylor",
           "Drake London",
-          "Romeo Doubs",
-          "Sam LaPorta",
+          "Stefon Diggs",
+          "Jake Ferguson",
           "Bucky Irving",
-          "Darius Cooper",
+          "DeVonta Smith",
           "Mike Evans"
         ],
         "bench": [
+          "Sam LaPorta",
           "Tyrone Tracy",
+          "Darius Cooper",
           "Elijah Sarratt",
           "Fernando Mendoza",
-          "Stefon Diggs",
           "Patrick Mahomes",
           "Evan Engram",
           "Calvin Ridley",
           "Justice Hill",
           "Cody White",
-          "DeVonta Smith",
-          "Jake Ferguson",
+          "Romeo Doubs",
           "Malik Willis",
           "DeMario Douglas",
           "Sean Tucker"
@@ -1528,7 +1528,7 @@
       "starters": [
         "8183",
         "4035",
-        "8132",
+        "7594",
         "9493",
         "12519",
         "9480",
@@ -1547,17 +1547,18 @@
         "5870",
         "5967",
         "7571",
-        "7594",
         "8111",
-        "8155",
+        "8132",
+        "8155"
+      ],
+      "reserve": [
         "8698"
       ],
-      "reserve": [],
       "taxi": [],
       "player_count": 23,
       "starter_count": 9,
-      "bench_count": 14,
-      "reserve_count": 0,
+      "bench_count": 13,
+      "reserve_count": 1,
       "taxi_count": 0,
       "display": {
         "players": [
@@ -1588,7 +1589,7 @@
         "starters": [
           "Brock Purdy",
           "Alvin Kamara",
-          "Tyler Allgeier",
+          "Chuba Hubbard",
           "Puka Nacua",
           "Luther Burden",
           "Brenton Strange",
@@ -1607,12 +1608,13 @@
           "Daniel Jones",
           "Tony Pollard",
           "Rashod Bateman",
-          "Chuba Hubbard",
           "Cade Otton",
-          "Breece Hall",
+          "Tyler Allgeier",
+          "Breece Hall"
+        ],
+        "reserve": [
           "Jake Tonges"
         ],
-        "reserve": [],
         "taxi": []
       },
       "settings": {
@@ -1821,15 +1823,15 @@
         "1479",
         "4217",
         "11834",
-        "12534",
+        "12506",
         "4034"
       ],
       "bench": [
         "11571",
         "11628",
         "12483",
-        "12506",
         "12508",
+        "12534",
         "13404",
         "13420",
         "2374",
@@ -1886,15 +1888,15 @@
           "Keenan Allen",
           "George Kittle",
           "Devaughn Vele",
-          "Kyle Monangai",
+          "Harold Fannin",
           "Christian McCaffrey"
         ],
         "bench": [
           "Isaiah Davis",
           "Marvin Harrison",
           "Jack Bech",
-          "Harold Fannin",
           "Jaxson Dart",
+          "Kyle Monangai",
           "Garrett Nussmeier",
           "Bryce Lance",
           "Tyler Lockett",
@@ -1964,12 +1966,12 @@
         "12545",
         "7567",
         "12474",
-        "13298",
+        "9488",
         "11632",
         "12518",
         "8167",
         "12526",
-        "9488"
+        "13298"
       ],
       "bench": [
         "11370",
@@ -2029,12 +2031,12 @@
           "Tyler Shough",
           "Kenny Gainwell",
           "Woody Marks",
-          "KC Concepcion",
+          "Jaxon Smith-Njigba",
           "Malik Nabers",
           "Tyler Warren",
           "Christian Watson",
           "Tetairoa McMillan",
-          "Jaxon Smith-Njigba"
+          "KC Concepcion"
         ],
         "bench": [
           "Chris Brooks",
@@ -2112,12 +2114,12 @@
         "11564",
         "8151",
         "8150",
-        "9500",
+        "6786",
         "12514",
         "8130",
         "7611",
         "8131",
-        "6786"
+        "9500"
       ],
       "bench": [
         "11435",
@@ -2177,12 +2179,12 @@
           "Drake Maye",
           "Kenneth Walker",
           "Kyren Williams",
-          "Josh Downs",
+          "CeeDee Lamb",
           "Emeka Egbuka",
           "Trey McBride",
           "Rhamondre Stevenson",
           "Isaiah Likely",
-          "CeeDee Lamb"
+          "Josh Downs"
         ],
         "bench": [
           "Emanuel Wilson",
@@ -2559,12 +2561,12 @@
         "4984",
         "8138",
         "12481",
-        "6801",
+        "2133",
         "7526",
         "11604",
-        "2133",
+        "3214",
         "8228",
-        "5892"
+        "5859"
       ],
       "bench": [
         "11439",
@@ -2573,18 +2575,18 @@
         "12502",
         "13320",
         "13424",
-        "3214",
         "4147",
         "5045",
         "6039",
         "6783",
+        "6801",
         "7021",
         "9228",
         "9482"
       ],
       "reserve": [
         "12469",
-        "5859"
+        "5892"
       ],
       "taxi": [],
       "player_count": 25,
@@ -2624,12 +2626,12 @@
           "Josh Allen",
           "James Cook",
           "Cam Skattebo",
-          "Tee Higgins",
+          "Davante Adams",
           "Jaylen Waddle",
           "Brock Bowers",
-          "Davante Adams",
+          "Hunter Henry",
           "Jaylen Warren",
-          "David Montgomery"
+          "A.J. Brown"
         ],
         "bench": [
           "Jaleel McLaughlin",
@@ -2638,18 +2640,18 @@
           "Gunnar Helm",
           "Zachariah Branch",
           "Seth McGowan",
-          "Hunter Henry",
           "Samaje Perine",
           "Courtland Sutton",
           "Ty Johnson",
           "Jerry Jeudy",
+          "Tee Higgins",
           "Rico Dowdle",
           "Bryce Young",
           "Michael Mayer"
         ],
         "reserve": [
           "Dylan Sampson",
-          "A.J. Brown"
+          "David Montgomery"
         ],
         "taxi": []
       },
@@ -2711,7 +2713,7 @@
         "5012",
         "10232",
         "4866",
-        "13274"
+        "5022"
       ],
       "bench": [
         "11237",
@@ -2719,11 +2721,11 @@
         "11635",
         "11647",
         "12487",
+        "13274",
         "13278",
         "2505",
         "3163",
         "4454",
-        "5022",
         "5906",
         "6770",
         "8180",
@@ -2776,7 +2778,7 @@
           "Mark Andrews",
           "Michael Wilson",
           "Saquon Barkley",
-          "Germie Bernard"
+          "Dallas Goedert"
         ],
         "bench": [
           "Jacob Saylors",
@@ -2784,11 +2786,11 @@
           "Ladd McConkey",
           "Kimani Vidal",
           "Terrance Ferguson",
+          "Germie Bernard",
           "Max Klare",
           "Darren Waller",
           "Jared Goff",
           "Kendrick Bourne",
-          "Dallas Goedert",
           "Dawson Knox",
           "Joe Burrow",
           "Jalen Nailor",
@@ -2854,7 +2856,7 @@
         "years_exp": 3,
         "age": 27,
         "depth_chart_position": "RB",
-        "search_rank": 127
+        "search_rank": 125
       },
       "10222": {
         "player_id": "10222",
@@ -3037,7 +3039,7 @@
           "QB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 2,
         "age": 26,
         "depth_chart_position": "QB",
@@ -3075,7 +3077,7 @@
         "years_exp": 2,
         "age": 26,
         "depth_chart_position": "QB",
-        "search_rank": 46
+        "search_rank": 45
       },
       "11564": {
         "player_id": "11564",
@@ -3133,7 +3135,7 @@
         "name": "Jarquez Hunter",
         "first_name": "Jarquez",
         "last_name": "Hunter",
-        "team": null,
+        "team": "NO",
         "position": "RB",
         "fantasy_positions": [
           "RB"
@@ -3292,7 +3294,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "TE",
@@ -3330,7 +3332,7 @@
         "years_exp": 2,
         "age": 25,
         "depth_chart_position": "SWR",
-        "search_rank": 176
+        "search_rank": 177
       },
       "11618": {
         "player_id": "11618",
@@ -3364,7 +3366,7 @@
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "LWR",
-        "search_rank": 64
+        "search_rank": 65
       },
       "11624": {
         "player_id": "11624",
@@ -3394,7 +3396,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "RWR",
@@ -3483,7 +3485,7 @@
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "LWR",
-        "search_rank": 28
+        "search_rank": 26
       },
       "11635": {
         "player_id": "11635",
@@ -3564,7 +3566,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "SWR",
@@ -3619,7 +3621,7 @@
         "years_exp": 14,
         "age": 38,
         "depth_chart_position": "QB",
-        "search_rank": 268
+        "search_rank": 267
       },
       "11729": {
         "player_id": "11729",
@@ -4095,7 +4097,7 @@
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "QB",
-        "search_rank": 44
+        "search_rank": 43
       },
       "12509": {
         "player_id": "12509",
@@ -4163,7 +4165,7 @@
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "TE",
-        "search_rank": 37
+        "search_rank": 36
       },
       "12518": {
         "player_id": "12518",
@@ -4231,7 +4233,7 @@
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "QB",
-        "search_rank": 116
+        "search_rank": 115
       },
       "12526": {
         "player_id": "12526",
@@ -4278,7 +4280,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Doubtful",
+        "injury_status": "Questionable",
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "RB",
@@ -4300,7 +4302,7 @@
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "RCB",
-        "search_rank": 104
+        "search_rank": 103
       },
       "12531": {
         "player_id": "12531",
@@ -4453,7 +4455,7 @@
         "years_exp": 1,
         "age": 27,
         "depth_chart_position": "QB",
-        "search_rank": 88
+        "search_rank": 89
       },
       "12547": {
         "player_id": "12547",
@@ -4708,7 +4710,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RWR",
-        "search_rank": 199
+        "search_rank": 201
       },
       "13286": {
         "player_id": "13286",
@@ -4725,7 +4727,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RB",
-        "search_rank": 52
+        "search_rank": 53
       },
       "13287": {
         "player_id": "13287",
@@ -4738,7 +4740,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 0,
         "age": 21,
         "depth_chart_position": "RB",
@@ -4793,7 +4795,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
-        "search_rank": 91
+        "search_rank": 89
       },
       "13296": {
         "player_id": "13296",
@@ -4810,7 +4812,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RWR",
-        "search_rank": 199
+        "search_rank": 198
       },
       "13298": {
         "player_id": "13298",
@@ -5010,7 +5012,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "LWR",
@@ -5167,7 +5169,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "SWR",
-        "search_rank": 181
+        "search_rank": 179
       },
       "13414": {
         "player_id": "13414",
@@ -5201,7 +5203,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "SWR",
-        "search_rank": 111
+        "search_rank": 113
       },
       "13420": {
         "player_id": "13420",
@@ -5218,7 +5220,7 @@
         "years_exp": 0,
         "age": 24,
         "depth_chart_position": "LWR",
-        "search_rank": 479
+        "search_rank": 481
       },
       "13421": {
         "player_id": "13421",
@@ -5269,7 +5271,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
-        "search_rank": 463
+        "search_rank": 466
       },
       "1466": {
         "player_id": "1466",
@@ -5371,7 +5373,7 @@
         "years_exp": 11,
         "age": 32,
         "depth_chart_position": "SWR",
-        "search_rank": 103
+        "search_rank": 105
       },
       "2505": {
         "player_id": "2505",
@@ -5384,7 +5386,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 11,
         "age": 34,
         "depth_chart_position": "TE",
@@ -5588,7 +5590,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "RB",
@@ -5626,7 +5628,7 @@
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "QB",
-        "search_rank": 39
+        "search_rank": 40
       },
       "4066": {
         "player_id": "4066",
@@ -5728,7 +5730,7 @@
         "years_exp": 17,
         "age": 38,
         "depth_chart_position": "QB",
-        "search_rank": 64
+        "search_rank": 65
       },
       "4217": {
         "player_id": "4217",
@@ -5745,7 +5747,7 @@
         "years_exp": 9,
         "age": 33,
         "depth_chart_position": "TE",
-        "search_rank": 79
+        "search_rank": 80
       },
       "4454": {
         "player_id": "4454",
@@ -5796,7 +5798,7 @@
         "years_exp": 8,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 10
+        "search_rank": 8
       },
       "4892": {
         "player_id": "4892",
@@ -5830,7 +5832,7 @@
         "years_exp": 8,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 93
+        "search_rank": 92
       },
       "4950": {
         "player_id": "4950",
@@ -6064,7 +6066,7 @@
           "QB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "QB",
@@ -6102,7 +6104,7 @@
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 131
+        "search_rank": 132
       },
       "5872": {
         "player_id": "5872",
@@ -6170,7 +6172,7 @@
         "years_exp": 7,
         "age": 31,
         "depth_chart_position": "LWR",
-        "search_rank": 56
+        "search_rank": 55
       },
       "5947": {
         "player_id": "5947",
@@ -6234,7 +6236,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "RB",
@@ -6285,7 +6287,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "LWR",
@@ -6306,7 +6308,7 @@
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "RB",
-        "search_rank": 46
+        "search_rank": 44
       },
       "6794": {
         "player_id": "6794",
@@ -6391,7 +6393,7 @@
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "QB",
-        "search_rank": 68
+        "search_rank": 69
       },
       "6806": {
         "player_id": "6806",
@@ -6459,7 +6461,7 @@
         "years_exp": 6,
         "age": 28,
         "depth_chart_position": "QB",
-        "search_rank": 28
+        "search_rank": 26
       },
       "7002": {
         "player_id": "7002",
@@ -6540,7 +6542,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 6,
         "age": 28,
         "depth_chart_position": "SWR",
@@ -6561,7 +6563,7 @@
         "years_exp": 5,
         "age": 27,
         "depth_chart_position": "QB",
-        "search_rank": 42
+        "search_rank": 41
       },
       "7525": {
         "player_id": "7525",
@@ -6727,7 +6729,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 5,
         "age": 26,
         "depth_chart_position": "LWR",
@@ -6952,7 +6954,7 @@
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "TE",
-        "search_rank": 105
+        "search_rank": 106
       },
       "8132": {
         "player_id": "8132",
@@ -7061,7 +7063,7 @@
         "name": "Jerome Ford",
         "first_name": "Jerome",
         "last_name": "Ford",
-        "team": null,
+        "team": "ARI",
         "position": "RB",
         "fantasy_positions": [
           "RB"
@@ -7084,7 +7086,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "RWR",
@@ -7156,7 +7158,7 @@
         "years_exp": 4,
         "age": 25,
         "depth_chart_position": "RB",
-        "search_rank": 19
+        "search_rank": 17
       },
       "8154": {
         "player_id": "8154",
@@ -7186,7 +7188,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "years_exp": 4,
         "age": 25,
         "depth_chart_position": "RB",
@@ -7275,7 +7277,7 @@
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "QB",
-        "search_rank": 55
+        "search_rank": 56
       },
       "8188": {
         "player_id": "8188",
@@ -7547,7 +7549,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "TE",
-        "search_rank": 466
+        "search_rank": 465
       },
       "9484": {
         "player_id": "9484",
@@ -7577,7 +7579,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "RWR",
@@ -7611,7 +7613,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 3,
         "age": 24,
         "depth_chart_position": "LWR",
@@ -7632,7 +7634,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "RWR",
-        "search_rank": 4
+        "search_rank": 5
       },
       "9500": {
         "player_id": "9500",
@@ -7645,7 +7647,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "SWR",
@@ -7666,7 +7668,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "SWR",
-        "search_rank": 496
+        "search_rank": 494
       },
       "9502": {
         "player_id": "9502",
@@ -7713,7 +7715,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 24,
         "depth_chart_position": "RB",
@@ -7730,7 +7732,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "RB",
@@ -7870,7 +7872,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "QB",
-        "search_rank": 102
+        "search_rank": 101
       },
       "9997": {
         "player_id": "9997",
@@ -7902,7 +7904,7 @@
         "status": "Inactive",
         "injury_status": "IR",
         "years_exp": 3,
-        "age": 26,
+        "age": 27,
         "depth_chart_position": "SWR",
         "search_rank": 503
       },
@@ -7985,7 +7987,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 2,
         "age": 25,
         "depth_chart_position": "TE",
@@ -8244,7 +8246,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
-        "search_rank": 370
+        "search_rank": 369
       },
       "13423": {
         "player_id": "13423",
@@ -8261,7 +8263,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RB",
-        "search_rank": 484
+        "search_rank": 485
       },
       "13425": {
         "player_id": "13425",
@@ -8329,7 +8331,7 @@
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "QB",
-        "search_rank": 295
+        "search_rank": 296
       },
       "4018": {
         "player_id": "4018",
@@ -8512,7 +8514,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "RWR",
@@ -8546,7 +8548,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 6,
         "age": 28,
         "depth_chart_position": "RB",
@@ -8563,7 +8565,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "TE",
@@ -16820,7 +16822,7 @@
             "players_points": {
               "10859": 19.8,
               "11584": 31.5,
-              "11655": 5.1,
+              "11655": 4.1,
               "13150": 15.1,
               "13268": 0.0,
               "13269": 2.22,
@@ -18410,9 +18412,9 @@
               "12501",
               "11624",
               "10236",
-              "9504",
               "12542",
-              "13305"
+              "8136",
+              "9504"
             ],
             "bench": [
               "11643",
@@ -18423,12 +18425,12 @@
               "13281",
               "13296",
               "13302",
+              "13305",
               "13347",
               "13349",
               "13394",
               "13402",
               "13421",
-              "8136",
               "9756",
               "9758"
             ],
@@ -18495,9 +18497,9 @@
                 "Matthew Golden",
                 "Xavier Worthy",
                 "Dalton Kincaid",
-                "Kayshon Boutte",
                 "Efton Chism",
-                "Mike Washington"
+                "Rachaad White",
+                "Kayshon Boutte"
               ],
               "bench": [
                 "Jaylen Wright",
@@ -18508,12 +18510,12 @@
                 "Jordyn Tyson",
                 "Caleb Douglas",
                 "Adam Randall",
+                "Mike Washington",
                 "Demond Claiborne",
                 "Eli Stowers",
                 "Josh Cameron",
                 "Skyler Bell",
                 "Eli Raridon",
-                "Rachaad White",
                 "Jordan Addison",
                 "C.J. Stroud"
               ]
@@ -18704,7 +18706,7 @@
               "9509"
             ],
             "starters": [
-              "4046",
+              "6804",
               "9509",
               "6813",
               "8112",
@@ -18720,10 +18722,10 @@
               "13150",
               "13268",
               "13269",
+              "4046",
               "4066",
               "4981",
               "5995",
-              "6804",
               "6819",
               "7039",
               "8121",
@@ -18789,7 +18791,7 @@
                 "Bijan Robinson"
               ],
               "starters": [
-                "Patrick Mahomes",
+                "Jordan Love",
                 "Bijan Robinson",
                 "Jonathan Taylor",
                 "Drake London",
@@ -18805,10 +18807,10 @@
                 "Darius Cooper",
                 "Elijah Sarratt",
                 "Fernando Mendoza",
+                "Patrick Mahomes",
                 "Evan Engram",
                 "Calvin Ridley",
                 "Justice Hill",
-                "Jordan Love",
                 "Michael Pittman",
                 "Cody White",
                 "Romeo Doubs",
@@ -18854,7 +18856,7 @@
             "starters": [
               "8183",
               "4035",
-              "8132",
+              "7594",
               "9493",
               "12519",
               "9480",
@@ -18873,8 +18875,8 @@
               "5870",
               "5967",
               "7571",
-              "7594",
               "8111",
+              "8132",
               "8155",
               "8698"
             ],
@@ -18933,7 +18935,7 @@
               "starters": [
                 "Brock Purdy",
                 "Alvin Kamara",
-                "Tyler Allgeier",
+                "Chuba Hubbard",
                 "Puka Nacua",
                 "Luther Burden",
                 "Brenton Strange",
@@ -18952,8 +18954,8 @@
                 "Daniel Jones",
                 "Tony Pollard",
                 "Rashod Bateman",
-                "Chuba Hubbard",
                 "Cade Otton",
+                "Tyler Allgeier",
                 "Breece Hall",
                 "Jake Tonges"
               ]
@@ -19151,7 +19153,7 @@
               "1479",
               "4217",
               "11834",
-              "12534",
+              "12506",
               "4034"
             ],
             "bench": [
@@ -19159,8 +19161,8 @@
               "11628",
               "11638",
               "12483",
-              "12506",
               "12508",
+              "12534",
               "13353",
               "13404",
               "13420",
@@ -19236,7 +19238,7 @@
                 "Keenan Allen",
                 "George Kittle",
                 "Devaughn Vele",
-                "Kyle Monangai",
+                "Harold Fannin",
                 "Christian McCaffrey"
               ],
               "bench": [
@@ -19244,8 +19246,8 @@
                 "Marvin Harrison",
                 "Ricky Pearsall",
                 "Jack Bech",
-                "Harold Fannin",
                 "Jaxson Dart",
+                "Kyle Monangai",
                 "Chris Brazzell",
                 "Garrett Nussmeier",
                 "Bryce Lance",
@@ -19297,12 +19299,12 @@
               "12545",
               "7567",
               "12474",
-              "13298",
+              "9488",
               "11632",
               "12518",
               "8167",
               "12526",
-              "9488"
+              "13298"
             ],
             "bench": [
               "10222",
@@ -19382,12 +19384,12 @@
                 "Tyler Shough",
                 "Kenny Gainwell",
                 "Woody Marks",
-                "KC Concepcion",
+                "Jaxon Smith-Njigba",
                 "Malik Nabers",
                 "Tyler Warren",
                 "Christian Watson",
                 "Tetairoa McMillan",
-                "Jaxon Smith-Njigba"
+                "KC Concepcion"
               ],
               "bench": [
                 "Jayden Reed",
@@ -19447,12 +19449,12 @@
               "11564",
               "8151",
               "8150",
-              "9500",
+              "6786",
               "12514",
               "8130",
               "7611",
               "8131",
-              "6786"
+              "9500"
             ],
             "bench": [
               "11435",
@@ -19532,12 +19534,12 @@
                 "Drake Maye",
                 "Kenneth Walker",
                 "Kyren Williams",
-                "Josh Downs",
+                "CeeDee Lamb",
                 "Emeka Egbuka",
                 "Trey McBride",
                 "Rhamondre Stevenson",
                 "Isaiah Likely",
-                "CeeDee Lamb"
+                "Josh Downs"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -19902,7 +19904,7 @@
               "11604",
               "3214",
               "8228",
-              "5045"
+              "5859"
             ],
             "bench": [
               "11439",
@@ -19913,7 +19915,7 @@
               "13320",
               "13424",
               "4147",
-              "5859",
+              "5045",
               "5892",
               "6039",
               "6783",
@@ -19987,7 +19989,7 @@
                 "Brock Bowers",
                 "Hunter Henry",
                 "Jaylen Warren",
-                "Courtland Sutton"
+                "A.J. Brown"
               ],
               "bench": [
                 "Jaleel McLaughlin",
@@ -19998,7 +20000,7 @@
                 "Zachariah Branch",
                 "Seth McGowan",
                 "Samaje Perine",
-                "A.J. Brown",
+                "Courtland Sutton",
                 "David Montgomery",
                 "Ty Johnson",
                 "Jerry Jeudy",
@@ -20052,7 +20054,7 @@
               "5012",
               "10232",
               "4866",
-              "13274"
+              "5022"
             ],
             "bench": [
               "11237",
@@ -20061,11 +20063,11 @@
               "11635",
               "11647",
               "12487",
+              "13274",
               "13278",
               "2505",
               "3163",
               "4454",
-              "5022",
               "5906",
               "6770",
               "7543",
@@ -20137,7 +20139,7 @@
                 "Mark Andrews",
                 "Michael Wilson",
                 "Saquon Barkley",
-                "Germie Bernard"
+                "Dallas Goedert"
               ],
               "bench": [
                 "Jacob Saylors",
@@ -20146,11 +20148,11 @@
                 "Ladd McConkey",
                 "Kimani Vidal",
                 "Terrance Ferguson",
+                "Germie Bernard",
                 "Max Klare",
                 "Darren Waller",
                 "Jared Goff",
                 "Kendrick Bourne",
-                "Dallas Goedert",
                 "Dawson Knox",
                 "Joe Burrow",
                 "Travis Etienne",
