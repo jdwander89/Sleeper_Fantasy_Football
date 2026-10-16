@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-15T15:37:41.201340Z",
+  "generated_at": "2026-10-16T15:23:41.581501Z",
   "counts": {
-    "required_player_ids": 345,
-    "resolved_player_ids": 345,
+    "required_player_ids": 348,
+    "resolved_player_ids": 348,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -29,6 +29,7 @@
       "blake corum": "11586",
       "bo nix": "11563",
       "braelon allen": "11576",
+      "brandin cooks": "2197",
       "brandon aiyuk": "6803",
       "brashard smith": "12455",
       "breece hall": "8155",
@@ -169,6 +170,7 @@
       "jalen mcmillan": "11618",
       "jalen nailor": "8180",
       "jalon daniels": "13425",
+      "jameis winston": "2306",
       "james conner": "4137",
       "james cook": "8138",
       "jameson williams": "8148",
@@ -191,6 +193,7 @@
       "jerome ford": "8143",
       "jerry jeudy": "6783",
       "joe burrow": "6770",
+      "joe milton": "11557",
       "joe mixon": "4018",
       "john metchie": "8147",
       "jonah coleman": "13345",
@@ -454,6 +457,7 @@
       ],
       "DAL": [
         "11199",
+        "11557",
         "11783",
         "3294",
         "6786",
@@ -645,6 +649,7 @@
         "12481",
         "12508",
         "13285",
+        "2306",
         "6130",
         "7090",
         "7528",
@@ -710,6 +715,7 @@
         "12467",
         "13414",
         "13417",
+        "2197",
         "2216",
         "3286",
         "4034",
@@ -764,6 +770,7 @@
         "12530"
       ],
       "QB": [
+        "11557",
         "11559",
         "11560",
         "11563",
@@ -781,6 +788,7 @@
         "13303",
         "13404",
         "13425",
+        "2306",
         "3161",
         "3163",
         "3257",
@@ -1048,6 +1056,7 @@
         "13533",
         "1479",
         "2133",
+        "2197",
         "2216",
         "2374",
         "2449",
