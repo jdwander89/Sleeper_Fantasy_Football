@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-16T15:23:41.656782Z",
-    "source_snapshot_generated_at": "2026-10-16T15:23:39.778473Z",
+    "generated_at": "2026-10-17T14:15:27.545015Z",
+    "source_snapshot_generated_at": "2026-10-17T14:15:25.991493Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -55,14 +55,14 @@
     "required_player_ids": 348,
     "compact_player_lookup": 348,
     "missing_player_ids": 0,
-    "transactions": 120,
-    "trades": 13,
+    "transactions": 122,
+    "trades": 14,
     "waivers": 19,
-    "free_agent_moves": 87,
+    "free_agent_moves": 88,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
-    "league_traded_picks": 33
+    "league_traded_picks": 35
   },
   "data_quality": {
     "warnings": [],
@@ -119,7 +119,7 @@
           "name": "Rachaad White",
           "team": "WAS",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12501",
@@ -199,14 +199,14 @@
         "raw_fpts_against_decimal": 70
       },
       "counts": {
-        "players": 25,
+        "players": 24,
         "starters": 9,
-        "bench": 14,
+        "bench": 13,
         "reserve": 2
       },
       "position_counts": {
         "QB": 3,
-        "RB": 9,
+        "RB": 8,
         "TE": 2,
         "WR": 11
       },
@@ -258,7 +258,7 @@
           "name": "Quentin Johnston",
           "team": "LAC",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8210",
@@ -277,10 +277,10 @@
       ],
       "reserve": [
         {
-          "player_id": "13276",
-          "name": "Omar Cooper",
-          "team": "NYJ",
-          "position": "WR",
+          "player_id": "12472",
+          "name": "Raheim Sanders",
+          "team": "CLE",
+          "position": "RB",
           "injury_status": "IR"
         },
         {
@@ -323,9 +323,9 @@
       },
       "starters": [
         {
-          "player_id": "6804",
-          "name": "Jordan Love",
-          "team": "GB",
+          "player_id": "4046",
+          "name": "Patrick Mahomes",
+          "team": "KC",
           "position": "QB",
           "injury_status": null
         },
@@ -800,7 +800,7 @@
           "name": "Tyler Warren",
           "team": "IND",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8167",
@@ -821,7 +821,7 @@
           "name": "KC Concepcion",
           "team": "CLE",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -1032,11 +1032,11 @@
           "injury_status": null
         },
         {
-          "player_id": "10229",
-          "name": "Rashee Rice",
-          "team": "KC",
+          "player_id": "3634",
+          "name": "Kalif Raymond",
+          "team": "CHI",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8154",
@@ -1098,7 +1098,7 @@
           "name": "Lamar Jackson",
           "team": "BAL",
           "position": "QB",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "3198",
@@ -1126,7 +1126,7 @@
           "name": "DK Metcalf",
           "team": "PIT",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9484",
@@ -1199,9 +1199,9 @@
       },
       "position_counts": {
         "QB": 3,
-        "RB": 11,
+        "RB": 12,
         "TE": 3,
-        "WR": 8
+        "WR": 7
       },
       "starters": [
         {
@@ -1334,7 +1334,7 @@
           "name": "Jeremiyah Love",
           "team": "ARI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "4983",
@@ -1348,7 +1348,7 @@
           "name": "Zay Flowers",
           "team": "BAL",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5012",
@@ -1369,7 +1369,7 @@
           "name": "Saquon Barkley",
           "team": "PHI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "5022",
@@ -2255,18 +2255,18 @@
   "transactions": {
     "counts": {
       "weeks": 6,
-      "transactions": 120,
-      "trades": 13,
+      "transactions": 122,
+      "trades": 14,
       "waivers": 19,
-      "free_agent_moves": 87,
+      "free_agent_moves": 88,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 87,
-        "trade": 13,
+        "free_agent": 88,
+        "trade": 14,
         "waiver": 19
       },
       "by_status": {
-        "complete": 113,
+        "complete": 115,
         "failed": 7
       }
     },
@@ -2296,14 +2296,14 @@
         "free_agent_moves": 12
       },
       "11": {
-        "transactions": 21,
-        "trades": 4,
+        "transactions": 23,
+        "trades": 5,
         "waivers": 2,
-        "free_agent_moves": 15
+        "free_agent_moves": 16
       },
       "2": {
-        "transactions": 28,
-        "trades": 9,
+        "transactions": 29,
+        "trades": 10,
         "waivers": 3,
         "free_agent_moves": 15
       },
@@ -2345,6 +2345,75 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 6,
+        "transaction_id": "1417175435145482240",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-17T13:24:22.886000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "2197",
+            "player_name": "Brandin Cooks",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 6,
+        "transaction_id": "1416955445540646912",
+        "type": "trade",
+        "status": "complete",
+        "created_at": "2026-10-16T22:50:13.277000Z",
+        "team_labels": [
+          "Washington Monument",
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "5850",
+            "player_name": "Josh Jacobs",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "5850",
+            "player_name": "Josh Jacobs",
+            "roster_id": 2,
+            "team_label": "Washington Monument"
+          }
+        ],
+        "draft_picks": [
+          {
+            "season": "2027",
+            "round": 3,
+            "original_roster_id": 11,
+            "original_team_label": "MOJO",
+            "previous_owner_id": 11,
+            "previous_owner_team_label": "MOJO",
+            "owner_id": 2,
+            "owner_team_label": "Washington Monument"
+          },
+          {
+            "season": "2029",
+            "round": 2,
+            "original_roster_id": 11,
+            "original_team_label": "MOJO",
+            "previous_owner_id": 11,
+            "previous_owner_team_label": "MOJO",
+            "owner_id": 2,
+            "owner_team_label": "Washington Monument"
+          }
+        ]
+      },
       {
         "week": 6,
         "transaction_id": "1416842532175790080",
@@ -2984,46 +3053,6 @@
         ],
         "drops": [],
         "draft_picks": []
-      },
-      {
-        "week": 4,
-        "transaction_id": "1413245445664227328",
-        "type": "waiver",
-        "status": "failed",
-        "created_at": "2026-10-06T17:08:00.379000Z",
-        "team_labels": [
-          "andrewwelle"
-        ],
-        "adds": [
-          {
-            "player_id": "13264",
-            "player_name": "Dohnte Meyers",
-            "roster_id": 6,
-            "team_label": "andrewwelle"
-          }
-        ],
-        "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 4,
-        "transaction_id": "1413219326462332928",
-        "type": "waiver",
-        "status": "complete",
-        "created_at": "2026-10-06T15:24:13.076000Z",
-        "team_labels": [
-          "White Ice"
-        ],
-        "adds": [
-          {
-            "player_id": "11577",
-            "player_name": "Will Shipley",
-            "roster_id": 5,
-            "team_label": "White Ice"
-          }
-        ],
-        "drops": [],
-        "draft_picks": []
       }
     ]
   },
@@ -3146,7 +3175,7 @@
       }
     ],
     "traded_picks": {
-      "league_traded_picks": 33,
+      "league_traded_picks": 35,
       "draft_traded_picks": 8
     }
   },

@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-16T15:23:39.778473Z",
+  "generated_at": "2026-10-17T14:15:25.991493Z",
   "league_id": "1312581067286282240",
   "sport": "nfl",
   "season": "2026",
@@ -46,17 +46,17 @@
     {
       "path": "data/current/rosters.json",
       "exists": true,
-      "size_bytes": 33788
+      "size_bytes": 33710
     },
     {
       "path": "data/current/matchups.json",
       "exists": true,
-      "size_bytes": 285412
+      "size_bytes": 285285
     },
     {
       "path": "data/current/transactions.json",
       "exists": true,
-      "size_bytes": 408059
+      "size_bytes": 416122
     },
     {
       "path": "data/current/drafts.json",
@@ -66,27 +66,27 @@
     {
       "path": "data/current/traded_picks.json",
       "exists": true,
-      "size_bytes": 13068
+      "size_bytes": 13650
     },
     {
       "path": "data/current/player_lookup_compact.json",
       "exists": true,
-      "size_bytes": 124214
+      "size_bytes": 124046
     },
     {
       "path": "data/current/player_id_index.json",
       "exists": true,
-      "size_bytes": 23395
+      "size_bytes": 23379
     },
     {
       "path": "data/current/chatgpt_summary.json",
       "exists": true,
-      "size_bytes": 78240
+      "size_bytes": 79072
     },
     {
       "path": "data/current/chatgpt_bundle.json",
       "exists": true,
-      "size_bytes": 1087801
+      "size_bytes": 1096692
     }
   ],
   "counts": {
@@ -98,14 +98,14 @@
     "required_player_ids": 348,
     "compact_player_lookup": 348,
     "missing_player_ids": 0,
-    "transactions": 120,
-    "trades": 13,
+    "transactions": 122,
+    "trades": 14,
     "waivers": 19,
-    "free_agent_moves": 87,
+    "free_agent_moves": 88,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
-    "league_traded_picks": 33,
+    "league_traded_picks": 35,
     "summary_teams": 12
   },
   "data_quality": {
@@ -113,5 +113,5 @@
     "errors": [],
     "missing_player_ids": []
   },
-  "summary_generated_at": "2026-10-16T15:23:41.656782Z"
+  "summary_generated_at": "2026-10-17T14:15:27.545015Z"
 }
