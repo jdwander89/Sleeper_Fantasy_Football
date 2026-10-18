@@ -9574,14 +9574,14 @@
             {
               "roster_id": 2,
               "team_label": "Washington Monument",
-              "points": 17.8,
+              "points": 34.44,
               "custom_points": null
             }
           ],
           "winner": {
             "roster_id": 2,
             "team_label": "Washington Monument",
-            "points": 17.8
+            "points": 34.44
           }
         },
         {
@@ -9614,7 +9614,7 @@
             {
               "roster_id": 7,
               "team_label": "Commish is a bitch",
-              "points": 25.4,
+              "points": 27.4,
               "custom_points": null
             },
             {
@@ -9627,7 +9627,7 @@
           "winner": {
             "roster_id": 7,
             "team_label": "Commish is a bitch",
-            "points": 25.4
+            "points": 27.4
           }
         },
         {
@@ -9637,17 +9637,21 @@
             {
               "roster_id": 4,
               "team_label": "Puka Troopas",
-              "points": 0.0,
+              "points": 5.9,
               "custom_points": null
             },
             {
               "roster_id": 5,
               "team_label": "White Ice",
-              "points": 0.0,
+              "points": 5.2,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 4,
+            "team_label": "Puka Troopas",
+            "points": 5.9
+          }
         },
         {
           "week": 6,
@@ -9685,11 +9689,15 @@
             {
               "roster_id": 10,
               "team_label": "Goin in Ra",
-              "points": 0.0,
+              "points": 13.7,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 10,
+            "team_label": "Goin in Ra",
+            "points": 13.7
+          }
         }
       ],
       "roster_results": [
@@ -9735,13 +9743,14 @@
             "11624",
             "10236",
             "12542",
-            "12533",
+            "13394",
             "12529"
           ],
           "bench": [
             "11643",
             "12498",
             "12522",
+            "12533",
             "12544",
             "13281",
             "13296",
@@ -9749,7 +9758,6 @@
             "13305",
             "13347",
             "13349",
-            "13394",
             "13402",
             "13421",
             "9504",
@@ -9768,7 +9776,7 @@
             "12529": 0.0,
             "12533": 0.0,
             "12542": 0.0,
-            "12544": 0.0,
+            "12544": 0.1,
             "13281": 0.0,
             "13296": 0.0,
             "13302": 0.0,
@@ -9781,7 +9789,7 @@
             "8136": 0.0,
             "9504": 0.0,
             "9756": 0.0,
-            "9758": 0.0
+            "9758": 7.52
           },
           "starters_points": {},
           "display": {
@@ -9820,13 +9828,14 @@
               "Xavier Worthy",
               "Dalton Kincaid",
               "Efton Chism",
-              "Jacory Croskey-Merritt",
+              "Josh Cameron",
               "TreVeyon Henderson"
             ],
             "bench": [
               "Jaylen Wright",
               "Mason Taylor",
               "Cam Ward",
+              "Jacory Croskey-Merritt",
               "LeQuint Allen",
               "Jordyn Tyson",
               "Caleb Douglas",
@@ -9834,7 +9843,6 @@
               "Mike Washington",
               "Demond Claiborne",
               "Eli Stowers",
-              "Josh Cameron",
               "Skyler Bell",
               "Eli Raridon",
               "Kayshon Boutte",
@@ -9848,7 +9856,7 @@
           "matchup_id": 1,
           "roster_id": 2,
           "team_label": "Washington Monument",
-          "points": 17.8,
+          "points": 34.44,
           "custom_points": null,
           "players": [
             "10235",
@@ -9920,13 +9928,13 @@
             "13413": 0.0,
             "13417": 0.0,
             "6904": 0.0,
-            "7523": 0.0,
+            "7523": 8.24,
             "8129": 0.0,
             "8210": 0.0,
             "8408": 0.0,
             "8676": 9.8,
             "8800": 0.0,
-            "9487": 0.0,
+            "9487": 8.4,
             "96": 0.0,
             "9754": 0.0
           },
@@ -10030,7 +10038,7 @@
             "2449",
             "8110",
             "11584",
-            "8121",
+            "7525",
             "2216"
           ],
           "bench": [
@@ -10045,7 +10053,7 @@
             "6804",
             "6819",
             "7039",
-            "7525",
+            "8121",
             "8161",
             "9501",
             "9502",
@@ -10115,7 +10123,7 @@
               "Stefon Diggs",
               "Jake Ferguson",
               "Bucky Irving",
-              "Romeo Doubs",
+              "DeVonta Smith",
               "Mike Evans"
             ],
             "bench": [
@@ -10130,7 +10138,7 @@
               "Jordan Love",
               "Michael Pittman",
               "Cody White",
-              "DeVonta Smith",
+              "Romeo Doubs",
               "Malik Willis",
               "DeMario Douglas",
               "Tank Dell",
@@ -10143,7 +10151,7 @@
           "matchup_id": 4,
           "roster_id": 4,
           "team_label": "Puka Troopas",
-          "points": 0.0,
+          "points": 5.9,
           "custom_points": null,
           "players": [
             "11603",
@@ -10219,7 +10227,7 @@
             "8155": 0.0,
             "8183": 0.0,
             "8698": 0.0,
-            "9480": 0.0,
+            "9480": 5.9,
             "9493": 0.0
           },
           "starters_points": {},
@@ -10283,7 +10291,7 @@
           "matchup_id": 4,
           "roster_id": 5,
           "team_label": "White Ice",
-          "points": 0.0,
+          "points": 5.2,
           "custom_points": null,
           "players": [
             "10213",
@@ -10355,11 +10363,11 @@
             "1466": 0.0,
             "3294": 0.0,
             "4177": 0.0,
-            "5001": 0.0,
+            "5001": 1.1,
             "7002": 0.0,
             "7049": 0.0,
             "7564": 0.0,
-            "7569": 0.0,
+            "7569": 5.2,
             "8134": 0.0,
             "8148": 0.0,
             "9221": 0.0,
@@ -10583,7 +10591,7 @@
           "matchup_id": 3,
           "roster_id": 7,
           "team_label": "Commish is a bitch",
-          "points": 25.4,
+          "points": 27.4,
           "custom_points": null,
           "players": [
             "10222",
@@ -10647,7 +10655,7 @@
             "11559": 0.0,
             "11632": 0.0,
             "11637": 0.0,
-            "12474": 0.0,
+            "12474": 2.0,
             "12504": 0.0,
             "12518": 0.0,
             "12526": 0.0,
@@ -10767,18 +10775,17 @@
             "8151",
             "8150",
             "6786",
-            "12514",
+            "11646",
             "8130",
             "7611",
             "8131",
-            "9500"
+            "12514"
           ],
           "bench": [
             "11435",
             "11569",
             "11581",
             "11630",
-            "11646",
             "12484",
             "12521",
             "12531",
@@ -10789,6 +10796,7 @@
             "6797",
             "8125",
             "8142",
+            "9500",
             "9753"
           ],
           "players_points": {
@@ -10852,18 +10860,17 @@
               "Kenneth Walker",
               "Kyren Williams",
               "CeeDee Lamb",
-              "Emeka Egbuka",
+              "Jalen Coker",
               "Trey McBride",
               "Rhamondre Stevenson",
               "Isaiah Likely",
-              "Josh Downs"
+              "Emeka Egbuka"
             ],
             "bench": [
               "Emanuel Wilson",
               "Jarquez Hunter",
               "MarShawn Lloyd",
               "Roman Wilson",
-              "Jalen Coker",
               "Jayden Higgins",
               "Elijah Arroyo",
               "Trevor Etienne",
@@ -10874,6 +10881,7 @@
               "Justin Herbert",
               "Calvin Austin",
               "Alec Pierce",
+              "Josh Downs",
               "Zach Charbonnet"
             ]
           }
@@ -10942,7 +10950,7 @@
             "9226"
           ],
           "players_points": {
-            "10219": 0.0,
+            "10219": 3.9,
             "10229": 0.0,
             "11565": 0.0,
             "11583": 0.0,
@@ -11033,7 +11041,7 @@
           "matchup_id": 6,
           "roster_id": 10,
           "team_label": "Goin in Ra",
-          "points": 0.0,
+          "points": 13.7,
           "custom_points": null,
           "players": [
             "11626",
@@ -11095,8 +11103,8 @@
             "11626": 0.0,
             "11729": 0.0,
             "11783": 0.0,
-            "12490": 0.0,
-            "12536": 0.0,
+            "12490": 11.8,
+            "12536": 4.4,
             "13286": 0.0,
             "13337": 0.0,
             "3198": 0.0,
@@ -11108,7 +11116,7 @@
             "5846": 0.0,
             "5848": 0.0,
             "5927": 0.0,
-            "5947": 0.0,
+            "5947": 1.9,
             "6790": 0.0,
             "7547": 0.0,
             "7600": 0.0,
@@ -11365,12 +11373,12 @@
           "starters": [
             "421",
             "12512",
-            "13287",
+            "9508",
             "4983",
             "9997",
             "5012",
             "10232",
-            "4866",
+            "13274",
             "5022"
           ],
           "bench": [
@@ -11380,16 +11388,16 @@
             "11635",
             "11647",
             "12487",
-            "13274",
             "13278",
+            "13287",
             "2505",
             "3163",
             "4454",
+            "4866",
             "5906",
             "6770",
             "7543",
-            "8180",
-            "9508"
+            "8180"
           ],
           "players_points": {
             "10232": 0.0,
@@ -11450,12 +11458,12 @@
             "starters": [
               "Matthew Stafford",
               "Quinshon Judkins",
-              "Jeremiyah Love",
+              "Tyjae Spears",
               "DJ Moore",
               "Zay Flowers",
               "Mark Andrews",
               "Michael Wilson",
-              "Saquon Barkley",
+              "Germie Bernard",
               "Dallas Goedert"
             ],
             "bench": [
@@ -11465,16 +11473,16 @@
               "Ladd McConkey",
               "Kimani Vidal",
               "Terrance Ferguson",
-              "Germie Bernard",
               "Max Klare",
+              "Jeremiyah Love",
               "Darren Waller",
               "Jared Goff",
               "Kendrick Bourne",
+              "Saquon Barkley",
               "Dawson Knox",
               "Joe Burrow",
               "Travis Etienne",
-              "Jalen Nailor",
-              "Tyjae Spears"
+              "Jalen Nailor"
             ]
           }
         }
