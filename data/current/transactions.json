@@ -5423,13 +5423,85 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 6,
+          "transaction_id": "1417584015262703616",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1792340875977,
+          "created_at": "2026-10-18T16:27:55.977000Z",
+          "status_updated": 1792340875977,
+          "status_updated_at": "2026-10-18T16:27:55.977000Z",
+          "creator_user_id": "459751268567478272",
+          "roster_ids": [
+            7
+          ],
+          "team_labels": [
+            "Commish is a bitch"
+          ],
+          "consenter_ids": [
+            7
+          ],
+          "consenter_team_labels": [
+            "Commish is a bitch"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "12543",
+              "player_name": "Tahj Brooks",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 6,
+          "transaction_id": "1417584031385616384",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1792340879822,
+          "created_at": "2026-10-18T16:27:59.822000Z",
+          "status_updated": 1792340879822,
+          "status_updated_at": "2026-10-18T16:27:59.822000Z",
+          "creator_user_id": "459751268567478272",
+          "roster_ids": [
+            7
+          ],
+          "team_labels": [
+            "Commish is a bitch"
+          ],
+          "consenter_ids": [
+            7
+          ],
+          "consenter_team_labels": [
+            "Commish is a bitch"
+          ],
+          "adds": [
+            {
+              "player_id": "9479",
+              "player_name": "Darnell Washington",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 7,
+        "transactions": 9,
         "trades": 1,
         "waivers": 0,
-        "free_agent_moves": 6
+        "free_agent_moves": 8
       }
     }
   },
@@ -10799,6 +10871,78 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 6,
+      "transaction_id": "1417584015262703616",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792340875977,
+      "created_at": "2026-10-18T16:27:55.977000Z",
+      "status_updated": 1792340875977,
+      "status_updated_at": "2026-10-18T16:27:55.977000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12543",
+          "player_name": "Tahj Brooks",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 6,
+      "transaction_id": "1417584031385616384",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792340879822,
+      "created_at": "2026-10-18T16:27:59.822000Z",
+      "status_updated": 1792340879822,
+      "status_updated_at": "2026-10-18T16:27:59.822000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "9479",
+          "player_name": "Darnell Washington",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -16139,22 +16283,94 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 6,
+      "transaction_id": "1417584015262703616",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792340875977,
+      "created_at": "2026-10-18T16:27:55.977000Z",
+      "status_updated": 1792340875977,
+      "status_updated_at": "2026-10-18T16:27:55.977000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "12543",
+          "player_name": "Tahj Brooks",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 6,
+      "transaction_id": "1417584031385616384",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792340879822,
+      "created_at": "2026-10-18T16:27:59.822000Z",
+      "status_updated": 1792340879822,
+      "status_updated_at": "2026-10-18T16:27:59.822000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "9479",
+          "player_name": "Darnell Washington",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 6,
-    "transactions": 122,
+    "transactions": 124,
     "trades": 14,
     "waivers": 19,
-    "free_agent_moves": 88,
+    "free_agent_moves": 90,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 88,
+      "free_agent": 90,
       "trade": 14,
       "waiver": 19
     },
     "by_status": {
-      "complete": 115,
+      "complete": 117,
       "failed": 7
     }
   }

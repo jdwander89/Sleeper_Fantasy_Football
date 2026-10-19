@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-18T14:38:55.709563Z",
-    "source_snapshot_generated_at": "2026-10-18T14:38:53.294571Z",
+    "generated_at": "2026-10-19T17:33:20.776533Z",
+    "source_snapshot_generated_at": "2026-10-19T17:33:18.856949Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -55,10 +55,10 @@
     "required_player_ids": 348,
     "compact_player_lookup": 348,
     "missing_player_ids": 0,
-    "transactions": 122,
+    "transactions": 124,
     "trades": 14,
     "waivers": 19,
-    "free_agent_moves": 88,
+    "free_agent_moves": 90,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -140,7 +140,7 @@
           "name": "Dalton Kincaid",
           "team": "BUF",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12542",
@@ -161,7 +161,7 @@
           "name": "TreVeyon Henderson",
           "team": "NE",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -272,7 +272,7 @@
           "name": "Makai Lemon",
           "team": "PHI",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -351,9 +351,9 @@
           "injury_status": null
         },
         {
-          "player_id": "2449",
-          "name": "Stefon Diggs",
-          "team": "WAS",
+          "player_id": "2216",
+          "name": "Mike Evans",
+          "team": "SF",
           "position": "WR",
           "injury_status": "Questionable"
         },
@@ -379,9 +379,9 @@
           "injury_status": null
         },
         {
-          "player_id": "2216",
-          "name": "Mike Evans",
-          "team": "SF",
+          "player_id": "2449",
+          "name": "Stefon Diggs",
+          "team": "WAS",
           "position": "WR",
           "injury_status": "Questionable"
         }
@@ -755,8 +755,8 @@
       },
       "position_counts": {
         "QB": 4,
-        "RB": 8,
-        "TE": 1,
+        "RB": 7,
+        "TE": 2,
         "WR": 12
       },
       "starters": [
@@ -796,11 +796,11 @@
           "injury_status": null
         },
         {
-          "player_id": "12518",
-          "name": "Tyler Warren",
-          "team": "IND",
+          "player_id": "9479",
+          "name": "Darnell Washington",
+          "team": "PIT",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8167",
@@ -1015,7 +1015,7 @@
           "name": "Chris Olave",
           "team": "NO",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7553",
@@ -1247,10 +1247,10 @@
           "injury_status": null
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
-          "team": "NE",
-          "position": "TE",
+          "player_id": "11439",
+          "name": "Jaleel McLaughlin",
+          "team": "CLE",
+          "position": "RB",
           "injury_status": null
         },
         {
@@ -1265,7 +1265,7 @@
           "name": "A.J. Brown",
           "team": "NE",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -1327,21 +1327,21 @@
           "name": "Quinshon Judkins",
           "team": "CLE",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "9508",
           "name": "Tyjae Spears",
           "team": "TEN",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
-          "player_id": "4983",
-          "name": "DJ Moore",
-          "team": "BUF",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "team": "LAC",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "9997",
@@ -2121,20 +2121,20 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 0.0,
+                "points": 61.9,
                 "custom_points": null
               },
               {
                 "roster_id": 2,
                 "team_label": "Washington Monument",
-                "points": 34.44,
+                "points": 100.64,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 2,
               "team_label": "Washington Monument",
-              "points": 34.44
+              "points": 100.64
             }
           },
           {
@@ -2143,20 +2143,20 @@
               {
                 "roster_id": 6,
                 "team_label": "andrewwelle",
-                "points": 0.0,
+                "points": 81.02,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 6.4,
+                "points": 90.9,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 11,
               "team_label": "MOJO",
-              "points": 6.4
+              "points": 90.9
             }
           },
           {
@@ -2165,20 +2165,20 @@
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 27.4,
+                "points": 138.76,
                 "custom_points": null
               },
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 0.0,
+                "points": 79.48,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 7,
               "team_label": "Commish is a bitch",
-              "points": 27.4
+              "points": 138.76
             }
           },
           {
@@ -2187,20 +2187,20 @@
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 5.9,
+                "points": 101.6,
                 "custom_points": null
               },
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 5.2,
+                "points": 101.22,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 4,
               "team_label": "Puka Troopas",
-              "points": 5.9
+              "points": 101.6
             }
           },
           {
@@ -2209,20 +2209,20 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 0.0,
+                "points": 80.78,
                 "custom_points": null
               },
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 14.6,
+                "points": 90.72,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 9,
               "team_label": "off",
-              "points": 14.6
+              "points": 90.72
             }
           },
           {
@@ -2231,20 +2231,20 @@
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 0.0,
+                "points": 149.7,
                 "custom_points": null
               },
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 13.7,
+                "points": 99.2,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 10,
-              "team_label": "Goin in Ra",
-              "points": 13.7
+              "roster_id": 8,
+              "team_label": "Back to the Future",
+              "points": 149.7
             }
           }
         ],
@@ -2263,18 +2263,18 @@
   "transactions": {
     "counts": {
       "weeks": 6,
-      "transactions": 122,
+      "transactions": 124,
       "trades": 14,
       "waivers": 19,
-      "free_agent_moves": 88,
+      "free_agent_moves": 90,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 88,
+        "free_agent": 90,
         "trade": 14,
         "waiver": 19
       },
       "by_status": {
-        "complete": 115,
+        "complete": 117,
         "failed": 7
       }
     },
@@ -2292,10 +2292,10 @@
         "free_agent_moves": 7
       },
       "7": {
-        "transactions": 9,
+        "transactions": 11,
         "trades": 1,
         "waivers": 1,
-        "free_agent_moves": 7
+        "free_agent_moves": 9
       },
       "1": {
         "transactions": 17,
@@ -2353,6 +2353,46 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 6,
+        "transaction_id": "1417584031385616384",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-18T16:27:59.822000Z",
+        "team_labels": [
+          "Commish is a bitch"
+        ],
+        "adds": [
+          {
+            "player_id": "9479",
+            "player_name": "Darnell Washington",
+            "roster_id": 7,
+            "team_label": "Commish is a bitch"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
+      {
+        "week": 6,
+        "transaction_id": "1417584015262703616",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-18T16:27:55.977000Z",
+        "team_labels": [
+          "Commish is a bitch"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "12543",
+            "player_name": "Tahj Brooks",
+            "roster_id": 7,
+            "team_label": "Commish is a bitch"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 6,
         "transaction_id": "1417175435145482240",
@@ -3020,46 +3060,6 @@
             "team_label": "Laporta Potty"
           }
         ],
-        "draft_picks": []
-      },
-      {
-        "week": 4,
-        "transaction_id": "1413377799288270848",
-        "type": "waiver",
-        "status": "complete",
-        "created_at": "2026-10-07T01:53:55.941000Z",
-        "team_labels": [
-          "Laporta Potty"
-        ],
-        "adds": [
-          {
-            "player_id": "13150",
-            "player_name": "Darius Cooper",
-            "roster_id": 3,
-            "team_label": "Laporta Potty"
-          }
-        ],
-        "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 4,
-        "transaction_id": "1413377199079178240",
-        "type": "waiver",
-        "status": "failed",
-        "created_at": "2026-10-07T01:51:32.840000Z",
-        "team_labels": [
-          "Laporta Potty"
-        ],
-        "adds": [
-          {
-            "player_id": "11577",
-            "player_name": "Will Shipley",
-            "roster_id": 3,
-            "team_label": "Laporta Potty"
-          }
-        ],
-        "drops": [],
         "draft_picks": []
       }
     ]

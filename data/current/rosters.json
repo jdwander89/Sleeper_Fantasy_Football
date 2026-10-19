@@ -328,11 +328,11 @@
       "9509",
       "6813",
       "8112",
-      "2449",
+      "2216",
       "8110",
       "11584",
       "7525",
-      "2216"
+      "2449"
     ],
     "bench": [
       "10859",
@@ -393,11 +393,11 @@
         "Bijan Robinson",
         "Jonathan Taylor",
         "Drake London",
-        "Stefon Diggs",
+        "Mike Evans",
         "Jake Ferguson",
         "Bucky Irving",
         "DeVonta Smith",
-        "Mike Evans"
+        "Stefon Diggs"
       ],
       "bench": [
         "Sam LaPorta",
@@ -889,7 +889,6 @@
       "12518",
       "12526",
       "12535",
-      "12543",
       "12545",
       "12547",
       "13264",
@@ -903,6 +902,7 @@
       "7567",
       "8167",
       "8205",
+      "9479",
       "9488"
     ],
     "starters": [
@@ -911,7 +911,7 @@
       "12474",
       "9488",
       "11632",
-      "12518",
+      "9479",
       "8167",
       "12526",
       "13298"
@@ -921,8 +921,8 @@
       "11559",
       "11637",
       "12504",
+      "12518",
       "12535",
-      "12543",
       "12547",
       "13264",
       "13275",
@@ -954,7 +954,6 @@
         "Tyler Warren",
         "Tetairoa McMillan",
         "Isaac TeSlaa",
-        "Tahj Brooks",
         "Tyler Shough",
         "Kyle Williams",
         "Dohnte Meyers",
@@ -968,6 +967,7 @@
         "Kenny Gainwell",
         "Christian Watson",
         "Isiah Pacheco",
+        "Darnell Washington",
         "Jaxon Smith-Njigba"
       ],
       "starters": [
@@ -976,7 +976,7 @@
         "Woody Marks",
         "Jaxon Smith-Njigba",
         "Malik Nabers",
-        "Tyler Warren",
+        "Darnell Washington",
         "Christian Watson",
         "Tetairoa McMillan",
         "KC Concepcion"
@@ -986,8 +986,8 @@
         "Michael Penix",
         "Keon Coleman",
         "Kaleb Johnson",
+        "Tyler Warren",
         "Isaac TeSlaa",
-        "Tahj Brooks",
         "Kyle Williams",
         "Dohnte Meyers",
         "Ty Simpson",
@@ -1507,16 +1507,16 @@
       "2133",
       "7526",
       "11604",
-      "3214",
+      "11439",
       "8228",
       "5859"
     ],
     "bench": [
-      "11439",
       "11563",
       "11575",
       "13320",
       "13424",
+      "3214",
       "4147",
       "5045",
       "5850",
@@ -1572,16 +1572,16 @@
         "Davante Adams",
         "Jaylen Waddle",
         "Brock Bowers",
-        "Hunter Henry",
+        "Jaleel McLaughlin",
         "Jaylen Warren",
         "A.J. Brown"
       ],
       "bench": [
-        "Jaleel McLaughlin",
         "Bo Nix",
         "Ray Davis",
         "Zachariah Branch",
         "Seth McGowan",
+        "Hunter Henry",
         "Samaje Perine",
         "Courtland Sutton",
         "Josh Jacobs",
@@ -1651,7 +1651,7 @@
       "421",
       "12512",
       "9508",
-      "4983",
+      "11635",
       "9997",
       "5012",
       "10232",
@@ -1661,7 +1661,6 @@
     "bench": [
       "11237",
       "11608",
-      "11635",
       "11647",
       "12487",
       "13278",
@@ -1670,6 +1669,7 @@
       "3163",
       "4454",
       "4866",
+      "4983",
       "5906",
       "6770",
       "8180"
@@ -1716,7 +1716,7 @@
         "Matthew Stafford",
         "Quinshon Judkins",
         "Tyjae Spears",
-        "DJ Moore",
+        "Ladd McConkey",
         "Zay Flowers",
         "Mark Andrews",
         "Michael Wilson",
@@ -1726,7 +1726,6 @@
       "bench": [
         "Jacob Saylors",
         "Isaiah Williams",
-        "Ladd McConkey",
         "Kimani Vidal",
         "Terrance Ferguson",
         "Max Klare",
@@ -1735,6 +1734,7 @@
         "Jared Goff",
         "Kendrick Bourne",
         "Saquon Barkley",
+        "DJ Moore",
         "Dawson Knox",
         "Joe Burrow",
         "Jalen Nailor"
