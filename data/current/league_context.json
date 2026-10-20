@@ -52,7 +52,7 @@
     "playoff_type": 1,
     "taxi_slots": 0,
     "sub_start_time_eligibility": 0,
-    "last_scored_leg": 5,
+    "last_scored_leg": 6,
     "daily_waivers_days": 1093,
     "sub_lock_if_starter_active": 0,
     "playoff_week_start": 15,
@@ -205,8 +205,8 @@
     "st_ff": 1.0
   },
   "nfl_state": {
-    "week": 6,
-    "leg": 6,
+    "week": 7,
+    "leg": 7,
     "season": "2026",
     "season_type": "regular",
     "league_season": "2026",
