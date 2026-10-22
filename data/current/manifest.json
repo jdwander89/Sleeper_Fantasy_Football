@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-10-21T15:59:08.012801Z",
+  "generated_at": "2026-10-22T15:54:29.625570Z",
   "league_id": "1312581067286282240",
   "sport": "nfl",
   "season": "2026",
@@ -32,7 +32,7 @@
     {
       "path": "data/current/manifest.json",
       "exists": true,
-      "size_bytes": 2346
+      "size_bytes": 2347
     },
     {
       "path": "data/current/league_context.json",
@@ -47,22 +47,22 @@
     {
       "path": "data/current/rosters.json",
       "exists": true,
-      "size_bytes": 33744
+      "size_bytes": 33956
     },
     {
       "path": "data/current/matchups.json",
       "exists": true,
-      "size_bytes": 333097
+      "size_bytes": 334485
     },
     {
       "path": "data/current/transactions.json",
       "exists": true,
-      "size_bytes": 441907
+      "size_bytes": 441991
     },
     {
       "path": "data/current/drafts.json",
       "exists": true,
-      "size_bytes": 99960
+      "size_bytes": 100014
     },
     {
       "path": "data/current/traded_picks.json",
@@ -72,22 +72,22 @@
     {
       "path": "data/current/player_lookup_compact.json",
       "exists": true,
-      "size_bytes": 125449
+      "size_bytes": 125832
     },
     {
       "path": "data/current/player_id_index.json",
       "exists": true,
-      "size_bytes": 23616
+      "size_bytes": 23709
     },
     {
       "path": "data/current/chatgpt_summary.json",
       "exists": true,
-      "size_bytes": 79655
+      "size_bytes": 79853
     },
     {
       "path": "data/current/chatgpt_bundle.json",
       "exists": true,
-      "size_bytes": 1177894
+      "size_bytes": 1180121
     }
   ],
   "counts": {
@@ -114,5 +114,5 @@
     "errors": [],
     "missing_player_ids": []
   },
-  "summary_generated_at": "2026-10-21T15:59:10.528926Z"
+  "summary_generated_at": "2026-10-22T15:54:32.072723Z"
 }
