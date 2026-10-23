@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-10-22T15:54:29.597684Z",
+    "generated_at": "2026-10-23T15:46:10.145066Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -1085,13 +1085,13 @@
       "starters": [
         "9758",
         "11576",
-        "13305",
+        "12529",
         "12501",
         "9756",
         "13421",
         "13296",
         "11624",
-        "12529"
+        "13305"
       ],
       "bench": [
         "10236",
@@ -1150,13 +1150,13 @@
         "starters": [
           "C.J. Stroud",
           "Braelon Allen",
-          "Mike Washington Jr.",
+          "TreVeyon Henderson",
           "Matthew Golden",
           "Jordan Addison",
           "Eli Raridon",
           "Caleb Douglas",
           "Xavier Worthy",
-          "TreVeyon Henderson"
+          "Mike Washington Jr."
         ],
         "bench": [
           "Dalton Kincaid",
@@ -1527,29 +1527,29 @@
       ],
       "starters": [
         "8183",
-        "4035",
+        "8155",
         "7594",
         "9493",
         "12519",
-        "9480",
+        "11603",
         "13279",
-        "4037",
-        "11610"
+        "5967",
+        "8132"
       ],
       "bench": [
-        "11603",
+        "11610",
         "11631",
         "12457",
         "12530",
         "13293",
         "13345",
         "4033",
+        "4035",
+        "4037",
         "5870",
-        "5967",
         "7571",
         "8111",
-        "8132",
-        "8155"
+        "9480"
       ],
       "reserve": [
         "8698"
@@ -1588,29 +1588,29 @@
         ],
         "starters": [
           "Brock Purdy",
-          "Alvin Kamara",
+          "Breece Hall",
           "Chuba Hubbard",
           "Puka Nacua",
           "Luther Burden III",
-          "Brenton Strange",
+          "AJ Barner",
           "Carnell Tate",
-          "Chris Godwin Jr.",
-          "Malik Washington"
+          "Tony Pollard",
+          "Tyler Allgeier"
         ],
         "bench": [
-          "AJ Barner",
+          "Malik Washington",
           "Brian Thomas Jr.",
           "Jaydon Blue",
           "Travis Hunter",
           "Ja'Kobi Lane",
           "Jonah Coleman",
           "David Njoku",
+          "Alvin Kamara",
+          "Chris Godwin Jr.",
           "Daniel Jones",
-          "Tony Pollard",
           "Rashod Bateman",
           "Cade Otton",
-          "Tyler Allgeier",
-          "Breece Hall"
+          "Brenton Strange"
         ],
         "reserve": [
           "Jake Tonges"
@@ -1789,7 +1789,6 @@
       "roster_id": 6,
       "owner_user_id": "471451909446692864",
       "players": [
-        "11557",
         "11628",
         "11638",
         "1166",
@@ -1813,6 +1812,7 @@
         "6806",
         "7588",
         "8119",
+        "8122",
         "8146"
       ],
       "starters": [
@@ -1827,7 +1827,6 @@
         "4034"
       ],
       "bench": [
-        "11557",
         "11834",
         "12483",
         "12506",
@@ -1840,7 +1839,8 @@
         "5854",
         "5872",
         "6803",
-        "8119"
+        "8119",
+        "8122"
       ],
       "reserve": [
         "11638",
@@ -1854,7 +1854,6 @@
       "taxi_count": 0,
       "display": {
         "players": [
-          "Joe Milton",
           "Marvin Harrison Jr.",
           "Ricky Pearsall",
           "Kirk Cousins",
@@ -1878,6 +1877,7 @@
           "J.K. Dobbins",
           "Javonte Williams",
           "Jahan Dotson",
+          "Zonovan Knight",
           "Garrett Wilson"
         ],
         "starters": [
@@ -1892,7 +1892,6 @@
           "Christian McCaffrey"
         ],
         "bench": [
-          "Joe Milton",
           "Devaughn Vele",
           "Jack Bech",
           "Harold Fannin Jr.",
@@ -1905,7 +1904,8 @@
           "Drew Lock",
           "Deebo Samuel Sr.",
           "Brandon Aiyuk",
-          "Jahan Dotson"
+          "Jahan Dotson",
+          "Zonovan Knight"
         ],
         "reserve": [
           "Ricky Pearsall",
@@ -2119,27 +2119,27 @@
         "8130",
         "11646",
         "8131",
-        "12514"
+        "13346"
       ],
       "bench": [
         "11435",
         "11569",
         "11581",
         "11630",
+        "12514",
         "12521",
         "12531",
         "13270",
         "13301",
-        "13346",
         "6797",
         "7611",
-        "8125",
         "8142",
-        "9500"
+        "9500",
+        "9753"
       ],
       "reserve": [
         "12484",
-        "9753"
+        "8125"
       ],
       "taxi": [],
       "player_count": 25,
@@ -2184,27 +2184,27 @@
           "Trey McBride",
           "Jalen Coker",
           "Isaiah Likely",
-          "Emeka Egbuka"
+          "Denzel Boston"
         ],
         "bench": [
           "Emanuel Wilson",
           "Jarquez Hunter",
           "MarShawn Lloyd",
           "Roman Wilson",
+          "Emeka Egbuka",
           "Elijah Arroyo",
           "Trevor Etienne",
           "CJ Daniels",
           "Antonio Williams",
-          "Denzel Boston",
           "Justin Herbert",
           "Rhamondre Stevenson",
-          "Calvin Austin III",
           "Alec Pierce",
-          "Josh Downs"
+          "Josh Downs",
+          "Zach Charbonnet"
         ],
         "reserve": [
           "Jayden Higgins",
-          "Zach Charbonnet"
+          "Calvin Austin III"
         ],
         "taxi": []
       },
@@ -2852,7 +2852,7 @@
         "years_exp": 3,
         "age": 27,
         "depth_chart_position": "RB",
-        "search_rank": 127
+        "search_rank": 125
       },
       "10222": {
         "player_id": "10222",
@@ -3024,23 +3024,6 @@
         "depth_chart_position": "RB",
         "search_rank": 698
       },
-      "11557": {
-        "player_id": "11557",
-        "name": "Joe Milton",
-        "first_name": "Joe",
-        "last_name": "Milton",
-        "team": "PHI",
-        "position": "QB",
-        "fantasy_positions": [
-          "QB"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 2,
-        "age": 26,
-        "depth_chart_position": "QB",
-        "search_rank": 503
-      },
       "11559": {
         "player_id": "11559",
         "name": "Michael Penix Jr.",
@@ -3073,7 +3056,7 @@
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "QB",
-        "search_rank": 21
+        "search_rank": 22
       },
       "11563": {
         "player_id": "11563",
@@ -3090,7 +3073,7 @@
         "years_exp": 2,
         "age": 26,
         "depth_chart_position": "QB",
-        "search_rank": 45
+        "search_rank": 44
       },
       "11564": {
         "player_id": "11564",
@@ -3141,7 +3124,7 @@
         "years_exp": 2,
         "age": 25,
         "depth_chart_position": "QB",
-        "search_rank": 23
+        "search_rank": 22
       },
       "11569": {
         "player_id": "11569",
@@ -3290,7 +3273,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "TE",
@@ -3362,7 +3345,7 @@
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "LWR",
-        "search_rank": 64
+        "search_rank": 65
       },
       "11624": {
         "player_id": "11624",
@@ -3481,7 +3464,7 @@
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "LWR",
-        "search_rank": 28
+        "search_rank": 26
       },
       "11635": {
         "player_id": "11635",
@@ -3692,7 +3675,7 @@
         "name": "Jaydon Blue",
         "first_name": "Jaydon",
         "last_name": "Blue",
-        "team": null,
+        "team": "PHI",
         "position": "RB",
         "fantasy_positions": [
           "RB"
@@ -3940,7 +3923,7 @@
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "RB",
-        "search_rank": 453
+        "search_rank": 452
       },
       "12497": {
         "player_id": "12497",
@@ -4076,7 +4059,7 @@
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "QB",
-        "search_rank": 44
+        "search_rank": 43
       },
       "12509": {
         "player_id": "12509",
@@ -4144,7 +4127,7 @@
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "TE",
-        "search_rank": 37
+        "search_rank": 35
       },
       "12518": {
         "player_id": "12518",
@@ -4190,12 +4173,12 @@
         "fantasy_positions": [
           "TE"
         ],
-        "status": "Active",
-        "injury_status": "Out",
+        "status": "Inactive",
+        "injury_status": "IR",
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "TE",
-        "search_rank": 460
+        "search_rank": 459
       },
       "12526": {
         "player_id": "12526",
@@ -4264,7 +4247,7 @@
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "RCB",
-        "search_rank": 104
+        "search_rank": 105
       },
       "12531": {
         "player_id": "12531",
@@ -4383,7 +4366,7 @@
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "RB",
-        "search_rank": 509
+        "search_rank": 510
       },
       "12545": {
         "player_id": "12545",
@@ -4502,7 +4485,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "QB",
-        "search_rank": 109
+        "search_rank": 108
       },
       "13270": {
         "player_id": "13270",
@@ -4583,7 +4566,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "RB",
@@ -4655,7 +4638,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RWR",
-        "search_rank": 199
+        "search_rank": 201
       },
       "13286": {
         "player_id": "13286",
@@ -4740,7 +4723,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
-        "search_rank": 91
+        "search_rank": 89
       },
       "13296": {
         "player_id": "13296",
@@ -4757,7 +4740,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RWR",
-        "search_rank": 199
+        "search_rank": 197
       },
       "13298": {
         "player_id": "13298",
@@ -5097,7 +5080,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
-        "search_rank": 368
+        "search_rank": 367
       },
       "13413": {
         "player_id": "13413",
@@ -5114,7 +5097,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "SWR",
-        "search_rank": 181
+        "search_rank": 179
       },
       "13414": {
         "player_id": "13414",
@@ -5148,7 +5131,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "SWR",
-        "search_rank": 111
+        "search_rank": 113
       },
       "13420": {
         "player_id": "13420",
@@ -5182,7 +5165,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "TE",
-        "search_rank": 363
+        "search_rank": 364
       },
       "13424": {
         "player_id": "13424",
@@ -5197,9 +5180,9 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 0,
-        "age": 24,
+        "age": 25,
         "depth_chart_position": "RB",
-        "search_rank": 385
+        "search_rank": 384
       },
       "13477": {
         "player_id": "13477",
@@ -5318,7 +5301,7 @@
         "years_exp": 11,
         "age": 32,
         "depth_chart_position": "SWR",
-        "search_rank": 104
+        "search_rank": 105
       },
       "2505": {
         "player_id": "2505",
@@ -5437,7 +5420,7 @@
         "years_exp": 10,
         "age": 33,
         "depth_chart_position": "TE",
-        "search_rank": 652
+        "search_rank": 644
       },
       "3294": {
         "player_id": "3294",
@@ -5535,7 +5518,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "RB",
@@ -5573,7 +5556,7 @@
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "QB",
-        "search_rank": 39
+        "search_rank": 40
       },
       "4066": {
         "player_id": "4066",
@@ -5590,7 +5573,7 @@
         "years_exp": 9,
         "age": 32,
         "depth_chart_position": "TE",
-        "search_rank": 464
+        "search_rank": 465
       },
       "4137": {
         "player_id": "4137",
@@ -5624,7 +5607,7 @@
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "RB",
-        "search_rank": 455
+        "search_rank": 457
       },
       "4177": {
         "player_id": "4177",
@@ -5743,7 +5726,7 @@
         "years_exp": 8,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 10
+        "search_rank": 9
       },
       "4892": {
         "player_id": "4892",
@@ -5760,7 +5743,7 @@
         "years_exp": 8,
         "age": 31,
         "depth_chart_position": "QB",
-        "search_rank": 75
+        "search_rank": 74
       },
       "4943": {
         "player_id": "4943",
@@ -5892,7 +5875,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 8,
         "age": 31,
         "depth_chart_position": "TE",
@@ -5981,7 +5964,7 @@
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 88
+        "search_rank": 87
       },
       "5850": {
         "player_id": "5850",
@@ -6032,7 +6015,7 @@
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "LWR",
-        "search_rank": 18
+        "search_rank": 17
       },
       "5870": {
         "player_id": "5870",
@@ -6049,7 +6032,7 @@
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 132
+        "search_rank": 131
       },
       "5872": {
         "player_id": "5872",
@@ -6079,7 +6062,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "RB",
@@ -6253,7 +6236,7 @@
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "RB",
-        "search_rank": 46
+        "search_rank": 44
       },
       "6794": {
         "player_id": "6794",
@@ -6266,7 +6249,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "LWR",
@@ -6287,7 +6270,7 @@
         "years_exp": 6,
         "age": 28,
         "depth_chart_position": "QB",
-        "search_rank": 33
+        "search_rank": 34
       },
       "6801": {
         "player_id": "6801",
@@ -6334,7 +6317,7 @@
           "QB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "QB",
@@ -6406,7 +6389,7 @@
         "years_exp": 6,
         "age": 28,
         "depth_chart_position": "QB",
-        "search_rank": 28
+        "search_rank": 26
       },
       "7002": {
         "player_id": "7002",
@@ -6521,7 +6504,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 5,
         "age": 27,
         "depth_chart_position": "LWR",
@@ -6657,7 +6640,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 5,
         "age": 26,
         "depth_chart_position": "LWR",
@@ -6833,6 +6816,23 @@
         "depth_chart_position": "RWR",
         "search_rank": 117
       },
+      "8122": {
+        "player_id": "8122",
+        "name": "Zonovan Knight",
+        "first_name": "Zonovan",
+        "last_name": "Knight",
+        "team": "ARI",
+        "position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 4,
+        "age": 25,
+        "depth_chart_position": "RB",
+        "search_rank": 669
+      },
       "8125": {
         "player_id": "8125",
         "name": "Calvin Austin III",
@@ -6980,7 +6980,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 4,
         "age": 25,
         "depth_chart_position": "RWR",
@@ -7120,7 +7120,7 @@
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "RB",
-        "search_rank": 19
+        "search_rank": 17
       },
       "8154": {
         "player_id": "8154",
@@ -7171,7 +7171,7 @@
         "years_exp": 4,
         "age": 27,
         "depth_chart_position": "QB",
-        "search_rank": 122
+        "search_rank": 121
       },
       "8167": {
         "player_id": "8167",
@@ -7337,7 +7337,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 4,
         "age": 28,
         "depth_chart_position": "RWR",
@@ -7460,7 +7460,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "QB",
-        "search_rank": 134
+        "search_rank": 133
       },
       "9479": {
         "player_id": "9479",
@@ -7477,7 +7477,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "TE",
-        "search_rank": 475
+        "search_rank": 473
       },
       "9480": {
         "player_id": "9480",
@@ -7528,7 +7528,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "TE",
-        "search_rank": 463
+        "search_rank": 461
       },
       "9484": {
         "player_id": "9484",
@@ -7558,7 +7558,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "RWR",
@@ -7609,7 +7609,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "RWR",
@@ -7647,7 +7647,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "SWR",
-        "search_rank": 490
+        "search_rank": 491
       },
       "9502": {
         "player_id": "9502",
@@ -7766,7 +7766,7 @@
         "years_exp": 21,
         "age": 42,
         "depth_chart_position": "QB",
-        "search_rank": 187
+        "search_rank": 186
       },
       "9753": {
         "player_id": "9753",
@@ -7778,8 +7778,8 @@
         "fantasy_positions": [
           "RB"
         ],
-        "status": "Inactive",
-        "injury_status": "PUP",
+        "status": "Active",
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "RB",
@@ -7885,7 +7885,7 @@
         "years_exp": 3,
         "age": 27,
         "depth_chart_position": "SWR",
-        "search_rank": 502
+        "search_rank": 503
       },
       "10444": {
         "player_id": "10444",
@@ -7920,6 +7920,23 @@
         "age": 27,
         "depth_chart_position": "RB",
         "search_rank": 502
+      },
+      "11557": {
+        "player_id": "11557",
+        "name": "Joe Milton",
+        "first_name": "Joe",
+        "last_name": "Milton",
+        "team": "PHI",
+        "position": "QB",
+        "fantasy_positions": [
+          "QB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 2,
+        "age": 26,
+        "depth_chart_position": "QB",
+        "search_rank": 503
       },
       "11571": {
         "player_id": "11571",
@@ -8140,7 +8157,7 @@
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "QB",
-        "search_rank": 115
+        "search_rank": 116
       },
       "12524": {
         "player_id": "12524",
@@ -8208,7 +8225,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "QB",
-        "search_rank": 287
+        "search_rank": 288
       },
       "13282": {
         "player_id": "13282",
@@ -8310,7 +8327,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RB",
-        "search_rank": 486
+        "search_rank": 487
       },
       "13425": {
         "player_id": "13425",
@@ -8361,7 +8378,7 @@
         "years_exp": 11,
         "age": 32,
         "depth_chart_position": "QB",
-        "search_rank": 467
+        "search_rank": 468
       },
       "2374": {
         "player_id": "2374",
@@ -8429,7 +8446,7 @@
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "QB",
-        "search_rank": 293
+        "search_rank": 292
       },
       "4018": {
         "player_id": "4018",
@@ -8565,7 +8582,7 @@
         "years_exp": 8,
         "age": 31,
         "depth_chart_position": "TE",
-        "search_rank": 448
+        "search_rank": 449
       },
       "5970": {
         "player_id": "5970",
@@ -8736,23 +8753,6 @@
         "age": 27,
         "depth_chart_position": "RWR",
         "search_rank": 624
-      },
-      "8122": {
-        "player_id": "8122",
-        "name": "Zonovan Knight",
-        "first_name": "Zonovan",
-        "last_name": "Knight",
-        "team": "ARI",
-        "position": "RB",
-        "fantasy_positions": [
-          "RB"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 4,
-        "age": 25,
-        "depth_chart_position": "RB",
-        "search_rank": 669
       },
       "8127": {
         "player_id": "8127",
@@ -20317,7 +20317,7 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 0.0,
+                "points": 18.9,
                 "custom_points": null
               },
               {
@@ -20327,7 +20327,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock",
+              "points": 18.9
+            }
           },
           {
             "week": 7,
@@ -20336,17 +20340,21 @@
               {
                 "roster_id": 2,
                 "team_label": "Washington Monument",
-                "points": 0.0,
+                "points": 21.2,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 0.0,
+                "points": 21.9,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 11,
+              "team_label": "MOJO",
+              "points": 21.9
+            }
           },
           {
             "week": 7,
@@ -20355,7 +20363,7 @@
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 0.0,
+                "points": 10.9,
                 "custom_points": null
               },
               {
@@ -20365,7 +20373,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 5,
+              "team_label": "White Ice",
+              "points": 10.9
+            }
           },
           {
             "week": 7,
@@ -20374,7 +20386,7 @@
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 0.0,
+                "points": 23.7,
                 "custom_points": null
               },
               {
@@ -20384,7 +20396,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 4,
+              "team_label": "Puka Troopas",
+              "points": 23.7
+            }
           },
           {
             "week": 7,
@@ -20393,17 +20409,21 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 0.0,
+                "points": 5.3,
                 "custom_points": null
               },
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 0.0,
+                "points": 27.44,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 8,
+              "team_label": "Back to the Future",
+              "points": 27.44
+            }
           },
           {
             "week": 7,
@@ -20418,11 +20438,15 @@
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 0.0,
+                "points": 19.0,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 10,
+              "team_label": "Goin in Ra",
+              "points": 19.0
+            }
           }
         ],
         "roster_results": [
@@ -20431,7 +20455,7 @@
             "matchup_id": 1,
             "roster_id": 1,
             "team_label": "It’s Herbie Hancock",
-            "points": 0.0,
+            "points": 18.9,
             "custom_points": null,
             "players": [
               "10236",
@@ -20463,13 +20487,13 @@
             "starters": [
               "9758",
               "11576",
-              "13305",
+              "12529",
               "12501",
               "9756",
               "13421",
               "13296",
               "11624",
-              "12529"
+              "13305"
             ],
             "bench": [
               "10236",
@@ -20497,9 +20521,9 @@
               "11643": 0.0,
               "12498": 0.0,
               "12501": 0.0,
-              "12529": 0.0,
+              "12529": 4.3,
               "12533": 0.0,
-              "12542": 0.0,
+              "12542": 2.6,
               "12544": 0.0,
               "13281": 0.0,
               "13296": 0.0,
@@ -20510,7 +20534,7 @@
               "13394": 0.0,
               "13402": 0.0,
               "13411": 0.0,
-              "13421": 0.0,
+              "13421": 14.6,
               "8136": 0.0,
               "9504": 0.0,
               "9756": 0.0,
@@ -20548,13 +20572,13 @@
               "starters": [
                 "C.J. Stroud",
                 "Braelon Allen",
-                "Mike Washington Jr.",
+                "TreVeyon Henderson",
                 "Matthew Golden",
                 "Jordan Addison",
                 "Eli Raridon",
                 "Caleb Douglas",
                 "Xavier Worthy",
-                "TreVeyon Henderson"
+                "Mike Washington Jr."
               ],
               "bench": [
                 "Dalton Kincaid",
@@ -20581,7 +20605,7 @@
             "matchup_id": 2,
             "roster_id": 2,
             "team_label": "Washington Monument",
-            "points": 0.0,
+            "points": 21.2,
             "custom_points": null,
             "players": [
               "10235",
@@ -20640,14 +20664,14 @@
               "9754"
             ],
             "players_points": {
-              "10235": 0.0,
+              "10235": 1.3,
               "12048": 0.0,
               "12472": 0.0,
-              "12491": 0.0,
+              "12491": 1.3,
               "12492": 0.0,
               "12495": 0.0,
               "12509": 0.0,
-              "12517": 0.0,
+              "12517": 19.9,
               "12718": 0.0,
               "13276": 0.0,
               "13294": 0.0,
@@ -20731,7 +20755,7 @@
             "matchup_id": 5,
             "roster_id": 3,
             "team_label": "Laporta Potty",
-            "points": 0.0,
+            "points": 5.3,
             "custom_points": null,
             "players": [
               "10859",
@@ -20811,7 +20835,7 @@
               "8112": 0.0,
               "8121": 0.0,
               "8161": 0.0,
-              "9501": 0.0,
+              "9501": 5.3,
               "9502": 0.0,
               "9506": 0.0,
               "9509": 0.0
@@ -20881,7 +20905,7 @@
             "matchup_id": 4,
             "roster_id": 4,
             "team_label": "Puka Troopas",
-            "points": 0.0,
+            "points": 23.7,
             "custom_points": null,
             "players": [
               "11603",
@@ -20910,37 +20934,37 @@
             ],
             "starters": [
               "8183",
-              "4035",
+              "8155",
               "7594",
               "9493",
               "12519",
-              "9480",
+              "11603",
               "13279",
-              "4037",
-              "11610"
+              "5967",
+              "8132"
             ],
             "bench": [
-              "11603",
+              "11610",
               "11631",
               "12457",
               "12530",
               "13293",
               "13345",
               "4033",
+              "4035",
+              "4037",
               "5870",
-              "5967",
               "7571",
               "8111",
-              "8132",
-              "8155",
-              "8698"
+              "8698",
+              "9480"
             ],
             "players_points": {
               "11603": 0.0,
               "11610": 0.0,
               "11631": 0.0,
               "12457": 0.0,
-              "12519": 0.0,
+              "12519": 23.7,
               "12530": 0.0,
               "13279": 0.0,
               "13293": 0.0,
@@ -20989,30 +21013,30 @@
               ],
               "starters": [
                 "Brock Purdy",
-                "Alvin Kamara",
+                "Breece Hall",
                 "Chuba Hubbard",
                 "Puka Nacua",
                 "Luther Burden III",
-                "Brenton Strange",
+                "AJ Barner",
                 "Carnell Tate",
-                "Chris Godwin Jr.",
-                "Malik Washington"
+                "Tony Pollard",
+                "Tyler Allgeier"
               ],
               "bench": [
-                "AJ Barner",
+                "Malik Washington",
                 "Brian Thomas Jr.",
                 "Jaydon Blue",
                 "Travis Hunter",
                 "Ja'Kobi Lane",
                 "Jonah Coleman",
                 "David Njoku",
+                "Alvin Kamara",
+                "Chris Godwin Jr.",
                 "Daniel Jones",
-                "Tony Pollard",
                 "Rashod Bateman",
                 "Cade Otton",
-                "Tyler Allgeier",
-                "Breece Hall",
-                "Jake Tonges"
+                "Jake Tonges",
+                "Brenton Strange"
               ]
             }
           },
@@ -21021,7 +21045,7 @@
             "matchup_id": 3,
             "roster_id": 5,
             "team_label": "White Ice",
-            "points": 0.0,
+            "points": 10.9,
             "custom_points": null,
             "players": [
               "10213",
@@ -21081,9 +21105,9 @@
             ],
             "players_points": {
               "10213": 0.0,
-              "11560": 0.0,
+              "11560": 22.12,
               "11586": 0.0,
-              "11620": 0.0,
+              "11620": 10.9,
               "11625": 0.0,
               "12467": 0.0,
               "12497": 0.0,
@@ -21174,7 +21198,6 @@
             "points": 0.0,
             "custom_points": null,
             "players": [
-              "11557",
               "11628",
               "11638",
               "1166",
@@ -21198,6 +21221,7 @@
               "6806",
               "7588",
               "8119",
+              "8122",
               "8146"
             ],
             "starters": [
@@ -21212,7 +21236,6 @@
               "4034"
             ],
             "bench": [
-              "11557",
               "11638",
               "11834",
               "12483",
@@ -21227,10 +21250,10 @@
               "5854",
               "5872",
               "6803",
-              "8119"
+              "8119",
+              "8122"
             ],
             "players_points": {
-              "11557": 0.0,
               "11628": 0.0,
               "11638": 0.0,
               "1166": 0.0,
@@ -21254,12 +21277,12 @@
               "6806": 0.0,
               "7588": 0.0,
               "8119": 0.0,
+              "8122": 0.0,
               "8146": 0.0
             },
             "starters_points": {},
             "display": {
               "players": [
-                "Joe Milton",
                 "Marvin Harrison Jr.",
                 "Ricky Pearsall",
                 "Kirk Cousins",
@@ -21283,6 +21306,7 @@
                 "J.K. Dobbins",
                 "Javonte Williams",
                 "Jahan Dotson",
+                "Zonovan Knight",
                 "Garrett Wilson"
               ],
               "starters": [
@@ -21297,7 +21321,6 @@
                 "Christian McCaffrey"
               ],
               "bench": [
-                "Joe Milton",
                 "Ricky Pearsall",
                 "Devaughn Vele",
                 "Jack Bech",
@@ -21312,7 +21335,8 @@
                 "Drew Lock",
                 "Deebo Samuel Sr.",
                 "Brandon Aiyuk",
-                "Jahan Dotson"
+                "Jahan Dotson",
+                "Zonovan Knight"
               ]
             }
           },
@@ -21471,7 +21495,7 @@
             "matchup_id": 5,
             "roster_id": 8,
             "team_label": "Back to the Future",
-            "points": 0.0,
+            "points": 27.44,
             "custom_points": null,
             "players": [
               "11435",
@@ -21509,7 +21533,7 @@
               "8130",
               "11646",
               "8131",
-              "12514"
+              "13346"
             ],
             "bench": [
               "11435",
@@ -21517,11 +21541,11 @@
               "11581",
               "11630",
               "12484",
+              "12514",
               "12521",
               "12531",
               "13270",
               "13301",
-              "13346",
               "6797",
               "7611",
               "8125",
@@ -21531,7 +21555,7 @@
             ],
             "players_points": {
               "11435": 0.0,
-              "11564": 0.0,
+              "11564": 27.44,
               "11569": 0.0,
               "11581": 0.0,
               "11630": 0.0,
@@ -21546,7 +21570,7 @@
               "6786": 0.0,
               "6794": 0.0,
               "6797": 0.0,
-              "7611": 0.0,
+              "7611": 22.5,
               "8125": 0.0,
               "8130": 0.0,
               "8131": 0.0,
@@ -21594,7 +21618,7 @@
                 "Trey McBride",
                 "Jalen Coker",
                 "Isaiah Likely",
-                "Emeka Egbuka"
+                "Denzel Boston"
               ],
               "bench": [
                 "Emanuel Wilson",
@@ -21602,11 +21626,11 @@
                 "MarShawn Lloyd",
                 "Roman Wilson",
                 "Jayden Higgins",
+                "Emeka Egbuka",
                 "Elijah Arroyo",
                 "Trevor Etienne",
                 "CJ Daniels",
                 "Antonio Williams",
-                "Denzel Boston",
                 "Justin Herbert",
                 "Rhamondre Stevenson",
                 "Calvin Austin III",
@@ -21766,7 +21790,7 @@
             "matchup_id": 6,
             "roster_id": 10,
             "team_label": "Goin in Ra",
-            "points": 0.0,
+            "points": 19.0,
             "custom_points": null,
             "players": [
               "11626",
@@ -21842,7 +21866,7 @@
               "5848": 0.0,
               "5927": 0.0,
               "5947": 0.0,
-              "6790": 0.0,
+              "6790": 19.0,
               "7547": 0.0,
               "7600": 0.0,
               "8126": 0.0,
@@ -21916,7 +21940,7 @@
             "matchup_id": 2,
             "roster_id": 11,
             "team_label": "MOJO",
-            "points": 0.0,
+            "points": 21.9,
             "custom_points": null,
             "players": [
               "11439",
@@ -21984,12 +22008,12 @@
               "13320": 0.0,
               "13424": 0.0,
               "2133": 0.0,
-              "3214": 0.0,
+              "3214": 14.1,
               "4147": 0.0,
               "4984": 0.0,
               "5045": 0.0,
               "5850": 0.0,
-              "5859": 0.0,
+              "5859": 7.8,
               "5892": 0.0,
               "6039": 0.0,
               "6783": 0.0,
@@ -27994,13 +28018,56 @@
             "waiver_budget": [],
             "settings": {},
             "metadata": {}
+          },
+          {
+            "week": 7,
+            "transaction_id": "1419043522312445952",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1792688849575,
+            "created_at": "2026-10-22T17:07:29.575000Z",
+            "status_updated": 1792688849575,
+            "status_updated_at": "2026-10-22T17:07:29.575000Z",
+            "creator_user_id": "471451909446692864",
+            "roster_ids": [
+              6
+            ],
+            "team_labels": [
+              "andrewwelle"
+            ],
+            "consenter_ids": [
+              6
+            ],
+            "consenter_team_labels": [
+              "andrewwelle"
+            ],
+            "adds": [
+              {
+                "player_id": "8122",
+                "player_name": "Zonovan Knight",
+                "roster_id": 6,
+                "team_label": "andrewwelle"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "11557",
+                "player_name": "Joe Milton",
+                "roster_id": 6,
+                "team_label": "andrewwelle"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
           }
         ],
         "counts": {
-          "transactions": 1,
+          "transactions": 2,
           "trades": 0,
           "waivers": 0,
-          "free_agent_moves": 1
+          "free_agent_moves": 2
         }
       }
     },
@@ -33704,6 +33771,49 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 7,
+        "transaction_id": "1419043522312445952",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1792688849575,
+        "created_at": "2026-10-22T17:07:29.575000Z",
+        "status_updated": 1792688849575,
+        "status_updated_at": "2026-10-22T17:07:29.575000Z",
+        "creator_user_id": "471451909446692864",
+        "roster_ids": [
+          6
+        ],
+        "team_labels": [
+          "andrewwelle"
+        ],
+        "consenter_ids": [
+          6
+        ],
+        "consenter_team_labels": [
+          "andrewwelle"
+        ],
+        "adds": [
+          {
+            "player_id": "8122",
+            "player_name": "Zonovan Knight",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "11557",
+            "player_name": "Joe Milton",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "trades": [
@@ -39378,22 +39488,65 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 7,
+        "transaction_id": "1419043522312445952",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1792688849575,
+        "created_at": "2026-10-22T17:07:29.575000Z",
+        "status_updated": 1792688849575,
+        "status_updated_at": "2026-10-22T17:07:29.575000Z",
+        "creator_user_id": "471451909446692864",
+        "roster_ids": [
+          6
+        ],
+        "team_labels": [
+          "andrewwelle"
+        ],
+        "consenter_ids": [
+          6
+        ],
+        "consenter_team_labels": [
+          "andrewwelle"
+        ],
+        "adds": [
+          {
+            "player_id": "8122",
+            "player_name": "Zonovan Knight",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "11557",
+            "player_name": "Joe Milton",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "counts": {
       "weeks": 7,
-      "transactions": 130,
+      "transactions": 131,
       "trades": 14,
       "waivers": 24,
-      "free_agent_moves": 91,
+      "free_agent_moves": 92,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 91,
+        "free_agent": 92,
         "trade": 14,
         "waiver": 24
       },
       "by_status": {
-        "complete": 122,
+        "complete": 123,
         "failed": 8
       }
     }
@@ -43413,7 +43566,6 @@
       "jerome ford": "8143",
       "jerry jeudy": "6783",
       "joe burrow": "6770",
-      "joe milton": "11557",
       "jonah coleman": "13345",
       "jonathan taylor": "6813",
       "jonathon brooks": "11583",
@@ -43556,7 +43708,8 @@
       "zach charbonnet": "9753",
       "zachariah branch": "13320",
       "zavion thomas": "13411",
-      "zay flowers": "9997"
+      "zay flowers": "9997",
+      "zonovan knight": "8122"
     }
   }
 }
