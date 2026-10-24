@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-23T15:46:13.954018Z",
+  "generated_at": "2026-10-24T14:37:54.996382Z",
   "counts": {
-    "required_player_ids": 352,
-    "resolved_player_ids": 352,
+    "required_player_ids": 353,
+    "resolved_player_ids": 353,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -205,6 +205,7 @@
       "jordan james": "12467",
       "jordan love": "6804",
       "jordan mason": "8408",
+      "jordan watkins": "12634",
       "jordyn tyson": "13281",
       "josh allen": "4984",
       "josh cameron": "13394",
@@ -718,6 +719,7 @@
       "SF": [
         "11638",
         "12467",
+        "12634",
         "13414",
         "13417",
         "2197",
@@ -1031,6 +1033,7 @@
         "12540",
         "12542",
         "12547",
+        "12634",
         "12718",
         "13150",
         "13264",

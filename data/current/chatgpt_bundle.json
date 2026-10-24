@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-10-23T15:46:10.145066Z",
+    "generated_at": "2026-10-24T14:37:53.541127Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -1360,10 +1360,10 @@
         "13150",
         "13268",
         "13269",
+        "2197",
         "2216",
         "2449",
         "4046",
-        "4066",
         "4981",
         "5995",
         "6804",
@@ -1395,10 +1395,10 @@
         "13150",
         "13268",
         "13269",
+        "2197",
         "2216",
         "2449",
         "4046",
-        "4066",
         "4981",
         "5995",
         "7039",
@@ -1425,10 +1425,10 @@
           "Darius Cooper",
           "Elijah Sarratt",
           "Fernando Mendoza",
+          "Brandin Cooks",
           "Mike Evans",
           "Stefon Diggs",
           "Patrick Mahomes",
-          "Evan Engram",
           "Calvin Ridley",
           "Justice Hill",
           "Jordan Love",
@@ -1460,10 +1460,10 @@
           "Darius Cooper",
           "Elijah Sarratt",
           "Fernando Mendoza",
+          "Brandin Cooks",
           "Mike Evans",
           "Stefon Diggs",
           "Patrick Mahomes",
-          "Evan Engram",
           "Calvin Ridley",
           "Justice Hill",
           "Cody White",
@@ -1968,7 +1968,7 @@
         "12474",
         "9488",
         "11632",
-        "12518",
+        "9479",
         "8167",
         "12526",
         "13298"
@@ -1978,6 +1978,7 @@
         "11559",
         "11637",
         "12504",
+        "12518",
         "12535",
         "12547",
         "13264",
@@ -1986,8 +1987,7 @@
         "13311",
         "13414",
         "13533",
-        "4892",
-        "9479"
+        "4892"
       ],
       "reserve": [
         "10222",
@@ -2033,7 +2033,7 @@
           "Woody Marks",
           "Jaxon Smith-Njigba",
           "Malik Nabers",
-          "Tyler Warren",
+          "Darnell Washington",
           "Christian Watson",
           "Tetairoa McMillan",
           "KC Concepcion Jr."
@@ -2043,6 +2043,7 @@
           "Michael Penix Jr.",
           "Keon Coleman",
           "Kaleb Johnson",
+          "Tyler Warren",
           "Isaac TeSlaa",
           "Kyle Williams",
           "Dohnte Meyers",
@@ -2051,8 +2052,7 @@
           "Chris Bell",
           "Kaelon Black",
           "Barion Brown",
-          "Baker Mayfield",
-          "Darnell Washington"
+          "Baker Mayfield"
         ],
         "reserve": [
           "Jayden Reed",
@@ -2240,6 +2240,7 @@
         "12489",
         "12493",
         "12507",
+        "12634",
         "13285",
         "13330",
         "13380",
@@ -2249,7 +2250,7 @@
         "3321",
         "3634",
         "5849",
-        "7090",
+        "6130",
         "7553",
         "8137",
         "8144",
@@ -2259,28 +2260,29 @@
         "9226"
       ],
       "starters": [
-        "3257",
+        "5849",
         "12489",
-        "12507",
+        "6130",
         "8137",
         "8144",
         "7553",
         "13285",
-        "3634",
-        "8154"
+        "13330",
+        "12634"
       ],
       "bench": [
         "10219",
         "10229",
         "11565",
         "12493",
-        "13330",
+        "12507",
         "13380",
         "13405",
         "3161",
+        "3257",
         "3321",
-        "5849",
-        "7090",
+        "3634",
+        "8154",
         "8172",
         "8188"
       ],
@@ -2289,9 +2291,9 @@
         "9226"
       ],
       "taxi": [],
-      "player_count": 24,
+      "player_count": 25,
       "starter_count": 9,
-      "bench_count": 13,
+      "bench_count": 14,
       "reserve_count": 2,
       "taxi_count": 0,
       "display": {
@@ -2303,6 +2305,7 @@
           "RJ Harvey",
           "Oronde Gadsden",
           "Omarion Hampton",
+          "Jordan Watkins",
           "Malachi Fields",
           "Kenyon Sadiq",
           "Brenen Thompson",
@@ -2312,7 +2315,7 @@
           "Tyreek Hill",
           "Kalif Raymond",
           "Kyler Murray",
-          "Darnell Mooney",
+          "Devin Singletary",
           "Kyle Pitts Sr.",
           "George Pickens",
           "Chris Olave",
@@ -2322,28 +2325,29 @@
           "De'Von Achane"
         ],
         "starters": [
-          "Jacoby Brissett",
+          "Kyler Murray",
           "RJ Harvey",
-          "Omarion Hampton",
+          "Devin Singletary",
           "George Pickens",
           "Chris Olave",
           "Kyle Pitts Sr.",
           "Malachi Fields",
-          "Kalif Raymond",
-          "Brian Robinson Jr."
+          "Kenyon Sadiq",
+          "Jordan Watkins"
         ],
         "bench": [
           "Chris Rodriguez Jr.",
           "Rashee Rice",
           "J.J. McCarthy",
           "Oronde Gadsden",
-          "Kenyon Sadiq",
+          "Omarion Hampton",
           "Brenen Thompson",
           "Kaytron Allen",
           "Carson Wentz",
+          "Jacoby Brissett",
           "Tyreek Hill",
-          "Kyler Murray",
-          "Darnell Mooney",
+          "Kalif Raymond",
+          "Brian Robinson Jr.",
           "Greg Dulcich",
           "Tyquan Thornton"
         ],
@@ -2882,7 +2886,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 3,
         "age": 26,
         "depth_chart_position": "SWR",
@@ -3073,7 +3077,7 @@
         "years_exp": 2,
         "age": 26,
         "depth_chart_position": "QB",
-        "search_rank": 44
+        "search_rank": 46
       },
       "11564": {
         "player_id": "11564",
@@ -3222,7 +3226,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "RB",
@@ -3375,7 +3379,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "RWR",
@@ -3464,7 +3468,7 @@
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "LWR",
-        "search_rank": 26
+        "search_rank": 28
       },
       "11635": {
         "player_id": "11635",
@@ -3528,7 +3532,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "RB",
@@ -3923,7 +3927,7 @@
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "RB",
-        "search_rank": 452
+        "search_rank": 451
       },
       "12497": {
         "player_id": "12497",
@@ -3987,7 +3991,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "RWR",
@@ -4089,7 +4093,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "RB",
@@ -4106,7 +4110,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "LWR",
@@ -4140,7 +4144,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "TE",
@@ -4402,6 +4406,23 @@
         "depth_chart_position": "SWR",
         "search_rank": 195
       },
+      "12634": {
+        "player_id": "12634",
+        "name": "Jordan Watkins",
+        "first_name": "Jordan",
+        "last_name": "Watkins",
+        "team": "SF",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 1,
+        "age": 24,
+        "depth_chart_position": "RWR",
+        "search_rank": 999
+      },
       "12718": {
         "player_id": "12718",
         "name": "Konata Mumpfield",
@@ -4415,7 +4436,7 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 1,
-        "age": 23,
+        "age": 24,
         "depth_chart_position": "SWR",
         "search_rank": 678
       },
@@ -4668,7 +4689,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 0,
         "age": 21,
         "depth_chart_position": "RB",
@@ -4736,7 +4757,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RWR",
@@ -4753,7 +4774,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
@@ -4940,7 +4961,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "LWR",
@@ -5148,7 +5169,7 @@
         "years_exp": 0,
         "age": 24,
         "depth_chart_position": "LWR",
-        "search_rank": 483
+        "search_rank": 482
       },
       "13421": {
         "player_id": "13421",
@@ -5229,7 +5250,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 13,
         "age": 37,
         "depth_chart_position": "TE",
@@ -5269,6 +5290,23 @@
         "depth_chart_position": "LWR",
         "search_rank": 46
       },
+      "2197": {
+        "player_id": "2197",
+        "name": "Brandin Cooks",
+        "first_name": "Brandin",
+        "last_name": "Cooks",
+        "team": "SF",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 12,
+        "age": 33,
+        "depth_chart_position": "SWR",
+        "search_rank": 598
+      },
       "2216": {
         "player_id": "2216",
         "name": "Mike Evans",
@@ -5280,7 +5318,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 12,
         "age": 33,
         "depth_chart_position": "LWR",
@@ -5558,23 +5596,6 @@
         "depth_chart_position": "QB",
         "search_rank": 40
       },
-      "4066": {
-        "player_id": "4066",
-        "name": "Evan Engram",
-        "first_name": "Evan",
-        "last_name": "Engram",
-        "team": "DEN",
-        "position": "TE",
-        "fantasy_positions": [
-          "TE"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 9,
-        "age": 32,
-        "depth_chart_position": "TE",
-        "search_rank": 465
-      },
       "4137": {
         "player_id": "4137",
         "name": "James Conner",
@@ -5607,7 +5628,7 @@
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "RB",
-        "search_rank": 457
+        "search_rank": 455
       },
       "4177": {
         "player_id": "4177",
@@ -5841,7 +5862,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 8,
         "age": 30,
         "depth_chart_position": "TE",
@@ -5909,7 +5930,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "TE",
@@ -5964,7 +5985,7 @@
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 87
+        "search_rank": 88
       },
       "5850": {
         "player_id": "5850",
@@ -6062,11 +6083,11 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Doubtful",
+        "injury_status": "Out",
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "RB",
-        "search_rank": 43
+        "search_rank": 41
       },
       "5906": {
         "player_id": "5906",
@@ -6170,6 +6191,23 @@
         "depth_chart_position": "RB",
         "search_rank": 534
       },
+      "6130": {
+        "player_id": "6130",
+        "name": "Devin Singletary",
+        "first_name": "Devin",
+        "last_name": "Singletary",
+        "team": "NYG",
+        "position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 7,
+        "age": 29,
+        "depth_chart_position": "RB",
+        "search_rank": 660
+      },
       "6770": {
         "player_id": "6770",
         "name": "Joe Burrow",
@@ -6236,7 +6274,7 @@
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "RB",
-        "search_rank": 44
+        "search_rank": 46
       },
       "6794": {
         "player_id": "6794",
@@ -6253,7 +6291,7 @@
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "LWR",
-        "search_rank": 12
+        "search_rank": 11
       },
       "6797": {
         "player_id": "6797",
@@ -6389,7 +6427,7 @@
         "years_exp": 6,
         "age": 28,
         "depth_chart_position": "QB",
-        "search_rank": 26
+        "search_rank": 28
       },
       "7002": {
         "player_id": "7002",
@@ -6440,7 +6478,7 @@
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "SWR",
-        "search_rank": 533
+        "search_rank": 532
       },
       "7049": {
         "player_id": "7049",
@@ -6458,23 +6496,6 @@
         "age": 29,
         "depth_chart_position": "SWR",
         "search_rank": 123
-      },
-      "7090": {
-        "player_id": "7090",
-        "name": "Darnell Mooney",
-        "first_name": "Darnell",
-        "last_name": "Mooney",
-        "team": "NYG",
-        "position": "WR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 6,
-        "age": 28,
-        "depth_chart_position": "SWR",
-        "search_rank": 194
       },
       "7523": {
         "player_id": "7523",
@@ -6521,7 +6542,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 5,
         "age": 27,
         "depth_chart_position": "RWR",
@@ -6557,7 +6578,7 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 5,
-        "age": 26,
+        "age": 27,
         "depth_chart_position": "SWR",
         "search_rank": 7
       },
@@ -6980,7 +7001,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 4,
         "age": 25,
         "depth_chart_position": "RWR",
@@ -7133,7 +7154,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 4,
         "age": 27,
         "depth_chart_position": "RB",
@@ -7184,7 +7205,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 4,
         "age": 27,
         "depth_chart_position": "LWR",
@@ -7528,7 +7549,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "TE",
-        "search_rank": 461
+        "search_rank": 462
       },
       "9484": {
         "player_id": "9484",
@@ -7596,7 +7617,7 @@
         "years_exp": 3,
         "age": 24,
         "depth_chart_position": "LWR",
-        "search_rank": 6
+        "search_rank": 5
       },
       "9493": {
         "player_id": "9493",
@@ -7659,7 +7680,7 @@
         "fantasy_positions": [
           "WR"
         ],
-        "status": "Active",
+        "status": "Inactive",
         "injury_status": "IR",
         "years_exp": 3,
         "age": 26,
@@ -7711,7 +7732,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "RB",
@@ -7779,7 +7800,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "RB",
@@ -8000,7 +8021,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "years_exp": 2,
         "age": 25,
         "depth_chart_position": "TE",
@@ -8051,7 +8072,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Out",
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "RB",
@@ -8346,23 +8367,6 @@
         "depth_chart_position": "QB",
         "search_rank": 647
       },
-      "2197": {
-        "player_id": "2197",
-        "name": "Brandin Cooks",
-        "first_name": "Brandin",
-        "last_name": "Cooks",
-        "team": "SF",
-        "position": "WR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 12,
-        "age": 33,
-        "depth_chart_position": "SWR",
-        "search_rank": 527
-      },
       "2306": {
         "player_id": "2306",
         "name": "Jameis Winston",
@@ -8446,7 +8450,7 @@
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "QB",
-        "search_rank": 292
+        "search_rank": 291
       },
       "4018": {
         "player_id": "4018",
@@ -8481,6 +8485,23 @@
         "age": 33,
         "depth_chart_position": "SWR",
         "search_rank": 195
+      },
+      "4066": {
+        "player_id": "4066",
+        "name": "Evan Engram",
+        "first_name": "Evan",
+        "last_name": "Engram",
+        "team": "DEN",
+        "position": "TE",
+        "fantasy_positions": [
+          "TE"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 9,
+        "age": 32,
+        "depth_chart_position": "TE",
+        "search_rank": 465
       },
       "4098": {
         "player_id": "4098",
@@ -8601,23 +8622,6 @@
         "depth_chart_position": "RWR",
         "search_rank": 585
       },
-      "6130": {
-        "player_id": "6130",
-        "name": "Devin Singletary",
-        "first_name": "Devin",
-        "last_name": "Singletary",
-        "team": "NYG",
-        "position": "RB",
-        "fantasy_positions": [
-          "RB"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 7,
-        "age": 29,
-        "depth_chart_position": "RB",
-        "search_rank": 660
-      },
       "6149": {
         "player_id": "6149",
         "name": "Darius Slayton",
@@ -8700,8 +8704,25 @@
         "injury_status": null,
         "years_exp": 6,
         "age": 28,
-        "depth_chart_position": "RB",
+        "depth_chart_position": null,
         "search_rank": 677
+      },
+      "7090": {
+        "player_id": "7090",
+        "name": "Darnell Mooney",
+        "first_name": "Darnell",
+        "last_name": "Mooney",
+        "team": "NYG",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 6,
+        "age": 28,
+        "depth_chart_position": "SWR",
+        "search_rank": 194
       },
       "7528": {
         "player_id": "7528",
@@ -20764,10 +20785,10 @@
               "13150",
               "13268",
               "13269",
+              "2197",
               "2216",
               "2449",
               "4046",
-              "4066",
               "4981",
               "5995",
               "6804",
@@ -20799,10 +20820,10 @@
               "13150",
               "13268",
               "13269",
+              "2197",
               "2216",
               "2449",
               "4046",
-              "4066",
               "4981",
               "5995",
               "6819",
@@ -20820,10 +20841,10 @@
               "13150": 0.0,
               "13268": 0.0,
               "13269": 0.0,
+              "2197": 0.0,
               "2216": 0.0,
               "2449": 0.0,
               "4046": 0.0,
-              "4066": 0.0,
               "4981": 0.0,
               "5995": 0.0,
               "6804": 0.0,
@@ -20849,10 +20870,10 @@
                 "Darius Cooper",
                 "Elijah Sarratt",
                 "Fernando Mendoza",
+                "Brandin Cooks",
                 "Mike Evans",
                 "Stefon Diggs",
                 "Patrick Mahomes",
-                "Evan Engram",
                 "Calvin Ridley",
                 "Justice Hill",
                 "Jordan Love",
@@ -20884,10 +20905,10 @@
                 "Darius Cooper",
                 "Elijah Sarratt",
                 "Fernando Mendoza",
+                "Brandin Cooks",
                 "Mike Evans",
                 "Stefon Diggs",
                 "Patrick Mahomes",
-                "Evan Engram",
                 "Calvin Ridley",
                 "Justice Hill",
                 "Michael Pittman Jr.",
@@ -21380,7 +21401,7 @@
               "12474",
               "9488",
               "11632",
-              "12518",
+              "9479",
               "8167",
               "12526",
               "13298"
@@ -21391,6 +21412,7 @@
               "11559",
               "11637",
               "12504",
+              "12518",
               "12535",
               "12547",
               "13264",
@@ -21400,8 +21422,7 @@
               "13414",
               "13533",
               "4892",
-              "8205",
-              "9479"
+              "8205"
             ],
             "players_points": {
               "10222": 0.0,
@@ -21465,7 +21486,7 @@
                 "Woody Marks",
                 "Jaxon Smith-Njigba",
                 "Malik Nabers",
-                "Tyler Warren",
+                "Darnell Washington",
                 "Christian Watson",
                 "Tetairoa McMillan",
                 "KC Concepcion Jr."
@@ -21476,6 +21497,7 @@
                 "Michael Penix Jr.",
                 "Keon Coleman",
                 "Kaleb Johnson",
+                "Tyler Warren",
                 "Isaac TeSlaa",
                 "Kyle Williams",
                 "Dohnte Meyers",
@@ -21485,8 +21507,7 @@
                 "Kaelon Black",
                 "Barion Brown",
                 "Baker Mayfield",
-                "Isiah Pacheco",
-                "Darnell Washington"
+                "Isiah Pacheco"
               ]
             }
           },
@@ -21655,6 +21676,7 @@
               "12489",
               "12493",
               "12507",
+              "12634",
               "13285",
               "13330",
               "13380",
@@ -21664,7 +21686,7 @@
               "3321",
               "3634",
               "5849",
-              "7090",
+              "6130",
               "7553",
               "8137",
               "8144",
@@ -21676,16 +21698,17 @@
             "starters": [
               "5849",
               "12489",
-              "8154",
+              "6130",
               "8137",
               "8144",
               "7553",
               "13285",
               "13330",
-              "10229"
+              "12634"
             ],
             "bench": [
               "10219",
+              "10229",
               "11565",
               "11583",
               "12493",
@@ -21696,7 +21719,7 @@
               "3257",
               "3321",
               "3634",
-              "7090",
+              "8154",
               "8172",
               "8188",
               "9226"
@@ -21709,6 +21732,7 @@
               "12489": 0.0,
               "12493": 0.0,
               "12507": 0.0,
+              "12634": 0.0,
               "13285": 0.0,
               "13330": 0.0,
               "13380": 0.0,
@@ -21718,7 +21742,7 @@
               "3321": 0.0,
               "3634": 0.0,
               "5849": 0.0,
-              "7090": 0.0,
+              "6130": 0.0,
               "7553": 0.0,
               "8137": 0.0,
               "8144": 0.0,
@@ -21737,6 +21761,7 @@
                 "RJ Harvey",
                 "Oronde Gadsden",
                 "Omarion Hampton",
+                "Jordan Watkins",
                 "Malachi Fields",
                 "Kenyon Sadiq",
                 "Brenen Thompson",
@@ -21746,7 +21771,7 @@
                 "Tyreek Hill",
                 "Kalif Raymond",
                 "Kyler Murray",
-                "Darnell Mooney",
+                "Devin Singletary",
                 "Kyle Pitts Sr.",
                 "George Pickens",
                 "Chris Olave",
@@ -21758,16 +21783,17 @@
               "starters": [
                 "Kyler Murray",
                 "RJ Harvey",
-                "Brian Robinson Jr.",
+                "Devin Singletary",
                 "George Pickens",
                 "Chris Olave",
                 "Kyle Pitts Sr.",
                 "Malachi Fields",
                 "Kenyon Sadiq",
-                "Rashee Rice"
+                "Jordan Watkins"
               ],
               "bench": [
                 "Chris Rodriguez Jr.",
+                "Rashee Rice",
                 "J.J. McCarthy",
                 "Jonathon Brooks",
                 "Oronde Gadsden",
@@ -21778,7 +21804,7 @@
                 "Jacoby Brissett",
                 "Tyreek Hill",
                 "Kalif Raymond",
-                "Darnell Mooney",
+                "Brian Robinson Jr.",
                 "Greg Dulcich",
                 "Tyquan Thornton",
                 "De'Von Achane"
@@ -28061,13 +28087,135 @@
             "waiver_budget": [],
             "settings": {},
             "metadata": {}
+          },
+          {
+            "week": 7,
+            "transaction_id": "1419424901126692864",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1792779777369,
+            "created_at": "2026-10-23T18:22:57.369000Z",
+            "status_updated": 1792779777369,
+            "status_updated_at": "2026-10-23T18:22:57.369000Z",
+            "creator_user_id": "471501409838166016",
+            "roster_ids": [
+              9
+            ],
+            "team_labels": [
+              "off"
+            ],
+            "consenter_ids": [
+              9
+            ],
+            "consenter_team_labels": [
+              "off"
+            ],
+            "adds": [
+              {
+                "player_id": "6130",
+                "player_name": "Devin Singletary",
+                "roster_id": 9,
+                "team_label": "off"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
+          },
+          {
+            "week": 7,
+            "transaction_id": "1419425216496406528",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1792779852560,
+            "created_at": "2026-10-23T18:24:12.560000Z",
+            "status_updated": 1792779852560,
+            "status_updated_at": "2026-10-23T18:24:12.560000Z",
+            "creator_user_id": "471501409838166016",
+            "roster_ids": [
+              9
+            ],
+            "team_labels": [
+              "off"
+            ],
+            "consenter_ids": [
+              9
+            ],
+            "consenter_team_labels": [
+              "off"
+            ],
+            "adds": [
+              {
+                "player_id": "12634",
+                "player_name": "Jordan Watkins",
+                "roster_id": 9,
+                "team_label": "off"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "7090",
+                "player_name": "Darnell Mooney",
+                "roster_id": 9,
+                "team_label": "off"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
+          },
+          {
+            "week": 7,
+            "transaction_id": "1419458615768535040",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1792787815566,
+            "created_at": "2026-10-23T20:36:55.566000Z",
+            "status_updated": 1792787815566,
+            "status_updated_at": "2026-10-23T20:36:55.566000Z",
+            "creator_user_id": "471415197991432192",
+            "roster_ids": [
+              3
+            ],
+            "team_labels": [
+              "Laporta Potty"
+            ],
+            "consenter_ids": [
+              3
+            ],
+            "consenter_team_labels": [
+              "Laporta Potty"
+            ],
+            "adds": [
+              {
+                "player_id": "2197",
+                "player_name": "Brandin Cooks",
+                "roster_id": 3,
+                "team_label": "Laporta Potty"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "4066",
+                "player_name": "Evan Engram",
+                "roster_id": 3,
+                "team_label": "Laporta Potty"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
           }
         ],
         "counts": {
-          "transactions": 2,
+          "transactions": 5,
           "trades": 0,
           "waivers": 0,
-          "free_agent_moves": 2
+          "free_agent_moves": 5
         }
       }
     },
@@ -33814,6 +33962,128 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 7,
+        "transaction_id": "1419424901126692864",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1792779777369,
+        "created_at": "2026-10-23T18:22:57.369000Z",
+        "status_updated": 1792779777369,
+        "status_updated_at": "2026-10-23T18:22:57.369000Z",
+        "creator_user_id": "471501409838166016",
+        "roster_ids": [
+          9
+        ],
+        "team_labels": [
+          "off"
+        ],
+        "consenter_ids": [
+          9
+        ],
+        "consenter_team_labels": [
+          "off"
+        ],
+        "adds": [
+          {
+            "player_id": "6130",
+            "player_name": "Devin Singletary",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 7,
+        "transaction_id": "1419425216496406528",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1792779852560,
+        "created_at": "2026-10-23T18:24:12.560000Z",
+        "status_updated": 1792779852560,
+        "status_updated_at": "2026-10-23T18:24:12.560000Z",
+        "creator_user_id": "471501409838166016",
+        "roster_ids": [
+          9
+        ],
+        "team_labels": [
+          "off"
+        ],
+        "consenter_ids": [
+          9
+        ],
+        "consenter_team_labels": [
+          "off"
+        ],
+        "adds": [
+          {
+            "player_id": "12634",
+            "player_name": "Jordan Watkins",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "7090",
+            "player_name": "Darnell Mooney",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 7,
+        "transaction_id": "1419458615768535040",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1792787815566,
+        "created_at": "2026-10-23T20:36:55.566000Z",
+        "status_updated": 1792787815566,
+        "status_updated_at": "2026-10-23T20:36:55.566000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "2197",
+            "player_name": "Brandin Cooks",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "4066",
+            "player_name": "Evan Engram",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "trades": [
@@ -39531,22 +39801,144 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 7,
+        "transaction_id": "1419424901126692864",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1792779777369,
+        "created_at": "2026-10-23T18:22:57.369000Z",
+        "status_updated": 1792779777369,
+        "status_updated_at": "2026-10-23T18:22:57.369000Z",
+        "creator_user_id": "471501409838166016",
+        "roster_ids": [
+          9
+        ],
+        "team_labels": [
+          "off"
+        ],
+        "consenter_ids": [
+          9
+        ],
+        "consenter_team_labels": [
+          "off"
+        ],
+        "adds": [
+          {
+            "player_id": "6130",
+            "player_name": "Devin Singletary",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 7,
+        "transaction_id": "1419425216496406528",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1792779852560,
+        "created_at": "2026-10-23T18:24:12.560000Z",
+        "status_updated": 1792779852560,
+        "status_updated_at": "2026-10-23T18:24:12.560000Z",
+        "creator_user_id": "471501409838166016",
+        "roster_ids": [
+          9
+        ],
+        "team_labels": [
+          "off"
+        ],
+        "consenter_ids": [
+          9
+        ],
+        "consenter_team_labels": [
+          "off"
+        ],
+        "adds": [
+          {
+            "player_id": "12634",
+            "player_name": "Jordan Watkins",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "7090",
+            "player_name": "Darnell Mooney",
+            "roster_id": 9,
+            "team_label": "off"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 7,
+        "transaction_id": "1419458615768535040",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1792787815566,
+        "created_at": "2026-10-23T20:36:55.566000Z",
+        "status_updated": 1792787815566,
+        "status_updated_at": "2026-10-23T20:36:55.566000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "2197",
+            "player_name": "Brandin Cooks",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "4066",
+            "player_name": "Evan Engram",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "counts": {
       "weeks": 7,
-      "transactions": 131,
+      "transactions": 134,
       "trades": 14,
       "waivers": 24,
-      "free_agent_moves": 92,
+      "free_agent_moves": 95,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 92,
+        "free_agent": 95,
         "trade": 14,
         "waiver": 24
       },
       "by_status": {
-        "complete": 123,
+        "complete": 126,
         "failed": 8
       }
     }
@@ -43430,6 +43822,7 @@
       "blake corum": "11586",
       "bo nix": "11563",
       "braelon allen": "11576",
+      "brandin cooks": "2197",
       "brandon aiyuk": "6803",
       "breece hall": "8155",
       "brenen thompson": "13380",
@@ -43479,7 +43872,6 @@
       "dameon pierce": "8129",
       "daniel jones": "5870",
       "darius cooper": "13150",
-      "darnell mooney": "7090",
       "darnell washington": "9479",
       "darren waller": "2505",
       "davante adams": "2133",
@@ -43494,6 +43886,7 @@
       "denzel boston": "13346",
       "derrick henry": "3198",
       "devaughn vele": "11834",
+      "devin singletary": "6130",
       "devonta smith": "7525",
       "dj moore": "4983",
       "dk metcalf": "5846",
@@ -43512,7 +43905,6 @@
       "emanuel wilson": "11435",
       "emeka egbuka": "12514",
       "emmett johnson": "13337",
-      "evan engram": "4066",
       "fernando mendoza": "13269",
       "garrett wilson": "8146",
       "george holani": "12048",
@@ -43573,6 +43965,7 @@
       "jordan james": "12467",
       "jordan love": "6804",
       "jordan mason": "8408",
+      "jordan watkins": "12634",
       "jordyn tyson": "13281",
       "josh allen": "4984",
       "josh cameron": "13394",

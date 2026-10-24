@@ -5811,13 +5811,135 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 7,
+          "transaction_id": "1419424901126692864",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1792779777369,
+          "created_at": "2026-10-23T18:22:57.369000Z",
+          "status_updated": 1792779777369,
+          "status_updated_at": "2026-10-23T18:22:57.369000Z",
+          "creator_user_id": "471501409838166016",
+          "roster_ids": [
+            9
+          ],
+          "team_labels": [
+            "off"
+          ],
+          "consenter_ids": [
+            9
+          ],
+          "consenter_team_labels": [
+            "off"
+          ],
+          "adds": [
+            {
+              "player_id": "6130",
+              "player_name": "Devin Singletary",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 7,
+          "transaction_id": "1419425216496406528",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1792779852560,
+          "created_at": "2026-10-23T18:24:12.560000Z",
+          "status_updated": 1792779852560,
+          "status_updated_at": "2026-10-23T18:24:12.560000Z",
+          "creator_user_id": "471501409838166016",
+          "roster_ids": [
+            9
+          ],
+          "team_labels": [
+            "off"
+          ],
+          "consenter_ids": [
+            9
+          ],
+          "consenter_team_labels": [
+            "off"
+          ],
+          "adds": [
+            {
+              "player_id": "12634",
+              "player_name": "Jordan Watkins",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "7090",
+              "player_name": "Darnell Mooney",
+              "roster_id": 9,
+              "team_label": "off"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 7,
+          "transaction_id": "1419458615768535040",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1792787815566,
+          "created_at": "2026-10-23T20:36:55.566000Z",
+          "status_updated": 1792787815566,
+          "status_updated_at": "2026-10-23T20:36:55.566000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Laporta Potty"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Laporta Potty"
+          ],
+          "adds": [
+            {
+              "player_id": "2197",
+              "player_name": "Brandin Cooks",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "4066",
+              "player_name": "Evan Engram",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 2,
+        "transactions": 5,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 2
+        "free_agent_moves": 5
       }
     }
   },
@@ -11564,6 +11686,128 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1419424901126692864",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792779777369,
+      "created_at": "2026-10-23T18:22:57.369000Z",
+      "status_updated": 1792779777369,
+      "status_updated_at": "2026-10-23T18:22:57.369000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "6130",
+          "player_name": "Devin Singletary",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1419425216496406528",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792779852560,
+      "created_at": "2026-10-23T18:24:12.560000Z",
+      "status_updated": 1792779852560,
+      "status_updated_at": "2026-10-23T18:24:12.560000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "12634",
+          "player_name": "Jordan Watkins",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7090",
+          "player_name": "Darnell Mooney",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1419458615768535040",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792787815566,
+      "created_at": "2026-10-23T20:36:55.566000Z",
+      "status_updated": 1792787815566,
+      "status_updated_at": "2026-10-23T20:36:55.566000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "2197",
+          "player_name": "Brandin Cooks",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4066",
+          "player_name": "Evan Engram",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -17281,22 +17525,144 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1419424901126692864",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792779777369,
+      "created_at": "2026-10-23T18:22:57.369000Z",
+      "status_updated": 1792779777369,
+      "status_updated_at": "2026-10-23T18:22:57.369000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "6130",
+          "player_name": "Devin Singletary",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1419425216496406528",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792779852560,
+      "created_at": "2026-10-23T18:24:12.560000Z",
+      "status_updated": 1792779852560,
+      "status_updated_at": "2026-10-23T18:24:12.560000Z",
+      "creator_user_id": "471501409838166016",
+      "roster_ids": [
+        9
+      ],
+      "team_labels": [
+        "off"
+      ],
+      "consenter_ids": [
+        9
+      ],
+      "consenter_team_labels": [
+        "off"
+      ],
+      "adds": [
+        {
+          "player_id": "12634",
+          "player_name": "Jordan Watkins",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7090",
+          "player_name": "Darnell Mooney",
+          "roster_id": 9,
+          "team_label": "off"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1419458615768535040",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792787815566,
+      "created_at": "2026-10-23T20:36:55.566000Z",
+      "status_updated": 1792787815566,
+      "status_updated_at": "2026-10-23T20:36:55.566000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "2197",
+          "player_name": "Brandin Cooks",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4066",
+          "player_name": "Evan Engram",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 7,
-    "transactions": 131,
+    "transactions": 134,
     "trades": 14,
     "waivers": 24,
-    "free_agent_moves": 92,
+    "free_agent_moves": 95,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 92,
+      "free_agent": 95,
       "trade": 14,
       "waiver": 24
     },
     "by_status": {
-      "complete": 123,
+      "complete": 126,
       "failed": 8
     }
   }
