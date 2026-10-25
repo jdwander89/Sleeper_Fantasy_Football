@@ -336,10 +336,10 @@
       "draft_id": null,
       "original_roster_id": 11,
       "original_team_label": "MOJO",
-      "previous_owner_id": 11,
-      "previous_owner_team_label": "MOJO",
-      "owner_id": 2,
-      "owner_team_label": "Washington Monument"
+      "previous_owner_id": 2,
+      "previous_owner_team_label": "Washington Monument",
+      "owner_id": 11,
+      "owner_team_label": "MOJO"
     },
     {
       "season": "2028",

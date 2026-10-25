@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-24T14:37:55.125743Z",
-    "source_snapshot_generated_at": "2026-10-24T14:37:53.574143Z",
+    "generated_at": "2026-10-25T14:57:48.482484Z",
+    "source_snapshot_generated_at": "2026-10-25T14:57:47.227370Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 7,
     "matchups": 42,
     "matchup_roster_results": 84,
-    "required_player_ids": 353,
-    "compact_player_lookup": 353,
+    "required_player_ids": 354,
+    "compact_player_lookup": 354,
     "missing_player_ids": 0,
-    "transactions": 134,
-    "trades": 14,
+    "transactions": 140,
+    "trades": 15,
     "waivers": 24,
-    "free_agent_moves": 95,
+    "free_agent_moves": 100,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -265,7 +265,7 @@
           "name": "Jordan Mason",
           "team": "MIN",
           "position": "RB",
-          "injury_status": "IR"
+          "injury_status": null
         },
         {
           "player_id": "13294",
@@ -310,16 +310,16 @@
         "raw_fpts_against_decimal": 64
       },
       "counts": {
-        "players": 25,
+        "players": 24,
         "starters": 9,
         "bench": 14,
-        "reserve": 2
+        "reserve": 1
       },
       "position_counts": {
         "QB": 4,
         "RB": 6,
         "TE": 2,
-        "WR": 13
+        "WR": 12
       },
       "starters": [
         {
@@ -372,11 +372,11 @@
           "injury_status": null
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
-          "team": "PHI",
+          "player_id": "2197",
+          "name": "Brandin Cooks",
+          "team": "SF",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11655",
@@ -391,13 +391,6 @@
           "player_id": "6819",
           "name": "Michael Pittman Jr.",
           "team": "PIT",
-          "position": "WR",
-          "injury_status": "IR"
-        },
-        {
-          "player_id": "9502",
-          "name": "Tank Dell",
-          "team": "HOU",
           "position": "WR",
           "injury_status": "IR"
         }
@@ -1081,24 +1074,24 @@
         "raw_fpts_against_decimal": 6
       },
       "counts": {
-        "players": 25,
+        "players": 24,
         "starters": 9,
         "bench": 14,
-        "reserve": 2
+        "reserve": 1
       },
       "position_counts": {
         "QB": 2,
-        "RB": 8,
+        "RB": 7,
         "TE": 5,
         "WR": 10
       },
       "starters": [
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "team": "BAL",
+          "player_id": "4943",
+          "name": "Sam Darnold",
+          "team": "SEA",
           "position": "QB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "3198",
@@ -1159,13 +1152,6 @@
       ],
       "reserve": [
         {
-          "player_id": "4950",
-          "name": "Christian Kirk",
-          "team": "SF",
-          "position": "WR",
-          "injury_status": "IR"
-        },
-        {
           "player_id": "9481",
           "name": "Luke Musgrave",
           "team": "GB",
@@ -1199,9 +1185,9 @@
       },
       "position_counts": {
         "QB": 3,
-        "RB": 12,
+        "RB": 10,
         "TE": 3,
-        "WR": 7
+        "WR": 9
       },
       "starters": [
         {
@@ -1270,18 +1256,18 @@
       ],
       "reserve": [
         {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "team": "CLE",
-          "position": "RB",
-          "injury_status": "IR"
-        },
-        {
           "player_id": "2133",
           "name": "Davante Adams",
           "team": "LAR",
           "position": "WR",
           "injury_status": "IR"
+        },
+        {
+          "player_id": "5892",
+          "name": "David Montgomery",
+          "team": "HOU",
+          "position": "RB",
+          "injury_status": "Out"
         }
       ]
     },
@@ -1376,7 +1362,7 @@
           "name": "Dallas Goedert",
           "team": "PHI",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -2285,20 +2271,20 @@
               {
                 "roster_id": 2,
                 "team_label": "Washington Monument",
-                "points": 21.2,
+                "points": 30.8,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 21.9,
+                "points": 36.3,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 11,
               "team_label": "MOJO",
-              "points": 21.9
+              "points": 36.3
             }
           },
           {
@@ -2313,7 +2299,7 @@
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 0.0,
+                "points": 1.6,
                 "custom_points": null
               }
             ],
@@ -2335,7 +2321,7 @@
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 0.0,
+                "points": 16.58,
                 "custom_points": null
               }
             ],
@@ -2373,20 +2359,20 @@
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 0.0,
+                "points": 5.6,
                 "custom_points": null
               },
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 19.0,
+                "points": 28.5,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 10,
               "team_label": "Goin in Ra",
-              "points": 19.0
+              "points": 28.5
             }
           }
         ],
@@ -2405,18 +2391,18 @@
   "transactions": {
     "counts": {
       "weeks": 7,
-      "transactions": 134,
-      "trades": 14,
+      "transactions": 140,
+      "trades": 15,
       "waivers": 24,
-      "free_agent_moves": 95,
+      "free_agent_moves": 100,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 95,
-        "trade": 14,
+        "free_agent": 100,
+        "trade": 15,
         "waiver": 24
       },
       "by_status": {
-        "complete": 126,
+        "complete": 132,
         "failed": 8
       }
     },
@@ -2446,28 +2432,28 @@
         "free_agent_moves": 12
       },
       "11": {
-        "transactions": 23,
-        "trades": 5,
+        "transactions": 26,
+        "trades": 6,
         "waivers": 2,
-        "free_agent_moves": 16
+        "free_agent_moves": 18
       },
       "2": {
-        "transactions": 31,
-        "trades": 10,
+        "transactions": 33,
+        "trades": 11,
         "waivers": 5,
-        "free_agent_moves": 15
+        "free_agent_moves": 16
       },
       "10": {
-        "transactions": 3,
+        "transactions": 4,
         "trades": 1,
         "waivers": 1,
-        "free_agent_moves": 1
+        "free_agent_moves": 2
       },
       "3": {
-        "transactions": 15,
+        "transactions": 16,
         "trades": 1,
         "waivers": 3,
-        "free_agent_moves": 11
+        "free_agent_moves": 12
       },
       "6": {
         "transactions": 11,
@@ -2495,6 +2481,113 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 7,
+        "transaction_id": "1420084819643109376",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-25T14:05:14.205000Z",
+        "team_labels": [
+          "Goin in Ra"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "8143",
+            "player_name": "Jerome Ford",
+            "roster_id": 10,
+            "team_label": "Goin in Ra"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 7,
+        "transaction_id": "1420066499275640832",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-25T12:52:26.288000Z",
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "13268",
+            "player_name": "Elijah Sarratt",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 7,
+        "transaction_id": "1419933809939427328",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-25T04:05:10.685000Z",
+        "team_labels": [
+          "Washington Monument"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "8800",
+            "player_name": "Malik Davis",
+            "roster_id": 2,
+            "team_label": "Washington Monument"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 7,
+        "transaction_id": "1419742878346829824",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-24T15:26:29.046000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "11627",
+            "player_name": "Troy Franklin",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
+      {
+        "week": 7,
+        "transaction_id": "1419740815814574080",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-24T15:18:17.301000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "12505",
+            "player_name": "Jalen Royals",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "11439",
+            "player_name": "Jaleel McLaughlin",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 7,
         "transaction_id": "1419458615768535040",
@@ -2595,6 +2688,45 @@
           }
         ],
         "draft_picks": []
+      },
+      {
+        "week": 7,
+        "transaction_id": "1418748769930866688",
+        "type": "trade",
+        "status": "complete",
+        "created_at": "2026-10-21T21:36:15.131000Z",
+        "team_labels": [
+          "Washington Monument",
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "13424",
+            "player_name": "Seth McGowan",
+            "roster_id": 2,
+            "team_label": "Washington Monument"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13424",
+            "player_name": "Seth McGowan",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": [
+          {
+            "season": "2027",
+            "round": 3,
+            "original_roster_id": 11,
+            "original_team_label": "MOJO",
+            "previous_owner_id": 2,
+            "previous_owner_team_label": "Washington Monument",
+            "owner_id": 11,
+            "owner_team_label": "MOJO"
+          }
+        ]
       },
       {
         "week": 7,
@@ -2977,161 +3109,6 @@
             "player_name": "Austin Ekeler",
             "roster_id": 11,
             "team_label": "MOJO"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 5,
-        "transaction_id": "1415937415717117952",
-        "type": "waiver",
-        "status": "complete",
-        "created_at": "2026-10-14T03:24:56.054000Z",
-        "team_labels": [
-          "White Ice"
-        ],
-        "adds": [
-          {
-            "player_id": "9757",
-            "player_name": "Kendre Miller",
-            "roster_id": 5,
-            "team_label": "White Ice"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "11577",
-            "player_name": "Will Shipley",
-            "roster_id": 5,
-            "team_label": "White Ice"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 5,
-        "transaction_id": "1415716474772828160",
-        "type": "waiver",
-        "status": "failed",
-        "created_at": "2026-10-13T12:46:59.628000Z",
-        "team_labels": [
-          "Washington Monument"
-        ],
-        "adds": [
-          {
-            "player_id": "9757",
-            "player_name": "Kendre Miller",
-            "roster_id": 2,
-            "team_label": "Washington Monument"
-          }
-        ],
-        "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 5,
-        "transaction_id": "1415716417663258624",
-        "type": "waiver",
-        "status": "complete",
-        "created_at": "2026-10-13T12:46:46.012000Z",
-        "team_labels": [
-          "Washington Monument"
-        ],
-        "adds": [
-          {
-            "player_id": "96",
-            "player_name": "Aaron Rodgers",
-            "roster_id": 2,
-            "team_label": "Washington Monument"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "4018",
-            "player_name": "Joe Mixon",
-            "roster_id": 2,
-            "team_label": "Washington Monument"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 5,
-        "transaction_id": "1415512880022831104",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-10-12T23:17:58.857000Z",
-        "team_labels": [
-          "gullickson"
-        ],
-        "adds": [
-          {
-            "player_id": "5906",
-            "player_name": "Dawson Knox",
-            "roster_id": 12,
-            "team_label": "gullickson"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "7670",
-            "player_name": "Joshua Palmer",
-            "roster_id": 12,
-            "team_label": "gullickson"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 5,
-        "transaction_id": "1415028473231081472",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-10-11T15:13:07.277000Z",
-        "team_labels": [
-          "MOJO"
-        ],
-        "adds": [
-          {
-            "player_id": "4663",
-            "player_name": "Austin Ekeler",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "9757",
-            "player_name": "Kendre Miller",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 5,
-        "transaction_id": "1414994596726906880",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-10-11T12:58:30.489000Z",
-        "team_labels": [
-          "Washington Monument"
-        ],
-        "adds": [
-          {
-            "player_id": "12048",
-            "player_name": "George Holani",
-            "roster_id": 2,
-            "team_label": "Washington Monument"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "6828",
-            "player_name": "AJ Dillon",
-            "roster_id": 2,
-            "team_label": "Washington Monument"
           }
         ],
         "draft_picks": []

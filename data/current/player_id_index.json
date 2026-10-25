@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-24T14:37:54.996382Z",
+  "generated_at": "2026-10-25T14:57:48.406319Z",
   "counts": {
-    "required_player_ids": 353,
-    "resolved_player_ids": 353,
+    "required_player_ids": 354,
+    "resolved_player_ids": 354,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -171,6 +171,7 @@
       "jalen hurts": "6904",
       "jalen mcmillan": "11618",
       "jalen nailor": "8180",
+      "jalen royals": "12505",
       "jalon daniels": "13425",
       "jameis winston": "2306",
       "james conner": "4137",
@@ -546,6 +547,7 @@
         "10229",
         "11624",
         "12455",
+        "12505",
         "13337",
         "13404",
         "13413",
@@ -1024,6 +1026,7 @@
         "12499",
         "12501",
         "12503",
+        "12505",
         "12509",
         "12514",
         "12519",

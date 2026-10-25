@@ -5771,6 +5771,64 @@
         },
         {
           "week": 7,
+          "transaction_id": "1418748769930866688",
+          "type": "trade",
+          "status": "complete",
+          "created": 1792618575131,
+          "created_at": "2026-10-21T21:36:15.131000Z",
+          "status_updated": 1792855259860,
+          "status_updated_at": "2026-10-24T15:20:59.860000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2,
+            11
+          ],
+          "team_labels": [
+            "Washington Monument",
+            "MOJO"
+          ],
+          "consenter_ids": [
+            2,
+            11
+          ],
+          "consenter_team_labels": [
+            "Washington Monument",
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "13424",
+              "player_name": "Seth McGowan",
+              "roster_id": 2,
+              "team_label": "Washington Monument"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "13424",
+              "player_name": "Seth McGowan",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2027",
+              "round": 3,
+              "original_roster_id": 11,
+              "original_team_label": "MOJO",
+              "previous_owner_id": 2,
+              "previous_owner_team_label": "Washington Monument",
+              "owner_id": 11,
+              "owner_team_label": "MOJO"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 7,
           "transaction_id": "1419043522312445952",
           "type": "free_agent",
           "status": "complete",
@@ -5933,13 +5991,200 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 7,
+          "transaction_id": "1419740815814574080",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1792855097301,
+          "created_at": "2026-10-24T15:18:17.301000Z",
+          "status_updated": 1792855097301,
+          "status_updated_at": "2026-10-24T15:18:17.301000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "12505",
+              "player_name": "Jalen Royals",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "11439",
+              "player_name": "Jaleel McLaughlin",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 7,
+          "transaction_id": "1419742878346829824",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1792855589046,
+          "created_at": "2026-10-24T15:26:29.046000Z",
+          "status_updated": 1792855589046,
+          "status_updated_at": "2026-10-24T15:26:29.046000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "11627",
+              "player_name": "Troy Franklin",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 7,
+          "transaction_id": "1419933809939427328",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1792901110685,
+          "created_at": "2026-10-25T04:05:10.685000Z",
+          "status_updated": 1792901110685,
+          "status_updated_at": "2026-10-25T04:05:10.685000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "Washington Monument"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "Washington Monument"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "8800",
+              "player_name": "Malik Davis",
+              "roster_id": 2,
+              "team_label": "Washington Monument"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 7,
+          "transaction_id": "1420066499275640832",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1792932746288,
+          "created_at": "2026-10-25T12:52:26.288000Z",
+          "status_updated": 1792932746288,
+          "status_updated_at": "2026-10-25T12:52:26.288000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Laporta Potty"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Laporta Potty"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "13268",
+              "player_name": "Elijah Sarratt",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 7,
+          "transaction_id": "1420084819643109376",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1792937114205,
+          "created_at": "2026-10-25T14:05:14.205000Z",
+          "status_updated": 1792937114205,
+          "status_updated_at": "2026-10-25T14:05:14.205000Z",
+          "creator_user_id": "471717089472671744",
+          "roster_ids": [
+            10
+          ],
+          "team_labels": [
+            "Goin in Ra"
+          ],
+          "consenter_ids": [
+            10
+          ],
+          "consenter_team_labels": [
+            "Goin in Ra"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "8143",
+              "player_name": "Jerome Ford",
+              "roster_id": 10,
+              "team_label": "Goin in Ra"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 5,
-        "trades": 0,
+        "transactions": 11,
+        "trades": 1,
         "waivers": 0,
-        "free_agent_moves": 5
+        "free_agent_moves": 10
       }
     }
   },
@@ -11646,6 +11891,64 @@
     },
     {
       "week": 7,
+      "transaction_id": "1418748769930866688",
+      "type": "trade",
+      "status": "complete",
+      "created": 1792618575131,
+      "created_at": "2026-10-21T21:36:15.131000Z",
+      "status_updated": 1792855259860,
+      "status_updated_at": "2026-10-24T15:20:59.860000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2,
+        11
+      ],
+      "team_labels": [
+        "Washington Monument",
+        "MOJO"
+      ],
+      "consenter_ids": [
+        2,
+        11
+      ],
+      "consenter_team_labels": [
+        "Washington Monument",
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "13424",
+          "player_name": "Seth McGowan",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13424",
+          "player_name": "Seth McGowan",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "Washington Monument",
+          "owner_id": 11,
+          "owner_team_label": "MOJO"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
       "transaction_id": "1419043522312445952",
       "type": "free_agent",
       "status": "complete",
@@ -11802,6 +12105,193 @@
           "player_name": "Evan Engram",
           "roster_id": 3,
           "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1419740815814574080",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792855097301,
+      "created_at": "2026-10-24T15:18:17.301000Z",
+      "status_updated": 1792855097301,
+      "status_updated_at": "2026-10-24T15:18:17.301000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "12505",
+          "player_name": "Jalen Royals",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11439",
+          "player_name": "Jaleel McLaughlin",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1419742878346829824",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792855589046,
+      "created_at": "2026-10-24T15:26:29.046000Z",
+      "status_updated": 1792855589046,
+      "status_updated_at": "2026-10-24T15:26:29.046000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "11627",
+          "player_name": "Troy Franklin",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1419933809939427328",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792901110685,
+      "created_at": "2026-10-25T04:05:10.685000Z",
+      "status_updated": 1792901110685,
+      "status_updated_at": "2026-10-25T04:05:10.685000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "Washington Monument"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "Washington Monument"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "8800",
+          "player_name": "Malik Davis",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420066499275640832",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792932746288,
+      "created_at": "2026-10-25T12:52:26.288000Z",
+      "status_updated": 1792932746288,
+      "status_updated_at": "2026-10-25T12:52:26.288000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13268",
+          "player_name": "Elijah Sarratt",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420084819643109376",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792937114205,
+      "created_at": "2026-10-25T14:05:14.205000Z",
+      "status_updated": 1792937114205,
+      "status_updated_at": "2026-10-25T14:05:14.205000Z",
+      "creator_user_id": "471717089472671744",
+      "roster_ids": [
+        10
+      ],
+      "team_labels": [
+        "Goin in Ra"
+      ],
+      "consenter_ids": [
+        10
+      ],
+      "consenter_team_labels": [
+        "Goin in Ra"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "8143",
+          "player_name": "Jerome Ford",
+          "roster_id": 10,
+          "team_label": "Goin in Ra"
         }
       ],
       "draft_picks": [],
@@ -12889,6 +13379,64 @@
           "previous_owner_team_label": "MOJO",
           "owner_id": 2,
           "owner_team_label": "Washington Monument"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1418748769930866688",
+      "type": "trade",
+      "status": "complete",
+      "created": 1792618575131,
+      "created_at": "2026-10-21T21:36:15.131000Z",
+      "status_updated": 1792855259860,
+      "status_updated_at": "2026-10-24T15:20:59.860000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2,
+        11
+      ],
+      "team_labels": [
+        "Washington Monument",
+        "MOJO"
+      ],
+      "consenter_ids": [
+        2,
+        11
+      ],
+      "consenter_team_labels": [
+        "Washington Monument",
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "13424",
+          "player_name": "Seth McGowan",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13424",
+          "player_name": "Seth McGowan",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 11,
+          "original_team_label": "MOJO",
+          "previous_owner_id": 2,
+          "previous_owner_team_label": "Washington Monument",
+          "owner_id": 11,
+          "owner_team_label": "MOJO"
         }
       ],
       "waiver_budget": [],
@@ -17647,22 +18195,209 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1419740815814574080",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792855097301,
+      "created_at": "2026-10-24T15:18:17.301000Z",
+      "status_updated": 1792855097301,
+      "status_updated_at": "2026-10-24T15:18:17.301000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "12505",
+          "player_name": "Jalen Royals",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11439",
+          "player_name": "Jaleel McLaughlin",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1419742878346829824",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792855589046,
+      "created_at": "2026-10-24T15:26:29.046000Z",
+      "status_updated": 1792855589046,
+      "status_updated_at": "2026-10-24T15:26:29.046000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "11627",
+          "player_name": "Troy Franklin",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1419933809939427328",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792901110685,
+      "created_at": "2026-10-25T04:05:10.685000Z",
+      "status_updated": 1792901110685,
+      "status_updated_at": "2026-10-25T04:05:10.685000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "Washington Monument"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "Washington Monument"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "8800",
+          "player_name": "Malik Davis",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420066499275640832",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792932746288,
+      "created_at": "2026-10-25T12:52:26.288000Z",
+      "status_updated": 1792932746288,
+      "status_updated_at": "2026-10-25T12:52:26.288000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "13268",
+          "player_name": "Elijah Sarratt",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420084819643109376",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1792937114205,
+      "created_at": "2026-10-25T14:05:14.205000Z",
+      "status_updated": 1792937114205,
+      "status_updated_at": "2026-10-25T14:05:14.205000Z",
+      "creator_user_id": "471717089472671744",
+      "roster_ids": [
+        10
+      ],
+      "team_labels": [
+        "Goin in Ra"
+      ],
+      "consenter_ids": [
+        10
+      ],
+      "consenter_team_labels": [
+        "Goin in Ra"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "8143",
+          "player_name": "Jerome Ford",
+          "roster_id": 10,
+          "team_label": "Goin in Ra"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 7,
-    "transactions": 134,
-    "trades": 14,
+    "transactions": 140,
+    "trades": 15,
     "waivers": 24,
-    "free_agent_moves": 95,
+    "free_agent_moves": 100,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 95,
-      "trade": 14,
+      "free_agent": 100,
+      "trade": 15,
       "waiver": 24
     },
     "by_status": {
-      "complete": 126,
+      "complete": 132,
       "failed": 8
     }
   }
