@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-25T14:57:48.482484Z",
-    "source_snapshot_generated_at": "2026-10-25T14:57:47.227370Z",
+    "generated_at": "2026-10-26T17:25:50.181462Z",
+    "source_snapshot_generated_at": "2026-10-26T17:25:47.860985Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -129,9 +129,9 @@
           "injury_status": null
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
-          "team": "MIN",
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "team": "KC",
           "position": "WR",
           "injury_status": null
         },
@@ -150,16 +150,16 @@
           "injury_status": null
         },
         {
-          "player_id": "11624",
-          "name": "Xavier Worthy",
-          "team": "KC",
+          "player_id": "9756",
+          "name": "Jordan Addison",
+          "team": "MIN",
           "position": "WR",
           "injury_status": null
         },
         {
-          "player_id": "13305",
-          "name": "Mike Washington Jr.",
-          "team": "LV",
+          "player_id": "11643",
+          "name": "Jaylen Wright",
+          "team": "MIA",
           "position": "RB",
           "injury_status": "Questionable"
         }
@@ -237,7 +237,7 @@
           "name": "Rashid Shaheed",
           "team": "SEA",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "13276",
@@ -348,7 +348,7 @@
           "name": "Drake London",
           "team": "ATL",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9501",
@@ -379,10 +379,10 @@
           "injury_status": null
         },
         {
-          "player_id": "11655",
-          "name": "Tyrone Tracy Jr.",
-          "team": "NYG",
-          "position": "RB",
+          "player_id": "13150",
+          "name": "Darius Cooper",
+          "team": "PHI",
+          "position": "WR",
           "injury_status": null
         }
       ],
@@ -439,7 +439,7 @@
           "name": "Breece Hall",
           "team": "NYJ",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "7594",
@@ -453,7 +453,7 @@
           "name": "Puka Nacua",
           "team": "LAR",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12519",
@@ -689,7 +689,7 @@
           "name": "Aaron Jones Sr.",
           "team": "MIN",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "6806",
@@ -703,7 +703,7 @@
           "name": "Christian McCaffrey",
           "team": "SF",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -765,14 +765,14 @@
           "name": "Kenny Gainwell",
           "team": "TB",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12474",
           "name": "Woody Marks",
           "team": "HOU",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9488",
@@ -1147,7 +1147,7 @@
           "name": "Jaylin Noel",
           "team": "HOU",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -1223,7 +1223,7 @@
           "name": "Jaylen Waddle",
           "team": "DEN",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11604",
@@ -1233,11 +1233,11 @@
           "injury_status": null
         },
         {
-          "player_id": "5045",
-          "name": "Courtland Sutton",
-          "team": "DEN",
-          "position": "WR",
-          "injury_status": null
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "team": "NYG",
+          "position": "RB",
+          "injury_status": "Questionable"
         },
         {
           "player_id": "3214",
@@ -2249,20 +2249,20 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 18.9,
+                "points": 93.92,
                 "custom_points": null
               },
               {
                 "roster_id": 6,
                 "team_label": "andrewwelle",
-                "points": 0.0,
+                "points": 100.9,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 1,
-              "team_label": "It’s Herbie Hancock",
-              "points": 18.9
+              "roster_id": 6,
+              "team_label": "andrewwelle",
+              "points": 100.9
             }
           },
           {
@@ -2271,20 +2271,20 @@
               {
                 "roster_id": 2,
                 "team_label": "Washington Monument",
-                "points": 30.8,
+                "points": 82.98,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 36.3,
+                "points": 151.98,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 11,
               "team_label": "MOJO",
-              "points": 36.3
+              "points": 151.98
             }
           },
           {
@@ -2293,20 +2293,20 @@
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 10.9,
+                "points": 93.0,
                 "custom_points": null
               },
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 1.6,
+                "points": 105.48,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 5,
-              "team_label": "White Ice",
-              "points": 10.9
+              "roster_id": 12,
+              "team_label": "gullickson",
+              "points": 105.48
             }
           },
           {
@@ -2315,21 +2315,17 @@
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 23.7,
+                "points": 129.42,
                 "custom_points": null
               },
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 16.58,
+                "points": 129.42,
                 "custom_points": null
               }
             ],
-            "winner": {
-              "roster_id": 4,
-              "team_label": "Puka Troopas",
-              "points": 23.7
-            }
+            "winner": null
           },
           {
             "matchup_id": "5",
@@ -2337,20 +2333,20 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 5.3,
+                "points": 106.16,
                 "custom_points": null
               },
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 27.44,
+                "points": 100.54,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 8,
-              "team_label": "Back to the Future",
-              "points": 27.44
+              "roster_id": 3,
+              "team_label": "Laporta Potty",
+              "points": 106.16
             }
           },
           {
@@ -2359,20 +2355,20 @@
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 5.6,
+                "points": 89.7,
                 "custom_points": null
               },
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 28.5,
+                "points": 95.88,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 10,
               "team_label": "Goin in Ra",
-              "points": 28.5
+              "points": 95.88
             }
           }
         ],
