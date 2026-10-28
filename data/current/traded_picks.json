@@ -244,6 +244,17 @@
     },
     {
       "season": "2027",
+      "round": 3,
+      "draft_id": null,
+      "original_roster_id": 7,
+      "original_team_label": "Commish is a bitch",
+      "previous_owner_id": 7,
+      "previous_owner_team_label": "Commish is a bitch",
+      "owner_id": 2,
+      "owner_team_label": "Washington Monument"
+    },
+    {
+      "season": "2027",
       "round": 4,
       "draft_id": null,
       "original_roster_id": 7,
@@ -479,7 +490,7 @@
     ]
   },
   "counts": {
-    "league_traded_picks": 35,
+    "league_traded_picks": 36,
     "draft_traded_picks": 8
   }
 }

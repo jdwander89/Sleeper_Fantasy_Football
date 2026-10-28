@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-10-27T16:43:22.851528Z",
+  "generated_at": "2026-10-28T17:11:29.191633Z",
   "counts": {
-    "required_player_ids": 354,
-    "resolved_player_ids": 354,
+    "required_player_ids": 356,
+    "resolved_player_ids": 356,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -307,6 +307,7 @@
       "sam laporta": "10859",
       "samaje perine": "4147",
       "saquon barkley": "4866",
+      "savion williams": "12482",
       "sean tucker": "9506",
       "seth mcgowan": "13424",
       "shedeur sanders": "12524",
@@ -345,6 +346,7 @@
       "ty simpson": "13275",
       "tyjae spears": "9508",
       "tyler allgeier": "8132",
+      "tyler goodson": "8207",
       "tyler higbee": "3271",
       "tyler lockett": "2374",
       "tyler shough": "12545",
@@ -464,13 +466,13 @@
         "6783"
       ],
       "DAL": [
-        "11199",
         "11783",
         "3294",
         "6786",
         "7588",
         "8110",
         "8137",
+        "8207",
         "8800"
       ],
       "DEN": [
@@ -499,6 +501,7 @@
         "10222",
         "11370",
         "11581",
+        "12482",
         "12501",
         "12504",
         "5850",
@@ -927,6 +930,7 @@
         "8154",
         "8155",
         "8205",
+        "8207",
         "8228",
         "8408",
         "8800",
@@ -1018,6 +1022,7 @@
         "11646",
         "11783",
         "11834",
+        "12482",
         "12483",
         "12484",
         "12485",

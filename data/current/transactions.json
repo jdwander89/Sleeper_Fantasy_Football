@@ -6178,23 +6178,358 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 7,
+          "transaction_id": "1420872281617354752",
+          "type": "trade",
+          "status": "complete",
+          "created": 1793124859770,
+          "created_at": "2026-10-27T18:14:19.770000Z",
+          "status_updated": 1793124955669,
+          "status_updated_at": "2026-10-27T18:15:55.669000Z",
+          "creator_user_id": "459751268567478272",
+          "roster_ids": [
+            2,
+            7
+          ],
+          "team_labels": [
+            "Washington Monument",
+            "Commish is a bitch"
+          ],
+          "consenter_ids": [
+            2,
+            7
+          ],
+          "consenter_team_labels": [
+            "Washington Monument",
+            "Commish is a bitch"
+          ],
+          "adds": [
+            {
+              "player_id": "12504",
+              "player_name": "Kaleb Johnson",
+              "roster_id": 2,
+              "team_label": "Washington Monument"
+            },
+            {
+              "player_id": "8408",
+              "player_name": "Jordan Mason",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "12504",
+              "player_name": "Kaleb Johnson",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            },
+            {
+              "player_id": "8408",
+              "player_name": "Jordan Mason",
+              "roster_id": 2,
+              "team_label": "Washington Monument"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2027",
+              "round": 3,
+              "original_roster_id": 7,
+              "original_team_label": "Commish is a bitch",
+              "previous_owner_id": 7,
+              "previous_owner_team_label": "Commish is a bitch",
+              "owner_id": 2,
+              "owner_team_label": "Washington Monument"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 7,
+          "transaction_id": "1420876080100716544",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1793125765399,
+          "created_at": "2026-10-27T18:29:25.399000Z",
+          "status_updated": 1793171740623,
+          "status_updated_at": "2026-10-28T07:15:40.623000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "12482",
+              "player_name": "Savion Williams",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "12505",
+              "player_name": "Jalen Royals",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 1,
+            "waiver_bid": 8
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 7,
+          "transaction_id": "1420918370995306496",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1793135848333,
+          "created_at": "2026-10-27T21:17:28.333000Z",
+          "status_updated": 1793171740623,
+          "status_updated_at": "2026-10-28T07:15:40.623000Z",
+          "creator_user_id": "459751268567478272",
+          "roster_ids": [
+            7
+          ],
+          "team_labels": [
+            "Commish is a bitch"
+          ],
+          "consenter_ids": [
+            7
+          ],
+          "consenter_team_labels": [
+            "Commish is a bitch"
+          ],
+          "adds": [
+            {
+              "player_id": "4663",
+              "player_name": "Austin Ekeler",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "11370",
+              "player_name": "Chris Brooks",
+              "roster_id": 7,
+              "team_label": "Commish is a bitch"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 0,
+            "waiver_bid": 11
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 7,
+          "transaction_id": "1420986960226336768",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1793152201280,
+          "created_at": "2026-10-28T01:50:01.280000Z",
+          "status_updated": 1793171740623,
+          "status_updated_at": "2026-10-28T07:15:40.623000Z",
+          "creator_user_id": "471451909446692864",
+          "roster_ids": [
+            6
+          ],
+          "team_labels": [
+            "andrewwelle"
+          ],
+          "consenter_ids": [
+            6
+          ],
+          "consenter_team_labels": [
+            "andrewwelle"
+          ],
+          "adds": [
+            {
+              "player_id": "8135",
+              "player_name": "Treylon Burks",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "13477",
+              "player_name": "Colbie Young",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 2,
+            "waiver_bid": 0
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 7,
+          "transaction_id": "1420987124710162432",
+          "type": "waiver",
+          "status": "failed",
+          "created": 1793152240496,
+          "created_at": "2026-10-28T01:50:40.496000Z",
+          "status_updated": 1793171740623,
+          "status_updated_at": "2026-10-28T07:15:40.623000Z",
+          "creator_user_id": "471451909446692864",
+          "roster_ids": [
+            6
+          ],
+          "team_labels": [
+            "andrewwelle"
+          ],
+          "consenter_ids": [
+            6
+          ],
+          "consenter_team_labels": [
+            "andrewwelle"
+          ],
+          "adds": [
+            {
+              "player_id": "12482",
+              "player_name": "Savion Williams",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 3,
+            "waiver_bid": 0
+          },
+          "metadata": {
+            "notes": "This player was claimed by another owner."
+          }
         }
       ],
       "counts": {
-        "transactions": 11,
-        "trades": 1,
-        "waivers": 0,
+        "transactions": 16,
+        "trades": 2,
+        "waivers": 4,
         "free_agent_moves": 10
       }
     },
     "8": {
       "week": 8,
-      "transactions": [],
+      "transactions": [
+        {
+          "week": 8,
+          "transaction_id": "1421113633085149184",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1793182402444,
+          "created_at": "2026-10-28T10:13:22.444000Z",
+          "status_updated": 1793182402444,
+          "status_updated_at": "2026-10-28T10:13:22.444000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Laporta Potty"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Laporta Potty"
+          ],
+          "adds": [
+            {
+              "player_id": "8207",
+              "player_name": "Tyler Goodson",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "4981",
+              "player_name": "Calvin Ridley",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 8,
+          "transaction_id": "1421195886234537984",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1793202013123,
+          "created_at": "2026-10-28T15:40:13.123000Z",
+          "status_updated": 1793202013123,
+          "status_updated_at": "2026-10-28T15:40:13.123000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Laporta Potty"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Laporta Potty"
+          ],
+          "adds": [
+            {
+              "player_id": "4993",
+              "player_name": "Mike Gesicki",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        }
+      ],
       "counts": {
-        "transactions": 0,
+        "transactions": 2,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 0
+        "free_agent_moves": 2
       }
     }
   },
@@ -12308,6 +12643,340 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420872281617354752",
+      "type": "trade",
+      "status": "complete",
+      "created": 1793124859770,
+      "created_at": "2026-10-27T18:14:19.770000Z",
+      "status_updated": 1793124955669,
+      "status_updated_at": "2026-10-27T18:15:55.669000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        2,
+        7
+      ],
+      "team_labels": [
+        "Washington Monument",
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        2,
+        7
+      ],
+      "consenter_team_labels": [
+        "Washington Monument",
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "12504",
+          "player_name": "Kaleb Johnson",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        },
+        {
+          "player_id": "8408",
+          "player_name": "Jordan Mason",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12504",
+          "player_name": "Kaleb Johnson",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        },
+        {
+          "player_id": "8408",
+          "player_name": "Jordan Mason",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 7,
+          "original_team_label": "Commish is a bitch",
+          "previous_owner_id": 7,
+          "previous_owner_team_label": "Commish is a bitch",
+          "owner_id": 2,
+          "owner_team_label": "Washington Monument"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420876080100716544",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793125765399,
+      "created_at": "2026-10-27T18:29:25.399000Z",
+      "status_updated": 1793171740623,
+      "status_updated_at": "2026-10-28T07:15:40.623000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "12482",
+          "player_name": "Savion Williams",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12505",
+          "player_name": "Jalen Royals",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 8
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420918370995306496",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793135848333,
+      "created_at": "2026-10-27T21:17:28.333000Z",
+      "status_updated": 1793171740623,
+      "status_updated_at": "2026-10-28T07:15:40.623000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "4663",
+          "player_name": "Austin Ekeler",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11370",
+          "player_name": "Chris Brooks",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 11
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420986960226336768",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793152201280,
+      "created_at": "2026-10-28T01:50:01.280000Z",
+      "status_updated": 1793171740623,
+      "status_updated_at": "2026-10-28T07:15:40.623000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "8135",
+          "player_name": "Treylon Burks",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13477",
+          "player_name": "Colbie Young",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 2,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420987124710162432",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1793152240496,
+      "created_at": "2026-10-28T01:50:40.496000Z",
+      "status_updated": 1793171740623,
+      "status_updated_at": "2026-10-28T07:15:40.623000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "12482",
+          "player_name": "Savion Williams",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 3,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 8,
+      "transaction_id": "1421113633085149184",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793182402444,
+      "created_at": "2026-10-28T10:13:22.444000Z",
+      "status_updated": 1793182402444,
+      "status_updated_at": "2026-10-28T10:13:22.444000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "8207",
+          "player_name": "Tyler Goodson",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4981",
+          "player_name": "Calvin Ridley",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 8,
+      "transaction_id": "1421195886234537984",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793202013123,
+      "created_at": "2026-10-28T15:40:13.123000Z",
+      "status_updated": 1793202013123,
+      "status_updated_at": "2026-10-28T15:40:13.123000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "4993",
+          "player_name": "Mike Gesicki",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -13452,6 +14121,76 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420872281617354752",
+      "type": "trade",
+      "status": "complete",
+      "created": 1793124859770,
+      "created_at": "2026-10-27T18:14:19.770000Z",
+      "status_updated": 1793124955669,
+      "status_updated_at": "2026-10-27T18:15:55.669000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        2,
+        7
+      ],
+      "team_labels": [
+        "Washington Monument",
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        2,
+        7
+      ],
+      "consenter_team_labels": [
+        "Washington Monument",
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "12504",
+          "player_name": "Kaleb Johnson",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        },
+        {
+          "player_id": "8408",
+          "player_name": "Jordan Mason",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12504",
+          "player_name": "Kaleb Johnson",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        },
+        {
+          "player_id": "8408",
+          "player_name": "Jordan Mason",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 7,
+          "original_team_label": "Commish is a bitch",
+          "previous_owner_id": 7,
+          "previous_owner_team_label": "Commish is a bitch",
+          "owner_id": 2,
+          "owner_team_label": "Washington Monument"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "waivers": [
@@ -14495,6 +15234,191 @@
       },
       "metadata": {
         "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420876080100716544",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793125765399,
+      "created_at": "2026-10-27T18:29:25.399000Z",
+      "status_updated": 1793171740623,
+      "status_updated_at": "2026-10-28T07:15:40.623000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "12482",
+          "player_name": "Savion Williams",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12505",
+          "player_name": "Jalen Royals",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 8
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420918370995306496",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793135848333,
+      "created_at": "2026-10-27T21:17:28.333000Z",
+      "status_updated": 1793171740623,
+      "status_updated_at": "2026-10-28T07:15:40.623000Z",
+      "creator_user_id": "459751268567478272",
+      "roster_ids": [
+        7
+      ],
+      "team_labels": [
+        "Commish is a bitch"
+      ],
+      "consenter_ids": [
+        7
+      ],
+      "consenter_team_labels": [
+        "Commish is a bitch"
+      ],
+      "adds": [
+        {
+          "player_id": "4663",
+          "player_name": "Austin Ekeler",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11370",
+          "player_name": "Chris Brooks",
+          "roster_id": 7,
+          "team_label": "Commish is a bitch"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 11
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420986960226336768",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793152201280,
+      "created_at": "2026-10-28T01:50:01.280000Z",
+      "status_updated": 1793171740623,
+      "status_updated_at": "2026-10-28T07:15:40.623000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "8135",
+          "player_name": "Treylon Burks",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13477",
+          "player_name": "Colbie Young",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 2,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 7,
+      "transaction_id": "1420987124710162432",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1793152240496,
+      "created_at": "2026-10-28T01:50:40.496000Z",
+      "status_updated": 1793171740623,
+      "status_updated_at": "2026-10-28T07:15:40.623000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "12482",
+          "player_name": "Savion Williams",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 3,
+        "waiver_bid": 0
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
       }
     }
   ],
@@ -18392,23 +19316,102 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 8,
+      "transaction_id": "1421113633085149184",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793182402444,
+      "created_at": "2026-10-28T10:13:22.444000Z",
+      "status_updated": 1793182402444,
+      "status_updated_at": "2026-10-28T10:13:22.444000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "8207",
+          "player_name": "Tyler Goodson",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4981",
+          "player_name": "Calvin Ridley",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 8,
+      "transaction_id": "1421195886234537984",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793202013123,
+      "created_at": "2026-10-28T15:40:13.123000Z",
+      "status_updated": 1793202013123,
+      "status_updated_at": "2026-10-28T15:40:13.123000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "4993",
+          "player_name": "Mike Gesicki",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 8,
-    "transactions": 140,
-    "trades": 15,
-    "waivers": 24,
-    "free_agent_moves": 100,
+    "transactions": 147,
+    "trades": 16,
+    "waivers": 28,
+    "free_agent_moves": 102,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 100,
-      "trade": 15,
-      "waiver": 24
+      "free_agent": 102,
+      "trade": 16,
+      "waiver": 28
     },
     "by_status": {
-      "complete": 132,
-      "failed": 8
+      "complete": 138,
+      "failed": 9
     }
   }
 }
