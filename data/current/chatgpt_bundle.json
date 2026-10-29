@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-10-28T17:11:25.049010Z",
+    "generated_at": "2026-10-29T17:27:20.565639Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -419,9 +419,9 @@
         "ties": 0
       },
       "points": {
-        "points_for": 967.5,
+        "points_for": 966.5,
         "points_against": 876.58,
-        "raw_fpts": 967,
+        "raw_fpts": 966,
         "raw_fpts_decimal": 50,
         "raw_fpts_against": 876,
         "raw_fpts_against_decimal": 58
@@ -434,12 +434,12 @@
         "total_moves": 0
       },
       "settings": {
-        "fpts": 967,
+        "fpts": 966,
         "fpts_against": 876,
         "fpts_against_decimal": 58,
         "fpts_decimal": 50,
         "losses": 3,
-        "ppts": 1075,
+        "ppts": 1074,
         "ppts_decimal": 56,
         "ties": 0,
         "total_moves": 0,
@@ -741,10 +741,10 @@
       },
       "points": {
         "points_for": 1024.16,
-        "points_against": 754.9,
+        "points_against": 753.9,
         "raw_fpts": 1024,
         "raw_fpts_decimal": 16,
-        "raw_fpts_against": 754,
+        "raw_fpts_against": 753,
         "raw_fpts_against_decimal": 90
       },
       "waivers": {
@@ -756,7 +756,7 @@
       },
       "settings": {
         "fpts": 1024,
-        "fpts_against": 754,
+        "fpts_against": 753,
         "fpts_against_decimal": 90,
         "fpts_decimal": 16,
         "losses": 1,
@@ -1479,12 +1479,12 @@
         "taxi": []
       },
       "settings": {
-        "fpts": 967,
+        "fpts": 966,
         "fpts_against": 876,
         "fpts_against_decimal": 58,
         "fpts_decimal": 50,
         "losses": 3,
-        "ppts": 1075,
+        "ppts": 1074,
         "ppts_decimal": 56,
         "ties": 0,
         "total_moves": 0,
@@ -1510,9 +1510,11 @@
         "13279",
         "13293",
         "13345",
+        "1373",
         "4033",
         "4035",
         "4037",
+        "4039",
         "5870",
         "5967",
         "7571",
@@ -1526,39 +1528,41 @@
         "9493"
       ],
       "starters": [
-        "8183",
+        "5870",
         "8155",
         "7594",
         "9493",
         "12519",
-        "11603",
+        "9480",
         "13279",
         "5967",
-        "8132"
+        "4037"
       ],
       "bench": [
+        "11603",
         "11610",
         "11631",
         "12457",
         "12530",
         "13293",
         "13345",
-        "4033",
+        "1373",
         "4035",
-        "4037",
-        "5870",
+        "4039",
         "7571",
         "8111",
-        "9480"
+        "8132",
+        "8183"
       ],
       "reserve": [
+        "4033",
         "8698"
       ],
       "taxi": [],
-      "player_count": 23,
+      "player_count": 25,
       "starter_count": 9,
-      "bench_count": 13,
-      "reserve_count": 1,
+      "bench_count": 14,
+      "reserve_count": 2,
       "taxi_count": 0,
       "display": {
         "players": [
@@ -1571,9 +1575,11 @@
           "Carnell Tate",
           "Ja'Kobi Lane",
           "Jonah Coleman",
+          "Geno Smith",
           "David Njoku",
           "Alvin Kamara",
           "Chris Godwin Jr.",
+          "Cooper Kupp",
           "Daniel Jones",
           "Tony Pollard",
           "Rashod Bateman",
@@ -1587,32 +1593,34 @@
           "Puka Nacua"
         ],
         "starters": [
-          "Brock Purdy",
+          "Daniel Jones",
           "Breece Hall",
           "Chuba Hubbard",
           "Puka Nacua",
           "Luther Burden III",
-          "AJ Barner",
+          "Brenton Strange",
           "Carnell Tate",
           "Tony Pollard",
-          "Tyler Allgeier"
+          "Chris Godwin Jr."
         ],
         "bench": [
+          "AJ Barner",
           "Malik Washington",
           "Brian Thomas Jr.",
           "Jaydon Blue",
           "Travis Hunter",
           "Ja'Kobi Lane",
           "Jonah Coleman",
-          "David Njoku",
+          "Geno Smith",
           "Alvin Kamara",
-          "Chris Godwin Jr.",
-          "Daniel Jones",
+          "Cooper Kupp",
           "Rashod Bateman",
           "Cade Otton",
-          "Brenton Strange"
+          "Tyler Allgeier",
+          "Brock Purdy"
         ],
         "reserve": [
+          "David Njoku",
           "Jake Tonges"
         ],
         "taxi": []
@@ -1966,11 +1974,11 @@
         "11559",
         "7567",
         "8408",
-        "9488",
-        "11637",
-        "12518",
         "8167",
         "12526",
+        "12518",
+        "9488",
+        "11637",
         "13298"
       ],
       "bench": [
@@ -2031,11 +2039,11 @@
           "Michael Penix Jr.",
           "Kenny Gainwell",
           "Jordan Mason",
-          "Jaxon Smith-Njigba",
-          "Keon Coleman",
-          "Tyler Warren",
           "Christian Watson",
           "Tetairoa McMillan",
+          "Tyler Warren",
+          "Jaxon Smith-Njigba",
+          "Keon Coleman",
           "KC Concepcion Jr."
         ],
         "bench": [
@@ -2210,7 +2218,7 @@
       },
       "settings": {
         "fpts": 1024,
-        "fpts_against": 754,
+        "fpts_against": 753,
         "fpts_against_decimal": 90,
         "fpts_decimal": 16,
         "losses": 1,
@@ -2899,7 +2907,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 26,
         "depth_chart_position": "LWR",
@@ -2933,7 +2941,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 27,
         "depth_chart_position": "TE",
@@ -2967,7 +2975,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "RB",
@@ -3022,7 +3030,7 @@
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "QB",
-        "search_rank": 22
+        "search_rank": 20
       },
       "11563": {
         "player_id": "11563",
@@ -3090,7 +3098,7 @@
         "years_exp": 2,
         "age": 25,
         "depth_chart_position": "QB",
-        "search_rank": 22
+        "search_rank": 23
       },
       "11569": {
         "player_id": "11569",
@@ -3239,7 +3247,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "TE",
@@ -3273,7 +3281,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 2,
         "age": 25,
         "depth_chart_position": "SWR",
@@ -3447,7 +3455,7 @@
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "LWR",
-        "search_rank": 28
+        "search_rank": 27
       },
       "11635": {
         "player_id": "11635",
@@ -3464,7 +3472,7 @@
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "SWR",
-        "search_rank": 35
+        "search_rank": 34
       },
       "11637": {
         "player_id": "11637",
@@ -3511,7 +3519,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "RB",
@@ -3651,7 +3659,7 @@
         "years_exp": 2,
         "age": 26,
         "depth_chart_position": "RB",
-        "search_rank": 458
+        "search_rank": 456
       },
       "12457": {
         "player_id": "12457",
@@ -3667,7 +3675,7 @@
         "injury_status": null,
         "years_exp": 1,
         "age": 22,
-        "depth_chart_position": null,
+        "depth_chart_position": "RB",
         "search_rank": 189
       },
       "12467": {
@@ -3698,7 +3706,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "RB",
@@ -4059,7 +4067,7 @@
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "QB",
-        "search_rank": 44
+        "search_rank": 43
       },
       "12509": {
         "player_id": "12509",
@@ -4091,7 +4099,7 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 1,
-        "age": 22,
+        "age": 23,
         "depth_chart_position": "RB",
         "search_rank": 45
       },
@@ -4247,7 +4255,7 @@
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "RCB",
-        "search_rank": 105
+        "search_rank": 104
       },
       "12531": {
         "player_id": "12531",
@@ -4327,8 +4335,8 @@
         "fantasy_positions": [
           "WR"
         ],
-        "status": "Active",
-        "injury_status": "Questionable",
+        "status": "Inactive",
+        "injury_status": "IR",
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "SWR",
@@ -4366,7 +4374,7 @@
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "RB",
-        "search_rank": 512
+        "search_rank": 511
       },
       "12545": {
         "player_id": "12545",
@@ -4600,7 +4608,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 0,
         "age": 21,
         "depth_chart_position": "RWR",
@@ -4723,7 +4731,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
-        "search_rank": 89
+        "search_rank": 91
       },
       "13296": {
         "player_id": "13296",
@@ -4740,7 +4748,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RWR",
-        "search_rank": 197
+        "search_rank": 199
       },
       "13298": {
         "player_id": "13298",
@@ -5080,7 +5088,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
-        "search_rank": 367
+        "search_rank": 366
       },
       "13413": {
         "player_id": "13413",
@@ -5097,7 +5105,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "SWR",
-        "search_rank": 179
+        "search_rank": 181
       },
       "13414": {
         "player_id": "13414",
@@ -5131,7 +5139,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "SWR",
-        "search_rank": 113
+        "search_rank": 112
       },
       "13420": {
         "player_id": "13420",
@@ -5148,7 +5156,7 @@
         "years_exp": 0,
         "age": 24,
         "depth_chart_position": "LWR",
-        "search_rank": 483
+        "search_rank": 485
       },
       "13421": {
         "player_id": "13421",
@@ -5182,7 +5190,7 @@
         "years_exp": 0,
         "age": 25,
         "depth_chart_position": "RB",
-        "search_rank": 384
+        "search_rank": 382
       },
       "13533": {
         "player_id": "13533",
@@ -5200,6 +5208,23 @@
         "age": 22,
         "depth_chart_position": "SWR",
         "search_rank": 466
+      },
+      "1373": {
+        "player_id": "1373",
+        "name": "Geno Smith",
+        "first_name": "Geno",
+        "last_name": "Smith",
+        "team": "NYJ",
+        "position": "QB",
+        "fantasy_positions": [
+          "QB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 13,
+        "age": 36,
+        "depth_chart_position": "QB",
+        "search_rank": 211
       },
       "1466": {
         "player_id": "1466",
@@ -5297,7 +5322,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 11,
         "age": 32,
         "depth_chart_position": "SWR",
@@ -5420,7 +5445,7 @@
         "years_exp": 10,
         "age": 33,
         "depth_chart_position": "TE",
-        "search_rank": 633
+        "search_rank": 634
       },
       "3294": {
         "player_id": "3294",
@@ -5541,6 +5566,23 @@
         "depth_chart_position": "SWR",
         "search_rank": 88
       },
+      "4039": {
+        "player_id": "4039",
+        "name": "Cooper Kupp",
+        "first_name": "Cooper",
+        "last_name": "Kupp",
+        "team": "SEA",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 9,
+        "age": 33,
+        "depth_chart_position": "SWR",
+        "search_rank": 195
+      },
       "4046": {
         "player_id": "4046",
         "name": "Patrick Mahomes",
@@ -5556,7 +5598,7 @@
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "QB",
-        "search_rank": 40
+        "search_rank": 39
       },
       "4137": {
         "player_id": "4137",
@@ -5590,7 +5632,7 @@
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "RB",
-        "search_rank": 455
+        "search_rank": 458
       },
       "4177": {
         "player_id": "4177",
@@ -5794,7 +5836,7 @@
         "years_exp": 8,
         "age": 29,
         "depth_chart_position": "LWR",
-        "search_rank": 50
+        "search_rank": 48
       },
       "4984": {
         "player_id": "4984",
@@ -6011,7 +6053,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "LWR",
@@ -6032,7 +6074,7 @@
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 132
+        "search_rank": 131
       },
       "5872": {
         "player_id": "5872",
@@ -6113,7 +6155,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "RWR",
@@ -6270,7 +6312,7 @@
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "LWR",
-        "search_rank": 11
+        "search_rank": 12
       },
       "6797": {
         "player_id": "6797",
@@ -6287,7 +6329,7 @@
         "years_exp": 6,
         "age": 28,
         "depth_chart_position": "QB",
-        "search_rank": 35
+        "search_rank": 34
       },
       "6801": {
         "player_id": "6801",
@@ -6338,7 +6380,7 @@
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "QB",
-        "search_rank": 65
+        "search_rank": 67
       },
       "6806": {
         "player_id": "6806",
@@ -6559,7 +6601,7 @@
         "years_exp": 5,
         "age": 27,
         "depth_chart_position": "SWR",
-        "search_rank": 7
+        "search_rank": 6
       },
       "7553": {
         "player_id": "7553",
@@ -6589,7 +6631,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 5,
         "age": 26,
         "depth_chart_position": "LWR",
@@ -6606,7 +6648,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 5,
         "age": 27,
         "depth_chart_position": "RB",
@@ -6661,7 +6703,7 @@
         "years_exp": 5,
         "age": 26,
         "depth_chart_position": "RB",
-        "search_rank": 30
+        "search_rank": 31
       },
       "7594": {
         "player_id": "7594",
@@ -6877,8 +6919,8 @@
         "fantasy_positions": [
           "RB"
         ],
-        "status": "Active",
-        "injury_status": "Questionable",
+        "status": "Inactive",
+        "injury_status": "IR",
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "RB",
@@ -6916,7 +6958,7 @@
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "TE",
-        "search_rank": 106
+        "search_rank": 105
       },
       "8132": {
         "player_id": "8132",
@@ -6929,7 +6971,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "RB",
@@ -6963,7 +7005,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "RWR",
@@ -6997,7 +7039,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 4,
         "age": 25,
         "depth_chart_position": "RWR",
@@ -7120,7 +7162,7 @@
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "RB",
-        "search_rank": 17
+        "search_rank": 19
       },
       "8154": {
         "player_id": "8154",
@@ -7201,7 +7243,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "TE",
@@ -7388,7 +7430,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 24,
         "depth_chart_position": "RB",
@@ -7460,7 +7502,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "QB",
-        "search_rank": 133
+        "search_rank": 132
       },
       "9479": {
         "player_id": "9479",
@@ -7596,7 +7638,7 @@
         "years_exp": 3,
         "age": 24,
         "depth_chart_position": "LWR",
-        "search_rank": 5
+        "search_rank": 7
       },
       "9493": {
         "player_id": "9493",
@@ -7662,7 +7704,7 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 3,
-        "age": 26,
+        "age": 27,
         "depth_chart_position": "SWR",
         "search_rank": 187
       },
@@ -7766,7 +7808,7 @@
         "years_exp": 21,
         "age": 42,
         "depth_chart_position": "QB",
-        "search_rank": 186
+        "search_rank": 187
       },
       "9753": {
         "player_id": "9753",
@@ -7909,7 +7951,7 @@
         "name": "Emari Demercado",
         "first_name": "Emari",
         "last_name": "Demercado",
-        "team": null,
+        "team": "HOU",
         "position": "RB",
         "fantasy_positions": [
           "RB"
@@ -7918,7 +7960,7 @@
         "injury_status": null,
         "years_exp": 3,
         "age": 27,
-        "depth_chart_position": null,
+        "depth_chart_position": "RB",
         "search_rank": 502
       },
       "11370": {
@@ -7936,7 +7978,7 @@
         "years_exp": 3,
         "age": 26,
         "depth_chart_position": "RB",
-        "search_rank": 450
+        "search_rank": 451
       },
       "11439": {
         "player_id": "11439",
@@ -8191,7 +8233,7 @@
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "QB",
-        "search_rank": 116
+        "search_rank": 115
       },
       "12524": {
         "player_id": "12524",
@@ -8276,7 +8318,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "QB",
-        "search_rank": 287
+        "search_rank": 289
       },
       "13282": {
         "player_id": "13282",
@@ -8393,7 +8435,7 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 0,
-        "age": 23,
+        "age": 24,
         "depth_chart_position": "QB",
         "search_rank": 647
       },
@@ -8497,7 +8539,7 @@
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "QB",
-        "search_rank": 291
+        "search_rank": 290
       },
       "4018": {
         "player_id": "4018",
@@ -8515,23 +8557,6 @@
         "age": 30,
         "depth_chart_position": null,
         "search_rank": 164
-      },
-      "4039": {
-        "player_id": "4039",
-        "name": "Cooper Kupp",
-        "first_name": "Cooper",
-        "last_name": "Kupp",
-        "team": "SEA",
-        "position": "WR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 9,
-        "age": 33,
-        "depth_chart_position": "SWR",
-        "search_rank": 195
       },
       "4066": {
         "player_id": "4066",
@@ -8714,7 +8739,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "TE",
@@ -8750,7 +8775,7 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 6,
-        "age": 28,
+        "age": 29,
         "depth_chart_position": "SWR",
         "search_rank": 194
       },
@@ -20474,7 +20499,7 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 108.86,
+                "points": 107.86,
                 "custom_points": null
               },
               {
@@ -20820,7 +20845,7 @@
             "matchup_id": 5,
             "roster_id": 3,
             "team_label": "Laporta Potty",
-            "points": 108.86,
+            "points": 107.86,
             "custom_points": null,
             "players": [
               "10859",
@@ -20900,7 +20925,7 @@
               "9501": 5.3,
               "9502": 5.5,
               "9506": 11.2,
-              "9509": 17.2
+              "9509": 16.2
             },
             "starters_points": {},
             "display": {
@@ -22897,9 +22922,11 @@
               "13279",
               "13293",
               "13345",
+              "1373",
               "4033",
               "4035",
               "4037",
+              "4039",
               "5870",
               "5967",
               "7571",
@@ -22913,31 +22940,33 @@
               "9493"
             ],
             "starters": [
-              "8183",
+              "5870",
               "8155",
               "7594",
               "9493",
               "12519",
-              "11603",
+              "9480",
               "13279",
               "5967",
-              "8132"
+              "4037"
             ],
             "bench": [
+              "11603",
               "11610",
               "11631",
               "12457",
               "12530",
               "13293",
               "13345",
+              "1373",
               "4033",
               "4035",
-              "4037",
-              "5870",
+              "4039",
               "7571",
               "8111",
-              "8698",
-              "9480"
+              "8132",
+              "8183",
+              "8698"
             ],
             "players_points": {
               "11603": 0.0,
@@ -22949,9 +22978,11 @@
               "13279": 0.0,
               "13293": 0.0,
               "13345": 0.0,
+              "1373": 0.0,
               "4033": 0.0,
               "4035": 0.0,
               "4037": 0.0,
+              "4039": 0.0,
               "5870": 0.0,
               "5967": 0.0,
               "7571": 0.0,
@@ -22976,9 +23007,11 @@
                 "Carnell Tate",
                 "Ja'Kobi Lane",
                 "Jonah Coleman",
+                "Geno Smith",
                 "David Njoku",
                 "Alvin Kamara",
                 "Chris Godwin Jr.",
+                "Cooper Kupp",
                 "Daniel Jones",
                 "Tony Pollard",
                 "Rashod Bateman",
@@ -22992,31 +23025,33 @@
                 "Puka Nacua"
               ],
               "starters": [
-                "Brock Purdy",
+                "Daniel Jones",
                 "Breece Hall",
                 "Chuba Hubbard",
                 "Puka Nacua",
                 "Luther Burden III",
-                "AJ Barner",
+                "Brenton Strange",
                 "Carnell Tate",
                 "Tony Pollard",
-                "Tyler Allgeier"
+                "Chris Godwin Jr."
               ],
               "bench": [
+                "AJ Barner",
                 "Malik Washington",
                 "Brian Thomas Jr.",
                 "Jaydon Blue",
                 "Travis Hunter",
                 "Ja'Kobi Lane",
                 "Jonah Coleman",
+                "Geno Smith",
                 "David Njoku",
                 "Alvin Kamara",
-                "Chris Godwin Jr.",
-                "Daniel Jones",
+                "Cooper Kupp",
                 "Rashod Bateman",
                 "Cade Otton",
-                "Jake Tonges",
-                "Brenton Strange"
+                "Tyler Allgeier",
+                "Brock Purdy",
+                "Jake Tonges"
               ]
             }
           },
@@ -23358,11 +23393,11 @@
               "11559",
               "7567",
               "8408",
-              "9488",
-              "11637",
-              "12518",
               "8167",
               "12526",
+              "12518",
+              "9488",
+              "11637",
               "13298"
             ],
             "bench": [
@@ -23443,11 +23478,11 @@
                 "Michael Penix Jr.",
                 "Kenny Gainwell",
                 "Jordan Mason",
-                "Jaxon Smith-Njigba",
-                "Keon Coleman",
-                "Tyler Warren",
                 "Christian Watson",
                 "Tetairoa McMillan",
+                "Tyler Warren",
+                "Jaxon Smith-Njigba",
+                "Keon Coleman",
                 "KC Concepcion Jr."
               ],
               "bench": [
@@ -30753,13 +30788,85 @@
             "waiver_budget": [],
             "settings": {},
             "metadata": {}
+          },
+          {
+            "week": 8,
+            "transaction_id": "1421561695943274496",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1793289228953,
+            "created_at": "2026-10-29T15:53:48.953000Z",
+            "status_updated": 1793289228953,
+            "status_updated_at": "2026-10-29T15:53:48.953000Z",
+            "creator_user_id": "471415316501491712",
+            "roster_ids": [
+              4
+            ],
+            "team_labels": [
+              "Puka Troopas"
+            ],
+            "consenter_ids": [
+              4
+            ],
+            "consenter_team_labels": [
+              "Puka Troopas"
+            ],
+            "adds": [
+              {
+                "player_id": "1373",
+                "player_name": "Geno Smith",
+                "roster_id": 4,
+                "team_label": "Puka Troopas"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
+          },
+          {
+            "week": 8,
+            "transaction_id": "1421561742126862336",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1793289239964,
+            "created_at": "2026-10-29T15:53:59.964000Z",
+            "status_updated": 1793289239964,
+            "status_updated_at": "2026-10-29T15:53:59.964000Z",
+            "creator_user_id": "471415316501491712",
+            "roster_ids": [
+              4
+            ],
+            "team_labels": [
+              "Puka Troopas"
+            ],
+            "consenter_ids": [
+              4
+            ],
+            "consenter_team_labels": [
+              "Puka Troopas"
+            ],
+            "adds": [
+              {
+                "player_id": "4039",
+                "player_name": "Cooper Kupp",
+                "roster_id": 4,
+                "team_label": "Puka Troopas"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
           }
         ],
         "counts": {
-          "transactions": 2,
+          "transactions": 4,
           "trades": 0,
           "waivers": 0,
-          "free_agent_moves": 2
+          "free_agent_moves": 4
         }
       }
     },
@@ -37207,6 +37314,78 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 8,
+        "transaction_id": "1421561695943274496",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1793289228953,
+        "created_at": "2026-10-29T15:53:48.953000Z",
+        "status_updated": 1793289228953,
+        "status_updated_at": "2026-10-29T15:53:48.953000Z",
+        "creator_user_id": "471415316501491712",
+        "roster_ids": [
+          4
+        ],
+        "team_labels": [
+          "Puka Troopas"
+        ],
+        "consenter_ids": [
+          4
+        ],
+        "consenter_team_labels": [
+          "Puka Troopas"
+        ],
+        "adds": [
+          {
+            "player_id": "1373",
+            "player_name": "Geno Smith",
+            "roster_id": 4,
+            "team_label": "Puka Troopas"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 8,
+        "transaction_id": "1421561742126862336",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1793289239964,
+        "created_at": "2026-10-29T15:53:59.964000Z",
+        "status_updated": 1793289239964,
+        "status_updated_at": "2026-10-29T15:53:59.964000Z",
+        "creator_user_id": "471415316501491712",
+        "roster_ids": [
+          4
+        ],
+        "team_labels": [
+          "Puka Troopas"
+        ],
+        "consenter_ids": [
+          4
+        ],
+        "consenter_team_labels": [
+          "Puka Troopas"
+        ],
+        "adds": [
+          {
+            "player_id": "4039",
+            "player_name": "Cooper Kupp",
+            "roster_id": 4,
+            "team_label": "Puka Troopas"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "trades": [
@@ -43625,22 +43804,94 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 8,
+        "transaction_id": "1421561695943274496",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1793289228953,
+        "created_at": "2026-10-29T15:53:48.953000Z",
+        "status_updated": 1793289228953,
+        "status_updated_at": "2026-10-29T15:53:48.953000Z",
+        "creator_user_id": "471415316501491712",
+        "roster_ids": [
+          4
+        ],
+        "team_labels": [
+          "Puka Troopas"
+        ],
+        "consenter_ids": [
+          4
+        ],
+        "consenter_team_labels": [
+          "Puka Troopas"
+        ],
+        "adds": [
+          {
+            "player_id": "1373",
+            "player_name": "Geno Smith",
+            "roster_id": 4,
+            "team_label": "Puka Troopas"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 8,
+        "transaction_id": "1421561742126862336",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1793289239964,
+        "created_at": "2026-10-29T15:53:59.964000Z",
+        "status_updated": 1793289239964,
+        "status_updated_at": "2026-10-29T15:53:59.964000Z",
+        "creator_user_id": "471415316501491712",
+        "roster_ids": [
+          4
+        ],
+        "team_labels": [
+          "Puka Troopas"
+        ],
+        "consenter_ids": [
+          4
+        ],
+        "consenter_team_labels": [
+          "Puka Troopas"
+        ],
+        "adds": [
+          {
+            "player_id": "4039",
+            "player_name": "Cooper Kupp",
+            "roster_id": 4,
+            "team_label": "Puka Troopas"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "counts": {
       "weeks": 8,
-      "transactions": 147,
+      "transactions": 149,
       "trades": 16,
       "waivers": 28,
-      "free_agent_moves": 102,
+      "free_agent_moves": 104,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 102,
+        "free_agent": 104,
         "trade": 16,
         "waiver": 28
       },
       "by_status": {
-        "complete": 138,
+        "complete": 140,
         "failed": 9
       }
     }
@@ -47572,6 +47823,7 @@
       "cj donaldson": "13277",
       "cody white": "7039",
       "colston loveland": "12517",
+      "cooper kupp": "4039",
       "corey kiner": "12491",
       "courtland sutton": "5045",
       "cyrus allen": "13413",
@@ -47617,6 +47869,7 @@
       "emmett johnson": "13337",
       "fernando mendoza": "13269",
       "garrett wilson": "8146",
+      "geno smith": "1373",
       "george holani": "12048",
       "george kittle": "4217",
       "george pickens": "8137",

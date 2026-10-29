@@ -6523,13 +6523,85 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 8,
+          "transaction_id": "1421561695943274496",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1793289228953,
+          "created_at": "2026-10-29T15:53:48.953000Z",
+          "status_updated": 1793289228953,
+          "status_updated_at": "2026-10-29T15:53:48.953000Z",
+          "creator_user_id": "471415316501491712",
+          "roster_ids": [
+            4
+          ],
+          "team_labels": [
+            "Puka Troopas"
+          ],
+          "consenter_ids": [
+            4
+          ],
+          "consenter_team_labels": [
+            "Puka Troopas"
+          ],
+          "adds": [
+            {
+              "player_id": "1373",
+              "player_name": "Geno Smith",
+              "roster_id": 4,
+              "team_label": "Puka Troopas"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 8,
+          "transaction_id": "1421561742126862336",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1793289239964,
+          "created_at": "2026-10-29T15:53:59.964000Z",
+          "status_updated": 1793289239964,
+          "status_updated_at": "2026-10-29T15:53:59.964000Z",
+          "creator_user_id": "471415316501491712",
+          "roster_ids": [
+            4
+          ],
+          "team_labels": [
+            "Puka Troopas"
+          ],
+          "consenter_ids": [
+            4
+          ],
+          "consenter_team_labels": [
+            "Puka Troopas"
+          ],
+          "adds": [
+            {
+              "player_id": "4039",
+              "player_name": "Cooper Kupp",
+              "roster_id": 4,
+              "team_label": "Puka Troopas"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 2,
+        "transactions": 4,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 2
+        "free_agent_moves": 4
       }
     }
   },
@@ -12977,6 +13049,78 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 8,
+      "transaction_id": "1421561695943274496",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793289228953,
+      "created_at": "2026-10-29T15:53:48.953000Z",
+      "status_updated": 1793289228953,
+      "status_updated_at": "2026-10-29T15:53:48.953000Z",
+      "creator_user_id": "471415316501491712",
+      "roster_ids": [
+        4
+      ],
+      "team_labels": [
+        "Puka Troopas"
+      ],
+      "consenter_ids": [
+        4
+      ],
+      "consenter_team_labels": [
+        "Puka Troopas"
+      ],
+      "adds": [
+        {
+          "player_id": "1373",
+          "player_name": "Geno Smith",
+          "roster_id": 4,
+          "team_label": "Puka Troopas"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 8,
+      "transaction_id": "1421561742126862336",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793289239964,
+      "created_at": "2026-10-29T15:53:59.964000Z",
+      "status_updated": 1793289239964,
+      "status_updated_at": "2026-10-29T15:53:59.964000Z",
+      "creator_user_id": "471415316501491712",
+      "roster_ids": [
+        4
+      ],
+      "team_labels": [
+        "Puka Troopas"
+      ],
+      "consenter_ids": [
+        4
+      ],
+      "consenter_team_labels": [
+        "Puka Troopas"
+      ],
+      "adds": [
+        {
+          "player_id": "4039",
+          "player_name": "Cooper Kupp",
+          "roster_id": 4,
+          "team_label": "Puka Troopas"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -19395,22 +19539,94 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 8,
+      "transaction_id": "1421561695943274496",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793289228953,
+      "created_at": "2026-10-29T15:53:48.953000Z",
+      "status_updated": 1793289228953,
+      "status_updated_at": "2026-10-29T15:53:48.953000Z",
+      "creator_user_id": "471415316501491712",
+      "roster_ids": [
+        4
+      ],
+      "team_labels": [
+        "Puka Troopas"
+      ],
+      "consenter_ids": [
+        4
+      ],
+      "consenter_team_labels": [
+        "Puka Troopas"
+      ],
+      "adds": [
+        {
+          "player_id": "1373",
+          "player_name": "Geno Smith",
+          "roster_id": 4,
+          "team_label": "Puka Troopas"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 8,
+      "transaction_id": "1421561742126862336",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793289239964,
+      "created_at": "2026-10-29T15:53:59.964000Z",
+      "status_updated": 1793289239964,
+      "status_updated_at": "2026-10-29T15:53:59.964000Z",
+      "creator_user_id": "471415316501491712",
+      "roster_ids": [
+        4
+      ],
+      "team_labels": [
+        "Puka Troopas"
+      ],
+      "consenter_ids": [
+        4
+      ],
+      "consenter_team_labels": [
+        "Puka Troopas"
+      ],
+      "adds": [
+        {
+          "player_id": "4039",
+          "player_name": "Cooper Kupp",
+          "roster_id": 4,
+          "team_label": "Puka Troopas"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 8,
-    "transactions": 147,
+    "transactions": 149,
     "trades": 16,
     "waivers": 28,
-    "free_agent_moves": 102,
+    "free_agent_moves": 104,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 102,
+      "free_agent": 104,
       "trade": 16,
       "waiver": 28
     },
     "by_status": {
-      "complete": 138,
+      "complete": 140,
       "failed": 9
     }
   }

@@ -11597,7 +11597,7 @@
             {
               "roster_id": 3,
               "team_label": "Laporta Potty",
-              "points": 108.86,
+              "points": 107.86,
               "custom_points": null
             },
             {
@@ -11943,7 +11943,7 @@
           "matchup_id": 5,
           "roster_id": 3,
           "team_label": "Laporta Potty",
-          "points": 108.86,
+          "points": 107.86,
           "custom_points": null,
           "players": [
             "10859",
@@ -12023,7 +12023,7 @@
             "9501": 5.3,
             "9502": 5.5,
             "9506": 11.2,
-            "9509": 17.2
+            "9509": 16.2
           },
           "starters_points": {},
           "display": {
@@ -14020,9 +14020,11 @@
             "13279",
             "13293",
             "13345",
+            "1373",
             "4033",
             "4035",
             "4037",
+            "4039",
             "5870",
             "5967",
             "7571",
@@ -14036,31 +14038,33 @@
             "9493"
           ],
           "starters": [
-            "8183",
+            "5870",
             "8155",
             "7594",
             "9493",
             "12519",
-            "11603",
+            "9480",
             "13279",
             "5967",
-            "8132"
+            "4037"
           ],
           "bench": [
+            "11603",
             "11610",
             "11631",
             "12457",
             "12530",
             "13293",
             "13345",
+            "1373",
             "4033",
             "4035",
-            "4037",
-            "5870",
+            "4039",
             "7571",
             "8111",
-            "8698",
-            "9480"
+            "8132",
+            "8183",
+            "8698"
           ],
           "players_points": {
             "11603": 0.0,
@@ -14072,9 +14076,11 @@
             "13279": 0.0,
             "13293": 0.0,
             "13345": 0.0,
+            "1373": 0.0,
             "4033": 0.0,
             "4035": 0.0,
             "4037": 0.0,
+            "4039": 0.0,
             "5870": 0.0,
             "5967": 0.0,
             "7571": 0.0,
@@ -14099,9 +14105,11 @@
               "Carnell Tate",
               "Ja'Kobi Lane",
               "Jonah Coleman",
+              "Geno Smith",
               "David Njoku",
               "Alvin Kamara",
               "Chris Godwin Jr.",
+              "Cooper Kupp",
               "Daniel Jones",
               "Tony Pollard",
               "Rashod Bateman",
@@ -14115,31 +14123,33 @@
               "Puka Nacua"
             ],
             "starters": [
-              "Brock Purdy",
+              "Daniel Jones",
               "Breece Hall",
               "Chuba Hubbard",
               "Puka Nacua",
               "Luther Burden III",
-              "AJ Barner",
+              "Brenton Strange",
               "Carnell Tate",
               "Tony Pollard",
-              "Tyler Allgeier"
+              "Chris Godwin Jr."
             ],
             "bench": [
+              "AJ Barner",
               "Malik Washington",
               "Brian Thomas Jr.",
               "Jaydon Blue",
               "Travis Hunter",
               "Ja'Kobi Lane",
               "Jonah Coleman",
+              "Geno Smith",
               "David Njoku",
               "Alvin Kamara",
-              "Chris Godwin Jr.",
-              "Daniel Jones",
+              "Cooper Kupp",
               "Rashod Bateman",
               "Cade Otton",
-              "Jake Tonges",
-              "Brenton Strange"
+              "Tyler Allgeier",
+              "Brock Purdy",
+              "Jake Tonges"
             ]
           }
         },
@@ -14481,11 +14491,11 @@
             "11559",
             "7567",
             "8408",
-            "9488",
-            "11637",
-            "12518",
             "8167",
             "12526",
+            "12518",
+            "9488",
+            "11637",
             "13298"
           ],
           "bench": [
@@ -14566,11 +14576,11 @@
               "Michael Penix Jr.",
               "Kenny Gainwell",
               "Jordan Mason",
-              "Jaxon Smith-Njigba",
-              "Keon Coleman",
-              "Tyler Warren",
               "Christian Watson",
               "Tetairoa McMillan",
+              "Tyler Warren",
+              "Jaxon Smith-Njigba",
+              "Keon Coleman",
               "KC Concepcion Jr."
             ],
             "bench": [

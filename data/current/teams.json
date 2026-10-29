@@ -192,9 +192,9 @@
       "ties": 0
     },
     "points": {
-      "points_for": 967.5,
+      "points_for": 966.5,
       "points_against": 876.58,
-      "raw_fpts": 967,
+      "raw_fpts": 966,
       "raw_fpts_decimal": 50,
       "raw_fpts_against": 876,
       "raw_fpts_against_decimal": 58
@@ -207,12 +207,12 @@
       "total_moves": 0
     },
     "settings": {
-      "fpts": 967,
+      "fpts": 966,
       "fpts_against": 876,
       "fpts_against_decimal": 58,
       "fpts_decimal": 50,
       "losses": 3,
-      "ppts": 1075,
+      "ppts": 1074,
       "ppts_decimal": 56,
       "ties": 0,
       "total_moves": 0,
@@ -514,10 +514,10 @@
     },
     "points": {
       "points_for": 1024.16,
-      "points_against": 754.9,
+      "points_against": 753.9,
       "raw_fpts": 1024,
       "raw_fpts_decimal": 16,
-      "raw_fpts_against": 754,
+      "raw_fpts_against": 753,
       "raw_fpts_against_decimal": 90
     },
     "waivers": {
@@ -529,7 +529,7 @@
     },
     "settings": {
       "fpts": 1024,
-      "fpts_against": 754,
+      "fpts_against": 753,
       "fpts_against_decimal": 90,
       "fpts_decimal": 16,
       "losses": 1,
