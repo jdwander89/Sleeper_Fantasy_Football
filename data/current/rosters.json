@@ -328,7 +328,7 @@
       "9509"
     ],
     "starters": [
-      "4046",
+      "6804",
       "9509",
       "6813",
       "8112",
@@ -344,9 +344,9 @@
       "13269",
       "2197",
       "2216",
+      "4046",
       "4993",
       "5995",
-      "6804",
       "7039",
       "8110",
       "8161",
@@ -393,7 +393,7 @@
         "Bijan Robinson"
       ],
       "starters": [
-        "Patrick Mahomes",
+        "Jordan Love",
         "Bijan Robinson",
         "Jonathan Taylor",
         "Drake London",
@@ -409,9 +409,9 @@
         "Fernando Mendoza",
         "Brandin Cooks",
         "Mike Evans",
+        "Patrick Mahomes",
         "Mike Gesicki",
         "Justice Hill",
-        "Jordan Love",
         "Cody White",
         "Jake Ferguson",
         "Malik Willis",
@@ -1074,18 +1074,18 @@
       "8130",
       "11646",
       "7611",
-      "12514"
+      "13346"
     ],
     "bench": [
       "11435",
       "11569",
       "11581",
       "11630",
+      "12514",
       "12521",
       "12531",
       "13270",
       "13301",
-      "13346",
       "6797",
       "8131",
       "8142",
@@ -1139,18 +1139,18 @@
         "Trey McBride",
         "Jalen Coker",
         "Rhamondre Stevenson",
-        "Emeka Egbuka"
+        "Denzel Boston"
       ],
       "bench": [
         "Emanuel Wilson",
         "Jarquez Hunter",
         "MarShawn Lloyd",
         "Roman Wilson",
+        "Emeka Egbuka",
         "Elijah Arroyo",
         "Trevor Etienne",
         "CJ Daniels",
         "Antonio Williams",
-        "Denzel Boston",
         "Justin Herbert",
         "Isaiah Likely",
         "Alec Pierce",
@@ -1367,19 +1367,18 @@
     "starters": [
       "4943",
       "3198",
-      "6790",
+      "12490",
       "7547",
       "5846",
       "9484",
+      "6790",
       "8126",
-      "7600",
-      "12536"
+      "11783"
     ],
     "bench": [
       "11626",
       "11729",
-      "11783",
-      "12490",
+      "12536",
       "13286",
       "13337",
       "3271",
@@ -1387,18 +1386,19 @@
       "4950",
       "5844",
       "5848",
-      "5927",
       "5947",
+      "7600",
       "9511"
     ],
     "reserve": [
+      "5927",
       "9481"
     ],
     "taxi": [],
     "player_count": 24,
     "starter_count": 9,
-    "bench_count": 14,
-    "reserve_count": 1,
+    "bench_count": 13,
+    "reserve_count": 2,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -1430,19 +1430,18 @@
       "starters": [
         "Sam Darnold",
         "Derrick Henry",
-        "D'Andre Swift",
+        "Bhayshul Tuten",
         "Amon-Ra St. Brown",
         "DK Metcalf",
         "Tucker Kraft",
+        "D'Andre Swift",
         "Wan'Dale Robinson",
-        "Pat Freiermuth",
-        "Jaylin Noel"
+        "Ryan Flournoy"
       ],
       "bench": [
         "Xavier Legette",
         "Sione Vaki",
-        "Ryan Flournoy",
-        "Bhayshul Tuten",
+        "Jaylin Noel",
         "Jadarian Price",
         "Emmett Johnson",
         "Tyler Higbee",
@@ -1450,11 +1449,12 @@
         "Christian Kirk",
         "T.J. Hockenson",
         "Marquise Brown",
-        "Terry McLaurin",
         "Jakobi Meyers",
+        "Pat Freiermuth",
         "Keaton Mitchell"
       ],
       "reserve": [
+        "Terry McLaurin",
         "Luke Musgrave"
       ],
       "taxi": []
@@ -1662,9 +1662,9 @@
       "10232",
       "9997",
       "5012",
-      "4454",
       "13274",
-      "5022"
+      "13287",
+      "4983"
     ],
     "bench": [
       "11237",
@@ -1673,11 +1673,11 @@
       "11647",
       "12487",
       "13278",
-      "13287",
       "2505",
       "3163",
       "421",
-      "4983",
+      "4454",
+      "5022",
       "5906",
       "8180",
       "9508"
@@ -1727,9 +1727,9 @@
         "Michael Wilson",
         "Zay Flowers",
         "Mark Andrews",
-        "Kendrick Bourne",
         "Germie Bernard",
-        "Dallas Goedert"
+        "Jeremiyah Love",
+        "DJ Moore"
       ],
       "bench": [
         "Jacob Saylors",
@@ -1738,11 +1738,11 @@
         "Kimani Vidal",
         "Terrance Ferguson",
         "Max Klare",
-        "Jeremiyah Love",
         "Darren Waller",
         "Jared Goff",
         "Matthew Stafford",
-        "DJ Moore",
+        "Kendrick Bourne",
+        "Dallas Goedert",
         "Dawson Knox",
         "Jalen Nailor",
         "Tyjae Spears"

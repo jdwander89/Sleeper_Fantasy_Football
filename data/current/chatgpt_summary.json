@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-29T17:27:23.153516Z",
-    "source_snapshot_generated_at": "2026-10-29T17:27:20.592825Z",
+    "generated_at": "2026-10-30T17:02:31.656806Z",
+    "source_snapshot_generated_at": "2026-10-30T17:02:29.740843Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -112,7 +112,7 @@
           "name": "Braelon Allen",
           "team": "NYJ",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8136",
@@ -126,7 +126,7 @@
           "name": "Matthew Golden",
           "team": "GB",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11624",
@@ -161,7 +161,7 @@
           "name": "TreVeyon Henderson",
           "team": "NE",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -323,9 +323,9 @@
       },
       "starters": [
         {
-          "player_id": "4046",
-          "name": "Patrick Mahomes",
-          "team": "KC",
+          "player_id": "6804",
+          "name": "Jordan Love",
+          "team": "GB",
           "position": "QB",
           "injury_status": null
         },
@@ -355,7 +355,7 @@
           "name": "Stefon Diggs",
           "team": "WAS",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "10859",
@@ -557,7 +557,7 @@
           "name": "Jahmyr Gibbs",
           "team": "DET",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "9224",
@@ -571,7 +571,7 @@
           "name": "Ja'Marr Chase",
           "team": "CIN",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7569",
@@ -599,7 +599,7 @@
           "name": "Travis Kelce",
           "team": "KC",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11620",
@@ -793,7 +793,7 @@
           "name": "Christian Watson",
           "team": "GB",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12526",
@@ -935,11 +935,11 @@
           "injury_status": null
         },
         {
-          "player_id": "12514",
-          "name": "Emeka Egbuka",
-          "team": "TB",
+          "player_id": "13346",
+          "name": "Denzel Boston",
+          "team": "CLE",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -1001,7 +1001,7 @@
           "name": "RJ Harvey",
           "team": "DEN",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12507",
@@ -1090,8 +1090,8 @@
       "counts": {
         "players": 24,
         "starters": 9,
-        "bench": 14,
-        "reserve": 1
+        "bench": 13,
+        "reserve": 2
       },
       "position_counts": {
         "QB": 2,
@@ -1115,9 +1115,9 @@
           "injury_status": null
         },
         {
-          "player_id": "6790",
-          "name": "D'Andre Swift",
-          "team": "CHI",
+          "player_id": "12490",
+          "name": "Bhayshul Tuten",
+          "team": "JAX",
           "position": "RB",
           "injury_status": null
         },
@@ -1126,7 +1126,7 @@
           "name": "Amon-Ra St. Brown",
           "team": "DET",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5846",
@@ -1143,6 +1143,13 @@
           "injury_status": null
         },
         {
+          "player_id": "6790",
+          "name": "D'Andre Swift",
+          "team": "CHI",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
           "player_id": "8126",
           "name": "Wan'Dale Robinson",
           "team": "TEN",
@@ -1150,21 +1157,21 @@
           "injury_status": null
         },
         {
-          "player_id": "7600",
-          "name": "Pat Freiermuth",
-          "team": "PIT",
-          "position": "TE",
-          "injury_status": null
-        },
-        {
-          "player_id": "12536",
-          "name": "Jaylin Noel",
-          "team": "HOU",
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "team": "DAL",
           "position": "WR",
-          "injury_status": "IR"
+          "injury_status": null
         }
       ],
       "reserve": [
+        {
+          "player_id": "5927",
+          "name": "Terry McLaurin",
+          "team": "WAS",
+          "position": "WR",
+          "injury_status": "IR"
+        },
         {
           "player_id": "9481",
           "name": "Luke Musgrave",
@@ -1244,7 +1251,7 @@
           "name": "Brock Bowers",
           "team": "LV",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8228",
@@ -1358,13 +1365,6 @@
           "injury_status": null
         },
         {
-          "player_id": "4454",
-          "name": "Kendrick Bourne",
-          "team": "ARI",
-          "position": "WR",
-          "injury_status": null
-        },
-        {
           "player_id": "13274",
           "name": "Germie Bernard",
           "team": "PIT",
@@ -1372,11 +1372,18 @@
           "injury_status": null
         },
         {
-          "player_id": "5022",
-          "name": "Dallas Goedert",
-          "team": "PHI",
-          "position": "TE",
-          "injury_status": null
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "team": "ARI",
+          "position": "RB",
+          "injury_status": "Questionable"
+        },
+        {
+          "player_id": "4983",
+          "name": "DJ Moore",
+          "team": "BUF",
+          "position": "WR",
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -2401,7 +2408,7 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 0.0,
+                "points": 20.9,
                 "custom_points": null
               },
               {
@@ -2411,7 +2418,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock",
+              "points": 20.9
+            }
           },
           {
             "matchup_id": "2",
@@ -2419,17 +2430,21 @@
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 0.0,
+                "points": 8.6,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 0.0,
+                "points": 23.2,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 11,
+              "team_label": "MOJO",
+              "points": 23.2
+            }
           },
           {
             "matchup_id": "3",
@@ -2455,7 +2470,7 @@
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 0.0,
+                "points": 24.9,
                 "custom_points": null
               },
               {
@@ -2465,7 +2480,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 4,
+              "team_label": "Puka Troopas",
+              "points": 24.9
+            }
           },
           {
             "matchup_id": "5",
@@ -2473,17 +2492,21 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 0.0,
+                "points": 21.52,
                 "custom_points": null
               },
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 0.0,
+                "points": 28.1,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 7,
+              "team_label": "Commish is a bitch",
+              "points": 28.1
+            }
           },
           {
             "matchup_id": "6",
@@ -2497,11 +2520,15 @@
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 0.0,
+                "points": 17.3,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 10,
+              "team_label": "Goin in Ra",
+              "points": 17.3
+            }
           }
         ],
         "counts": {

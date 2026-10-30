@@ -13444,7 +13444,7 @@
             {
               "roster_id": 1,
               "team_label": "It’s Herbie Hancock",
-              "points": 0.0,
+              "points": 20.9,
               "custom_points": null
             },
             {
@@ -13454,7 +13454,11 @@
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock",
+            "points": 20.9
+          }
         },
         {
           "week": 8,
@@ -13463,17 +13467,21 @@
             {
               "roster_id": 8,
               "team_label": "Back to the Future",
-              "points": 0.0,
+              "points": 8.6,
               "custom_points": null
             },
             {
               "roster_id": 11,
               "team_label": "MOJO",
-              "points": 0.0,
+              "points": 23.2,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 11,
+            "team_label": "MOJO",
+            "points": 23.2
+          }
         },
         {
           "week": 8,
@@ -13501,7 +13509,7 @@
             {
               "roster_id": 4,
               "team_label": "Puka Troopas",
-              "points": 0.0,
+              "points": 24.9,
               "custom_points": null
             },
             {
@@ -13511,7 +13519,11 @@
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 4,
+            "team_label": "Puka Troopas",
+            "points": 24.9
+          }
         },
         {
           "week": 8,
@@ -13520,17 +13532,21 @@
             {
               "roster_id": 3,
               "team_label": "Laporta Potty",
-              "points": 0.0,
+              "points": 21.52,
               "custom_points": null
             },
             {
               "roster_id": 7,
               "team_label": "Commish is a bitch",
-              "points": 0.0,
+              "points": 28.1,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 7,
+            "team_label": "Commish is a bitch",
+            "points": 28.1
+          }
         },
         {
           "week": 8,
@@ -13545,11 +13561,15 @@
             {
               "roster_id": 10,
               "team_label": "Goin in Ra",
-              "points": 0.0,
+              "points": 17.3,
               "custom_points": null
             }
           ],
-          "winner": null
+          "winner": {
+            "roster_id": 10,
+            "team_label": "Goin in Ra",
+            "points": 17.3
+          }
         }
       ],
       "roster_results": [
@@ -13558,7 +13578,7 @@
           "matchup_id": 1,
           "roster_id": 1,
           "team_label": "It’s Herbie Hancock",
-          "points": 0.0,
+          "points": 20.9,
           "custom_points": null,
           "players": [
             "10236",
@@ -13623,7 +13643,7 @@
             "11624": 0.0,
             "11643": 0.0,
             "12498": 0.0,
-            "12501": 0.0,
+            "12501": 20.9,
             "12529": 0.0,
             "12533": 0.0,
             "12542": 0.0,
@@ -13785,7 +13805,7 @@
             "13424": 0.0,
             "6904": 0.0,
             "7523": 0.0,
-            "8116": 0.0,
+            "8116": 0.2,
             "8129": 0.0,
             "8210": 0.0,
             "8676": 0.0,
@@ -13858,7 +13878,7 @@
           "matchup_id": 5,
           "roster_id": 3,
           "team_label": "Laporta Potty",
-          "points": 0.0,
+          "points": 21.52,
           "custom_points": null,
           "players": [
             "10859",
@@ -13888,7 +13908,7 @@
             "9509"
           ],
           "starters": [
-            "4046",
+            "6804",
             "9509",
             "6813",
             "8112",
@@ -13904,9 +13924,9 @@
             "13269",
             "2197",
             "2216",
+            "4046",
             "4993",
             "5995",
-            "6804",
             "6819",
             "7039",
             "8110",
@@ -13928,7 +13948,7 @@
             "4046": 0.0,
             "4993": 0.0,
             "5995": 0.0,
-            "6804": 0.0,
+            "6804": 21.52,
             "6813": 0.0,
             "6819": 0.0,
             "7039": 0.0,
@@ -13973,7 +13993,7 @@
               "Bijan Robinson"
             ],
             "starters": [
-              "Patrick Mahomes",
+              "Jordan Love",
               "Bijan Robinson",
               "Jonathan Taylor",
               "Drake London",
@@ -13989,9 +14009,9 @@
               "Fernando Mendoza",
               "Brandin Cooks",
               "Mike Evans",
+              "Patrick Mahomes",
               "Mike Gesicki",
               "Justice Hill",
-              "Jordan Love",
               "Michael Pittman Jr.",
               "Cody White",
               "Jake Ferguson",
@@ -14008,7 +14028,7 @@
           "matchup_id": 4,
           "roster_id": 4,
           "team_label": "Puka Troopas",
-          "points": 0.0,
+          "points": 24.9,
           "custom_points": null,
           "players": [
             "11603",
@@ -14084,7 +14104,7 @@
             "5870": 0.0,
             "5967": 0.0,
             "7571": 0.0,
-            "7594": 0.0,
+            "7594": 24.9,
             "8111": 0.0,
             "8132": 0.0,
             "8155": 0.0,
@@ -14458,7 +14478,7 @@
           "matchup_id": 5,
           "roster_id": 7,
           "team_label": "Commish is a bitch",
-          "points": 0.0,
+          "points": 28.1,
           "custom_points": null,
           "players": [
             "10222",
@@ -14523,7 +14543,7 @@
             "11637": 0.0,
             "12474": 0.0,
             "12518": 0.0,
-            "12526": 0.0,
+            "12526": 11.8,
             "12535": 0.0,
             "12545": 0.0,
             "12547": 0.0,
@@ -14537,7 +14557,7 @@
             "4663": 0.0,
             "4892": 0.0,
             "7567": 0.0,
-            "8167": 0.0,
+            "8167": 16.3,
             "8205": 0.0,
             "8408": 0.0,
             "9479": 0.0,
@@ -14608,7 +14628,7 @@
           "matchup_id": 2,
           "roster_id": 8,
           "team_label": "Back to the Future",
-          "points": 0.0,
+          "points": 8.6,
           "custom_points": null,
           "players": [
             "11435",
@@ -14646,7 +14666,7 @@
             "8130",
             "11646",
             "7611",
-            "12514"
+            "13346"
           ],
           "bench": [
             "11435",
@@ -14654,11 +14674,11 @@
             "11581",
             "11630",
             "12484",
+            "12514",
             "12521",
             "12531",
             "13270",
             "13301",
-            "13346",
             "6797",
             "8125",
             "8131",
@@ -14670,13 +14690,13 @@
             "11435": 0.0,
             "11564": 0.0,
             "11569": 0.0,
-            "11581": 0.0,
+            "11581": 2.6,
             "11630": 0.0,
-            "11646": 0.0,
+            "11646": 8.6,
             "12484": 0.0,
             "12514": 0.0,
             "12521": 0.0,
-            "12531": 0.0,
+            "12531": 0.1,
             "13270": 0.0,
             "13301": 0.0,
             "13346": 0.0,
@@ -14731,7 +14751,7 @@
               "Trey McBride",
               "Jalen Coker",
               "Rhamondre Stevenson",
-              "Emeka Egbuka"
+              "Denzel Boston"
             ],
             "bench": [
               "Emanuel Wilson",
@@ -14739,11 +14759,11 @@
               "MarShawn Lloyd",
               "Roman Wilson",
               "Jayden Higgins",
+              "Emeka Egbuka",
               "Elijah Arroyo",
               "Trevor Etienne",
               "CJ Daniels",
               "Antonio Williams",
-              "Denzel Boston",
               "Justin Herbert",
               "Calvin Austin III",
               "Isaiah Likely",
@@ -14908,7 +14928,7 @@
           "matchup_id": 6,
           "roster_id": 10,
           "team_label": "Goin in Ra",
-          "points": 0.0,
+          "points": 17.3,
           "custom_points": null,
           "players": [
             "11626",
@@ -14939,19 +14959,18 @@
           "starters": [
             "4943",
             "3198",
-            "6790",
+            "12490",
             "7547",
             "5846",
             "9484",
+            "6790",
             "8126",
-            "7600",
-            "12536"
+            "11783"
           ],
           "bench": [
             "11626",
             "11729",
-            "11783",
-            "12490",
+            "12536",
             "13286",
             "13337",
             "3271",
@@ -14961,6 +14980,7 @@
             "5848",
             "5927",
             "5947",
+            "7600",
             "9481",
             "9511"
           ],
@@ -14987,7 +15007,7 @@
             "7600": 0.0,
             "8126": 0.0,
             "9481": 0.0,
-            "9484": 0.0,
+            "9484": 17.3,
             "9511": 0.0
           },
           "starters_points": {},
@@ -15021,19 +15041,18 @@
             "starters": [
               "Sam Darnold",
               "Derrick Henry",
-              "D'Andre Swift",
+              "Bhayshul Tuten",
               "Amon-Ra St. Brown",
               "DK Metcalf",
               "Tucker Kraft",
+              "D'Andre Swift",
               "Wan'Dale Robinson",
-              "Pat Freiermuth",
-              "Jaylin Noel"
+              "Ryan Flournoy"
             ],
             "bench": [
               "Xavier Legette",
               "Sione Vaki",
-              "Ryan Flournoy",
-              "Bhayshul Tuten",
+              "Jaylin Noel",
               "Jadarian Price",
               "Emmett Johnson",
               "Tyler Higbee",
@@ -15043,6 +15062,7 @@
               "Marquise Brown",
               "Terry McLaurin",
               "Jakobi Meyers",
+              "Pat Freiermuth",
               "Luke Musgrave",
               "Keaton Mitchell"
             ]
@@ -15053,7 +15073,7 @@
           "matchup_id": 2,
           "roster_id": 11,
           "team_label": "MOJO",
-          "points": 0.0,
+          "points": 23.2,
           "custom_points": null,
           "players": [
             "11563",
@@ -15118,14 +15138,14 @@
             "11627": 0.0,
             "12469": 0.0,
             "12481": 0.0,
-            "12482": 0.0,
+            "12482": 3.3,
             "13320": 0.0,
             "2133": 0.0,
             "3214": 0.0,
             "4147": 0.0,
             "4984": 0.0,
             "5045": 0.0,
-            "5850": 0.0,
+            "5850": 23.2,
             "5859": 0.0,
             "5892": 0.0,
             "6039": 0.0,
@@ -15135,7 +15155,7 @@
             "7526": 0.0,
             "8138": 0.0,
             "8228": 0.0,
-            "9228": 0.0,
+            "9228": 10.36,
             "9482": 0.0
           },
           "starters_points": {},
@@ -15239,7 +15259,7 @@
             "10232",
             "9997",
             "5012",
-            "11635",
+            "13274",
             "13287",
             "4983"
           ],
@@ -15247,9 +15267,9 @@
             "11237",
             "11608",
             "11618",
+            "11635",
             "11647",
             "12487",
-            "13274",
             "13278",
             "2505",
             "3163",
@@ -15273,7 +15293,7 @@
             "13274": 0.0,
             "13278": 0.0,
             "13287": 0.0,
-            "2505": 0.0,
+            "2505": 2.1,
             "3163": 0.0,
             "421": 0.0,
             "4454": 0.0,
@@ -15324,7 +15344,7 @@
               "Michael Wilson",
               "Zay Flowers",
               "Mark Andrews",
-              "Ladd McConkey",
+              "Germie Bernard",
               "Jeremiyah Love",
               "DJ Moore"
             ],
@@ -15332,9 +15352,9 @@
               "Jacob Saylors",
               "Isaiah Williams",
               "Jalen McMillan",
+              "Ladd McConkey",
               "Kimani Vidal",
               "Terrance Ferguson",
-              "Germie Bernard",
               "Max Klare",
               "Darren Waller",
               "Jared Goff",
