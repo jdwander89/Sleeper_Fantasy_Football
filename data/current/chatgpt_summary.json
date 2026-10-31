@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-30T17:02:31.656806Z",
-    "source_snapshot_generated_at": "2026-10-30T17:02:29.740843Z",
+    "generated_at": "2026-10-31T16:09:30.264379Z",
+    "source_snapshot_generated_at": "2026-10-31T16:09:27.965211Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -55,10 +55,10 @@
     "required_player_ids": 357,
     "compact_player_lookup": 357,
     "missing_player_ids": 0,
-    "transactions": 149,
+    "transactions": 150,
     "trades": 16,
     "waivers": 28,
-    "free_agent_moves": 104,
+    "free_agent_moves": 105,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -251,7 +251,7 @@
           "name": "Colston Loveland",
           "team": "CHI",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "13294",
@@ -379,11 +379,11 @@
           "injury_status": null
         },
         {
-          "player_id": "7525",
-          "name": "DeVonta Smith",
-          "team": "PHI",
-          "position": "WR",
-          "injury_status": "Questionable"
+          "player_id": "4993",
+          "name": "Mike Gesicki",
+          "team": "CIN",
+          "position": "TE",
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -481,7 +481,7 @@
           "name": "Carnell Tate",
           "team": "TEN",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "5967",
@@ -599,7 +599,7 @@
           "name": "Travis Kelce",
           "team": "KC",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11620",
@@ -703,12 +703,12 @@
           "name": "Aaron Jones Sr.",
           "team": "MIN",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
-          "player_id": "8122",
-          "name": "Zonovan Knight",
-          "team": "ARI",
+          "player_id": "6806",
+          "name": "J.K. Dobbins",
+          "team": "DEN",
           "position": "RB",
           "injury_status": null
         },
@@ -807,7 +807,7 @@
           "name": "Tyler Warren",
           "team": "IND",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "9488",
@@ -997,11 +997,11 @@
           "injury_status": null
         },
         {
-          "player_id": "12489",
-          "name": "RJ Harvey",
-          "team": "DEN",
+          "player_id": "10219",
+          "name": "Chris Rodriguez Jr.",
+          "team": "JAX",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12507",
@@ -1022,7 +1022,7 @@
           "name": "Rashee Rice",
           "team": "KC",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7553",
@@ -1032,10 +1032,10 @@
           "injury_status": null
         },
         {
-          "player_id": "10219",
-          "name": "Chris Rodriguez Jr.",
-          "team": "JAX",
-          "position": "RB",
+          "player_id": "3634",
+          "name": "Kalif Raymond",
+          "team": "CHI",
+          "position": "WR",
           "injury_status": null
         },
         {
@@ -1050,7 +1050,7 @@
           "name": "Greg Dulcich",
           "team": "MIA",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -1101,9 +1101,9 @@
       },
       "starters": [
         {
-          "player_id": "4943",
-          "name": "Sam Darnold",
-          "team": "SEA",
+          "player_id": "4881",
+          "name": "Lamar Jackson",
+          "team": "BAL",
           "position": "QB",
           "injury_status": null
         },
@@ -1341,14 +1341,14 @@
           "name": "Saquon Barkley",
           "team": "PHI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "10232",
           "name": "Michael Wilson",
           "team": "ARI",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "9997",
@@ -1358,9 +1358,9 @@
           "injury_status": null
         },
         {
-          "player_id": "5012",
-          "name": "Mark Andrews",
-          "team": "BAL",
+          "player_id": "5022",
+          "name": "Dallas Goedert",
+          "team": "PHI",
           "position": "TE",
           "injury_status": null
         },
@@ -1376,7 +1376,7 @@
           "name": "Jeremiyah Love",
           "team": "ARI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "4983",
@@ -2546,18 +2546,18 @@
   "transactions": {
     "counts": {
       "weeks": 8,
-      "transactions": 149,
+      "transactions": 150,
       "trades": 16,
       "waivers": 28,
-      "free_agent_moves": 104,
+      "free_agent_moves": 105,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 104,
+        "free_agent": 105,
         "trade": 16,
         "waiver": 28
       },
       "by_status": {
-        "complete": 140,
+        "complete": 141,
         "failed": 9
       }
     },
@@ -2605,10 +2605,10 @@
         "free_agent_moves": 2
       },
       "3": {
-        "transactions": 18,
+        "transactions": 19,
         "trades": 1,
         "waivers": 3,
-        "free_agent_moves": 14
+        "free_agent_moves": 15
       },
       "6": {
         "transactions": 13,
@@ -2636,6 +2636,33 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 8,
+        "transaction_id": "1422041974579396609",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-10-30T23:42:16.303000Z",
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "4981",
+            "player_name": "Calvin Ridley",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "2197",
+            "player_name": "Brandin Cooks",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 8,
         "transaction_id": "1421561742126862336",
@@ -3236,26 +3263,6 @@
           {
             "player_id": "8135",
             "player_name": "Treylon Burks",
-            "roster_id": 2,
-            "team_label": "Washington Monument"
-          }
-        ],
-        "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 6,
-        "transaction_id": "1418244708559323136",
-        "type": "waiver",
-        "status": "complete",
-        "created_at": "2026-10-20T12:13:17.534000Z",
-        "team_labels": [
-          "Washington Monument"
-        ],
-        "adds": [
-          {
-            "player_id": "8116",
-            "player_name": "Pierre Strong Jr.",
             "roster_id": 2,
             "team_label": "Washington Monument"
           }

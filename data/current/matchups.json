@@ -13886,10 +13886,10 @@
             "11655",
             "13150",
             "13269",
-            "2197",
             "2216",
             "2449",
             "4046",
+            "4981",
             "4993",
             "5995",
             "6804",
@@ -13916,19 +13916,19 @@
             "10859",
             "11584",
             "9501",
-            "7525"
+            "4993"
           ],
           "bench": [
             "11655",
             "13150",
             "13269",
-            "2197",
             "2216",
             "4046",
-            "4993",
+            "4981",
             "5995",
             "6819",
             "7039",
+            "7525",
             "8110",
             "8121",
             "8161",
@@ -13942,10 +13942,10 @@
             "11655": 0.0,
             "13150": 0.0,
             "13269": 0.0,
-            "2197": 0.0,
             "2216": 0.0,
             "2449": 0.0,
             "4046": 0.0,
+            "4981": 0.0,
             "4993": 0.0,
             "5995": 0.0,
             "6804": 21.52,
@@ -13971,10 +13971,10 @@
               "Tyrone Tracy Jr.",
               "Darius Cooper",
               "Fernando Mendoza",
-              "Brandin Cooks",
               "Mike Evans",
               "Stefon Diggs",
               "Patrick Mahomes",
+              "Calvin Ridley",
               "Mike Gesicki",
               "Justice Hill",
               "Jordan Love",
@@ -14001,19 +14001,19 @@
               "Sam LaPorta",
               "Bucky Irving",
               "DeMario Douglas",
-              "DeVonta Smith"
+              "Mike Gesicki"
             ],
             "bench": [
               "Tyrone Tracy Jr.",
               "Darius Cooper",
               "Fernando Mendoza",
-              "Brandin Cooks",
               "Mike Evans",
               "Patrick Mahomes",
-              "Mike Gesicki",
+              "Calvin Ridley",
               "Justice Hill",
               "Michael Pittman Jr.",
               "Cody White",
+              "DeVonta Smith",
               "Jake Ferguson",
               "Romeo Doubs",
               "Malik Willis",
@@ -14365,7 +14365,7 @@
             "1479",
             "12506",
             "4199",
-            "8122",
+            "6806",
             "8135"
           ],
           "bench": [
@@ -14383,8 +14383,8 @@
             "5854",
             "5872",
             "6803",
-            "6806",
-            "8119"
+            "8119",
+            "8122"
           ],
           "players_points": {
             "11628": 0.0,
@@ -14450,7 +14450,7 @@
               "Keenan Allen",
               "Harold Fannin Jr.",
               "Aaron Jones Sr.",
-              "Zonovan Knight",
+              "J.K. Dobbins",
               "Treylon Burks"
             ],
             "bench": [
@@ -14468,8 +14468,8 @@
               "Drew Lock",
               "Deebo Samuel Sr.",
               "Brandon Aiyuk",
-              "J.K. Dobbins",
-              "Jahan Dotson"
+              "Jahan Dotson",
+              "Zonovan Knight"
             ]
           }
         },
@@ -14809,18 +14809,19 @@
           ],
           "starters": [
             "5849",
-            "12489",
+            "10219",
             "12507",
             "8137",
             "10229",
             "7553",
-            "10219",
+            "3634",
             "13330",
             "8172"
           ],
           "bench": [
             "11565",
             "11583",
+            "12489",
             "12493",
             "12634",
             "13285",
@@ -14829,7 +14830,6 @@
             "3161",
             "3257",
             "3321",
-            "3634",
             "6130",
             "8144",
             "8154",
@@ -14894,18 +14894,19 @@
             ],
             "starters": [
               "Kyler Murray",
-              "RJ Harvey",
+              "Chris Rodriguez Jr.",
               "Omarion Hampton",
               "George Pickens",
               "Rashee Rice",
               "Kyle Pitts Sr.",
-              "Chris Rodriguez Jr.",
+              "Kalif Raymond",
               "Kenyon Sadiq",
               "Greg Dulcich"
             ],
             "bench": [
               "J.J. McCarthy",
               "Jonathon Brooks",
+              "RJ Harvey",
               "Oronde Gadsden",
               "Jordan Watkins",
               "Malachi Fields",
@@ -14914,7 +14915,6 @@
               "Carson Wentz",
               "Jacoby Brissett",
               "Tyreek Hill",
-              "Kalif Raymond",
               "Devin Singletary",
               "Chris Olave",
               "Brian Robinson Jr.",
@@ -14957,7 +14957,7 @@
             "9511"
           ],
           "starters": [
-            "4943",
+            "4881",
             "3198",
             "12490",
             "7547",
@@ -14974,7 +14974,7 @@
             "13286",
             "13337",
             "3271",
-            "4881",
+            "4943",
             "4950",
             "5844",
             "5848",
@@ -15039,7 +15039,7 @@
               "Keaton Mitchell"
             ],
             "starters": [
-              "Sam Darnold",
+              "Lamar Jackson",
               "Derrick Henry",
               "Bhayshul Tuten",
               "Amon-Ra St. Brown",
@@ -15056,7 +15056,7 @@
               "Jadarian Price",
               "Emmett Johnson",
               "Tyler Higbee",
-              "Lamar Jackson",
+              "Sam Darnold",
               "Christian Kirk",
               "T.J. Hockenson",
               "Marquise Brown",
@@ -15258,7 +15258,7 @@
             "4866",
             "10232",
             "9997",
-            "5012",
+            "5022",
             "13274",
             "13287",
             "4983"
@@ -15275,7 +15275,7 @@
             "3163",
             "421",
             "4454",
-            "5022",
+            "5012",
             "5906",
             "7543",
             "8180",
@@ -15343,7 +15343,7 @@
               "Saquon Barkley",
               "Michael Wilson",
               "Zay Flowers",
-              "Mark Andrews",
+              "Dallas Goedert",
               "Germie Bernard",
               "Jeremiyah Love",
               "DJ Moore"
@@ -15360,7 +15360,7 @@
               "Jared Goff",
               "Matthew Stafford",
               "Kendrick Bourne",
-              "Dallas Goedert",
+              "Mark Andrews",
               "Dawson Knox",
               "Travis Etienne Jr.",
               "Jalen Nailor",
