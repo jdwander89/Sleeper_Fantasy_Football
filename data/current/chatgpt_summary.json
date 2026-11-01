@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-10-31T16:09:30.264379Z",
-    "source_snapshot_generated_at": "2026-10-31T16:09:27.965211Z",
+    "generated_at": "2026-11-01T17:09:41.518034Z",
+    "source_snapshot_generated_at": "2026-11-01T17:09:38.088956Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -140,7 +140,7 @@
           "name": "Dalton Kincaid",
           "team": "BUF",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "13296",
@@ -157,11 +157,11 @@
           "injury_status": null
         },
         {
-          "player_id": "12529",
-          "name": "TreVeyon Henderson",
+          "player_id": "12542",
+          "name": "Efton Chism III",
           "team": "NE",
-          "position": "RB",
-          "injury_status": "Questionable"
+          "position": "WR",
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -226,9 +226,9 @@
           "injury_status": null
         },
         {
-          "player_id": "12048",
-          "name": "George Holani",
-          "team": "SEA",
+          "player_id": "13424",
+          "name": "Seth McGowan",
+          "team": "IND",
           "position": "RB",
           "injury_status": null
         },
@@ -251,7 +251,7 @@
           "name": "Colston Loveland",
           "team": "CHI",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "13294",
@@ -435,9 +435,9 @@
       },
       "starters": [
         {
-          "player_id": "5870",
-          "name": "Daniel Jones",
-          "team": "IND",
+          "player_id": "1373",
+          "name": "Geno Smith",
+          "team": "NYJ",
           "position": "QB",
           "injury_status": null
         },
@@ -446,7 +446,7 @@
           "name": "Breece Hall",
           "team": "NYJ",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "7594",
@@ -477,11 +477,11 @@
           "injury_status": null
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
-          "team": "TEN",
-          "position": "WR",
-          "injury_status": "Out"
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "team": "DEN",
+          "position": "RB",
+          "injury_status": null
         },
         {
           "player_id": "5967",
@@ -779,7 +779,7 @@
           "name": "Kenny Gainwell",
           "team": "TB",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8408",
@@ -1015,7 +1015,7 @@
           "name": "George Pickens",
           "team": "DAL",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "10229",
@@ -1240,9 +1240,9 @@
           "injury_status": null
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "team": "NE",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
+          "team": "DEN",
           "position": "WR",
           "injury_status": "Questionable"
         },
@@ -1268,11 +1268,11 @@
           "injury_status": null
         },
         {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
-          "team": "DEN",
-          "position": "WR",
-          "injury_status": "Questionable"
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "team": "PIT",
+          "position": "RB",
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -1383,7 +1383,7 @@
           "name": "DJ Moore",
           "team": "BUF",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [

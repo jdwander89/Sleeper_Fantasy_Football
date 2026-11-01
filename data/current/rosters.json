@@ -38,12 +38,12 @@
       "10236",
       "13296",
       "9756",
-      "12529"
+      "12542"
     ],
     "bench": [
       "11643",
       "12498",
-      "12542",
+      "12529",
       "12544",
       "13302",
       "13305",
@@ -103,12 +103,12 @@
         "Dalton Kincaid",
         "Caleb Douglas",
         "Jordan Addison",
-        "TreVeyon Henderson"
+        "Efton Chism III"
       ],
       "bench": [
         "Jaylen Wright",
         "Mason Taylor",
-        "Efton Chism III",
+        "TreVeyon Henderson",
         "LeQuint Allen Jr.",
         "Adam Randall",
         "Mike Washington Jr.",
@@ -183,7 +183,7 @@
     "starters": [
       "7523",
       "12495",
-      "12048",
+      "13424",
       "9487",
       "13276",
       "12517",
@@ -193,6 +193,7 @@
     ],
     "bench": [
       "10235",
+      "12048",
       "12491",
       "12492",
       "12504",
@@ -200,7 +201,6 @@
       "12718",
       "13338",
       "13413",
-      "13424",
       "6904",
       "8116",
       "8129",
@@ -248,7 +248,7 @@
       "starters": [
         "Trevor Lawrence",
         "Ollie Gordon II",
-        "George Holani",
+        "Seth McGowan",
         "Parker Washington",
         "Omar Cooper Jr.",
         "Colston Loveland",
@@ -258,6 +258,7 @@
       ],
       "bench": [
         "Roschon Johnson",
+        "George Holani",
         "Corey Kiner",
         "Pat Bryant",
         "Kaleb Johnson",
@@ -265,7 +266,6 @@
         "Konata Mumpfield",
         "Kevin Coleman Jr.",
         "Cyrus Allen",
-        "Seth McGowan",
         "Jalen Hurts",
         "Pierre Strong Jr.",
         "Dameon Pierce",
@@ -475,13 +475,13 @@
       "9493"
     ],
     "starters": [
-      "5870",
+      "1373",
       "8155",
       "7594",
       "9493",
       "12519",
       "9480",
-      "13279",
+      "13345",
       "5967",
       "4037"
     ],
@@ -491,11 +491,11 @@
       "11631",
       "12457",
       "12530",
+      "13279",
       "13293",
-      "13345",
-      "1373",
       "4035",
       "4039",
+      "5870",
       "7571",
       "8111",
       "8132",
@@ -540,13 +540,13 @@
         "Puka Nacua"
       ],
       "starters": [
-        "Daniel Jones",
+        "Geno Smith",
         "Breece Hall",
         "Chuba Hubbard",
         "Puka Nacua",
         "Luther Burden III",
         "Brenton Strange",
-        "Carnell Tate",
+        "Jonah Coleman",
         "Tony Pollard",
         "Chris Godwin Jr."
       ],
@@ -556,11 +556,11 @@
         "Brian Thomas Jr.",
         "Jaydon Blue",
         "Travis Hunter",
+        "Carnell Tate",
         "Ja'Kobi Lane",
-        "Jonah Coleman",
-        "Geno Smith",
         "Alvin Kamara",
         "Cooper Kupp",
+        "Daniel Jones",
         "Rashod Bateman",
         "Cade Otton",
         "Tyler Allgeier",
@@ -1513,11 +1513,11 @@
       "5850",
       "8138",
       "6801",
-      "5859",
+      "7526",
       "11604",
       "8228",
       "3214",
-      "7526"
+      "7021"
     ],
     "bench": [
       "11563",
@@ -1529,9 +1529,9 @@
       "13320",
       "4147",
       "5045",
+      "5859",
       "6039",
       "6783",
-      "7021",
       "9228",
       "9482"
     ],
@@ -1578,11 +1578,11 @@
         "Josh Jacobs",
         "James Cook III",
         "Tee Higgins",
-        "A.J. Brown",
+        "Jaylen Waddle",
         "Brock Bowers",
         "Jaylen Warren",
         "Hunter Henry",
-        "Jaylen Waddle"
+        "Rico Dowdle"
       ],
       "bench": [
         "Bo Nix",
@@ -1594,9 +1594,9 @@
         "Zachariah Branch",
         "Samaje Perine",
         "Courtland Sutton",
+        "A.J. Brown",
         "Ty Johnson",
         "Jerry Jeudy",
-        "Rico Dowdle",
         "Bryce Young",
         "Michael Mayer"
       ],
