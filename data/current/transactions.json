@@ -6638,13 +6638,59 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 8,
+          "transaction_id": "1423357442590269440",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1793717368318,
+          "created_at": "2026-11-03T14:49:28.318000Z",
+          "status_updated": 1793717368318,
+          "status_updated_at": "2026-11-03T14:49:28.318000Z",
+          "creator_user_id": "471717089472671744",
+          "roster_ids": [
+            10
+          ],
+          "team_labels": [
+            "Goin in Ra"
+          ],
+          "consenter_ids": [
+            10
+          ],
+          "consenter_team_labels": [
+            "Goin in Ra"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "9481",
+              "player_name": "Luke Musgrave",
+              "roster_id": 10,
+              "team_label": "Goin in Ra"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 5,
+        "transactions": 6,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 5
+        "free_agent_moves": 6
+      }
+    },
+    "9": {
+      "week": 9,
+      "transactions": [],
+      "counts": {
+        "transactions": 0,
+        "trades": 0,
+        "waivers": 0,
+        "free_agent_moves": 0
       }
     }
   },
@@ -13207,6 +13253,42 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 8,
+      "transaction_id": "1423357442590269440",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793717368318,
+      "created_at": "2026-11-03T14:49:28.318000Z",
+      "status_updated": 1793717368318,
+      "status_updated_at": "2026-11-03T14:49:28.318000Z",
+      "creator_user_id": "471717089472671744",
+      "roster_ids": [
+        10
+      ],
+      "team_labels": [
+        "Goin in Ra"
+      ],
+      "consenter_ids": [
+        10
+      ],
+      "consenter_team_labels": [
+        "Goin in Ra"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "9481",
+          "player_name": "Luke Musgrave",
+          "roster_id": 10,
+          "team_label": "Goin in Ra"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -19740,22 +19822,58 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 8,
+      "transaction_id": "1423357442590269440",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793717368318,
+      "created_at": "2026-11-03T14:49:28.318000Z",
+      "status_updated": 1793717368318,
+      "status_updated_at": "2026-11-03T14:49:28.318000Z",
+      "creator_user_id": "471717089472671744",
+      "roster_ids": [
+        10
+      ],
+      "team_labels": [
+        "Goin in Ra"
+      ],
+      "consenter_ids": [
+        10
+      ],
+      "consenter_team_labels": [
+        "Goin in Ra"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "9481",
+          "player_name": "Luke Musgrave",
+          "roster_id": 10,
+          "team_label": "Goin in Ra"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
-    "weeks": 8,
-    "transactions": 150,
+    "weeks": 9,
+    "transactions": 151,
     "trades": 16,
     "waivers": 28,
-    "free_agent_moves": 105,
+    "free_agent_moves": 106,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 105,
+      "free_agent": 106,
       "trade": 16,
       "waiver": 28
     },
     "by_status": {
-      "complete": 141,
+      "complete": 142,
       "failed": 9
     }
   }

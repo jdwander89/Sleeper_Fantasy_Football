@@ -48,17 +48,17 @@
       }
     },
     "record": {
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
       "ties": 0
     },
     "points": {
-      "points_for": 650.74,
-      "points_against": 713.36,
-      "raw_fpts": 650,
-      "raw_fpts_decimal": 74,
-      "raw_fpts_against": 713,
-      "raw_fpts_against_decimal": 36
+      "points_for": 772.42,
+      "points_against": 797.26,
+      "raw_fpts": 772,
+      "raw_fpts_decimal": 42,
+      "raw_fpts_against": 797,
+      "raw_fpts_against_decimal": 26
     },
     "waivers": {
       "waiver_position": 8,
@@ -68,26 +68,26 @@
       "total_moves": 0
     },
     "settings": {
-      "fpts": 650,
-      "fpts_against": 713,
-      "fpts_against_decimal": 36,
-      "fpts_decimal": 74,
+      "fpts": 772,
+      "fpts_against": 797,
+      "fpts_against_decimal": 26,
+      "fpts_decimal": 42,
       "losses": 4,
-      "ppts": 787,
-      "ppts_decimal": 44,
+      "ppts": 915,
+      "ppts_decimal": 72,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 8,
-      "wins": 3
+      "wins": 4
     },
     "metadata": {
       "allow_pn_inactive_starters": "off",
       "allow_pn_player_injury_status": "off",
       "allow_pn_scoring": "off",
-      "record": "LWWLWLL",
+      "record": "LWWLWLLW",
       "restrict_pn_scoring_starters_only": "off",
-      "streak": "2L"
+      "streak": "1W"
     }
   },
   {
@@ -131,16 +131,16 @@
     },
     "record": {
       "wins": 2,
-      "losses": 5,
+      "losses": 6,
       "ties": 0
     },
     "points": {
-      "points_for": 769.68,
-      "points_against": 960.18,
-      "raw_fpts": 769,
-      "raw_fpts_decimal": 68,
-      "raw_fpts_against": 960,
-      "raw_fpts_against_decimal": 18
+      "points_for": 833.58,
+      "points_against": 1078.86,
+      "raw_fpts": 833,
+      "raw_fpts_decimal": 58,
+      "raw_fpts_against": 1078,
+      "raw_fpts_against_decimal": 86
     },
     "waivers": {
       "waiver_position": 9,
@@ -150,13 +150,13 @@
       "total_moves": 0
     },
     "settings": {
-      "fpts": 769,
-      "fpts_against": 960,
-      "fpts_against_decimal": 18,
-      "fpts_decimal": 68,
-      "losses": 5,
-      "ppts": 907,
-      "ppts_decimal": 40,
+      "fpts": 833,
+      "fpts_against": 1078,
+      "fpts_against_decimal": 86,
+      "fpts_decimal": 58,
+      "losses": 6,
+      "ppts": 990,
+      "ppts_decimal": 10,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -164,8 +164,8 @@
       "wins": 2
     },
     "metadata": {
-      "record": "WLLLLWL",
-      "streak": "1L"
+      "record": "WLLLLWLL",
+      "streak": "2L"
     }
   },
   {
@@ -187,17 +187,17 @@
       }
     },
     "record": {
-      "wins": 4,
+      "wins": 5,
       "losses": 3,
       "ties": 0
     },
     "points": {
-      "points_for": 966.5,
-      "points_against": 876.58,
-      "raw_fpts": 966,
-      "raw_fpts_decimal": 50,
-      "raw_fpts_against": 876,
-      "raw_fpts_against_decimal": 58
+      "points_for": 1076.62,
+      "points_against": 955.48,
+      "raw_fpts": 1076,
+      "raw_fpts_decimal": 62,
+      "raw_fpts_against": 955,
+      "raw_fpts_against_decimal": 48
     },
     "waivers": {
       "waiver_position": 6,
@@ -207,22 +207,22 @@
       "total_moves": 0
     },
     "settings": {
-      "fpts": 966,
-      "fpts_against": 876,
-      "fpts_against_decimal": 58,
-      "fpts_decimal": 50,
+      "fpts": 1076,
+      "fpts_against": 955,
+      "fpts_against_decimal": 48,
+      "fpts_decimal": 62,
       "losses": 3,
-      "ppts": 1074,
-      "ppts_decimal": 56,
+      "ppts": 1194,
+      "ppts_decimal": 30,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 1,
       "waiver_position": 6,
-      "wins": 4
+      "wins": 5
     },
     "metadata": {
-      "record": "LWLWWWL",
-      "streak": "1L"
+      "record": "LWLWWWLW",
+      "streak": "1W"
     }
   },
   {
@@ -243,17 +243,17 @@
       }
     },
     "record": {
-      "wins": 2,
+      "wins": 3,
       "losses": 4,
       "ties": 1
     },
     "points": {
-      "points_for": 827.32,
-      "points_against": 910.74,
-      "raw_fpts": 827,
-      "raw_fpts_decimal": 32,
-      "raw_fpts_against": 910,
-      "raw_fpts_against_decimal": 74
+      "points_for": 969.42,
+      "points_against": 1023.72,
+      "raw_fpts": 969,
+      "raw_fpts_decimal": 42,
+      "raw_fpts_against": 1023,
+      "raw_fpts_against_decimal": 72
     },
     "waivers": {
       "waiver_position": 2,
@@ -263,24 +263,24 @@
       "total_moves": 0
     },
     "settings": {
-      "fpts": 827,
-      "fpts_against": 910,
-      "fpts_against_decimal": 74,
-      "fpts_decimal": 32,
+      "fpts": 969,
+      "fpts_against": 1023,
+      "fpts_against_decimal": 72,
+      "fpts_decimal": 42,
       "losses": 4,
-      "ppts": 945,
-      "ppts_decimal": 72,
+      "ppts": 1138,
+      "ppts_decimal": 92,
       "ties": 1,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 2,
-      "wins": 2
+      "wins": 3
     },
     "metadata": {
       "allow_pn_news": "off",
       "allow_pn_scoring": "off",
-      "record": "LLLLWWT",
-      "streak": "1T"
+      "record": "LLLLWWTW",
+      "streak": "1W"
     }
   },
   {
@@ -301,17 +301,17 @@
       }
     },
     "record": {
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
       "ties": 0
     },
     "points": {
-      "points_for": 842.4,
-      "points_against": 819.16,
-      "raw_fpts": 842,
-      "raw_fpts_decimal": 40,
-      "raw_fpts_against": 819,
-      "raw_fpts_against_decimal": 16
+      "points_for": 987.9,
+      "points_against": 950.06,
+      "raw_fpts": 987,
+      "raw_fpts_decimal": 90,
+      "raw_fpts_against": 950,
+      "raw_fpts_against_decimal": 6
     },
     "waivers": {
       "waiver_position": 7,
@@ -321,22 +321,22 @@
       "total_moves": 0
     },
     "settings": {
-      "fpts": 842,
-      "fpts_against": 819,
-      "fpts_against_decimal": 16,
-      "fpts_decimal": 40,
+      "fpts": 987,
+      "fpts_against": 950,
+      "fpts_against_decimal": 6,
+      "fpts_decimal": 90,
       "losses": 4,
-      "ppts": 1034,
-      "ppts_decimal": 18,
+      "ppts": 1206,
+      "ppts_decimal": 88,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 15,
       "waiver_position": 7,
-      "wins": 3
+      "wins": 4
     },
     "metadata": {
-      "record": "WLWLWLL",
-      "streak": "2L"
+      "record": "WLWLWLLW",
+      "streak": "1W"
     }
   },
   {
@@ -357,16 +357,16 @@
     },
     "record": {
       "wins": 4,
-      "losses": 3,
+      "losses": 4,
       "ties": 0
     },
     "points": {
-      "points_for": 888.16,
-      "points_against": 808.02,
-      "raw_fpts": 888,
-      "raw_fpts_decimal": 16,
-      "raw_fpts_against": 808,
-      "raw_fpts_against_decimal": 2
+      "points_for": 1001.14,
+      "points_against": 950.12,
+      "raw_fpts": 1001,
+      "raw_fpts_decimal": 14,
+      "raw_fpts_against": 950,
+      "raw_fpts_against_decimal": 12
     },
     "waivers": {
       "waiver_position": 12,
@@ -376,13 +376,13 @@
       "total_moves": 0
     },
     "settings": {
-      "fpts": 888,
-      "fpts_against": 808,
-      "fpts_against_decimal": 2,
-      "fpts_decimal": 16,
-      "losses": 3,
-      "ppts": 1027,
-      "ppts_decimal": 36,
+      "fpts": 1001,
+      "fpts_against": 950,
+      "fpts_against_decimal": 12,
+      "fpts_decimal": 14,
+      "losses": 4,
+      "ppts": 1150,
+      "ppts_decimal": 54,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
@@ -390,8 +390,8 @@
       "wins": 4
     },
     "metadata": {
-      "record": "LLWWLWW",
-      "streak": "2W"
+      "record": "LLWWLWWL",
+      "streak": "1L"
     }
   },
   {
@@ -432,16 +432,16 @@
     },
     "record": {
       "wins": 5,
-      "losses": 1,
+      "losses": 2,
       "ties": 1
     },
     "points": {
-      "points_for": 900.34,
-      "points_against": 766.98,
-      "raw_fpts": 900,
-      "raw_fpts_decimal": 34,
-      "raw_fpts_against": 766,
-      "raw_fpts_against_decimal": 98
+      "points_for": 979.24,
+      "points_against": 877.1,
+      "raw_fpts": 979,
+      "raw_fpts_decimal": 24,
+      "raw_fpts_against": 877,
+      "raw_fpts_against_decimal": 10
     },
     "waivers": {
       "waiver_position": 10,
@@ -451,13 +451,13 @@
       "total_moves": 0
     },
     "settings": {
-      "fpts": 900,
-      "fpts_against": 766,
-      "fpts_against_decimal": 98,
-      "fpts_decimal": 34,
-      "losses": 1,
-      "ppts": 1019,
-      "ppts_decimal": 16,
+      "fpts": 979,
+      "fpts_against": 877,
+      "fpts_against_decimal": 10,
+      "fpts_decimal": 24,
+      "losses": 2,
+      "ppts": 1121,
+      "ppts_decimal": 26,
       "ties": 1,
       "total_moves": 0,
       "waiver_budget_used": 42,
@@ -466,8 +466,8 @@
     },
     "metadata": {
       "p_nick_3164": "ZEEK",
-      "record": "LWWWWWT",
-      "streak": "1T"
+      "record": "LWWWWWTL",
+      "streak": "1L"
     }
   },
   {
@@ -509,16 +509,16 @@
     },
     "record": {
       "wins": 6,
-      "losses": 1,
+      "losses": 2,
       "ties": 0
     },
     "points": {
-      "points_for": 1024.16,
-      "points_against": 753.9,
-      "raw_fpts": 1024,
-      "raw_fpts_decimal": 16,
-      "raw_fpts_against": 753,
-      "raw_fpts_against_decimal": 90
+      "points_for": 1148.52,
+      "points_against": 939.26,
+      "raw_fpts": 1148,
+      "raw_fpts_decimal": 52,
+      "raw_fpts_against": 939,
+      "raw_fpts_against_decimal": 26
     },
     "waivers": {
       "waiver_position": 1,
@@ -528,13 +528,13 @@
       "total_moves": 0
     },
     "settings": {
-      "fpts": 1024,
-      "fpts_against": 753,
-      "fpts_against_decimal": 90,
-      "fpts_decimal": 16,
-      "losses": 1,
-      "ppts": 1200,
-      "ppts_decimal": 48,
+      "fpts": 1148,
+      "fpts_against": 939,
+      "fpts_against_decimal": 26,
+      "fpts_decimal": 52,
+      "losses": 2,
+      "ppts": 1329,
+      "ppts_decimal": 24,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -544,8 +544,8 @@
     "metadata": {
       "allow_pn_news": "on",
       "allow_pn_scoring": "on",
-      "record": "WWLWWWW",
-      "streak": "4W"
+      "record": "WWLWWWWL",
+      "streak": "1L"
     }
   },
   {
@@ -578,16 +578,16 @@
     },
     "record": {
       "wins": 1,
-      "losses": 6,
+      "losses": 7,
       "ties": 0
     },
     "points": {
-      "points_for": 635.64,
-      "points_against": 833.18,
-      "raw_fpts": 635,
-      "raw_fpts_decimal": 64,
-      "raw_fpts_against": 833,
-      "raw_fpts_against_decimal": 18
+      "points_for": 719.54,
+      "points_against": 954.86,
+      "raw_fpts": 719,
+      "raw_fpts_decimal": 54,
+      "raw_fpts_against": 954,
+      "raw_fpts_against_decimal": 86
     },
     "waivers": {
       "waiver_position": 5,
@@ -597,13 +597,13 @@
       "total_moves": 0
     },
     "settings": {
-      "fpts": 635,
-      "fpts_against": 833,
-      "fpts_against_decimal": 18,
-      "fpts_decimal": 64,
-      "losses": 6,
-      "ppts": 861,
-      "ppts_decimal": 94,
+      "fpts": 719,
+      "fpts_against": 954,
+      "fpts_against_decimal": 86,
+      "fpts_decimal": 54,
+      "losses": 7,
+      "ppts": 953,
+      "ppts_decimal": 44,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
@@ -614,9 +614,9 @@
       "allow_pn_inactive_starters": "off",
       "allow_pn_player_injury_status": "off",
       "allow_pn_scoring": "off",
-      "record": "LLLLLLW",
+      "record": "LLLLLLWL",
       "restrict_pn_scoring_starters_only": "on",
-      "streak": "1W"
+      "streak": "1L"
     }
   },
   {
@@ -650,16 +650,16 @@
     },
     "record": {
       "wins": 3,
-      "losses": 4,
+      "losses": 5,
       "ties": 0
     },
     "points": {
-      "points_for": 824.7,
-      "points_against": 832.46,
-      "raw_fpts": 824,
-      "raw_fpts_decimal": 70,
-      "raw_fpts_against": 832,
-      "raw_fpts_against_decimal": 46
+      "points_for": 955.6,
+      "points_against": 977.96,
+      "raw_fpts": 955,
+      "raw_fpts_decimal": 60,
+      "raw_fpts_against": 977,
+      "raw_fpts_against_decimal": 96
     },
     "waivers": {
       "waiver_position": 4,
@@ -669,13 +669,13 @@
       "total_moves": 0
     },
     "settings": {
-      "fpts": 824,
-      "fpts_against": 832,
-      "fpts_against_decimal": 46,
-      "fpts_decimal": 70,
-      "losses": 4,
-      "ppts": 996,
-      "ppts_decimal": 10,
+      "fpts": 955,
+      "fpts_against": 977,
+      "fpts_against_decimal": 96,
+      "fpts_decimal": 60,
+      "losses": 5,
+      "ppts": 1171,
+      "ppts_decimal": 62,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 11,
@@ -683,8 +683,8 @@
       "wins": 3
     },
     "metadata": {
-      "record": "WWWLLLL",
-      "streak": "4L"
+      "record": "WWWLLLLL",
+      "streak": "5L"
     }
   },
   {
@@ -709,17 +709,17 @@
       }
     },
     "record": {
-      "wins": 5,
+      "wins": 6,
       "losses": 2,
       "ties": 0
     },
     "points": {
-      "points_for": 928.84,
-      "points_against": 805.82,
-      "raw_fpts": 928,
-      "raw_fpts_decimal": 84,
-      "raw_fpts_against": 805,
-      "raw_fpts_against_decimal": 82
+      "points_for": 1114.2,
+      "points_against": 930.18,
+      "raw_fpts": 1114,
+      "raw_fpts_decimal": 20,
+      "raw_fpts_against": 930,
+      "raw_fpts_against_decimal": 18
     },
     "waivers": {
       "waiver_position": 11,
@@ -729,22 +729,22 @@
       "total_moves": 0
     },
     "settings": {
-      "fpts": 928,
-      "fpts_against": 805,
-      "fpts_against_decimal": 82,
-      "fpts_decimal": 84,
+      "fpts": 1114,
+      "fpts_against": 930,
+      "fpts_against_decimal": 18,
+      "fpts_decimal": 20,
       "losses": 2,
-      "ppts": 1058,
-      "ppts_decimal": 60,
+      "ppts": 1250,
+      "ppts_decimal": 86,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
       "waiver_position": 11,
-      "wins": 5
+      "wins": 6
     },
     "metadata": {
-      "record": "WWWWLLW",
-      "streak": "1W"
+      "record": "WWWWLLWW",
+      "streak": "2W"
     }
   },
   {
@@ -785,17 +785,17 @@
       }
     },
     "record": {
-      "wins": 3,
+      "wins": 4,
       "losses": 4,
       "ties": 0
     },
     "points": {
-      "points_for": 695.08,
-      "points_against": 873.18,
-      "raw_fpts": 695,
-      "raw_fpts_decimal": 8,
-      "raw_fpts_against": 873,
-      "raw_fpts_against_decimal": 18
+      "points_for": 813.76,
+      "points_against": 937.08,
+      "raw_fpts": 813,
+      "raw_fpts_decimal": 76,
+      "raw_fpts_against": 937,
+      "raw_fpts_against_decimal": 8
     },
     "waivers": {
       "waiver_position": 3,
@@ -805,22 +805,22 @@
       "total_moves": 0
     },
     "settings": {
-      "fpts": 695,
-      "fpts_against": 873,
-      "fpts_against_decimal": 18,
-      "fpts_decimal": 8,
+      "fpts": 813,
+      "fpts_against": 937,
+      "fpts_against_decimal": 8,
+      "fpts_decimal": 76,
       "losses": 4,
-      "ppts": 898,
-      "ppts_decimal": 70,
+      "ppts": 1042,
+      "ppts_decimal": 28,
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
       "waiver_position": 3,
-      "wins": 3
+      "wins": 4
     },
     "metadata": {
-      "record": "WLLWLLW",
-      "streak": "1W"
+      "record": "WLLWLLWW",
+      "streak": "2W"
     }
   }
 ]

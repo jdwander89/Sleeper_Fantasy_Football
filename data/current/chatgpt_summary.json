@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-02T20:48:53.177239Z",
-    "source_snapshot_generated_at": "2026-11-02T20:48:51.189901Z",
+    "generated_at": "2026-11-03T18:28:36.756161Z",
+    "source_snapshot_generated_at": "2026-11-03T18:28:34.078414Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -49,16 +49,16 @@
   "counts": {
     "users": 12,
     "rosters": 12,
-    "included_weeks": 8,
-    "matchups": 48,
-    "matchup_roster_results": 96,
+    "included_weeks": 9,
+    "matchups": 54,
+    "matchup_roster_results": 108,
     "required_player_ids": 357,
     "compact_player_lookup": 357,
     "missing_player_ids": 0,
-    "transactions": 150,
+    "transactions": 151,
     "trades": 16,
     "waivers": 28,
-    "free_agent_moves": 105,
+    "free_agent_moves": 106,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -75,17 +75,17 @@
       "team_label": "It’s Herbie Hancock",
       "owner_user_id": "464915162038530048",
       "record": {
-        "wins": 3,
+        "wins": 4,
         "losses": 4,
         "ties": 0
       },
       "points": {
-        "points_for": 650.74,
-        "points_against": 713.36,
-        "raw_fpts": 650,
-        "raw_fpts_decimal": 74,
-        "raw_fpts_against": 713,
-        "raw_fpts_against_decimal": 36
+        "points_for": 772.42,
+        "points_against": 797.26,
+        "raw_fpts": 772,
+        "raw_fpts_decimal": 42,
+        "raw_fpts_against": 797,
+        "raw_fpts_against_decimal": 26
       },
       "counts": {
         "players": 25,
@@ -187,16 +187,16 @@
       "owner_user_id": "471403228244733952",
       "record": {
         "wins": 2,
-        "losses": 5,
+        "losses": 6,
         "ties": 0
       },
       "points": {
-        "points_for": 769.68,
-        "points_against": 960.18,
-        "raw_fpts": 769,
-        "raw_fpts_decimal": 68,
-        "raw_fpts_against": 960,
-        "raw_fpts_against_decimal": 18
+        "points_for": 833.58,
+        "points_against": 1078.86,
+        "raw_fpts": 833,
+        "raw_fpts_decimal": 58,
+        "raw_fpts_against": 1078,
+        "raw_fpts_against_decimal": 86
       },
       "counts": {
         "players": 25,
@@ -297,17 +297,17 @@
       "team_label": "Laporta Potty",
       "owner_user_id": "471415197991432192",
       "record": {
-        "wins": 4,
+        "wins": 5,
         "losses": 3,
         "ties": 0
       },
       "points": {
-        "points_for": 966.5,
-        "points_against": 876.58,
-        "raw_fpts": 966,
-        "raw_fpts_decimal": 50,
-        "raw_fpts_against": 876,
-        "raw_fpts_against_decimal": 58
+        "points_for": 1076.62,
+        "points_against": 955.48,
+        "raw_fpts": 1076,
+        "raw_fpts_decimal": 62,
+        "raw_fpts_against": 955,
+        "raw_fpts_against_decimal": 48
       },
       "counts": {
         "players": 25,
@@ -408,17 +408,17 @@
       "team_label": "Puka Troopas",
       "owner_user_id": "471415316501491712",
       "record": {
-        "wins": 2,
+        "wins": 3,
         "losses": 4,
         "ties": 1
       },
       "points": {
-        "points_for": 827.32,
-        "points_against": 910.74,
-        "raw_fpts": 827,
-        "raw_fpts_decimal": 32,
-        "raw_fpts_against": 910,
-        "raw_fpts_against_decimal": 74
+        "points_for": 969.42,
+        "points_against": 1023.72,
+        "raw_fpts": 969,
+        "raw_fpts_decimal": 42,
+        "raw_fpts_against": 1023,
+        "raw_fpts_against_decimal": 72
       },
       "counts": {
         "players": 25,
@@ -520,17 +520,17 @@
       "team_label": "White Ice",
       "owner_user_id": "471424563457028096",
       "record": {
-        "wins": 3,
+        "wins": 4,
         "losses": 4,
         "ties": 0
       },
       "points": {
-        "points_for": 842.4,
-        "points_against": 819.16,
-        "raw_fpts": 842,
-        "raw_fpts_decimal": 40,
-        "raw_fpts_against": 819,
-        "raw_fpts_against_decimal": 16
+        "points_for": 987.9,
+        "points_against": 950.06,
+        "raw_fpts": 987,
+        "raw_fpts_decimal": 90,
+        "raw_fpts_against": 950,
+        "raw_fpts_against_decimal": 6
       },
       "counts": {
         "players": 25,
@@ -581,9 +581,9 @@
           "injury_status": null
         },
         {
-          "player_id": "7002",
-          "name": "Juwan Johnson",
-          "team": "NO",
+          "player_id": "1466",
+          "name": "Travis Kelce",
+          "team": "KC",
           "position": "TE",
           "injury_status": null
         },
@@ -595,10 +595,10 @@
           "injury_status": null
         },
         {
-          "player_id": "1466",
-          "name": "Travis Kelce",
-          "team": "KC",
-          "position": "TE",
+          "player_id": "11586",
+          "name": "Blake Corum",
+          "team": "LAR",
+          "position": "RB",
           "injury_status": null
         },
         {
@@ -632,16 +632,16 @@
       "owner_user_id": "471451909446692864",
       "record": {
         "wins": 4,
-        "losses": 3,
+        "losses": 4,
         "ties": 0
       },
       "points": {
-        "points_for": 888.16,
-        "points_against": 808.02,
-        "raw_fpts": 888,
-        "raw_fpts_decimal": 16,
-        "raw_fpts_against": 808,
-        "raw_fpts_against_decimal": 2
+        "points_for": 1001.14,
+        "points_against": 950.12,
+        "raw_fpts": 1001,
+        "raw_fpts_decimal": 14,
+        "raw_fpts_against": 950,
+        "raw_fpts_against_decimal": 12
       },
       "counts": {
         "players": 25,
@@ -671,11 +671,11 @@
           "injury_status": null
         },
         {
-          "player_id": "12527",
-          "name": "Ashton Jeanty",
-          "team": "LV",
+          "player_id": "4034",
+          "name": "Christian McCaffrey",
+          "team": "SF",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8146",
@@ -692,6 +692,13 @@
           "injury_status": null
         },
         {
+          "player_id": "4217",
+          "name": "George Kittle",
+          "team": "SF",
+          "position": "TE",
+          "injury_status": null
+        },
+        {
           "player_id": "12506",
           "name": "Harold Fannin Jr.",
           "team": "CLE",
@@ -699,23 +706,16 @@
           "injury_status": null
         },
         {
-          "player_id": "4199",
-          "name": "Aaron Jones Sr.",
-          "team": "MIN",
+          "player_id": "12527",
+          "name": "Ashton Jeanty",
+          "team": "LV",
           "position": "RB",
           "injury_status": null
         },
         {
-          "player_id": "6806",
-          "name": "J.K. Dobbins",
-          "team": "DEN",
-          "position": "RB",
-          "injury_status": null
-        },
-        {
-          "player_id": "8135",
-          "name": "Treylon Burks",
-          "team": "WAS",
+          "player_id": "11628",
+          "name": "Marvin Harrison Jr.",
+          "team": "HOU",
           "position": "WR",
           "injury_status": null
         }
@@ -743,16 +743,16 @@
       "owner_user_id": "459751268567478272",
       "record": {
         "wins": 5,
-        "losses": 1,
+        "losses": 2,
         "ties": 1
       },
       "points": {
-        "points_for": 900.34,
-        "points_against": 766.98,
-        "raw_fpts": 900,
-        "raw_fpts_decimal": 34,
-        "raw_fpts_against": 766,
-        "raw_fpts_against_decimal": 98
+        "points_for": 979.24,
+        "points_against": 877.1,
+        "raw_fpts": 979,
+        "raw_fpts_decimal": 24,
+        "raw_fpts_against": 877,
+        "raw_fpts_against_decimal": 10
       },
       "counts": {
         "players": 25,
@@ -854,16 +854,16 @@
       "owner_user_id": "471457570825957376",
       "record": {
         "wins": 6,
-        "losses": 1,
+        "losses": 2,
         "ties": 0
       },
       "points": {
-        "points_for": 1024.16,
-        "points_against": 753.9,
-        "raw_fpts": 1024,
-        "raw_fpts_decimal": 16,
-        "raw_fpts_against": 753,
-        "raw_fpts_against_decimal": 90
+        "points_for": 1148.52,
+        "points_against": 939.26,
+        "raw_fpts": 1148,
+        "raw_fpts_decimal": 52,
+        "raw_fpts_against": 939,
+        "raw_fpts_against_decimal": 26
       },
       "counts": {
         "players": 25,
@@ -965,16 +965,16 @@
       "owner_user_id": "471501409838166016",
       "record": {
         "wins": 1,
-        "losses": 6,
+        "losses": 7,
         "ties": 0
       },
       "points": {
-        "points_for": 635.64,
-        "points_against": 833.18,
-        "raw_fpts": 635,
-        "raw_fpts_decimal": 64,
-        "raw_fpts_against": 833,
-        "raw_fpts_against_decimal": 18
+        "points_for": 719.54,
+        "points_against": 954.86,
+        "raw_fpts": 719,
+        "raw_fpts_decimal": 54,
+        "raw_fpts_against": 954,
+        "raw_fpts_against_decimal": 86
       },
       "counts": {
         "players": 25,
@@ -1001,7 +1001,7 @@
           "name": "Chris Rodriguez Jr.",
           "team": "JAX",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12507",
@@ -1076,36 +1076,36 @@
       "owner_user_id": "471717089472671744",
       "record": {
         "wins": 3,
-        "losses": 4,
+        "losses": 5,
         "ties": 0
       },
       "points": {
-        "points_for": 824.7,
-        "points_against": 832.46,
-        "raw_fpts": 824,
-        "raw_fpts_decimal": 70,
-        "raw_fpts_against": 832,
-        "raw_fpts_against_decimal": 46
+        "points_for": 955.6,
+        "points_against": 977.96,
+        "raw_fpts": 955,
+        "raw_fpts_decimal": 60,
+        "raw_fpts_against": 977,
+        "raw_fpts_against_decimal": 96
       },
       "counts": {
-        "players": 24,
+        "players": 23,
         "starters": 9,
-        "bench": 13,
+        "bench": 12,
         "reserve": 2
       },
       "position_counts": {
         "QB": 2,
         "RB": 7,
-        "TE": 5,
+        "TE": 4,
         "WR": 10
       },
       "starters": [
         {
-          "player_id": "4881",
-          "name": "Lamar Jackson",
-          "team": "BAL",
+          "player_id": "4943",
+          "name": "Sam Darnold",
+          "team": "SEA",
           "position": "QB",
-          "injury_status": "Out"
+          "injury_status": null
         },
         {
           "player_id": "3198",
@@ -1119,7 +1119,7 @@
           "name": "Bhayshul Tuten",
           "team": "JAX",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7547",
@@ -1166,18 +1166,18 @@
       ],
       "reserve": [
         {
+          "player_id": "12536",
+          "name": "Jaylin Noel",
+          "team": "HOU",
+          "position": "WR",
+          "injury_status": "IR"
+        },
+        {
           "player_id": "5927",
           "name": "Terry McLaurin",
           "team": "WAS",
           "position": "WR",
           "injury_status": "IR"
-        },
-        {
-          "player_id": "9481",
-          "name": "Luke Musgrave",
-          "team": "GB",
-          "position": "TE",
-          "injury_status": "PUP"
         }
       ]
     },
@@ -1186,17 +1186,17 @@
       "team_label": "MOJO",
       "owner_user_id": "471724614532198400",
       "record": {
-        "wins": 5,
+        "wins": 6,
         "losses": 2,
         "ties": 0
       },
       "points": {
-        "points_for": 928.84,
-        "points_against": 805.82,
-        "raw_fpts": 928,
-        "raw_fpts_decimal": 84,
-        "raw_fpts_against": 805,
-        "raw_fpts_against_decimal": 82
+        "points_for": 1114.2,
+        "points_against": 930.18,
+        "raw_fpts": 1114,
+        "raw_fpts_decimal": 20,
+        "raw_fpts_against": 930,
+        "raw_fpts_against_decimal": 18
       },
       "counts": {
         "players": 25,
@@ -1297,17 +1297,17 @@
       "team_label": "gullickson",
       "owner_user_id": "471744678006353920",
       "record": {
-        "wins": 3,
+        "wins": 4,
         "losses": 4,
         "ties": 0
       },
       "points": {
-        "points_for": 695.08,
-        "points_against": 873.18,
-        "raw_fpts": 695,
-        "raw_fpts_decimal": 8,
-        "raw_fpts_against": 873,
-        "raw_fpts_against_decimal": 18
+        "points_for": 813.76,
+        "points_against": 937.08,
+        "raw_fpts": 813,
+        "raw_fpts_decimal": 76,
+        "raw_fpts_against": 937,
+        "raw_fpts_against_decimal": 8
       },
       "counts": {
         "players": 25,
@@ -1413,7 +1413,8 @@
       5,
       6,
       7,
-      8
+      8,
+      9
     ],
     "by_week": {
       "1": {
@@ -2414,7 +2415,7 @@
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 76.6,
+                "points": 83.9,
                 "custom_points": null
               }
             ],
@@ -2452,7 +2453,7 @@
               {
                 "roster_id": 2,
                 "team_label": "Washington Monument",
-                "points": 53.4,
+                "points": 63.9,
                 "custom_points": null
               },
               {
@@ -2474,7 +2475,7 @@
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 123.5,
+                "points": 142.1,
                 "custom_points": null
               },
               {
@@ -2487,7 +2488,7 @@
             "winner": {
               "roster_id": 4,
               "team_label": "Puka Troopas",
-              "points": 123.5
+              "points": 142.1
             }
           },
           {
@@ -2502,7 +2503,7 @@
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 55.1,
+                "points": 78.9,
                 "custom_points": null
               }
             ],
@@ -2518,21 +2519,138 @@
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 132.8,
+                "points": 145.5,
                 "custom_points": null
               },
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 103.0,
+                "points": 130.9,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 5,
               "team_label": "White Ice",
-              "points": 132.8
+              "points": 145.5
             }
+          }
+        ],
+        "counts": {
+          "matchups": 6,
+          "roster_results": 12
+        }
+      },
+      "9": {
+        "week": 9,
+        "matchups": [
+          {
+            "matchup_id": "1",
+            "teams": [
+              {
+                "roster_id": 1,
+                "team_label": "It’s Herbie Hancock",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 8,
+                "team_label": "Back to the Future",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "2",
+            "teams": [
+              {
+                "roster_id": 9,
+                "team_label": "off",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 11,
+                "team_label": "MOJO",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "3",
+            "teams": [
+              {
+                "roster_id": 6,
+                "team_label": "andrewwelle",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 12,
+                "team_label": "gullickson",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "4",
+            "teams": [
+              {
+                "roster_id": 2,
+                "team_label": "Washington Monument",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 4,
+                "team_label": "Puka Troopas",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "5",
+            "teams": [
+              {
+                "roster_id": 3,
+                "team_label": "Laporta Potty",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 5,
+                "team_label": "White Ice",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
+          },
+          {
+            "matchup_id": "6",
+            "teams": [
+              {
+                "roster_id": 7,
+                "team_label": "Commish is a bitch",
+                "points": 0.0,
+                "custom_points": null
+              },
+              {
+                "roster_id": 10,
+                "team_label": "Goin in Ra",
+                "points": 0.0,
+                "custom_points": null
+              }
+            ],
+            "winner": null
           }
         ],
         "counts": {
@@ -2542,26 +2660,26 @@
       }
     },
     "counts": {
-      "weeks": 8,
-      "matchups": 48,
-      "roster_results": 96
+      "weeks": 9,
+      "matchups": 54,
+      "roster_results": 108
     }
   },
   "transactions": {
     "counts": {
-      "weeks": 8,
-      "transactions": 150,
+      "weeks": 9,
+      "transactions": 151,
       "trades": 16,
       "waivers": 28,
-      "free_agent_moves": 105,
+      "free_agent_moves": 106,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 105,
+        "free_agent": 106,
         "trade": 16,
         "waiver": 28
       },
       "by_status": {
-        "complete": 141,
+        "complete": 142,
         "failed": 9
       }
     },
@@ -2603,10 +2721,10 @@
         "free_agent_moves": 16
       },
       "10": {
-        "transactions": 4,
+        "transactions": 5,
         "trades": 1,
         "waivers": 1,
-        "free_agent_moves": 2
+        "free_agent_moves": 3
       },
       "3": {
         "transactions": 19,
@@ -2640,6 +2758,26 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 8,
+        "transaction_id": "1423357442590269440",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-11-03T14:49:28.318000Z",
+        "team_labels": [
+          "Goin in Ra"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "9481",
+            "player_name": "Luke Musgrave",
+            "roster_id": 10,
+            "team_label": "Goin in Ra"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 8,
         "transaction_id": "1422041974579396609",
@@ -3252,26 +3390,6 @@
             "team_label": "andrewwelle"
           }
         ],
-        "draft_picks": []
-      },
-      {
-        "week": 6,
-        "transaction_id": "1418244721200943104",
-        "type": "waiver",
-        "status": "failed",
-        "created_at": "2026-10-20T12:13:20.548000Z",
-        "team_labels": [
-          "Washington Monument"
-        ],
-        "adds": [
-          {
-            "player_id": "8135",
-            "player_name": "Treylon Burks",
-            "roster_id": 2,
-            "team_label": "Washington Monument"
-          }
-        ],
-        "drops": [],
         "draft_picks": []
       }
     ]
