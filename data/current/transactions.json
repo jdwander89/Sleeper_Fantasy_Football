@@ -6674,23 +6674,147 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 8,
+          "transaction_id": "1423500680601042944",
+          "type": "trade",
+          "status": "complete",
+          "created": 1793751518921,
+          "created_at": "2026-11-04T00:18:38.921000Z",
+          "status_updated": 1793751720859,
+          "status_updated_at": "2026-11-04T00:22:00.859000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1,
+            5
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock",
+            "White Ice"
+          ],
+          "consenter_ids": [
+            1,
+            5
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock",
+            "White Ice"
+          ],
+          "adds": [
+            {
+              "player_id": "10236",
+              "player_name": "Dalton Kincaid",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            },
+            {
+              "player_id": "11625",
+              "player_name": "Adonai Mitchell",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "10236",
+              "player_name": "Dalton Kincaid",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            },
+            {
+              "player_id": "11625",
+              "player_name": "Adonai Mitchell",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2028",
+              "round": 4,
+              "original_roster_id": 1,
+              "original_team_label": "It’s Herbie Hancock",
+              "previous_owner_id": 1,
+              "previous_owner_team_label": "It’s Herbie Hancock",
+              "owner_id": 5,
+              "owner_team_label": "White Ice"
+            },
+            {
+              "season": "2028",
+              "round": 3,
+              "original_roster_id": 5,
+              "original_team_label": "White Ice",
+              "previous_owner_id": 5,
+              "previous_owner_team_label": "White Ice",
+              "owner_id": 1,
+              "owner_team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 6,
-        "trades": 0,
+        "transactions": 7,
+        "trades": 1,
         "waivers": 0,
         "free_agent_moves": 6
       }
     },
     "9": {
       "week": 9,
-      "transactions": [],
+      "transactions": [
+        {
+          "week": 9,
+          "transaction_id": "1423760737779630080",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1793813521384,
+          "created_at": "2026-11-04T17:32:01.384000Z",
+          "status_updated": 1793813521384,
+          "status_updated_at": "2026-11-04T17:32:01.384000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "13297",
+              "player_name": "Reggie Virgil",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "4147",
+              "player_name": "Samaje Perine",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        }
+      ],
       "counts": {
-        "transactions": 0,
+        "transactions": 1,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 0
+        "free_agent_moves": 1
       }
     }
   },
@@ -13289,6 +13413,129 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 8,
+      "transaction_id": "1423500680601042944",
+      "type": "trade",
+      "status": "complete",
+      "created": 1793751518921,
+      "created_at": "2026-11-04T00:18:38.921000Z",
+      "status_updated": 1793751720859,
+      "status_updated_at": "2026-11-04T00:22:00.859000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1,
+        5
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "White Ice"
+      ],
+      "consenter_ids": [
+        1,
+        5
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "10236",
+          "player_name": "Dalton Kincaid",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        },
+        {
+          "player_id": "11625",
+          "player_name": "Adonai Mitchell",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "10236",
+          "player_name": "Dalton Kincaid",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        },
+        {
+          "player_id": "11625",
+          "player_name": "Adonai Mitchell",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 5,
+          "owner_team_label": "White Ice"
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 5,
+          "original_team_label": "White Ice",
+          "previous_owner_id": 5,
+          "previous_owner_team_label": "White Ice",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 9,
+      "transaction_id": "1423760737779630080",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793813521384,
+      "created_at": "2026-11-04T17:32:01.384000Z",
+      "status_updated": 1793813521384,
+      "status_updated_at": "2026-11-04T17:32:01.384000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "13297",
+          "player_name": "Reggie Virgil",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4147",
+          "player_name": "Samaje Perine",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -14498,6 +14745,86 @@
           "previous_owner_team_label": "Commish is a bitch",
           "owner_id": 2,
           "owner_team_label": "Washington Monument"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 8,
+      "transaction_id": "1423500680601042944",
+      "type": "trade",
+      "status": "complete",
+      "created": 1793751518921,
+      "created_at": "2026-11-04T00:18:38.921000Z",
+      "status_updated": 1793751720859,
+      "status_updated_at": "2026-11-04T00:22:00.859000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1,
+        5
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "White Ice"
+      ],
+      "consenter_ids": [
+        1,
+        5
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "10236",
+          "player_name": "Dalton Kincaid",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        },
+        {
+          "player_id": "11625",
+          "player_name": "Adonai Mitchell",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "10236",
+          "player_name": "Dalton Kincaid",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        },
+        {
+          "player_id": "11625",
+          "player_name": "Adonai Mitchell",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2028",
+          "round": 4,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 5,
+          "owner_team_label": "White Ice"
+        },
+        {
+          "season": "2028",
+          "round": 3,
+          "original_roster_id": 5,
+          "original_team_label": "White Ice",
+          "previous_owner_id": 5,
+          "previous_owner_team_label": "White Ice",
+          "owner_id": 1,
+          "owner_team_label": "It’s Herbie Hancock"
         }
       ],
       "waiver_budget": [],
@@ -19858,22 +20185,65 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 9,
+      "transaction_id": "1423760737779630080",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793813521384,
+      "created_at": "2026-11-04T17:32:01.384000Z",
+      "status_updated": 1793813521384,
+      "status_updated_at": "2026-11-04T17:32:01.384000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "13297",
+          "player_name": "Reggie Virgil",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4147",
+          "player_name": "Samaje Perine",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 9,
-    "transactions": 151,
-    "trades": 16,
+    "transactions": 153,
+    "trades": 17,
     "waivers": 28,
-    "free_agent_moves": 106,
+    "free_agent_moves": 107,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 106,
-      "trade": 16,
+      "free_agent": 107,
+      "trade": 17,
       "waiver": 28
     },
     "by_status": {
-      "complete": 142,
+      "complete": 144,
       "failed": 9
     }
   }

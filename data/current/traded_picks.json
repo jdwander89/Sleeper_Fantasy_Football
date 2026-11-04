@@ -34,6 +34,17 @@
       "owner_team_label": "Laporta Potty"
     },
     {
+      "season": "2028",
+      "round": 4,
+      "draft_id": null,
+      "original_roster_id": 1,
+      "original_team_label": "It’s Herbie Hancock",
+      "previous_owner_id": 1,
+      "previous_owner_team_label": "It’s Herbie Hancock",
+      "owner_id": 5,
+      "owner_team_label": "White Ice"
+    },
+    {
       "season": "2029",
       "round": 3,
       "draft_id": null,
@@ -197,6 +208,17 @@
       "previous_owner_team_label": "White Ice",
       "owner_id": 9,
       "owner_team_label": "off"
+    },
+    {
+      "season": "2028",
+      "round": 3,
+      "draft_id": null,
+      "original_roster_id": 5,
+      "original_team_label": "White Ice",
+      "previous_owner_id": 5,
+      "previous_owner_team_label": "White Ice",
+      "owner_id": 1,
+      "owner_team_label": "It’s Herbie Hancock"
     },
     {
       "season": "2029",
@@ -490,7 +512,7 @@
     ]
   },
   "counts": {
-    "league_traded_picks": 36,
+    "league_traded_picks": 38,
     "draft_traded_picks": 8
   }
 }

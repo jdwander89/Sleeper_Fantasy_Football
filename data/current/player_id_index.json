@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-03T18:28:36.622393Z",
+  "generated_at": "2026-11-04T18:41:05.722795Z",
   "counts": {
-    "required_player_ids": 357,
-    "resolved_player_ids": 357,
+    "required_player_ids": 358,
+    "resolved_player_ids": 358,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -295,6 +295,7 @@
       "rashid shaheed": "8676",
       "rashod bateman": "7571",
       "ray davis": "11575",
+      "reggie virgil": "13297",
       "rhamondre stevenson": "7611",
       "ricky pearsall": "11638",
       "rico dowdle": "7021",
@@ -372,6 +373,7 @@
         "11589",
         "13272",
         "13287",
+        "13297",
         "3257",
         "4137",
         "4454",
@@ -1059,6 +1061,7 @@
         "13293",
         "13294",
         "13296",
+        "13297",
         "13298",
         "13301",
         "13311",

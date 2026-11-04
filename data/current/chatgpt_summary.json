@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-03T18:28:36.756161Z",
-    "source_snapshot_generated_at": "2026-11-03T18:28:34.078414Z",
+    "generated_at": "2026-11-04T18:41:05.850012Z",
+    "source_snapshot_generated_at": "2026-11-04T18:41:03.930093Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,17 +52,17 @@
     "included_weeks": 9,
     "matchups": 54,
     "matchup_roster_results": 108,
-    "required_player_ids": 357,
-    "compact_player_lookup": 357,
+    "required_player_ids": 358,
+    "compact_player_lookup": 358,
     "missing_player_ids": 0,
-    "transactions": 151,
-    "trades": 16,
+    "transactions": 153,
+    "trades": 17,
     "waivers": 28,
-    "free_agent_moves": 106,
+    "free_agent_moves": 107,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
-    "league_traded_picks": 36
+    "league_traded_picks": 38
   },
   "data_quality": {
     "warnings": [],
@@ -96,8 +96,8 @@
       "position_counts": {
         "QB": 2,
         "RB": 9,
-        "TE": 4,
-        "WR": 10
+        "TE": 3,
+        "WR": 11
       },
       "starters": [
         {
@@ -136,9 +136,9 @@
           "injury_status": null
         },
         {
-          "player_id": "10236",
-          "name": "Dalton Kincaid",
-          "team": "BUF",
+          "player_id": "13421",
+          "name": "Eli Raridon",
+          "team": "NE",
           "position": "TE",
           "injury_status": null
         },
@@ -157,10 +157,10 @@
           "injury_status": null
         },
         {
-          "player_id": "12542",
-          "name": "Efton Chism III",
-          "team": "NE",
-          "position": "WR",
+          "player_id": "13305",
+          "name": "Mike Washington Jr.",
+          "team": "LV",
+          "position": "RB",
           "injury_status": null
         }
       ],
@@ -277,17 +277,17 @@
       ],
       "reserve": [
         {
-          "player_id": "12472",
-          "name": "Raheim Sanders",
-          "team": "CLE",
-          "position": "RB",
+          "player_id": "12492",
+          "name": "Pat Bryant",
+          "team": "DEN",
+          "position": "WR",
           "injury_status": "IR"
         },
         {
-          "player_id": "13417",
-          "name": "De'Zhaun Stribling",
-          "team": "SF",
-          "position": "WR",
+          "player_id": "6904",
+          "name": "Jalen Hurts",
+          "team": "PHI",
+          "position": "QB",
           "injury_status": "IR"
         }
       ]
@@ -348,7 +348,7 @@
           "name": "Drake London",
           "team": "ATL",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "2449",
@@ -446,7 +446,7 @@
           "name": "Breece Hall",
           "team": "NYJ",
           "position": "RB",
-          "injury_status": "Out"
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7594",
@@ -541,8 +541,8 @@
       "position_counts": {
         "QB": 2,
         "RB": 7,
-        "TE": 3,
-        "WR": 13
+        "TE": 4,
+        "WR": 12
       },
       "starters": [
         {
@@ -682,7 +682,7 @@
           "name": "Garrett Wilson",
           "team": "NYJ",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "1479",
@@ -713,9 +713,9 @@
           "injury_status": null
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison Jr.",
-          "team": "HOU",
+          "player_id": "11834",
+          "name": "Devaughn Vele",
+          "team": "NO",
           "position": "WR",
           "injury_status": null
         }
@@ -768,23 +768,23 @@
       },
       "starters": [
         {
-          "player_id": "11559",
-          "name": "Michael Penix Jr.",
-          "team": "ATL",
+          "player_id": "12545",
+          "name": "Tyler Shough",
+          "team": "NO",
           "position": "QB",
-          "injury_status": null
-        },
-        {
-          "player_id": "7567",
-          "name": "Kenny Gainwell",
-          "team": "TB",
-          "position": "RB",
           "injury_status": null
         },
         {
           "player_id": "8408",
           "name": "Jordan Mason",
           "team": "MIN",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "12474",
+          "name": "Woody Marks",
+          "team": "HOU",
           "position": "RB",
           "injury_status": null
         },
@@ -817,9 +817,9 @@
           "injury_status": null
         },
         {
-          "player_id": "11637",
-          "name": "Keon Coleman",
-          "team": "BUF",
+          "player_id": "11632",
+          "name": "Malik Nabers",
+          "team": "NYG",
           "position": "WR",
           "injury_status": null
         },
@@ -1011,9 +1011,9 @@
           "injury_status": null
         },
         {
-          "player_id": "8137",
-          "name": "George Pickens",
-          "team": "DAL",
+          "player_id": "8144",
+          "name": "Chris Olave",
+          "team": "NO",
           "position": "WR",
           "injury_status": null
         },
@@ -1032,17 +1032,17 @@
           "injury_status": null
         },
         {
-          "player_id": "3634",
-          "name": "Kalif Raymond",
-          "team": "CHI",
+          "player_id": "8137",
+          "name": "George Pickens",
+          "team": "DAL",
           "position": "WR",
           "injury_status": null
         },
         {
-          "player_id": "13330",
-          "name": "Kenyon Sadiq",
-          "team": "NYJ",
-          "position": "TE",
+          "player_id": "6130",
+          "name": "Devin Singletary",
+          "team": "NYG",
+          "position": "RB",
           "injury_status": null
         },
         {
@@ -1126,7 +1126,7 @@
           "name": "Amon-Ra St. Brown",
           "team": "DET",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5846",
@@ -1206,9 +1206,9 @@
       },
       "position_counts": {
         "QB": 3,
-        "RB": 10,
+        "RB": 9,
         "TE": 3,
-        "WR": 9
+        "WR": 10
       },
       "starters": [
         {
@@ -1230,7 +1230,7 @@
           "name": "James Cook III",
           "team": "BUF",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "6801",
@@ -1254,41 +1254,41 @@
           "injury_status": null
         },
         {
-          "player_id": "8228",
-          "name": "Jaylen Warren",
-          "team": "PIT",
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "team": "NYG",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "3214",
           "name": "Hunter Henry",
           "team": "NE",
           "position": "TE",
-          "injury_status": "Out"
+          "injury_status": "Questionable"
         },
         {
-          "player_id": "7021",
-          "name": "Rico Dowdle",
-          "team": "PIT",
-          "position": "RB",
-          "injury_status": null
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "team": "NE",
+          "position": "WR",
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
+        {
+          "player_id": "13320",
+          "name": "Zachariah Branch",
+          "team": "ATL",
+          "position": "WR",
+          "injury_status": "Out"
+        },
         {
           "player_id": "2133",
           "name": "Davante Adams",
           "team": "LAR",
           "position": "WR",
           "injury_status": "IR"
-        },
-        {
-          "player_id": "5892",
-          "name": "David Montgomery",
-          "team": "HOU",
-          "position": "RB",
-          "injury_status": "Out"
         }
       ]
     },
@@ -1365,18 +1365,18 @@
           "injury_status": null
         },
         {
-          "player_id": "13274",
-          "name": "Germie Bernard",
-          "team": "PIT",
+          "player_id": "11635",
+          "name": "Ladd McConkey",
+          "team": "LAC",
           "position": "WR",
           "injury_status": null
         },
         {
-          "player_id": "13287",
-          "name": "Jeremiyah Love",
-          "team": "ARI",
+          "player_id": "7543",
+          "name": "Travis Etienne Jr.",
+          "team": "NO",
           "position": "RB",
-          "injury_status": "Out"
+          "injury_status": "IR"
         },
         {
           "player_id": "4983",
@@ -1395,9 +1395,9 @@
           "injury_status": "IR"
         },
         {
-          "player_id": "7543",
-          "name": "Travis Etienne Jr.",
-          "team": "NO",
+          "player_id": "13287",
+          "name": "Jeremiyah Love",
+          "team": "ARI",
           "position": "RB",
           "injury_status": "IR"
         }
@@ -2668,18 +2668,18 @@
   "transactions": {
     "counts": {
       "weeks": 9,
-      "transactions": 151,
-      "trades": 16,
+      "transactions": 153,
+      "trades": 17,
       "waivers": 28,
-      "free_agent_moves": 106,
+      "free_agent_moves": 107,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 106,
-        "trade": 16,
+        "free_agent": 107,
+        "trade": 17,
         "waiver": 28
       },
       "by_status": {
-        "complete": 142,
+        "complete": 144,
         "failed": 9
       }
     },
@@ -2703,16 +2703,16 @@
         "free_agent_moves": 9
       },
       "1": {
-        "transactions": 18,
-        "trades": 4,
+        "transactions": 19,
+        "trades": 5,
         "waivers": 2,
         "free_agent_moves": 12
       },
       "11": {
-        "transactions": 27,
+        "transactions": 28,
         "trades": 6,
         "waivers": 3,
-        "free_agent_moves": 18
+        "free_agent_moves": 19
       },
       "2": {
         "transactions": 34,
@@ -2751,13 +2751,101 @@
         "free_agent_moves": 2
       },
       "5": {
-        "transactions": 12,
-        "trades": 2,
+        "transactions": 13,
+        "trades": 3,
         "waivers": 5,
         "free_agent_moves": 5
       }
     },
     "recent_transactions": [
+      {
+        "week": 9,
+        "transaction_id": "1423760737779630080",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-11-04T17:32:01.384000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "13297",
+            "player_name": "Reggie Virgil",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "4147",
+            "player_name": "Samaje Perine",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 8,
+        "transaction_id": "1423500680601042944",
+        "type": "trade",
+        "status": "complete",
+        "created_at": "2026-11-04T00:18:38.921000Z",
+        "team_labels": [
+          "It’s Herbie Hancock",
+          "White Ice"
+        ],
+        "adds": [
+          {
+            "player_id": "10236",
+            "player_name": "Dalton Kincaid",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          },
+          {
+            "player_id": "11625",
+            "player_name": "Adonai Mitchell",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "10236",
+            "player_name": "Dalton Kincaid",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          },
+          {
+            "player_id": "11625",
+            "player_name": "Adonai Mitchell",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          }
+        ],
+        "draft_picks": [
+          {
+            "season": "2028",
+            "round": 4,
+            "original_roster_id": 1,
+            "original_team_label": "It’s Herbie Hancock",
+            "previous_owner_id": 1,
+            "previous_owner_team_label": "It’s Herbie Hancock",
+            "owner_id": 5,
+            "owner_team_label": "White Ice"
+          },
+          {
+            "season": "2028",
+            "round": 3,
+            "original_roster_id": 5,
+            "original_team_label": "White Ice",
+            "previous_owner_id": 5,
+            "previous_owner_team_label": "White Ice",
+            "owner_id": 1,
+            "owner_team_label": "It’s Herbie Hancock"
+          }
+        ]
+      },
       {
         "week": 8,
         "transaction_id": "1423357442590269440",
@@ -3337,60 +3425,6 @@
           }
         ],
         "draft_picks": []
-      },
-      {
-        "week": 6,
-        "transaction_id": "1418322271646294016",
-        "type": "waiver",
-        "status": "complete",
-        "created_at": "2026-10-20T17:21:30.016000Z",
-        "team_labels": [
-          "andrewwelle"
-        ],
-        "adds": [
-          {
-            "player_id": "13477",
-            "player_name": "Colbie Young",
-            "roster_id": 6,
-            "team_label": "andrewwelle"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "2306",
-            "player_name": "Jameis Winston",
-            "roster_id": 6,
-            "team_label": "andrewwelle"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 6,
-        "transaction_id": "1418321939268677632",
-        "type": "waiver",
-        "status": "complete",
-        "created_at": "2026-10-20T17:20:10.770000Z",
-        "team_labels": [
-          "andrewwelle"
-        ],
-        "adds": [
-          {
-            "player_id": "8119",
-            "player_name": "Jahan Dotson",
-            "roster_id": 6,
-            "team_label": "andrewwelle"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "11571",
-            "player_name": "Isaiah Davis",
-            "roster_id": 6,
-            "team_label": "andrewwelle"
-          }
-        ],
-        "draft_picks": []
       }
     ]
   },
@@ -3513,7 +3547,7 @@
       }
     ],
     "traded_picks": {
-      "league_traded_picks": 36,
+      "league_traded_picks": 38,
       "draft_traded_picks": 8
     }
   },
