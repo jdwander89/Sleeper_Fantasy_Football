@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-04T18:41:05.722795Z",
+  "generated_at": "2026-11-05T18:48:56.911670Z",
   "counts": {
-    "required_player_ids": 358,
-    "resolved_player_ids": 358,
+    "required_player_ids": 359,
+    "resolved_player_ids": 359,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -132,6 +132,7 @@
       "emmett johnson": "13337",
       "evan engram": "4066",
       "fernando mendoza": "13269",
+      "gardner minshew ii": "6011",
       "garrett nussmeier": "13404",
       "garrett wilson": "8146",
       "geno smith": "1373",
@@ -377,6 +378,7 @@
         "3257",
         "4137",
         "4454",
+        "6011",
         "8122",
         "8130",
         "8132",
@@ -599,7 +601,6 @@
         "13269",
         "13305",
         "13329",
-        "7039",
         "8180",
         "9482"
       ],
@@ -822,6 +823,7 @@
         "5849",
         "5854",
         "5870",
+        "6011",
         "6770",
         "6797",
         "6804",

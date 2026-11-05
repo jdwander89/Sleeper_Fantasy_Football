@@ -6808,13 +6808,92 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 9,
+          "transaction_id": "1423820075726544896",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1793827668652,
+          "created_at": "2026-11-04T21:27:48.652000Z",
+          "status_updated": 1793827668652,
+          "status_updated_at": "2026-11-04T21:27:48.652000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [
+            {
+              "player_id": "11557",
+              "player_name": "Joe Milton",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "9504",
+              "player_name": "Kayshon Boutte",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 9,
+          "transaction_id": "1423863260268048384",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1793837964649,
+          "created_at": "2026-11-05T00:19:24.649000Z",
+          "status_updated": 1793837964649,
+          "status_updated_at": "2026-11-05T00:19:24.649000Z",
+          "creator_user_id": "471717089472671744",
+          "roster_ids": [
+            10
+          ],
+          "team_labels": [
+            "Goin in Ra"
+          ],
+          "consenter_ids": [
+            10
+          ],
+          "consenter_team_labels": [
+            "Goin in Ra"
+          ],
+          "adds": [
+            {
+              "player_id": "6011",
+              "player_name": "Gardner Minshew II",
+              "roster_id": 10,
+              "team_label": "Goin in Ra"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 1,
+        "transactions": 3,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 1
+        "free_agent_moves": 3
       }
     }
   },
@@ -13536,6 +13615,85 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 9,
+      "transaction_id": "1423820075726544896",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793827668652,
+      "created_at": "2026-11-04T21:27:48.652000Z",
+      "status_updated": 1793827668652,
+      "status_updated_at": "2026-11-04T21:27:48.652000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "11557",
+          "player_name": "Joe Milton",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9504",
+          "player_name": "Kayshon Boutte",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 9,
+      "transaction_id": "1423863260268048384",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793837964649,
+      "created_at": "2026-11-05T00:19:24.649000Z",
+      "status_updated": 1793837964649,
+      "status_updated_at": "2026-11-05T00:19:24.649000Z",
+      "creator_user_id": "471717089472671744",
+      "roster_ids": [
+        10
+      ],
+      "team_labels": [
+        "Goin in Ra"
+      ],
+      "consenter_ids": [
+        10
+      ],
+      "consenter_team_labels": [
+        "Goin in Ra"
+      ],
+      "adds": [
+        {
+          "player_id": "6011",
+          "player_name": "Gardner Minshew II",
+          "roster_id": 10,
+          "team_label": "Goin in Ra"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -20228,22 +20386,101 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 9,
+      "transaction_id": "1423820075726544896",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793827668652,
+      "created_at": "2026-11-04T21:27:48.652000Z",
+      "status_updated": 1793827668652,
+      "status_updated_at": "2026-11-04T21:27:48.652000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "11557",
+          "player_name": "Joe Milton",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "9504",
+          "player_name": "Kayshon Boutte",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 9,
+      "transaction_id": "1423863260268048384",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793837964649,
+      "created_at": "2026-11-05T00:19:24.649000Z",
+      "status_updated": 1793837964649,
+      "status_updated_at": "2026-11-05T00:19:24.649000Z",
+      "creator_user_id": "471717089472671744",
+      "roster_ids": [
+        10
+      ],
+      "team_labels": [
+        "Goin in Ra"
+      ],
+      "consenter_ids": [
+        10
+      ],
+      "consenter_team_labels": [
+        "Goin in Ra"
+      ],
+      "adds": [
+        {
+          "player_id": "6011",
+          "player_name": "Gardner Minshew II",
+          "roster_id": 10,
+          "team_label": "Goin in Ra"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 9,
-    "transactions": 153,
+    "transactions": 155,
     "trades": 17,
     "waivers": 28,
-    "free_agent_moves": 107,
+    "free_agent_moves": 109,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 107,
+      "free_agent": 109,
       "trade": 17,
       "waiver": 28
     },
     "by_status": {
-      "complete": 144,
+      "complete": 146,
       "failed": 9
     }
   }

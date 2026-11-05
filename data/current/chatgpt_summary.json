@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-04T18:41:05.850012Z",
-    "source_snapshot_generated_at": "2026-11-04T18:41:03.930093Z",
+    "generated_at": "2026-11-05T18:48:57.019991Z",
+    "source_snapshot_generated_at": "2026-11-05T18:48:55.351279Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 9,
     "matchups": 54,
     "matchup_roster_results": 108,
-    "required_player_ids": 358,
-    "compact_player_lookup": 358,
+    "required_player_ids": 359,
+    "compact_player_lookup": 359,
     "missing_player_ids": 0,
-    "transactions": 153,
+    "transactions": 155,
     "trades": 17,
     "waivers": 28,
-    "free_agent_moves": 107,
+    "free_agent_moves": 109,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -94,10 +94,10 @@
         "reserve": 2
       },
       "position_counts": {
-        "QB": 2,
+        "QB": 3,
         "RB": 9,
         "TE": 3,
-        "WR": 11
+        "WR": 10
       },
       "starters": [
         {
@@ -435,18 +435,18 @@
       },
       "starters": [
         {
-          "player_id": "1373",
-          "name": "Geno Smith",
-          "team": "NYJ",
+          "player_id": "8183",
+          "name": "Brock Purdy",
+          "team": "SF",
           "position": "QB",
           "injury_status": null
         },
         {
-          "player_id": "8155",
-          "name": "Breece Hall",
-          "team": "NYJ",
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "team": "ARI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7594",
@@ -484,10 +484,10 @@
           "injury_status": null
         },
         {
-          "player_id": "5967",
-          "name": "Tony Pollard",
-          "team": "TEN",
-          "position": "RB",
+          "player_id": "11610",
+          "name": "Malik Washington",
+          "team": "MIA",
+          "position": "WR",
           "injury_status": null
         },
         {
@@ -585,7 +585,7 @@
           "name": "Travis Kelce",
           "team": "KC",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8148",
@@ -939,7 +939,7 @@
           "name": "Denzel Boston",
           "team": "CLE",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -1001,7 +1001,7 @@
           "name": "Chris Rodriguez Jr.",
           "team": "JAX",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12507",
@@ -1022,7 +1022,7 @@
           "name": "Rashee Rice",
           "team": "KC",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7553",
@@ -1036,7 +1036,7 @@
           "name": "George Pickens",
           "team": "DAL",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "6130",
@@ -1088,23 +1088,30 @@
         "raw_fpts_against_decimal": 96
       },
       "counts": {
-        "players": 23,
+        "players": 24,
         "starters": 9,
-        "bench": 12,
+        "bench": 13,
         "reserve": 2
       },
       "position_counts": {
-        "QB": 2,
+        "QB": 3,
         "RB": 7,
         "TE": 4,
         "WR": 10
       },
       "starters": [
         {
-          "player_id": "4943",
-          "name": "Sam Darnold",
-          "team": "SEA",
+          "player_id": "6011",
+          "name": "Gardner Minshew II",
+          "team": "ARI",
           "position": "QB",
+          "injury_status": null
+        },
+        {
+          "player_id": "6790",
+          "name": "D'Andre Swift",
+          "team": "CHI",
+          "position": "RB",
           "injury_status": null
         },
         {
@@ -1112,6 +1119,27 @@
           "name": "Derrick Henry",
           "team": "BAL",
           "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "5947",
+          "name": "Jakobi Meyers",
+          "team": "JAX",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "team": "DAL",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "9484",
+          "name": "Tucker Kraft",
+          "team": "GB",
+          "position": "TE",
           "injury_status": null
         },
         {
@@ -1126,41 +1154,13 @@
           "name": "Amon-Ra St. Brown",
           "team": "DET",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
-          "player_id": "5846",
-          "name": "DK Metcalf",
-          "team": "PIT",
-          "position": "WR",
-          "injury_status": null
-        },
-        {
-          "player_id": "9484",
-          "name": "Tucker Kraft",
-          "team": "GB",
+          "player_id": "5844",
+          "name": "T.J. Hockenson",
+          "team": "MIN",
           "position": "TE",
-          "injury_status": null
-        },
-        {
-          "player_id": "6790",
-          "name": "D'Andre Swift",
-          "team": "CHI",
-          "position": "RB",
-          "injury_status": null
-        },
-        {
-          "player_id": "8126",
-          "name": "Wan'Dale Robinson",
-          "team": "TEN",
-          "position": "WR",
-          "injury_status": null
-        },
-        {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
-          "team": "DAL",
-          "position": "WR",
           "injury_status": null
         }
       ],
@@ -1261,11 +1261,11 @@
           "injury_status": "Questionable"
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
-          "team": "NE",
-          "position": "TE",
-          "injury_status": "Questionable"
+          "player_id": "12469",
+          "name": "Dylan Sampson",
+          "team": "CLE",
+          "position": "RB",
+          "injury_status": null
         },
         {
           "player_id": "5859",
@@ -1341,7 +1341,7 @@
           "name": "Saquon Barkley",
           "team": "PHI",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "10232",
@@ -1372,11 +1372,11 @@
           "injury_status": null
         },
         {
-          "player_id": "7543",
-          "name": "Travis Etienne Jr.",
-          "team": "NO",
+          "player_id": "11647",
+          "name": "Kimani Vidal",
+          "team": "LAC",
           "position": "RB",
-          "injury_status": "IR"
+          "injury_status": null
         },
         {
           "player_id": "4983",
@@ -2668,18 +2668,18 @@
   "transactions": {
     "counts": {
       "weeks": 9,
-      "transactions": 153,
+      "transactions": 155,
       "trades": 17,
       "waivers": 28,
-      "free_agent_moves": 107,
+      "free_agent_moves": 109,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 107,
+        "free_agent": 109,
         "trade": 17,
         "waiver": 28
       },
       "by_status": {
-        "complete": 144,
+        "complete": 146,
         "failed": 9
       }
     },
@@ -2703,10 +2703,10 @@
         "free_agent_moves": 9
       },
       "1": {
-        "transactions": 19,
+        "transactions": 20,
         "trades": 5,
         "waivers": 2,
-        "free_agent_moves": 12
+        "free_agent_moves": 13
       },
       "11": {
         "transactions": 28,
@@ -2721,10 +2721,10 @@
         "free_agent_moves": 16
       },
       "10": {
-        "transactions": 5,
+        "transactions": 6,
         "trades": 1,
         "waivers": 1,
-        "free_agent_moves": 3
+        "free_agent_moves": 4
       },
       "3": {
         "transactions": 19,
@@ -2758,6 +2758,53 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 9,
+        "transaction_id": "1423863260268048384",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-11-05T00:19:24.649000Z",
+        "team_labels": [
+          "Goin in Ra"
+        ],
+        "adds": [
+          {
+            "player_id": "6011",
+            "player_name": "Gardner Minshew II",
+            "roster_id": 10,
+            "team_label": "Goin in Ra"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
+      {
+        "week": 9,
+        "transaction_id": "1423820075726544896",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-11-04T21:27:48.652000Z",
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "11557",
+            "player_name": "Joe Milton",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "9504",
+            "player_name": "Kayshon Boutte",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 9,
         "transaction_id": "1423760737779630080",
@@ -3378,53 +3425,6 @@
             "owner_team_label": "MOJO"
           }
         ]
-      },
-      {
-        "week": 7,
-        "transaction_id": "1418605100238196736",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-10-21T12:05:21.606000Z",
-        "team_labels": [
-          "off"
-        ],
-        "adds": [],
-        "drops": [
-          {
-            "player_id": "7528",
-            "player_name": "Najee Harris",
-            "roster_id": 9,
-            "team_label": "off"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 6,
-        "transaction_id": "1418345951206076416",
-        "type": "waiver",
-        "status": "complete",
-        "created_at": "2026-10-20T18:55:35.663000Z",
-        "team_labels": [
-          "It’s Herbie Hancock"
-        ],
-        "adds": [
-          {
-            "player_id": "13411",
-            "player_name": "Zavion Thomas",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "12522",
-            "player_name": "Cam Ward",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "draft_picks": []
       }
     ]
   },
