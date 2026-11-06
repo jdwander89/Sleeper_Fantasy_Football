@@ -6887,13 +6887,56 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 9,
+          "transaction_id": "1424287084537008128",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1793939012230,
+          "created_at": "2026-11-06T04:23:32.230000Z",
+          "status_updated": 1793939012230,
+          "status_updated_at": "2026-11-06T04:23:32.230000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "3286",
+              "player_name": "Demarcus Robinson",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "13297",
+              "player_name": "Reggie Virgil",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 3,
+        "transactions": 4,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 3
+        "free_agent_moves": 4
       }
     }
   },
@@ -13694,6 +13737,49 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 9,
+      "transaction_id": "1424287084537008128",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793939012230,
+      "created_at": "2026-11-06T04:23:32.230000Z",
+      "status_updated": 1793939012230,
+      "status_updated_at": "2026-11-06T04:23:32.230000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "3286",
+          "player_name": "Demarcus Robinson",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13297",
+          "player_name": "Reggie Virgil",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -20465,22 +20551,65 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 9,
+      "transaction_id": "1424287084537008128",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1793939012230,
+      "created_at": "2026-11-06T04:23:32.230000Z",
+      "status_updated": 1793939012230,
+      "status_updated_at": "2026-11-06T04:23:32.230000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "3286",
+          "player_name": "Demarcus Robinson",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13297",
+          "player_name": "Reggie Virgil",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 9,
-    "transactions": 155,
+    "transactions": 156,
     "trades": 17,
     "waivers": 28,
-    "free_agent_moves": 109,
+    "free_agent_moves": 110,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 109,
+      "free_agent": 110,
       "trade": 17,
       "waiver": 28
     },
     "by_status": {
-      "complete": 146,
+      "complete": 147,
       "failed": 9
     }
   }

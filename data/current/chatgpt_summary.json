@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-05T18:48:57.019991Z",
-    "source_snapshot_generated_at": "2026-11-05T18:48:55.351279Z",
+    "generated_at": "2026-11-06T18:04:48.078052Z",
+    "source_snapshot_generated_at": "2026-11-06T18:04:46.306263Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -55,10 +55,10 @@
     "required_player_ids": 359,
     "compact_player_lookup": 359,
     "missing_player_ids": 0,
-    "transactions": 155,
+    "transactions": 156,
     "trades": 17,
     "waivers": 28,
-    "free_agent_moves": 109,
+    "free_agent_moves": 110,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -136,9 +136,9 @@
           "injury_status": null
         },
         {
-          "player_id": "13421",
-          "name": "Eli Raridon",
-          "team": "NE",
+          "player_id": "12498",
+          "name": "Mason Taylor",
+          "team": "NYJ",
           "position": "TE",
           "injury_status": null
         },
@@ -157,10 +157,10 @@
           "injury_status": null
         },
         {
-          "player_id": "13305",
-          "name": "Mike Washington Jr.",
-          "team": "LV",
-          "position": "RB",
+          "player_id": "11625",
+          "name": "Adonai Mitchell",
+          "team": "NYJ",
+          "position": "WR",
           "injury_status": null
         }
       ],
@@ -277,17 +277,17 @@
       ],
       "reserve": [
         {
-          "player_id": "12492",
-          "name": "Pat Bryant",
-          "team": "DEN",
-          "position": "WR",
-          "injury_status": "IR"
-        },
-        {
           "player_id": "6904",
           "name": "Jalen Hurts",
           "team": "PHI",
           "position": "QB",
+          "injury_status": "IR"
+        },
+        {
+          "player_id": "8129",
+          "name": "Dameon Pierce",
+          "team": "PHI",
+          "position": "RB",
           "injury_status": "IR"
         }
       ]
@@ -585,7 +585,7 @@
           "name": "Travis Kelce",
           "team": "KC",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8148",
@@ -682,7 +682,7 @@
           "name": "Garrett Wilson",
           "team": "NYJ",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "1479",
@@ -703,7 +703,7 @@
           "name": "Harold Fannin Jr.",
           "team": "CLE",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12527",
@@ -821,7 +821,7 @@
           "name": "Malik Nabers",
           "team": "NYG",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "13298",
@@ -990,11 +990,11 @@
       },
       "starters": [
         {
-          "player_id": "5849",
-          "name": "Kyler Murray",
+          "player_id": "3161",
+          "name": "Carson Wentz",
           "team": "MIN",
           "position": "QB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "10219",
@@ -1022,7 +1022,7 @@
           "name": "Rashee Rice",
           "team": "KC",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7553",
@@ -1147,7 +1147,7 @@
           "name": "Bhayshul Tuten",
           "team": "JAX",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7547",
@@ -1268,11 +1268,11 @@
           "injury_status": null
         },
         {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "team": "NE",
-          "position": "WR",
-          "injury_status": "Questionable"
+          "player_id": "9482",
+          "name": "Michael Mayer",
+          "team": "LV",
+          "position": "TE",
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -2568,7 +2568,7 @@
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 0.0,
+                "points": 11.2,
                 "custom_points": null
               },
               {
@@ -2578,7 +2578,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 9,
+              "team_label": "off",
+              "points": 11.2
+            }
           },
           {
             "matchup_id": "3",
@@ -2592,11 +2596,15 @@
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 0.0,
+                "points": 5.3,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 12,
+              "team_label": "gullickson",
+              "points": 5.3
+            }
           },
           {
             "matchup_id": "4",
@@ -2604,17 +2612,21 @@
               {
                 "roster_id": 2,
                 "team_label": "Washington Monument",
-                "points": 0.0,
+                "points": 27.68,
                 "custom_points": null
               },
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 0.0,
+                "points": 4.2,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 2,
+              "team_label": "Washington Monument",
+              "points": 27.68
+            }
           },
           {
             "matchup_id": "5",
@@ -2646,11 +2658,15 @@
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 0.0,
+                "points": 24.98,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 10,
+              "team_label": "Goin in Ra",
+              "points": 24.98
+            }
           }
         ],
         "counts": {
@@ -2668,18 +2684,18 @@
   "transactions": {
     "counts": {
       "weeks": 9,
-      "transactions": 155,
+      "transactions": 156,
       "trades": 17,
       "waivers": 28,
-      "free_agent_moves": 109,
+      "free_agent_moves": 110,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 109,
+        "free_agent": 110,
         "trade": 17,
         "waiver": 28
       },
       "by_status": {
-        "complete": 146,
+        "complete": 147,
         "failed": 9
       }
     },
@@ -2709,10 +2725,10 @@
         "free_agent_moves": 13
       },
       "11": {
-        "transactions": 28,
+        "transactions": 29,
         "trades": 6,
         "waivers": 3,
-        "free_agent_moves": 19
+        "free_agent_moves": 20
       },
       "2": {
         "transactions": 34,
@@ -2758,6 +2774,33 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 9,
+        "transaction_id": "1424287084537008128",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-11-06T04:23:32.230000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "3286",
+            "player_name": "Demarcus Robinson",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13297",
+            "player_name": "Reggie Virgil",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 9,
         "transaction_id": "1423863260268048384",
@@ -3386,45 +3429,6 @@
           }
         ],
         "draft_picks": []
-      },
-      {
-        "week": 7,
-        "transaction_id": "1418748769930866688",
-        "type": "trade",
-        "status": "complete",
-        "created_at": "2026-10-21T21:36:15.131000Z",
-        "team_labels": [
-          "Washington Monument",
-          "MOJO"
-        ],
-        "adds": [
-          {
-            "player_id": "13424",
-            "player_name": "Seth McGowan",
-            "roster_id": 2,
-            "team_label": "Washington Monument"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "13424",
-            "player_name": "Seth McGowan",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "draft_picks": [
-          {
-            "season": "2027",
-            "round": 3,
-            "original_roster_id": 11,
-            "original_team_label": "MOJO",
-            "previous_owner_id": 2,
-            "previous_owner_team_label": "Washington Monument",
-            "owner_id": 11,
-            "owner_team_label": "MOJO"
-          }
-        ]
       }
     ]
   },

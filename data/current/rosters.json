@@ -35,25 +35,25 @@
       "8136",
       "12501",
       "11624",
-      "13421",
+      "12498",
       "13296",
       "9756",
-      "13305"
+      "11625"
     ],
     "bench": [
       "11557",
-      "11625",
       "11643",
-      "12498",
       "12529",
       "12542",
       "12544",
       "13302",
+      "13305",
       "13347",
       "13349",
       "13394",
       "13402",
       "13411",
+      "13421",
       "9758"
     ],
     "reserve": [
@@ -100,25 +100,25 @@
         "Rachaad White",
         "Matthew Golden",
         "Xavier Worthy",
-        "Eli Raridon",
+        "Mason Taylor",
         "Caleb Douglas",
         "Jordan Addison",
-        "Mike Washington Jr."
+        "Adonai Mitchell"
       ],
       "bench": [
         "Joe Milton",
-        "Adonai Mitchell",
         "Jaylen Wright",
-        "Mason Taylor",
         "TreVeyon Henderson",
         "Efton Chism III",
         "LeQuint Allen Jr.",
         "Adam Randall",
+        "Mike Washington Jr.",
         "Demond Claiborne",
         "Eli Stowers",
         "Josh Cameron",
         "Skyler Bell",
         "Zavion Thomas",
+        "Eli Raridon",
         "C.J. Stroud"
       ],
       "reserve": [
@@ -196,6 +196,7 @@
       "12048",
       "12472",
       "12491",
+      "12492",
       "12504",
       "12509",
       "12718",
@@ -203,13 +204,12 @@
       "13413",
       "13417",
       "8116",
-      "8129",
       "8676",
       "96"
     ],
     "reserve": [
-      "12492",
-      "6904"
+      "6904",
+      "8129"
     ],
     "taxi": [],
     "player_count": 25,
@@ -261,6 +261,7 @@
         "George Holani",
         "Raheim Sanders",
         "Corey Kiner",
+        "Pat Bryant",
         "Kaleb Johnson",
         "Tre' Harris",
         "Konata Mumpfield",
@@ -268,13 +269,12 @@
         "Cyrus Allen",
         "De'Zhaun Stribling",
         "Pierre Strong Jr.",
-        "Dameon Pierce",
         "Rashid Shaheed",
         "Aaron Rodgers"
       ],
       "reserve": [
-        "Pat Bryant",
-        "Jalen Hurts"
+        "Jalen Hurts",
+        "Dameon Pierce"
       ],
       "taxi": []
     },
@@ -1215,7 +1215,7 @@
       "9226"
     ],
     "starters": [
-      "5849",
+      "3161",
       "10219",
       "12507",
       "8144",
@@ -1234,10 +1234,10 @@
       "13330",
       "13380",
       "13405",
-      "3161",
       "3257",
       "3321",
       "3634",
+      "5849",
       "8154",
       "8188"
     ],
@@ -1280,7 +1280,7 @@
         "De'Von Achane"
       ],
       "starters": [
-        "Kyler Murray",
+        "Carson Wentz",
         "Chris Rodriguez Jr.",
         "Omarion Hampton",
         "Chris Olave",
@@ -1299,10 +1299,10 @@
         "Kenyon Sadiq",
         "Brenen Thompson",
         "Kaytron Allen",
-        "Carson Wentz",
         "Jacoby Brissett",
         "Tyreek Hill",
         "Kalif Raymond",
+        "Kyler Murray",
         "Brian Robinson Jr.",
         "Tyquan Thornton"
       ],
@@ -1489,10 +1489,10 @@
       "12469",
       "12481",
       "12482",
-      "13297",
       "13320",
       "2133",
       "3214",
+      "3286",
       "4984",
       "5045",
       "5850",
@@ -1517,23 +1517,23 @@
       "11604",
       "12481",
       "12469",
-      "5859"
+      "9482"
     ],
     "bench": [
       "11563",
       "11575",
       "11627",
       "12482",
-      "13297",
       "3214",
+      "3286",
       "5045",
+      "5859",
       "5892",
       "6039",
       "6783",
       "7021",
       "8228",
-      "9228",
-      "9482"
+      "9228"
     ],
     "reserve": [
       "13320",
@@ -1554,10 +1554,10 @@
         "Dylan Sampson",
         "Cam Skattebo",
         "Savion Williams",
-        "Reggie Virgil",
         "Zachariah Branch",
         "Davante Adams",
         "Hunter Henry",
+        "Demarcus Robinson",
         "Josh Allen",
         "Courtland Sutton",
         "Josh Jacobs",
@@ -1582,23 +1582,23 @@
         "Brock Bowers",
         "Cam Skattebo",
         "Dylan Sampson",
-        "A.J. Brown"
+        "Michael Mayer"
       ],
       "bench": [
         "Bo Nix",
         "Ray Davis",
         "Troy Franklin",
         "Savion Williams",
-        "Reggie Virgil",
         "Hunter Henry",
+        "Demarcus Robinson",
         "Courtland Sutton",
+        "A.J. Brown",
         "David Montgomery",
         "Ty Johnson",
         "Jerry Jeudy",
         "Rico Dowdle",
         "Jaylen Warren",
-        "Bryce Young",
-        "Michael Mayer"
+        "Bryce Young"
       ],
       "reserve": [
         "Zachariah Branch",
