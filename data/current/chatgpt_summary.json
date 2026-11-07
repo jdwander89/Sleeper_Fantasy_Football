@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-06T18:04:48.078052Z",
-    "source_snapshot_generated_at": "2026-11-06T18:04:46.306263Z",
+    "generated_at": "2026-11-07T16:53:29.300137Z",
+    "source_snapshot_generated_at": "2026-11-07T16:53:27.803455Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -55,9 +55,9 @@
     "required_player_ids": 359,
     "compact_player_lookup": 359,
     "missing_player_ids": 0,
-    "transactions": 156,
+    "transactions": 157,
     "trades": 17,
-    "waivers": 28,
+    "waivers": 29,
     "free_agent_moves": 110,
     "drafts": 1,
     "draft_picks": 60,
@@ -206,9 +206,9 @@
       },
       "position_counts": {
         "QB": 3,
-        "RB": 9,
+        "RB": 8,
         "TE": 2,
-        "WR": 11
+        "WR": 12
       },
       "starters": [
         {
@@ -288,7 +288,7 @@
           "name": "Dameon Pierce",
           "team": "PHI",
           "position": "RB",
-          "injury_status": "IR"
+          "injury_status": "Questionable"
         }
       ]
     },
@@ -675,14 +675,14 @@
           "name": "Christian McCaffrey",
           "team": "SF",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
-          "player_id": "8146",
-          "name": "Garrett Wilson",
-          "team": "NYJ",
+          "player_id": "11628",
+          "name": "Marvin Harrison Jr.",
+          "team": "HOU",
           "position": "WR",
-          "injury_status": "Out"
+          "injury_status": null
         },
         {
           "player_id": "1479",
@@ -703,7 +703,7 @@
           "name": "Harold Fannin Jr.",
           "team": "CLE",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12527",
@@ -793,7 +793,7 @@
           "name": "Christian Watson",
           "team": "GB",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12526",
@@ -821,7 +821,7 @@
           "name": "Malik Nabers",
           "team": "NYG",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "13298",
@@ -939,7 +939,7 @@
           "name": "Denzel Boston",
           "team": "CLE",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -1258,7 +1258,7 @@
           "name": "Cam Skattebo",
           "team": "NYG",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": "Doubtful"
         },
         {
           "player_id": "12469",
@@ -1341,14 +1341,14 @@
           "name": "Saquon Barkley",
           "team": "PHI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "10232",
           "name": "Michael Wilson",
           "team": "ARI",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "9997",
@@ -2684,18 +2684,18 @@
   "transactions": {
     "counts": {
       "weeks": 9,
-      "transactions": 156,
+      "transactions": 157,
       "trades": 17,
-      "waivers": 28,
+      "waivers": 29,
       "free_agent_moves": 110,
       "by_type": {
         "commissioner": 1,
         "free_agent": 110,
         "trade": 17,
-        "waiver": 28
+        "waiver": 29
       },
       "by_status": {
-        "complete": 147,
+        "complete": 148,
         "failed": 9
       }
     },
@@ -2731,9 +2731,9 @@
         "free_agent_moves": 20
       },
       "2": {
-        "transactions": 34,
+        "transactions": 35,
         "trades": 12,
-        "waivers": 5,
+        "waivers": 6,
         "free_agent_moves": 16
       },
       "10": {
@@ -2797,6 +2797,33 @@
             "player_name": "Reggie Virgil",
             "roster_id": 11,
             "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 9,
+        "transaction_id": "1423886291136729088",
+        "type": "waiver",
+        "status": "complete",
+        "created_at": "2026-11-05T01:50:55.637000Z",
+        "team_labels": [
+          "Washington Monument"
+        ],
+        "adds": [
+          {
+            "player_id": "9504",
+            "player_name": "Kayshon Boutte",
+            "roster_id": 2,
+            "team_label": "Washington Monument"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "8116",
+            "player_name": "Pierre Strong Jr.",
+            "roster_id": 2,
+            "team_label": "Washington Monument"
           }
         ],
         "draft_picks": []
@@ -3401,33 +3428,6 @@
           }
         ],
         "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 7,
-        "transaction_id": "1419043522312445952",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-10-22T17:07:29.575000Z",
-        "team_labels": [
-          "andrewwelle"
-        ],
-        "adds": [
-          {
-            "player_id": "8122",
-            "player_name": "Zonovan Knight",
-            "roster_id": 6,
-            "team_label": "andrewwelle"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "11557",
-            "player_name": "Joe Milton",
-            "roster_id": 6,
-            "team_label": "andrewwelle"
-          }
-        ],
         "draft_picks": []
       }
     ]

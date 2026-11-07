@@ -172,11 +172,11 @@
       "13424",
       "6904",
       "7523",
-      "8116",
       "8129",
       "8210",
       "8676",
       "9487",
+      "9504",
       "96",
       "9754"
     ],
@@ -203,8 +203,8 @@
       "13338",
       "13413",
       "13417",
-      "8116",
       "8676",
+      "9504",
       "96"
     ],
     "reserve": [
@@ -237,11 +237,11 @@
         "Seth McGowan",
         "Jalen Hurts",
         "Trevor Lawrence",
-        "Pierre Strong Jr.",
         "Dameon Pierce",
         "Chig Okonkwo",
         "Rashid Shaheed",
         "Parker Washington",
+        "Kayshon Boutte",
         "Aaron Rodgers",
         "Quentin Johnston"
       ],
@@ -268,8 +268,8 @@
         "Kevin Coleman Jr.",
         "Cyrus Allen",
         "De'Zhaun Stribling",
-        "Pierre Strong Jr.",
         "Rashid Shaheed",
+        "Kayshon Boutte",
         "Aaron Rodgers"
       ],
       "reserve": [
@@ -288,8 +288,8 @@
       "ppts_decimal": 10,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 0,
-      "waiver_position": 9,
+      "waiver_budget_used": 5,
+      "waiver_position": 12,
       "wins": 2
     },
     "metadata": {
@@ -774,7 +774,7 @@
       "1166",
       "7588",
       "4034",
-      "8146",
+      "11628",
       "1479",
       "4217",
       "12506",
@@ -782,7 +782,6 @@
       "11834"
     ],
     "bench": [
-      "11628",
       "12483",
       "12508",
       "12534",
@@ -795,7 +794,8 @@
       "6806",
       "8119",
       "8122",
-      "8135"
+      "8135",
+      "8146"
     ],
     "reserve": [
       "11638",
@@ -839,7 +839,7 @@
         "Kirk Cousins",
         "Javonte Williams",
         "Christian McCaffrey",
-        "Garrett Wilson",
+        "Marvin Harrison Jr.",
         "Keenan Allen",
         "George Kittle",
         "Harold Fannin Jr.",
@@ -847,7 +847,6 @@
         "Devaughn Vele"
       ],
       "bench": [
-        "Marvin Harrison Jr.",
         "Jack Bech",
         "Jaxson Dart",
         "Kyle Monangai",
@@ -860,7 +859,8 @@
         "J.K. Dobbins",
         "Jahan Dotson",
         "Zonovan Knight",
-        "Treylon Burks"
+        "Treylon Burks",
+        "Garrett Wilson"
       ],
       "reserve": [
         "Ricky Pearsall",
@@ -879,7 +879,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
-      "waiver_position": 12,
+      "waiver_position": 11,
       "wins": 4
     },
     "metadata": {
@@ -1026,7 +1026,7 @@
       "ties": 1,
       "total_moves": 0,
       "waiver_budget_used": 42,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 5
     },
     "metadata": {
@@ -1617,7 +1617,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 6
     },
     "metadata": {

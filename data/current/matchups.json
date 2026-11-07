@@ -15690,11 +15690,11 @@
             "13424",
             "6904",
             "7523",
-            "8116",
             "8129",
             "8210",
             "8676",
             "9487",
+            "9504",
             "96",
             "9754"
           ],
@@ -15722,9 +15722,9 @@
             "13413",
             "13417",
             "6904",
-            "8116",
             "8129",
             "8676",
+            "9504",
             "96"
           ],
           "players_points": {
@@ -15746,11 +15746,11 @@
             "13424": 0.0,
             "6904": 0.0,
             "7523": 13.58,
-            "8116": 0.0,
             "8129": 0.0,
             "8210": 0.0,
             "8676": 0.0,
             "9487": 14.1,
+            "9504": 0.0,
             "96": 0.0,
             "9754": 0.0
           },
@@ -15775,11 +15775,11 @@
               "Seth McGowan",
               "Jalen Hurts",
               "Trevor Lawrence",
-              "Pierre Strong Jr.",
               "Dameon Pierce",
               "Chig Okonkwo",
               "Rashid Shaheed",
               "Parker Washington",
+              "Kayshon Boutte",
               "Aaron Rodgers",
               "Quentin Johnston"
             ],
@@ -15807,9 +15807,9 @@
               "Cyrus Allen",
               "De'Zhaun Stribling",
               "Jalen Hurts",
-              "Pierre Strong Jr.",
               "Dameon Pierce",
               "Rashid Shaheed",
+              "Kayshon Boutte",
               "Aaron Rodgers"
             ]
           }
@@ -16302,7 +16302,7 @@
             "1166",
             "7588",
             "4034",
-            "8146",
+            "11628",
             "1479",
             "4217",
             "12506",
@@ -16310,7 +16310,6 @@
             "11834"
           ],
           "bench": [
-            "11628",
             "11638",
             "12483",
             "12508",
@@ -16325,7 +16324,8 @@
             "6806",
             "8119",
             "8122",
-            "8135"
+            "8135",
+            "8146"
           ],
           "players_points": {
             "11628": 0.0,
@@ -16387,7 +16387,7 @@
               "Kirk Cousins",
               "Javonte Williams",
               "Christian McCaffrey",
-              "Garrett Wilson",
+              "Marvin Harrison Jr.",
               "Keenan Allen",
               "George Kittle",
               "Harold Fannin Jr.",
@@ -16395,7 +16395,6 @@
               "Devaughn Vele"
             ],
             "bench": [
-              "Marvin Harrison Jr.",
               "Ricky Pearsall",
               "Jack Bech",
               "Jaxson Dart",
@@ -16410,7 +16409,8 @@
               "J.K. Dobbins",
               "Jahan Dotson",
               "Zonovan Knight",
-              "Treylon Burks"
+              "Treylon Burks",
+              "Garrett Wilson"
             ]
           }
         },

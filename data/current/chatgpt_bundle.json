@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-11-06T18:04:46.270175Z",
+    "generated_at": "2026-11-07T16:53:27.784774Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -370,8 +370,8 @@
         "raw_fpts_against_decimal": 86
       },
       "waivers": {
-        "waiver_position": 9,
-        "waiver_budget_used": 0
+        "waiver_position": 12,
+        "waiver_budget_used": 5
       },
       "activity": {
         "total_moves": 0
@@ -386,8 +386,8 @@
         "ppts_decimal": 10,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_budget_used": 5,
+        "waiver_position": 12,
         "wins": 2
       },
       "metadata": {
@@ -596,7 +596,7 @@
         "raw_fpts_against_decimal": 12
       },
       "waivers": {
-        "waiver_position": 12,
+        "waiver_position": 11,
         "waiver_budget_used": 5
       },
       "activity": {
@@ -613,7 +613,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 4
       },
       "metadata": {
@@ -671,7 +671,7 @@
         "raw_fpts_against_decimal": 10
       },
       "waivers": {
-        "waiver_position": 10,
+        "waiver_position": 9,
         "waiver_budget_used": 42
       },
       "activity": {
@@ -688,7 +688,7 @@
         "ties": 1,
         "total_moves": 0,
         "waiver_budget_used": 42,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 5
       },
       "metadata": {
@@ -949,7 +949,7 @@
         "raw_fpts_against_decimal": 18
       },
       "waivers": {
-        "waiver_position": 11,
+        "waiver_position": 10,
         "waiver_budget_used": 40
       },
       "activity": {
@@ -966,7 +966,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 40,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 6
       },
       "metadata": {
@@ -1225,11 +1225,11 @@
         "13424",
         "6904",
         "7523",
-        "8116",
         "8129",
         "8210",
         "8676",
         "9487",
+        "9504",
         "96",
         "9754"
       ],
@@ -1256,8 +1256,8 @@
         "13338",
         "13413",
         "13417",
-        "8116",
         "8676",
+        "9504",
         "96"
       ],
       "reserve": [
@@ -1290,11 +1290,11 @@
           "Seth McGowan",
           "Jalen Hurts",
           "Trevor Lawrence",
-          "Pierre Strong Jr.",
           "Dameon Pierce",
           "Chig Okonkwo",
           "Rashid Shaheed",
           "Parker Washington",
+          "Kayshon Boutte",
           "Aaron Rodgers",
           "Quentin Johnston"
         ],
@@ -1321,8 +1321,8 @@
           "Kevin Coleman Jr.",
           "Cyrus Allen",
           "De'Zhaun Stribling",
-          "Pierre Strong Jr.",
           "Rashid Shaheed",
+          "Kayshon Boutte",
           "Aaron Rodgers"
         ],
         "reserve": [
@@ -1341,8 +1341,8 @@
         "ppts_decimal": 10,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 0,
-        "waiver_position": 9,
+        "waiver_budget_used": 5,
+        "waiver_position": 12,
         "wins": 2
       },
       "metadata": {
@@ -1827,7 +1827,7 @@
         "1166",
         "7588",
         "4034",
-        "8146",
+        "11628",
         "1479",
         "4217",
         "12506",
@@ -1835,7 +1835,6 @@
         "11834"
       ],
       "bench": [
-        "11628",
         "12483",
         "12508",
         "12534",
@@ -1848,7 +1847,8 @@
         "6806",
         "8119",
         "8122",
-        "8135"
+        "8135",
+        "8146"
       ],
       "reserve": [
         "11638",
@@ -1892,7 +1892,7 @@
           "Kirk Cousins",
           "Javonte Williams",
           "Christian McCaffrey",
-          "Garrett Wilson",
+          "Marvin Harrison Jr.",
           "Keenan Allen",
           "George Kittle",
           "Harold Fannin Jr.",
@@ -1900,7 +1900,6 @@
           "Devaughn Vele"
         ],
         "bench": [
-          "Marvin Harrison Jr.",
           "Jack Bech",
           "Jaxson Dart",
           "Kyle Monangai",
@@ -1913,7 +1912,8 @@
           "J.K. Dobbins",
           "Jahan Dotson",
           "Zonovan Knight",
-          "Treylon Burks"
+          "Treylon Burks",
+          "Garrett Wilson"
         ],
         "reserve": [
           "Ricky Pearsall",
@@ -1932,7 +1932,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 5,
-        "waiver_position": 12,
+        "waiver_position": 11,
         "wins": 4
       },
       "metadata": {
@@ -2079,7 +2079,7 @@
         "ties": 1,
         "total_moves": 0,
         "waiver_budget_used": 42,
-        "waiver_position": 10,
+        "waiver_position": 9,
         "wins": 5
       },
       "metadata": {
@@ -2670,7 +2670,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 40,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 6
       },
       "metadata": {
@@ -2860,7 +2860,7 @@
         "years_exp": 3,
         "age": 27,
         "depth_chart_position": "RB",
-        "search_rank": 127
+        "search_rank": 125
       },
       "10222": {
         "player_id": "10222",
@@ -2907,7 +2907,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 3,
         "age": 26,
         "depth_chart_position": "LWR",
@@ -2941,7 +2941,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 3,
         "age": 27,
         "depth_chart_position": "TE",
@@ -3064,7 +3064,7 @@
         "years_exp": 2,
         "age": 26,
         "depth_chart_position": "QB",
-        "search_rank": 46
+        "search_rank": 44
       },
       "11564": {
         "player_id": "11564",
@@ -3336,7 +3336,7 @@
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "LWR",
-        "search_rank": 63
+        "search_rank": 65
       },
       "11624": {
         "player_id": "11624",
@@ -3468,11 +3468,11 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "LWR",
-        "search_rank": 28
+        "search_rank": 26
       },
       "11635": {
         "player_id": "11635",
@@ -3608,7 +3608,7 @@
         "years_exp": 14,
         "age": 38,
         "depth_chart_position": "QB",
-        "search_rank": 262
+        "search_rank": 263
       },
       "11729": {
         "player_id": "11729",
@@ -3621,7 +3621,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 2,
         "age": 25,
         "depth_chart_position": "RB",
@@ -3774,7 +3774,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Doubtful",
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "RB",
@@ -3948,7 +3948,7 @@
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "RB",
-        "search_rank": 450
+        "search_rank": 449
       },
       "12497": {
         "player_id": "12497",
@@ -4046,7 +4046,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "TE",
@@ -4152,7 +4152,7 @@
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "TE",
-        "search_rank": 37
+        "search_rank": 35
       },
       "12518": {
         "player_id": "12518",
@@ -4250,7 +4250,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "RB",
@@ -4591,7 +4591,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "RB",
@@ -4663,7 +4663,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RWR",
-        "search_rank": 199
+        "search_rank": 201
       },
       "13286": {
         "player_id": "13286",
@@ -4748,7 +4748,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
-        "search_rank": 91
+        "search_rank": 89
       },
       "13296": {
         "player_id": "13296",
@@ -4765,7 +4765,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RWR",
-        "search_rank": 199
+        "search_rank": 197
       },
       "13298": {
         "player_id": "13298",
@@ -4965,7 +4965,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "LWR",
@@ -5122,7 +5122,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "SWR",
-        "search_rank": 181
+        "search_rank": 179
       },
       "13414": {
         "player_id": "13414",
@@ -5207,7 +5207,7 @@
         "years_exp": 0,
         "age": 25,
         "depth_chart_position": "RB",
-        "search_rank": 378
+        "search_rank": 377
       },
       "13533": {
         "player_id": "13533",
@@ -5241,7 +5241,7 @@
         "years_exp": 13,
         "age": 36,
         "depth_chart_position": "QB",
-        "search_rank": 211
+        "search_rank": 210
       },
       "1466": {
         "player_id": "1466",
@@ -5305,7 +5305,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 12,
         "age": 33,
         "depth_chart_position": "LWR",
@@ -5326,7 +5326,7 @@
         "years_exp": 11,
         "age": 32,
         "depth_chart_position": "SWR",
-        "search_rank": 104
+        "search_rank": 105
       },
       "2505": {
         "player_id": "2505",
@@ -5418,7 +5418,7 @@
         "name": "Jacoby Brissett",
         "first_name": "Jacoby",
         "last_name": "Brissett",
-        "team": "ARI",
+        "team": "BAL",
         "position": "QB",
         "fantasy_positions": [
           "QB"
@@ -5543,7 +5543,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 9,
         "age": 30,
         "depth_chart_position": "RB",
@@ -5560,7 +5560,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 9,
         "age": 31,
         "depth_chart_position": "RB",
@@ -5747,7 +5747,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 8,
         "age": 29,
         "depth_chart_position": "RB",
@@ -5768,7 +5768,7 @@
         "years_exp": 8,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 10
+        "search_rank": 8
       },
       "4892": {
         "player_id": "4892",
@@ -5785,7 +5785,7 @@
         "years_exp": 8,
         "age": 31,
         "depth_chart_position": "QB",
-        "search_rank": 76
+        "search_rank": 75
       },
       "4943": {
         "player_id": "4943",
@@ -5802,7 +5802,7 @@
         "years_exp": 8,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 93
+        "search_rank": 92
       },
       "4950": {
         "player_id": "4950",
@@ -5815,7 +5815,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 8,
         "age": 29,
         "depth_chart_position": "SWR",
@@ -5887,7 +5887,7 @@
         "years_exp": 8,
         "age": 31,
         "depth_chart_position": "TE",
-        "search_rank": 447
+        "search_rank": 449
       },
       "5001": {
         "player_id": "5001",
@@ -6023,7 +6023,7 @@
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 87
+        "search_rank": 88
       },
       "5850": {
         "player_id": "5850",
@@ -6053,7 +6053,7 @@
           "QB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "QB",
@@ -6070,7 +6070,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "LWR",
@@ -6091,7 +6091,7 @@
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 130
+        "search_rank": 132
       },
       "5872": {
         "player_id": "5872",
@@ -6104,7 +6104,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 7,
         "age": 30,
         "depth_chart_position": "SWR",
@@ -6240,7 +6240,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "RB",
@@ -6329,7 +6329,7 @@
         "years_exp": 6,
         "age": 27,
         "depth_chart_position": "RB",
-        "search_rank": 46
+        "search_rank": 44
       },
       "6794": {
         "player_id": "6794",
@@ -6580,7 +6580,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 5,
         "age": 27,
         "depth_chart_position": "LWR",
@@ -6841,23 +6841,6 @@
         "depth_chart_position": "LWR",
         "search_rank": 19
       },
-      "8116": {
-        "player_id": "8116",
-        "name": "Pierre Strong Jr.",
-        "first_name": "Pierre",
-        "last_name": "Strong Jr.",
-        "team": "GB",
-        "position": "RB",
-        "fantasy_positions": [
-          "RB"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 4,
-        "age": 27,
-        "depth_chart_position": "RB",
-        "search_rank": 631
-      },
       "8119": {
         "player_id": "8119",
         "name": "Jahan Dotson",
@@ -6954,10 +6937,10 @@
           "RB"
         ],
         "status": "Inactive",
-        "injury_status": "IR",
+        "injury_status": "Questionable",
         "years_exp": 4,
         "age": 26,
-        "depth_chart_position": "RB",
+        "depth_chart_position": null,
         "search_rank": 627
       },
       "8130": {
@@ -7039,7 +7022,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "RWR",
@@ -7196,7 +7179,7 @@
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "RB",
-        "search_rank": 19
+        "search_rank": 17
       },
       "8154": {
         "player_id": "8154",
@@ -7260,7 +7243,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 4,
         "age": 27,
         "depth_chart_position": "LWR",
@@ -7430,7 +7413,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 4,
         "age": 28,
         "depth_chart_position": "RWR",
@@ -7536,7 +7519,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "QB",
-        "search_rank": 132
+        "search_rank": 131
       },
       "9479": {
         "player_id": "9479",
@@ -7617,7 +7600,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": "Out",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "RWR",
@@ -7706,7 +7689,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "SWR",
-        "search_rank": 487
+        "search_rank": 489
       },
       "9502": {
         "player_id": "9502",
@@ -7724,6 +7707,23 @@
         "age": 27,
         "depth_chart_position": "SWR",
         "search_rank": 187
+      },
+      "9504": {
+        "player_id": "9504",
+        "name": "Kayshon Boutte",
+        "first_name": "Kayshon",
+        "last_name": "Boutte",
+        "team": "HOU",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 3,
+        "age": 24,
+        "depth_chart_position": "RWR",
+        "search_rank": 164
       },
       "9506": {
         "player_id": "9506",
@@ -7995,7 +7995,7 @@
         "years_exp": 3,
         "age": 26,
         "depth_chart_position": "RB",
-        "search_rank": 694
+        "search_rank": 692
       },
       "11571": {
         "player_id": "11571",
@@ -8301,7 +8301,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "QB",
-        "search_rank": 287
+        "search_rank": 288
       },
       "13282": {
         "player_id": "13282",
@@ -8352,7 +8352,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "QB",
-        "search_rank": 394
+        "search_rank": 395
       },
       "13329": {
         "player_id": "13329",
@@ -8830,6 +8830,23 @@
         "depth_chart_position": "RWR",
         "search_rank": 624
       },
+      "8116": {
+        "player_id": "8116",
+        "name": "Pierre Strong Jr.",
+        "first_name": "Pierre",
+        "last_name": "Strong Jr.",
+        "team": "GB",
+        "position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 4,
+        "age": 27,
+        "depth_chart_position": "RB",
+        "search_rank": 631
+      },
       "8127": {
         "player_id": "8127",
         "name": "Charlie Kolar",
@@ -8914,23 +8931,6 @@
         "age": 26,
         "depth_chart_position": "TE",
         "search_rank": 687
-      },
-      "9504": {
-        "player_id": "9504",
-        "name": "Kayshon Boutte",
-        "first_name": "Kayshon",
-        "last_name": "Boutte",
-        "team": "HOU",
-        "position": "WR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 3,
-        "age": 24,
-        "depth_chart_position": "RWR",
-        "search_rank": 164
       }
     }
   },
@@ -24626,11 +24626,11 @@
               "13424",
               "6904",
               "7523",
-              "8116",
               "8129",
               "8210",
               "8676",
               "9487",
+              "9504",
               "96",
               "9754"
             ],
@@ -24658,9 +24658,9 @@
               "13413",
               "13417",
               "6904",
-              "8116",
               "8129",
               "8676",
+              "9504",
               "96"
             ],
             "players_points": {
@@ -24682,11 +24682,11 @@
               "13424": 0.0,
               "6904": 0.0,
               "7523": 13.58,
-              "8116": 0.0,
               "8129": 0.0,
               "8210": 0.0,
               "8676": 0.0,
               "9487": 14.1,
+              "9504": 0.0,
               "96": 0.0,
               "9754": 0.0
             },
@@ -24711,11 +24711,11 @@
                 "Seth McGowan",
                 "Jalen Hurts",
                 "Trevor Lawrence",
-                "Pierre Strong Jr.",
                 "Dameon Pierce",
                 "Chig Okonkwo",
                 "Rashid Shaheed",
                 "Parker Washington",
+                "Kayshon Boutte",
                 "Aaron Rodgers",
                 "Quentin Johnston"
               ],
@@ -24743,9 +24743,9 @@
                 "Cyrus Allen",
                 "De'Zhaun Stribling",
                 "Jalen Hurts",
-                "Pierre Strong Jr.",
                 "Dameon Pierce",
                 "Rashid Shaheed",
+                "Kayshon Boutte",
                 "Aaron Rodgers"
               ]
             }
@@ -25238,7 +25238,7 @@
               "1166",
               "7588",
               "4034",
-              "8146",
+              "11628",
               "1479",
               "4217",
               "12506",
@@ -25246,7 +25246,6 @@
               "11834"
             ],
             "bench": [
-              "11628",
               "11638",
               "12483",
               "12508",
@@ -25261,7 +25260,8 @@
               "6806",
               "8119",
               "8122",
-              "8135"
+              "8135",
+              "8146"
             ],
             "players_points": {
               "11628": 0.0,
@@ -25323,7 +25323,7 @@
                 "Kirk Cousins",
                 "Javonte Williams",
                 "Christian McCaffrey",
-                "Garrett Wilson",
+                "Marvin Harrison Jr.",
                 "Keenan Allen",
                 "George Kittle",
                 "Harold Fannin Jr.",
@@ -25331,7 +25331,6 @@
                 "Devaughn Vele"
               ],
               "bench": [
-                "Marvin Harrison Jr.",
                 "Ricky Pearsall",
                 "Jack Bech",
                 "Jaxson Dart",
@@ -25346,7 +25345,8 @@
                 "J.K. Dobbins",
                 "Jahan Dotson",
                 "Zonovan Knight",
-                "Treylon Burks"
+                "Treylon Burks",
+                "Garrett Wilson"
               ]
             }
           },
@@ -33150,6 +33150,54 @@
           },
           {
             "week": 9,
+            "transaction_id": "1423886291136729088",
+            "type": "waiver",
+            "status": "complete",
+            "created": 1793843455637,
+            "created_at": "2026-11-05T01:50:55.637000Z",
+            "status_updated": 1793997321547,
+            "status_updated_at": "2026-11-06T20:35:21.547000Z",
+            "creator_user_id": "471403228244733952",
+            "roster_ids": [
+              2
+            ],
+            "team_labels": [
+              "Washington Monument"
+            ],
+            "consenter_ids": [
+              2
+            ],
+            "consenter_team_labels": [
+              "Washington Monument"
+            ],
+            "adds": [
+              {
+                "player_id": "9504",
+                "player_name": "Kayshon Boutte",
+                "roster_id": 2,
+                "team_label": "Washington Monument"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "8116",
+                "player_name": "Pierre Strong Jr.",
+                "roster_id": 2,
+                "team_label": "Washington Monument"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {
+              "seq": 0,
+              "waiver_bid": 5
+            },
+            "metadata": {
+              "notes": "Your waiver claim was processed successfully!"
+            }
+          },
+          {
+            "week": 9,
             "transaction_id": "1424287084537008128",
             "type": "free_agent",
             "status": "complete",
@@ -33193,9 +33241,9 @@
           }
         ],
         "counts": {
-          "transactions": 4,
+          "transactions": 5,
           "trades": 0,
-          "waivers": 0,
+          "waivers": 1,
           "free_agent_moves": 4
         }
       }
@@ -40000,6 +40048,54 @@
       },
       {
         "week": 9,
+        "transaction_id": "1423886291136729088",
+        "type": "waiver",
+        "status": "complete",
+        "created": 1793843455637,
+        "created_at": "2026-11-05T01:50:55.637000Z",
+        "status_updated": 1793997321547,
+        "status_updated_at": "2026-11-06T20:35:21.547000Z",
+        "creator_user_id": "471403228244733952",
+        "roster_ids": [
+          2
+        ],
+        "team_labels": [
+          "Washington Monument"
+        ],
+        "consenter_ids": [
+          2
+        ],
+        "consenter_team_labels": [
+          "Washington Monument"
+        ],
+        "adds": [
+          {
+            "player_id": "9504",
+            "player_name": "Kayshon Boutte",
+            "roster_id": 2,
+            "team_label": "Washington Monument"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "8116",
+            "player_name": "Pierre Strong Jr.",
+            "roster_id": 2,
+            "team_label": "Washington Monument"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 0,
+          "waiver_bid": 5
+        },
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        }
+      },
+      {
+        "week": 9,
         "transaction_id": "1424287084537008128",
         "type": "free_agent",
         "status": "complete",
@@ -42562,6 +42658,54 @@
         },
         "metadata": {
           "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 9,
+        "transaction_id": "1423886291136729088",
+        "type": "waiver",
+        "status": "complete",
+        "created": 1793843455637,
+        "created_at": "2026-11-05T01:50:55.637000Z",
+        "status_updated": 1793997321547,
+        "status_updated_at": "2026-11-06T20:35:21.547000Z",
+        "creator_user_id": "471403228244733952",
+        "roster_ids": [
+          2
+        ],
+        "team_labels": [
+          "Washington Monument"
+        ],
+        "consenter_ids": [
+          2
+        ],
+        "consenter_team_labels": [
+          "Washington Monument"
+        ],
+        "adds": [
+          {
+            "player_id": "9504",
+            "player_name": "Kayshon Boutte",
+            "roster_id": 2,
+            "team_label": "Washington Monument"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "8116",
+            "player_name": "Pierre Strong Jr.",
+            "roster_id": 2,
+            "team_label": "Washington Monument"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 0,
+          "waiver_bid": 5
+        },
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
         }
       }
     ],
@@ -46858,18 +47002,18 @@
     ],
     "counts": {
       "weeks": 9,
-      "transactions": 156,
+      "transactions": 157,
       "trades": 17,
-      "waivers": 28,
+      "waivers": 29,
       "free_agent_moves": 110,
       "by_type": {
         "commissioner": 1,
         "free_agent": 110,
         "trade": 17,
-        "waiver": 28
+        "waiver": 29
       },
       "by_status": {
-        "complete": 147,
+        "complete": 148,
         "failed": 9
       }
     }
@@ -50942,6 +51086,7 @@
       "kaelon black": "13414",
       "kaleb johnson": "12504",
       "kalif raymond": "3634",
+      "kayshon boutte": "9504",
       "kaytron allen": "13405",
       "kc concepcion jr.": "13298",
       "keaton mitchell": "9511",
@@ -50998,7 +51143,6 @@
       "pat bryant": "12492",
       "pat freiermuth": "7600",
       "patrick mahomes": "4046",
-      "pierre strong jr.": "8116",
       "puka nacua": "9493",
       "quentin johnston": "9754",
       "quinshon judkins": "12512",

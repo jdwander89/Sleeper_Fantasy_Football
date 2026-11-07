@@ -6890,6 +6890,54 @@
         },
         {
           "week": 9,
+          "transaction_id": "1423886291136729088",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1793843455637,
+          "created_at": "2026-11-05T01:50:55.637000Z",
+          "status_updated": 1793997321547,
+          "status_updated_at": "2026-11-06T20:35:21.547000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "Washington Monument"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "Washington Monument"
+          ],
+          "adds": [
+            {
+              "player_id": "9504",
+              "player_name": "Kayshon Boutte",
+              "roster_id": 2,
+              "team_label": "Washington Monument"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "8116",
+              "player_name": "Pierre Strong Jr.",
+              "roster_id": 2,
+              "team_label": "Washington Monument"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 0,
+            "waiver_bid": 5
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 9,
           "transaction_id": "1424287084537008128",
           "type": "free_agent",
           "status": "complete",
@@ -6933,9 +6981,9 @@
         }
       ],
       "counts": {
-        "transactions": 4,
+        "transactions": 5,
         "trades": 0,
-        "waivers": 0,
+        "waivers": 1,
         "free_agent_moves": 4
       }
     }
@@ -13740,6 +13788,54 @@
     },
     {
       "week": 9,
+      "transaction_id": "1423886291136729088",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793843455637,
+      "created_at": "2026-11-05T01:50:55.637000Z",
+      "status_updated": 1793997321547,
+      "status_updated_at": "2026-11-06T20:35:21.547000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "Washington Monument"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "Washington Monument"
+      ],
+      "adds": [
+        {
+          "player_id": "9504",
+          "player_name": "Kayshon Boutte",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8116",
+          "player_name": "Pierre Strong Jr.",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 5
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 9,
       "transaction_id": "1424287084537008128",
       "type": "free_agent",
       "status": "complete",
@@ -16302,6 +16398,54 @@
       },
       "metadata": {
         "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 9,
+      "transaction_id": "1423886291136729088",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1793843455637,
+      "created_at": "2026-11-05T01:50:55.637000Z",
+      "status_updated": 1793997321547,
+      "status_updated_at": "2026-11-06T20:35:21.547000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "Washington Monument"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "Washington Monument"
+      ],
+      "adds": [
+        {
+          "player_id": "9504",
+          "player_name": "Kayshon Boutte",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8116",
+          "player_name": "Pierre Strong Jr.",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 5
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
       }
     }
   ],
@@ -20598,18 +20742,18 @@
   ],
   "counts": {
     "weeks": 9,
-    "transactions": 156,
+    "transactions": 157,
     "trades": 17,
-    "waivers": 28,
+    "waivers": 29,
     "free_agent_moves": 110,
     "by_type": {
       "commissioner": 1,
       "free_agent": 110,
       "trade": 17,
-      "waiver": 28
+      "waiver": 29
     },
     "by_status": {
-      "complete": 147,
+      "complete": 148,
       "failed": 9
     }
   }
