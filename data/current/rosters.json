@@ -34,18 +34,18 @@
       "11576",
       "8136",
       "12501",
-      "11624",
+      "11625",
       "12498",
-      "13296",
+      "11624",
       "9756",
-      "11625"
+      "13296"
     ],
     "bench": [
       "11557",
       "11643",
-      "12529",
       "12542",
       "12544",
+      "13281",
       "13302",
       "13305",
       "13347",
@@ -57,8 +57,8 @@
       "9758"
     ],
     "reserve": [
-      "12533",
-      "13281"
+      "12529",
+      "12533"
     ],
     "taxi": [],
     "player_count": 25,
@@ -99,18 +99,18 @@
         "Braelon Allen",
         "Rachaad White",
         "Matthew Golden",
-        "Xavier Worthy",
+        "Adonai Mitchell",
         "Mason Taylor",
-        "Caleb Douglas",
+        "Xavier Worthy",
         "Jordan Addison",
-        "Adonai Mitchell"
+        "Caleb Douglas"
       ],
       "bench": [
         "Joe Milton",
         "Jaylen Wright",
-        "TreVeyon Henderson",
         "Efton Chism III",
         "LeQuint Allen Jr.",
+        "Jordyn Tyson",
         "Adam Randall",
         "Mike Washington Jr.",
         "Demond Claiborne",
@@ -122,8 +122,8 @@
         "C.J. Stroud"
       ],
       "reserve": [
-        "Jacory Croskey-Merritt",
-        "Jordyn Tyson"
+        "TreVeyon Henderson",
+        "Jacory Croskey-Merritt"
       ],
       "taxi": []
     },
@@ -328,7 +328,7 @@
       "9509"
     ],
     "starters": [
-      "6804",
+      "4046",
       "9509",
       "6813",
       "8112",
@@ -343,9 +343,9 @@
       "13150",
       "13269",
       "2216",
-      "4046",
       "4981",
       "5995",
+      "6804",
       "7039",
       "7525",
       "8110",
@@ -393,7 +393,7 @@
         "Bijan Robinson"
       ],
       "starters": [
-        "Jordan Love",
+        "Patrick Mahomes",
         "Bijan Robinson",
         "Jonathan Taylor",
         "Drake London",
@@ -408,9 +408,9 @@
         "Darius Cooper",
         "Fernando Mendoza",
         "Mike Evans",
-        "Patrick Mahomes",
         "Calvin Ridley",
         "Justice Hill",
+        "Jordan Love",
         "Cody White",
         "DeVonta Smith",
         "Jake Ferguson",
@@ -643,16 +643,16 @@
       "12499",
       "13288",
       "13317",
+      "4177",
       "5001",
       "7002",
       "7049",
       "8134",
-      "9486",
       "9757"
     ],
     "reserve": [
-      "4177",
-      "9225"
+      "9225",
+      "9486"
     ],
     "taxi": [],
     "player_count": 25,
@@ -708,16 +708,16 @@
         "Elic Ayomanor",
         "Nicholas Singleton",
         "Ted Hurst III",
+        "Mack Hollins",
         "Dalton Schultz",
         "Juwan Johnson",
         "Jauan Jennings",
         "Khalil Shakir",
-        "Dontayvion Wicks",
         "Kendre Miller"
       ],
       "reserve": [
-        "Mack Hollins",
-        "Tank Bigsby"
+        "Tank Bigsby",
+        "Dontayvion Wicks"
       ],
       "taxi": []
     },
@@ -1221,7 +1221,7 @@
       "8144",
       "10229",
       "7553",
-      "8137",
+      "12634",
       "6130",
       "8172"
     ],
@@ -1229,7 +1229,6 @@
       "11565",
       "12489",
       "12493",
-      "12634",
       "13285",
       "13330",
       "13380",
@@ -1238,6 +1237,7 @@
       "3321",
       "3634",
       "5849",
+      "8137",
       "8154",
       "8188"
     ],
@@ -1286,7 +1286,7 @@
         "Chris Olave",
         "Rashee Rice",
         "Kyle Pitts Sr.",
-        "George Pickens",
+        "Jordan Watkins",
         "Devin Singletary",
         "Greg Dulcich"
       ],
@@ -1294,7 +1294,6 @@
         "J.J. McCarthy",
         "RJ Harvey",
         "Oronde Gadsden",
-        "Jordan Watkins",
         "Malachi Fields",
         "Kenyon Sadiq",
         "Brenen Thompson",
@@ -1303,6 +1302,7 @@
         "Tyreek Hill",
         "Kalif Raymond",
         "Kyler Murray",
+        "George Pickens",
         "Brian Robinson Jr.",
         "Tyquan Thornton"
       ],
@@ -1515,7 +1515,7 @@
       "6801",
       "7526",
       "11604",
-      "12481",
+      "5045",
       "12469",
       "9482"
     ],
@@ -1523,10 +1523,10 @@
       "11563",
       "11575",
       "11627",
+      "12481",
       "12482",
       "3214",
       "3286",
-      "5045",
       "5859",
       "5892",
       "6039",
@@ -1580,7 +1580,7 @@
         "Tee Higgins",
         "Jaylen Waddle",
         "Brock Bowers",
-        "Cam Skattebo",
+        "Courtland Sutton",
         "Dylan Sampson",
         "Michael Mayer"
       ],
@@ -1588,10 +1588,10 @@
         "Bo Nix",
         "Ray Davis",
         "Troy Franklin",
+        "Cam Skattebo",
         "Savion Williams",
         "Hunter Henry",
         "Demarcus Robinson",
-        "Courtland Sutton",
         "A.J. Brown",
         "David Montgomery",
         "Ty Johnson",
