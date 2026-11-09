@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-08T17:06:43.083707Z",
-    "source_snapshot_generated_at": "2026-11-08T17:06:41.290198Z",
+    "generated_at": "2026-11-09T21:28:27.125629Z",
+    "source_snapshot_generated_at": "2026-11-09T21:28:25.055059Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -55,10 +55,10 @@
     "required_player_ids": 359,
     "compact_player_lookup": 359,
     "missing_player_ids": 0,
-    "transactions": 157,
+    "transactions": 158,
     "trades": 17,
     "waivers": 29,
-    "free_agent_moves": 110,
+    "free_agent_moves": 111,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -147,7 +147,7 @@
           "name": "Xavier Worthy",
           "team": "KC",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "9756",
@@ -199,14 +199,14 @@
         "raw_fpts_against_decimal": 86
       },
       "counts": {
-        "players": 25,
+        "players": 24,
         "starters": 9,
         "bench": 14,
-        "reserve": 2
+        "reserve": 1
       },
       "position_counts": {
         "QB": 3,
-        "RB": 8,
+        "RB": 7,
         "TE": 2,
         "WR": 12
       },
@@ -282,13 +282,6 @@
           "team": "PHI",
           "position": "QB",
           "injury_status": "IR"
-        },
-        {
-          "player_id": "8129",
-          "name": "Dameon Pierce",
-          "team": null,
-          "position": "RB",
-          "injury_status": "Questionable"
         }
       ]
     },
@@ -327,7 +320,7 @@
           "name": "Patrick Mahomes",
           "team": "KC",
           "position": "QB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9509",
@@ -460,14 +453,14 @@
           "name": "Puka Nacua",
           "team": "LAR",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12519",
           "name": "Luther Burden III",
           "team": "CHI",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9480",
@@ -828,7 +821,7 @@
           "name": "KC Concepcion Jr.",
           "team": "CLE",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -921,9 +914,9 @@
           "injury_status": null
         },
         {
-          "player_id": "11646",
-          "name": "Jalen Coker",
-          "team": "CAR",
+          "player_id": "12514",
+          "name": "Emeka Egbuka",
+          "team": "TB",
           "position": "WR",
           "injury_status": null
         },
@@ -932,12 +925,12 @@
           "name": "Rhamondre Stevenson",
           "team": "NE",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
-          "player_id": "13346",
-          "name": "Denzel Boston",
-          "team": "CLE",
+          "player_id": "9500",
+          "name": "Josh Downs",
+          "team": "IND",
           "position": "WR",
           "injury_status": null
         }
@@ -1223,7 +1216,7 @@
           "name": "Josh Jacobs",
           "team": "GB",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8138",
@@ -1244,7 +1237,7 @@
           "name": "Jaylen Waddle",
           "team": "DEN",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "11604",
@@ -1369,7 +1362,7 @@
           "name": "Ladd McConkey",
           "team": "LAC",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11647",
@@ -2550,17 +2543,21 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 0.0,
+                "points": 81.16,
                 "custom_points": null
               },
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 0.0,
+                "points": 133.66,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 8,
+              "team_label": "Back to the Future",
+              "points": 133.66
+            }
           },
           {
             "matchup_id": "2",
@@ -2568,20 +2565,20 @@
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 14.6,
+                "points": 77.1,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 20.2,
+                "points": 71.2,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 11,
-              "team_label": "MOJO",
-              "points": 20.2
+              "roster_id": 9,
+              "team_label": "off",
+              "points": 77.1
             }
           },
           {
@@ -2590,20 +2587,20 @@
               {
                 "roster_id": 6,
                 "team_label": "andrewwelle",
-                "points": 0.0,
+                "points": 100.04,
                 "custom_points": null
               },
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 34.5,
+                "points": 75.14,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 12,
-              "team_label": "gullickson",
-              "points": 34.5
+              "roster_id": 6,
+              "team_label": "andrewwelle",
+              "points": 100.04
             }
           },
           {
@@ -2612,20 +2609,20 @@
               {
                 "roster_id": 2,
                 "team_label": "Washington Monument",
-                "points": 27.68,
+                "points": 105.58,
                 "custom_points": null
               },
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 4.2,
+                "points": 130.08,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 2,
-              "team_label": "Washington Monument",
-              "points": 27.68
+              "roster_id": 4,
+              "team_label": "Puka Troopas",
+              "points": 130.08
             }
           },
           {
@@ -2634,20 +2631,20 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 39.9,
+                "points": 121.48,
                 "custom_points": null
               },
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 39.7,
+                "points": 139.5,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 3,
-              "team_label": "Laporta Potty",
-              "points": 39.9
+              "roster_id": 5,
+              "team_label": "White Ice",
+              "points": 139.5
             }
           },
           {
@@ -2656,20 +2653,20 @@
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 0.0,
+                "points": 119.4,
                 "custom_points": null
               },
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 24.98,
+                "points": 59.92,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 10,
-              "team_label": "Goin in Ra",
-              "points": 24.98
+              "roster_id": 7,
+              "team_label": "Commish is a bitch",
+              "points": 119.4
             }
           }
         ],
@@ -2688,18 +2685,18 @@
   "transactions": {
     "counts": {
       "weeks": 9,
-      "transactions": 157,
+      "transactions": 158,
       "trades": 17,
       "waivers": 29,
-      "free_agent_moves": 110,
+      "free_agent_moves": 111,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 110,
+        "free_agent": 111,
         "trade": 17,
         "waiver": 29
       },
       "by_status": {
-        "complete": 148,
+        "complete": 149,
         "failed": 9
       }
     },
@@ -2735,10 +2732,10 @@
         "free_agent_moves": 20
       },
       "2": {
-        "transactions": 35,
+        "transactions": 36,
         "trades": 12,
         "waivers": 6,
-        "free_agent_moves": 16
+        "free_agent_moves": 17
       },
       "10": {
         "transactions": 6,
@@ -2778,6 +2775,26 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 9,
+        "transaction_id": "1425534285900750848",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-11-09T14:59:28.207000Z",
+        "team_labels": [
+          "Washington Monument"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "8129",
+            "player_name": "Dameon Pierce",
+            "roster_id": 2,
+            "team_label": "Washington Monument"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 9,
         "transaction_id": "1424287084537008128",
@@ -3412,26 +3429,6 @@
             "team_label": "off"
           }
         ],
-        "draft_picks": []
-      },
-      {
-        "week": 7,
-        "transaction_id": "1419424901126692864",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-10-23T18:22:57.369000Z",
-        "team_labels": [
-          "off"
-        ],
-        "adds": [
-          {
-            "player_id": "6130",
-            "player_name": "Devin Singletary",
-            "roster_id": 9,
-            "team_label": "off"
-          }
-        ],
-        "drops": [],
         "draft_picks": []
       }
     ]

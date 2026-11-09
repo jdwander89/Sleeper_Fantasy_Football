@@ -172,7 +172,6 @@
       "13424",
       "6904",
       "7523",
-      "8129",
       "8210",
       "8676",
       "9487",
@@ -208,14 +207,13 @@
       "96"
     ],
     "reserve": [
-      "6904",
-      "8129"
+      "6904"
     ],
     "taxi": [],
-    "player_count": 25,
+    "player_count": 24,
     "starter_count": 9,
     "bench_count": 14,
-    "reserve_count": 2,
+    "reserve_count": 1,
     "taxi_count": 0,
     "display": {
       "players": [
@@ -237,7 +235,6 @@
         "Seth McGowan",
         "Jalen Hurts",
         "Trevor Lawrence",
-        "Dameon Pierce",
         "Chig Okonkwo",
         "Rashid Shaheed",
         "Parker Washington",
@@ -273,8 +270,7 @@
         "Aaron Rodgers"
       ],
       "reserve": [
-        "Jalen Hurts",
-        "Dameon Pierce"
+        "Jalen Hurts"
       ],
       "taxi": []
     },
@@ -1072,24 +1068,24 @@
       "6786",
       "6794",
       "8130",
-      "11646",
+      "12514",
       "7611",
-      "13346"
+      "9500"
     ],
     "bench": [
       "11435",
       "11569",
       "11581",
       "11630",
-      "12514",
+      "11646",
       "12521",
       "12531",
       "13270",
       "13301",
+      "13346",
       "6797",
       "8131",
       "8142",
-      "9500",
       "9753"
     ],
     "reserve": [
@@ -1137,24 +1133,24 @@
         "CeeDee Lamb",
         "Justin Jefferson",
         "Trey McBride",
-        "Jalen Coker",
+        "Emeka Egbuka",
         "Rhamondre Stevenson",
-        "Denzel Boston"
+        "Josh Downs"
       ],
       "bench": [
         "Emanuel Wilson",
         "Jarquez Hunter",
         "MarShawn Lloyd",
         "Roman Wilson",
-        "Emeka Egbuka",
+        "Jalen Coker",
         "Elijah Arroyo",
         "Trevor Etienne",
         "CJ Daniels",
         "Antonio Williams",
+        "Denzel Boston",
         "Justin Herbert",
         "Isaiah Likely",
         "Alec Pierce",
-        "Josh Downs",
         "Zach Charbonnet"
       ],
       "reserve": [
