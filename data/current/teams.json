@@ -61,7 +61,7 @@
       "raw_fpts_against_decimal": 72
     },
     "waivers": {
-      "waiver_position": 8,
+      "waiver_position": 7,
       "waiver_budget_used": 0
     },
     "activity": {
@@ -78,7 +78,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 0,
-      "waiver_position": 8,
+      "waiver_position": 7,
       "wins": 4
     },
     "metadata": {
@@ -143,8 +143,8 @@
       "raw_fpts_against_decimal": 94
     },
     "waivers": {
-      "waiver_position": 12,
-      "waiver_budget_used": 5
+      "waiver_position": 11,
+      "waiver_budget_used": 30
     },
     "activity": {
       "total_moves": 0
@@ -159,8 +159,8 @@
       "ppts_decimal": 98,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 5,
-      "waiver_position": 12,
+      "waiver_budget_used": 30,
+      "waiver_position": 11,
       "wins": 2
     },
     "metadata": {
@@ -200,8 +200,8 @@
       "raw_fpts_against_decimal": 98
     },
     "waivers": {
-      "waiver_position": 6,
-      "waiver_budget_used": 1
+      "waiver_position": 12,
+      "waiver_budget_used": 16
     },
     "activity": {
       "total_moves": 0
@@ -216,8 +216,8 @@
       "ppts_decimal": 88,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 1,
-      "waiver_position": 6,
+      "waiver_budget_used": 16,
+      "waiver_position": 12,
       "wins": 5
     },
     "metadata": {
@@ -314,7 +314,7 @@
       "raw_fpts_against_decimal": 54
     },
     "waivers": {
-      "waiver_position": 7,
+      "waiver_position": 6,
       "waiver_budget_used": 15
     },
     "activity": {
@@ -331,7 +331,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 15,
-      "waiver_position": 7,
+      "waiver_position": 6,
       "wins": 5
     },
     "metadata": {
@@ -369,7 +369,7 @@
       "raw_fpts_against_decimal": 86
     },
     "waivers": {
-      "waiver_position": 11,
+      "waiver_position": 10,
       "waiver_budget_used": 5
     },
     "activity": {
@@ -386,7 +386,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 5,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 5
     },
     "metadata": {
@@ -444,7 +444,7 @@
       "raw_fpts_against_decimal": 32
     },
     "waivers": {
-      "waiver_position": 9,
+      "waiver_position": 8,
       "waiver_budget_used": 42
     },
     "activity": {
@@ -461,7 +461,7 @@
       "ties": 1,
       "total_moves": 0,
       "waiver_budget_used": 42,
-      "waiver_position": 9,
+      "waiver_position": 8,
       "wins": 6
     },
     "metadata": {
@@ -722,7 +722,7 @@
       "raw_fpts_against_decimal": 52
     },
     "waivers": {
-      "waiver_position": 10,
+      "waiver_position": 9,
       "waiver_budget_used": 40
     },
     "activity": {
@@ -739,7 +739,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 40,
-      "waiver_position": 10,
+      "waiver_position": 9,
       "wins": 7
     },
     "metadata": {
