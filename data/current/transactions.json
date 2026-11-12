@@ -7452,13 +7452,56 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 10,
+          "transaction_id": "1426610720308473856",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1794493010168,
+          "created_at": "2026-11-12T14:16:50.168000Z",
+          "status_updated": 1794493010168,
+          "status_updated_at": "2026-11-12T14:16:50.168000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "7562",
+              "player_name": "Tutu Atwell",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "8116",
+              "player_name": "Pierre Strong Jr.",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 5,
+        "transactions": 6,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 5
+        "free_agent_moves": 6
       }
     }
   },
@@ -14813,6 +14856,49 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 10,
+      "transaction_id": "1426610720308473856",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794493010168,
+      "created_at": "2026-11-12T14:16:50.168000Z",
+      "status_updated": 1794493010168,
+      "status_updated_at": "2026-11-12T14:16:50.168000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "7562",
+          "player_name": "Tutu Atwell",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8116",
+          "player_name": "Pierre Strong Jr.",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -22138,22 +22224,65 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 10,
+      "transaction_id": "1426610720308473856",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794493010168,
+      "created_at": "2026-11-12T14:16:50.168000Z",
+      "status_updated": 1794493010168,
+      "status_updated_at": "2026-11-12T14:16:50.168000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "7562",
+          "player_name": "Tutu Atwell",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8116",
+          "player_name": "Pierre Strong Jr.",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 10,
-    "transactions": 168,
+    "transactions": 169,
     "trades": 17,
     "waivers": 34,
-    "free_agent_moves": 116,
+    "free_agent_moves": 117,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 116,
+      "free_agent": 117,
       "trade": 17,
       "waiver": 34
     },
     "by_status": {
-      "complete": 156,
+      "complete": 157,
       "failed": 12
     }
   }
