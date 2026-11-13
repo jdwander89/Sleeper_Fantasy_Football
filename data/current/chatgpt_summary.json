@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-12T18:58:31.520322Z",
-    "source_snapshot_generated_at": "2026-11-12T18:58:29.612062Z",
+    "generated_at": "2026-11-13T18:34:38.052095Z",
+    "source_snapshot_generated_at": "2026-11-13T18:34:36.175099Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -244,14 +244,14 @@
           "name": "Omar Cooper Jr.",
           "team": "NYJ",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8210",
           "name": "Chig Okonkwo",
           "team": "WAS",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12491",
@@ -442,44 +442,16 @@
           "injury_status": null
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
-          "team": "ARI",
+          "player_id": "5967",
+          "name": "Tony Pollard",
+          "team": "TEN",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "7594",
           "name": "Chuba Hubbard",
           "team": "CAR",
-          "position": "RB",
-          "injury_status": null
-        },
-        {
-          "player_id": "9493",
-          "name": "Puka Nacua",
-          "team": "LAR",
-          "position": "WR",
-          "injury_status": "Out"
-        },
-        {
-          "player_id": "12519",
-          "name": "Luther Burden III",
-          "team": "CHI",
-          "position": "WR",
-          "injury_status": "Questionable"
-        },
-        {
-          "player_id": "9480",
-          "name": "Brenton Strange",
-          "team": "JAX",
-          "position": "TE",
-          "injury_status": null
-        },
-        {
-          "player_id": "13345",
-          "name": "Jonah Coleman",
-          "team": "DEN",
           "position": "RB",
           "injury_status": null
         },
@@ -491,10 +463,38 @@
           "injury_status": null
         },
         {
-          "player_id": "4037",
-          "name": "Chris Godwin Jr.",
-          "team": "TB",
+          "player_id": "13279",
+          "name": "Carnell Tate",
+          "team": "TEN",
           "position": "WR",
+          "injury_status": "Out"
+        },
+        {
+          "player_id": "9480",
+          "name": "Brenton Strange",
+          "team": "JAX",
+          "position": "TE",
+          "injury_status": null
+        },
+        {
+          "player_id": "8155",
+          "name": "Breece Hall",
+          "team": "NYJ",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "8132",
+          "name": "Tyler Allgeier",
+          "team": "ARI",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "11603",
+          "name": "AJ Barner",
+          "team": "SEA",
+          "position": "TE",
           "injury_status": null
         }
       ],
@@ -713,11 +713,11 @@
           "injury_status": null
         },
         {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
-          "team": "NO",
+          "player_id": "11628",
+          "name": "Marvin Harrison Jr.",
+          "team": "HOU",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -1219,11 +1219,11 @@
           "injury_status": null
         },
         {
-          "player_id": "5850",
-          "name": "Josh Jacobs",
-          "team": "GB",
+          "player_id": "12481",
+          "name": "Cam Skattebo",
+          "team": "NYG",
           "position": "RB",
-          "injury_status": "Out"
+          "injury_status": null
         },
         {
           "player_id": "8138",
@@ -1240,11 +1240,11 @@
           "injury_status": null
         },
         {
-          "player_id": "7526",
-          "name": "Jaylen Waddle",
-          "team": "DEN",
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "team": "NE",
           "position": "WR",
-          "injury_status": "Out"
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11604",
@@ -1254,23 +1254,23 @@
           "injury_status": null
         },
         {
-          "player_id": "5045",
-          "name": "Courtland Sutton",
-          "team": "DEN",
-          "position": "WR",
-          "injury_status": null
-        },
-        {
-          "player_id": "12469",
-          "name": "Dylan Sampson",
-          "team": "CLE",
+          "player_id": "8228",
+          "name": "Jaylen Warren",
+          "team": "PIT",
           "position": "RB",
           "injury_status": null
         },
         {
-          "player_id": "9482",
-          "name": "Michael Mayer",
-          "team": "LV",
+          "player_id": "7021",
+          "name": "Rico Dowdle",
+          "team": "PIT",
+          "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "3214",
+          "name": "Hunter Henry",
+          "team": "NE",
           "position": "TE",
           "injury_status": null
         }
@@ -1281,7 +1281,7 @@
           "name": "Zachariah Branch",
           "team": "ATL",
           "position": "WR",
-          "injury_status": "Doubtful"
+          "injury_status": "Out"
         },
         {
           "player_id": "2133",
@@ -2692,17 +2692,21 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 0.0,
+                "points": 26.96,
                 "custom_points": null
               },
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 0.0,
+                "points": 6.4,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock",
+              "points": 26.96
+            }
           },
           {
             "matchup_id": "2",
@@ -2716,11 +2720,15 @@
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 0.0,
+                "points": 27.2,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 11,
+              "team_label": "MOJO",
+              "points": 27.2
+            }
           },
           {
             "matchup_id": "3",
@@ -2728,7 +2736,7 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 0.0,
+                "points": 20.3,
                 "custom_points": null
               },
               {
@@ -2738,7 +2746,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 3,
+              "team_label": "Laporta Potty",
+              "points": 20.3
+            }
           },
           {
             "matchup_id": "4",
@@ -2764,17 +2776,21 @@
               {
                 "roster_id": 2,
                 "team_label": "Washington Monument",
-                "points": 0.0,
+                "points": 6.4,
                 "custom_points": null
               },
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 0.0,
+                "points": 26.32,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 9,
+              "team_label": "off",
+              "points": 26.32
+            }
           },
           {
             "matchup_id": "6",

@@ -476,30 +476,30 @@
     ],
     "starters": [
       "8183",
-      "8132",
+      "5967",
       "7594",
-      "9493",
-      "12519",
-      "9480",
-      "13345",
       "11610",
-      "4037"
+      "13279",
+      "9480",
+      "8155",
+      "8132",
+      "11603"
     ],
     "bench": [
-      "11603",
       "11631",
       "12457",
+      "12519",
       "12530",
-      "13279",
       "13293",
+      "13345",
       "1373",
       "4035",
+      "4037",
       "4039",
       "5870",
-      "5967",
       "7571",
       "8111",
-      "8155"
+      "9493"
     ],
     "reserve": [
       "4033",
@@ -541,30 +541,30 @@
       ],
       "starters": [
         "Brock Purdy",
-        "Tyler Allgeier",
+        "Tony Pollard",
         "Chuba Hubbard",
-        "Puka Nacua",
-        "Luther Burden III",
-        "Brenton Strange",
-        "Jonah Coleman",
         "Malik Washington",
-        "Chris Godwin Jr."
+        "Carnell Tate",
+        "Brenton Strange",
+        "Breece Hall",
+        "Tyler Allgeier",
+        "AJ Barner"
       ],
       "bench": [
-        "AJ Barner",
         "Brian Thomas Jr.",
         "Jaydon Blue",
+        "Luther Burden III",
         "Travis Hunter",
-        "Carnell Tate",
         "Ja'Kobi Lane",
+        "Jonah Coleman",
         "Geno Smith",
         "Alvin Kamara",
+        "Chris Godwin Jr.",
         "Cooper Kupp",
         "Daniel Jones",
-        "Tony Pollard",
         "Rashod Bateman",
         "Cade Otton",
-        "Breece Hall"
+        "Puka Nacua"
       ],
       "reserve": [
         "David Njoku",
@@ -779,10 +779,10 @@
       "4217",
       "12506",
       "12527",
-      "11834"
+      "11628"
     ],
     "bench": [
-      "11628",
+      "11834",
       "12483",
       "12508",
       "12534",
@@ -844,10 +844,10 @@
         "George Kittle",
         "Harold Fannin Jr.",
         "Ashton Jeanty",
-        "Devaughn Vele"
+        "Marvin Harrison Jr."
       ],
       "bench": [
-        "Marvin Harrison Jr.",
+        "Devaughn Vele",
         "Jack Bech",
         "Jaxson Dart",
         "Kyle Monangai",
@@ -1510,30 +1510,30 @@
     ],
     "starters": [
       "4984",
-      "5850",
+      "12481",
       "8138",
       "6801",
-      "7526",
+      "5859",
       "11604",
-      "5045",
-      "12469",
-      "9482"
+      "8228",
+      "7021",
+      "3214"
     ],
     "bench": [
       "11563",
       "11575",
       "11627",
-      "12481",
+      "12469",
       "12482",
-      "3214",
       "3286",
-      "5859",
+      "5045",
+      "5850",
       "5892",
       "6039",
-      "7021",
+      "7526",
       "7562",
-      "8228",
-      "9228"
+      "9228",
+      "9482"
     ],
     "reserve": [
       "13320",
@@ -1575,30 +1575,30 @@
       ],
       "starters": [
         "Josh Allen",
-        "Josh Jacobs",
+        "Cam Skattebo",
         "James Cook III",
         "Tee Higgins",
-        "Jaylen Waddle",
+        "A.J. Brown",
         "Brock Bowers",
-        "Courtland Sutton",
-        "Dylan Sampson",
-        "Michael Mayer"
+        "Jaylen Warren",
+        "Rico Dowdle",
+        "Hunter Henry"
       ],
       "bench": [
         "Bo Nix",
         "Ray Davis",
         "Troy Franklin",
-        "Cam Skattebo",
+        "Dylan Sampson",
         "Savion Williams",
-        "Hunter Henry",
         "Demarcus Robinson",
-        "A.J. Brown",
+        "Courtland Sutton",
+        "Josh Jacobs",
         "David Montgomery",
         "Ty Johnson",
-        "Rico Dowdle",
+        "Jaylen Waddle",
         "Tutu Atwell",
-        "Jaylen Warren",
-        "Bryce Young"
+        "Bryce Young",
+        "Michael Mayer"
       ],
       "reserve": [
         "Zachariah Branch",
