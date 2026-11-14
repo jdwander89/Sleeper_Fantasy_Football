@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-13T18:34:38.052095Z",
-    "source_snapshot_generated_at": "2026-11-13T18:34:36.175099Z",
+    "generated_at": "2026-11-14T17:12:19.335091Z",
+    "source_snapshot_generated_at": "2026-11-14T17:12:16.714744Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -133,7 +133,7 @@
           "name": "Jordan Addison",
           "team": "MIN",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "13421",
@@ -147,7 +147,7 @@
           "name": "Adonai Mitchell",
           "team": "NYJ",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "13281",
@@ -244,7 +244,7 @@
           "name": "Omar Cooper Jr.",
           "team": "NYJ",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8210",
@@ -446,7 +446,7 @@
           "name": "Tony Pollard",
           "team": "TEN",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "7594",
@@ -689,7 +689,7 @@
           "name": "Deebo Samuel Sr.",
           "team": "SF",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "4217",
@@ -703,7 +703,7 @@
           "name": "Harold Fannin Jr.",
           "team": "CLE",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12527",
@@ -713,11 +713,11 @@
           "injury_status": null
         },
         {
-          "player_id": "11628",
-          "name": "Marvin Harrison Jr.",
-          "team": "HOU",
+          "player_id": "11834",
+          "name": "Devaughn Vele",
+          "team": "NO",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -786,7 +786,7 @@
           "name": "Woody Marks",
           "team": "HOU",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8167",
@@ -890,7 +890,7 @@
           "name": "Kenneth Walker III",
           "team": "KC",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "8150",
@@ -1001,7 +1001,7 @@
           "name": "Chris Rodriguez Jr.",
           "team": "JAX",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12507",
@@ -1036,7 +1036,7 @@
           "name": "George Pickens",
           "team": "DAL",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "13285",
@@ -1112,7 +1112,7 @@
           "name": "Bhayshul Tuten",
           "team": "JAX",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "3198",
@@ -1126,7 +1126,7 @@
           "name": "Jakobi Meyers",
           "team": "JAX",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11783",
@@ -1161,7 +1161,7 @@
           "name": "T.J. Hockenson",
           "team": "MIN",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         }
       ],
       "reserve": [
