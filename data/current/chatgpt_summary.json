@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-14T17:12:19.335091Z",
-    "source_snapshot_generated_at": "2026-11-14T17:12:16.714744Z",
+    "generated_at": "2026-11-15T17:49:22.624820Z",
+    "source_snapshot_generated_at": "2026-11-15T17:49:21.217002Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -55,10 +55,10 @@
     "required_player_ids": 363,
     "compact_player_lookup": 363,
     "missing_player_ids": 0,
-    "transactions": 169,
+    "transactions": 170,
     "trades": 17,
     "waivers": 34,
-    "free_agent_moves": 117,
+    "free_agent_moves": 118,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -129,11 +129,11 @@
           "injury_status": null
         },
         {
-          "player_id": "9756",
-          "name": "Jordan Addison",
-          "team": "MIN",
+          "player_id": "13281",
+          "name": "Jordyn Tyson",
+          "team": "NO",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "13421",
@@ -147,12 +147,12 @@
           "name": "Adonai Mitchell",
           "team": "NYJ",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
-          "player_id": "13281",
-          "name": "Jordyn Tyson",
-          "team": "NO",
+          "player_id": "11624",
+          "name": "Xavier Worthy",
+          "team": "KC",
           "position": "WR",
           "injury_status": null
         },
@@ -166,9 +166,9 @@
       ],
       "reserve": [
         {
-          "player_id": "12533",
-          "name": "Jacory Croskey-Merritt",
-          "team": "WAS",
+          "player_id": "12529",
+          "name": "TreVeyon Henderson",
+          "team": "NE",
           "position": "RB",
           "injury_status": "IR"
         },
@@ -244,7 +244,7 @@
           "name": "Omar Cooper Jr.",
           "team": "NYJ",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8210",
@@ -463,11 +463,11 @@
           "injury_status": null
         },
         {
-          "player_id": "13279",
-          "name": "Carnell Tate",
-          "team": "TEN",
+          "player_id": "11631",
+          "name": "Brian Thomas Jr.",
+          "team": "JAX",
           "position": "WR",
-          "injury_status": "Out"
+          "injury_status": null
         },
         {
           "player_id": "9480",
@@ -682,7 +682,7 @@
           "name": "Garrett Wilson",
           "team": "NYJ",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5872",
@@ -883,14 +883,14 @@
           "name": "Drake Maye",
           "team": "NE",
           "position": "QB",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
-          "team": "KC",
+          "player_id": "9753",
+          "name": "Zach Charbonnet",
+          "team": "SEA",
           "position": "RB",
-          "injury_status": "Out"
+          "injury_status": null
         },
         {
           "player_id": "8150",
@@ -925,7 +925,7 @@
           "name": "Denzel Boston",
           "team": "CLE",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11646",
@@ -935,9 +935,9 @@
           "injury_status": null
         },
         {
-          "player_id": "9753",
-          "name": "Zach Charbonnet",
-          "team": "SEA",
+          "player_id": "7611",
+          "name": "Rhamondre Stevenson",
+          "team": "NE",
           "position": "RB",
           "injury_status": null
         }
@@ -1129,9 +1129,9 @@
           "injury_status": null
         },
         {
-          "player_id": "11783",
-          "name": "Ryan Flournoy",
-          "team": "DAL",
+          "player_id": "5846",
+          "name": "DK Metcalf",
+          "team": "PIT",
           "position": "WR",
           "injury_status": null
         },
@@ -1143,10 +1143,17 @@
           "injury_status": null
         },
         {
-          "player_id": "6790",
-          "name": "D'Andre Swift",
-          "team": "CHI",
+          "player_id": "13337",
+          "name": "Emmett Johnson",
+          "team": "KC",
           "position": "RB",
+          "injury_status": null
+        },
+        {
+          "player_id": "11783",
+          "name": "Ryan Flournoy",
+          "team": "DAL",
+          "position": "WR",
           "injury_status": null
         },
         {
@@ -1154,14 +1161,7 @@
           "name": "Amon-Ra St. Brown",
           "team": "DET",
           "position": "WR",
-          "injury_status": "Questionable"
-        },
-        {
-          "player_id": "5844",
-          "name": "T.J. Hockenson",
-          "team": "MIN",
-          "position": "TE",
-          "injury_status": "Out"
+          "injury_status": null
         }
       ],
       "reserve": [
@@ -1244,7 +1244,7 @@
           "name": "A.J. Brown",
           "team": "NE",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": "Out"
         },
         {
           "player_id": "11604",
@@ -1341,7 +1341,7 @@
           "name": "Travis Etienne Jr.",
           "team": "NO",
           "position": "RB",
-          "injury_status": "IR"
+          "injury_status": null
         },
         {
           "player_id": "13274",
@@ -2692,7 +2692,7 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 26.96,
+                "points": 28.56,
                 "custom_points": null
               },
               {
@@ -2705,7 +2705,7 @@
             "winner": {
               "roster_id": 1,
               "team_label": "It’s Herbie Hancock",
-              "points": 26.96
+              "points": 28.56
             }
           },
           {
@@ -2714,20 +2714,20 @@
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 0.0,
+                "points": 53.2,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 27.2,
+                "points": 36.1,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 11,
-              "team_label": "MOJO",
-              "points": 27.2
+              "roster_id": 5,
+              "team_label": "White Ice",
+              "points": 53.2
             }
           },
           {
@@ -2736,7 +2736,7 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 20.3,
+                "points": 24.3,
                 "custom_points": null
               },
               {
@@ -2749,7 +2749,7 @@
             "winner": {
               "roster_id": 3,
               "team_label": "Laporta Potty",
-              "points": 20.3
+              "points": 24.3
             }
           },
           {
@@ -2764,11 +2764,15 @@
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 0.0,
+                "points": 25.8,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 10,
+              "team_label": "Goin in Ra",
+              "points": 25.8
+            }
           },
           {
             "matchup_id": "5",
@@ -2776,7 +2780,7 @@
               {
                 "roster_id": 2,
                 "team_label": "Washington Monument",
-                "points": 6.4,
+                "points": 8.9,
                 "custom_points": null
               },
               {
@@ -2804,11 +2808,15 @@
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 0.0,
+                "points": 4.52,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 8,
+              "team_label": "Back to the Future",
+              "points": 4.52
+            }
           }
         ],
         "counts": {
@@ -2826,18 +2834,18 @@
   "transactions": {
     "counts": {
       "weeks": 10,
-      "transactions": 169,
+      "transactions": 170,
       "trades": 17,
       "waivers": 34,
-      "free_agent_moves": 117,
+      "free_agent_moves": 118,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 117,
+        "free_agent": 118,
         "trade": 17,
         "waiver": 34
       },
       "by_status": {
-        "complete": 157,
+        "complete": 158,
         "failed": 12
       }
     },
@@ -2867,10 +2875,10 @@
         "free_agent_moves": 14
       },
       "11": {
-        "transactions": 31,
+        "transactions": 32,
         "trades": 6,
         "waivers": 3,
-        "free_agent_moves": 22
+        "free_agent_moves": 23
       },
       "2": {
         "transactions": 38,
@@ -2916,6 +2924,33 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 10,
+        "transaction_id": "1427480659902861312",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-11-14T23:53:39.930000Z",
+        "team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "12540",
+            "player_name": "Chimere Dike",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "3286",
+            "player_name": "Demarcus Robinson",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 10,
         "transaction_id": "1426610720308473856",
@@ -3526,26 +3561,6 @@
             "team_label": "Laporta Potty"
           }
         ],
-        "draft_picks": []
-      },
-      {
-        "week": 7,
-        "transaction_id": "1420987124710162432",
-        "type": "waiver",
-        "status": "failed",
-        "created_at": "2026-10-28T01:50:40.496000Z",
-        "team_labels": [
-          "andrewwelle"
-        ],
-        "adds": [
-          {
-            "player_id": "12482",
-            "player_name": "Savion Williams",
-            "roster_id": 6,
-            "team_label": "andrewwelle"
-          }
-        ],
-        "drops": [],
         "draft_picks": []
       }
     ]

@@ -7495,13 +7495,56 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 10,
+          "transaction_id": "1427480659902861312",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1794700419930,
+          "created_at": "2026-11-14T23:53:39.930000Z",
+          "status_updated": 1794700419930,
+          "status_updated_at": "2026-11-14T23:53:39.930000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "12540",
+              "player_name": "Chimere Dike",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "3286",
+              "player_name": "Demarcus Robinson",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 6,
+        "transactions": 7,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 6
+        "free_agent_moves": 7
       }
     }
   },
@@ -14899,6 +14942,49 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 10,
+      "transaction_id": "1427480659902861312",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794700419930,
+      "created_at": "2026-11-14T23:53:39.930000Z",
+      "status_updated": 1794700419930,
+      "status_updated_at": "2026-11-14T23:53:39.930000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "12540",
+          "player_name": "Chimere Dike",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "3286",
+          "player_name": "Demarcus Robinson",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -22267,22 +22353,65 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 10,
+      "transaction_id": "1427480659902861312",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1794700419930,
+      "created_at": "2026-11-14T23:53:39.930000Z",
+      "status_updated": 1794700419930,
+      "status_updated_at": "2026-11-14T23:53:39.930000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "12540",
+          "player_name": "Chimere Dike",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "3286",
+          "player_name": "Demarcus Robinson",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 10,
-    "transactions": 169,
+    "transactions": 170,
     "trades": 17,
     "waivers": 34,
-    "free_agent_moves": 117,
+    "free_agent_moves": 118,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 117,
+      "free_agent": 118,
       "trade": 17,
       "waiver": 34
     },
     "by_status": {
-      "complete": 157,
+      "complete": 158,
       "failed": 12
     }
   }
