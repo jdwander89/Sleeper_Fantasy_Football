@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-15T17:49:22.624820Z",
-    "source_snapshot_generated_at": "2026-11-15T17:49:21.217002Z",
+    "generated_at": "2026-11-16T21:05:23.837530Z",
+    "source_snapshot_generated_at": "2026-11-16T21:05:22.201400Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -244,7 +244,7 @@
           "name": "Omar Cooper Jr.",
           "team": "NYJ",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "8210",
@@ -348,7 +348,7 @@
           "name": "Drake London",
           "team": "ATL",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "2449",
@@ -585,7 +585,7 @@
           "name": "Travis Kelce",
           "team": "KC",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "8148",
@@ -786,7 +786,7 @@
           "name": "Woody Marks",
           "team": "HOU",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "8167",
@@ -1251,7 +1251,7 @@
           "name": "Brock Bowers",
           "team": "LV",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "8228",
@@ -1365,11 +1365,11 @@
           "injury_status": null
         },
         {
-          "player_id": "11635",
-          "name": "Ladd McConkey",
-          "team": "LAC",
-          "position": "WR",
-          "injury_status": "Questionable"
+          "player_id": "5012",
+          "name": "Mark Andrews",
+          "team": "BAL",
+          "position": "TE",
+          "injury_status": null
         },
         {
           "player_id": "11647",
@@ -2692,20 +2692,20 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 28.56,
+                "points": 84.16,
                 "custom_points": null
               },
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 6.4,
+                "points": 87.18,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 1,
-              "team_label": "It’s Herbie Hancock",
-              "points": 28.56
+              "roster_id": 7,
+              "team_label": "Commish is a bitch",
+              "points": 87.18
             }
           },
           {
@@ -2714,20 +2714,20 @@
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 53.2,
+                "points": 207.12,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 36.1,
+                "points": 109.04,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 5,
               "team_label": "White Ice",
-              "points": 53.2
+              "points": 207.12
             }
           },
           {
@@ -2736,20 +2736,20 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 24.3,
+                "points": 85.0,
                 "custom_points": null
               },
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 0.0,
+                "points": 80.46,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 3,
               "team_label": "Laporta Potty",
-              "points": 24.3
+              "points": 85.0
             }
           },
           {
@@ -2758,20 +2758,20 @@
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 0.0,
+                "points": 139.02,
                 "custom_points": null
               },
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 25.8,
+                "points": 143.14,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 10,
               "team_label": "Goin in Ra",
-              "points": 25.8
+              "points": 143.14
             }
           },
           {
@@ -2780,20 +2780,20 @@
               {
                 "roster_id": 2,
                 "team_label": "Washington Monument",
-                "points": 8.9,
+                "points": 94.68,
                 "custom_points": null
               },
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 26.32,
+                "points": 95.52,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 9,
               "team_label": "off",
-              "points": 26.32
+              "points": 95.52
             }
           },
           {
@@ -2802,20 +2802,20 @@
               {
                 "roster_id": 6,
                 "team_label": "andrewwelle",
-                "points": 0.0,
+                "points": 152.18,
                 "custom_points": null
               },
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 4.52,
+                "points": 67.32,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 8,
-              "team_label": "Back to the Future",
-              "points": 4.52
+              "roster_id": 6,
+              "team_label": "andrewwelle",
+              "points": 152.18
             }
           }
         ],
