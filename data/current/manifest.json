@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "generated_at": "2026-11-16T21:05:22.201400Z",
+  "generated_at": "2026-11-17T19:54:14.438678Z",
   "league_id": "1312581067286282240",
   "sport": "nfl",
   "season": "2026",
   "season_type": "regular",
   "snapshot_mode": "current_only",
   "nfl_state": {
-    "week": 10,
-    "leg": 10,
+    "week": 11,
+    "leg": 11,
     "season": "2026",
     "season_type": "regular",
     "league_season": "2026",
@@ -28,39 +28,40 @@
     7,
     8,
     9,
-    10
+    10,
+    11
   ],
   "phase": "finalized_current_snapshot",
   "files": [
     {
       "path": "data/current/manifest.json",
       "exists": true,
-      "size_bytes": 2375
+      "size_bytes": 2383
     },
     {
       "path": "data/current/league_context.json",
       "exists": true,
-      "size_bytes": 4900
+      "size_bytes": 4902
     },
     {
       "path": "data/current/teams.json",
       "exists": true,
-      "size_bytes": 21687
+      "size_bytes": 21705
     },
     {
       "path": "data/current/rosters.json",
       "exists": true,
-      "size_bytes": 34165
+      "size_bytes": 34177
     },
     {
       "path": "data/current/matchups.json",
       "exists": true,
-      "size_bytes": 480875
+      "size_bytes": 528641
     },
     {
       "path": "data/current/transactions.json",
       "exists": true,
-      "size_bytes": 574990
+      "size_bytes": 575179
     },
     {
       "path": "data/current/drafts.json",
@@ -75,30 +76,30 @@
     {
       "path": "data/current/player_lookup_compact.json",
       "exists": true,
-      "size_bytes": 129460
+      "size_bytes": 129467
     },
     {
       "path": "data/current/player_id_index.json",
       "exists": true,
-      "size_bytes": 24354
+      "size_bytes": 24371
     },
     {
       "path": "data/current/chatgpt_summary.json",
       "exists": true,
-      "size_bytes": 92387
+      "size_bytes": 95447
     },
     {
       "path": "data/current/chatgpt_bundle.json",
       "exists": true,
-      "size_bytes": 1487475
+      "size_bytes": 1539331
     }
   ],
   "counts": {
     "users": 12,
     "rosters": 12,
-    "included_weeks": 10,
-    "matchups": 60,
-    "matchup_roster_results": 120,
+    "included_weeks": 11,
+    "matchups": 66,
+    "matchup_roster_results": 132,
     "required_player_ids": 363,
     "compact_player_lookup": 363,
     "missing_player_ids": 0,
@@ -117,5 +118,5 @@
     "errors": [],
     "missing_player_ids": []
   },
-  "summary_generated_at": "2026-11-16T21:05:23.837530Z"
+  "summary_generated_at": "2026-11-17T19:54:17.540146Z"
 }
