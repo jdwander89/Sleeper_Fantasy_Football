@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-17T19:54:17.387783Z",
+  "generated_at": "2026-11-18T19:25:37.590578Z",
   "counts": {
-    "required_player_ids": 363,
-    "resolved_player_ids": 363,
+    "required_player_ids": 366,
+    "resolved_player_ids": 366,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -37,6 +37,7 @@
       "breece hall": "8155",
       "brenen thompson": "13380",
       "brenton strange": "9480",
+      "brevyn spann-ford": "11593",
       "brian robinson jr.": "8154",
       "brian thomas jr.": "11631",
       "brock bowers": "11604",
@@ -276,6 +277,7 @@
       "mike evans": "2216",
       "mike gesicki": "4993",
       "mike washington jr.": "13305",
+      "myles price": "13075",
       "najee harris": "7528",
       "nicholas singleton": "13288",
       "nick chubb": "4988",
@@ -364,6 +366,7 @@
       "wan'dale robinson": "8126",
       "will shipley": "11577",
       "woody marks": "12474",
+      "xavier hutchinson": "10218",
       "xavier legette": "11626",
       "xavier worthy": "11624",
       "zach charbonnet": "9753",
@@ -475,6 +478,7 @@
         "6783"
       ],
       "DAL": [
+        "11593",
         "11783",
         "3294",
         "6786",
@@ -522,6 +526,7 @@
         "9484"
       ],
       "HOU": [
+        "10218",
         "11199",
         "11628",
         "12474",
@@ -625,6 +630,7 @@
       ],
       "MIN": [
         "1166",
+        "13075",
         "13347",
         "3161",
         "4199",
@@ -772,6 +778,7 @@
         "13288",
         "4981",
         "5967",
+        "7607",
         "8126",
         "9508"
       ],
@@ -962,6 +969,7 @@
       "TE": [
         "10236",
         "10859",
+        "11593",
         "11597",
         "11600",
         "11603",
@@ -1013,6 +1021,7 @@
       ],
       "WR": [
         "10213",
+        "10218",
         "10222",
         "10226",
         "10229",
@@ -1057,6 +1066,7 @@
         "12547",
         "12634",
         "12718",
+        "13075",
         "13150",
         "13264",
         "13268",

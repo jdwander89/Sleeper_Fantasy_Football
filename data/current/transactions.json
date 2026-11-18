@@ -7538,23 +7538,372 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 10,
+          "transaction_id": "1428405896223916032",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1794921013459,
+          "created_at": "2026-11-17T13:10:13.459000Z",
+          "status_updated": 1794989777518,
+          "status_updated_at": "2026-11-18T08:16:17.518000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Laporta Potty"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Laporta Potty"
+          ],
+          "adds": [
+            {
+              "player_id": "10218",
+              "player_name": "Xavier Hutchinson",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "8161",
+              "player_name": "Malik Willis",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 0,
+            "waiver_bid": 16
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 10,
+          "transaction_id": "1428618089766866944",
+          "type": "waiver",
+          "status": "failed",
+          "created": 1794971604343,
+          "created_at": "2026-11-18T03:13:24.343000Z",
+          "status_updated": 1794989777518,
+          "status_updated_at": "2026-11-18T08:16:17.518000Z",
+          "creator_user_id": "471451909446692864",
+          "roster_ids": [
+            6
+          ],
+          "team_labels": [
+            "andrewwelle"
+          ],
+          "consenter_ids": [
+            6
+          ],
+          "consenter_team_labels": [
+            "andrewwelle"
+          ],
+          "adds": [
+            {
+              "player_id": "10218",
+              "player_name": "Xavier Hutchinson",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 2,
+            "waiver_bid": 10
+          },
+          "metadata": {
+            "notes": "This player was claimed by another owner."
+          }
+        },
+        {
+          "week": 10,
+          "transaction_id": "1428618311880417281",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1794971657299,
+          "created_at": "2026-11-18T03:14:17.299000Z",
+          "status_updated": 1794989777518,
+          "status_updated_at": "2026-11-18T08:16:17.518000Z",
+          "creator_user_id": "471451909446692864",
+          "roster_ids": [
+            6
+          ],
+          "team_labels": [
+            "andrewwelle"
+          ],
+          "consenter_ids": [
+            6
+          ],
+          "consenter_team_labels": [
+            "andrewwelle"
+          ],
+          "adds": [
+            {
+              "player_id": "13075",
+              "player_name": "Myles Price",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "13420",
+              "player_name": "Bryce Lance",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 3,
+            "waiver_bid": 10
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 10,
+          "transaction_id": "1428618666886316032",
+          "type": "waiver",
+          "status": "failed",
+          "created": 1794971741938,
+          "created_at": "2026-11-18T03:15:41.938000Z",
+          "status_updated": 1794989777518,
+          "status_updated_at": "2026-11-18T08:16:17.518000Z",
+          "creator_user_id": "471451909446692864",
+          "roster_ids": [
+            6
+          ],
+          "team_labels": [
+            "andrewwelle"
+          ],
+          "consenter_ids": [
+            6
+          ],
+          "consenter_team_labels": [
+            "andrewwelle"
+          ],
+          "adds": [
+            {
+              "player_id": "13075",
+              "player_name": "Myles Price",
+              "roster_id": 6,
+              "team_label": "andrewwelle"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 4,
+            "waiver_bid": 10
+          },
+          "metadata": {
+            "notes": "This player was claimed by another owner."
+          }
+        },
+        {
+          "week": 10,
+          "transaction_id": "1428640864111951872",
+          "type": "waiver",
+          "status": "failed",
+          "created": 1794977034170,
+          "created_at": "2026-11-18T04:43:54.170000Z",
+          "status_updated": 1794989777518,
+          "status_updated_at": "2026-11-18T08:16:17.518000Z",
+          "creator_user_id": "471424563457028096",
+          "roster_ids": [
+            5
+          ],
+          "team_labels": [
+            "White Ice"
+          ],
+          "consenter_ids": [
+            5
+          ],
+          "consenter_team_labels": [
+            "White Ice"
+          ],
+          "adds": [
+            {
+              "player_id": "10218",
+              "player_name": "Xavier Hutchinson",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 1,
+            "waiver_bid": 12
+          },
+          "metadata": {
+            "notes": "This player was claimed by another owner."
+          }
         }
       ],
       "counts": {
-        "transactions": 7,
+        "transactions": 12,
         "trades": 0,
-        "waivers": 0,
+        "waivers": 5,
         "free_agent_moves": 7
       }
     },
     "11": {
       "week": 11,
-      "transactions": [],
+      "transactions": [
+        {
+          "week": 11,
+          "transaction_id": "1428756004111142912",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1795004485684,
+          "created_at": "2026-11-18T12:21:25.684000Z",
+          "status_updated": 1795004485684,
+          "status_updated_at": "2026-11-18T12:21:25.684000Z",
+          "creator_user_id": "471457570825957376",
+          "roster_ids": [
+            8
+          ],
+          "team_labels": [
+            "Back to the Future"
+          ],
+          "consenter_ids": [
+            8
+          ],
+          "consenter_team_labels": [
+            "Back to the Future"
+          ],
+          "adds": [
+            {
+              "player_id": "11199",
+              "player_name": "Emari Demercado",
+              "roster_id": 8,
+              "team_label": "Back to the Future"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "11569",
+              "player_name": "Jarquez Hunter",
+              "roster_id": 8,
+              "team_label": "Back to the Future"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 11,
+          "transaction_id": "1428756369950928896",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1795004572907,
+          "created_at": "2026-11-18T12:22:52.907000Z",
+          "status_updated": 1795004572907,
+          "status_updated_at": "2026-11-18T12:22:52.907000Z",
+          "creator_user_id": "471415197991432192",
+          "roster_ids": [
+            3
+          ],
+          "team_labels": [
+            "Laporta Potty"
+          ],
+          "consenter_ids": [
+            3
+          ],
+          "consenter_team_labels": [
+            "Laporta Potty"
+          ],
+          "adds": [
+            {
+              "player_id": "4147",
+              "player_name": "Samaje Perine",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "4981",
+              "player_name": "Calvin Ridley",
+              "roster_id": 3,
+              "team_label": "Laporta Potty"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 11,
+          "transaction_id": "1428833257100677120",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1795022904232,
+          "created_at": "2026-11-18T17:28:24.232000Z",
+          "status_updated": 1795022904232,
+          "status_updated_at": "2026-11-18T17:28:24.232000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "11593",
+              "player_name": "Brevyn Spann-Ford",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "7562",
+              "player_name": "Tutu Atwell",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        }
+      ],
       "counts": {
-        "transactions": 0,
+        "transactions": 3,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 0
+        "free_agent_moves": 3
       }
     }
   },
@@ -14995,6 +15344,354 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 10,
+      "transaction_id": "1428405896223916032",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794921013459,
+      "created_at": "2026-11-17T13:10:13.459000Z",
+      "status_updated": 1794989777518,
+      "status_updated_at": "2026-11-18T08:16:17.518000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "10218",
+          "player_name": "Xavier Hutchinson",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8161",
+          "player_name": "Malik Willis",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 16
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 10,
+      "transaction_id": "1428618089766866944",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1794971604343,
+      "created_at": "2026-11-18T03:13:24.343000Z",
+      "status_updated": 1794989777518,
+      "status_updated_at": "2026-11-18T08:16:17.518000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "10218",
+          "player_name": "Xavier Hutchinson",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 2,
+        "waiver_bid": 10
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 10,
+      "transaction_id": "1428618311880417281",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794971657299,
+      "created_at": "2026-11-18T03:14:17.299000Z",
+      "status_updated": 1794989777518,
+      "status_updated_at": "2026-11-18T08:16:17.518000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "13075",
+          "player_name": "Myles Price",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13420",
+          "player_name": "Bryce Lance",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 3,
+        "waiver_bid": 10
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 10,
+      "transaction_id": "1428618666886316032",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1794971741938,
+      "created_at": "2026-11-18T03:15:41.938000Z",
+      "status_updated": 1794989777518,
+      "status_updated_at": "2026-11-18T08:16:17.518000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "13075",
+          "player_name": "Myles Price",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 4,
+        "waiver_bid": 10
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 10,
+      "transaction_id": "1428640864111951872",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1794977034170,
+      "created_at": "2026-11-18T04:43:54.170000Z",
+      "status_updated": 1794989777518,
+      "status_updated_at": "2026-11-18T08:16:17.518000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "10218",
+          "player_name": "Xavier Hutchinson",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 12
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 11,
+      "transaction_id": "1428756004111142912",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795004485684,
+      "created_at": "2026-11-18T12:21:25.684000Z",
+      "status_updated": 1795004485684,
+      "status_updated_at": "2026-11-18T12:21:25.684000Z",
+      "creator_user_id": "471457570825957376",
+      "roster_ids": [
+        8
+      ],
+      "team_labels": [
+        "Back to the Future"
+      ],
+      "consenter_ids": [
+        8
+      ],
+      "consenter_team_labels": [
+        "Back to the Future"
+      ],
+      "adds": [
+        {
+          "player_id": "11199",
+          "player_name": "Emari Demercado",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11569",
+          "player_name": "Jarquez Hunter",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1428756369950928896",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795004572907,
+      "created_at": "2026-11-18T12:22:52.907000Z",
+      "status_updated": 1795004572907,
+      "status_updated_at": "2026-11-18T12:22:52.907000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "4147",
+          "player_name": "Samaje Perine",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4981",
+          "player_name": "Calvin Ridley",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1428833257100677120",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795022904232,
+      "created_at": "2026-11-18T17:28:24.232000Z",
+      "status_updated": 1795022904232,
+      "status_updated_at": "2026-11-18T17:28:24.232000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "11593",
+          "player_name": "Brevyn Spann-Ford",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7562",
+          "player_name": "Tutu Atwell",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -17774,6 +18471,225 @@
       "settings": {
         "seq": 2,
         "waiver_bid": 14
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 10,
+      "transaction_id": "1428405896223916032",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794921013459,
+      "created_at": "2026-11-17T13:10:13.459000Z",
+      "status_updated": 1794989777518,
+      "status_updated_at": "2026-11-18T08:16:17.518000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "10218",
+          "player_name": "Xavier Hutchinson",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "8161",
+          "player_name": "Malik Willis",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 16
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 10,
+      "transaction_id": "1428618089766866944",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1794971604343,
+      "created_at": "2026-11-18T03:13:24.343000Z",
+      "status_updated": 1794989777518,
+      "status_updated_at": "2026-11-18T08:16:17.518000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "10218",
+          "player_name": "Xavier Hutchinson",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 2,
+        "waiver_bid": 10
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 10,
+      "transaction_id": "1428618311880417281",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1794971657299,
+      "created_at": "2026-11-18T03:14:17.299000Z",
+      "status_updated": 1794989777518,
+      "status_updated_at": "2026-11-18T08:16:17.518000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "13075",
+          "player_name": "Myles Price",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13420",
+          "player_name": "Bryce Lance",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 3,
+        "waiver_bid": 10
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 10,
+      "transaction_id": "1428618666886316032",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1794971741938,
+      "created_at": "2026-11-18T03:15:41.938000Z",
+      "status_updated": 1794989777518,
+      "status_updated_at": "2026-11-18T08:16:17.518000Z",
+      "creator_user_id": "471451909446692864",
+      "roster_ids": [
+        6
+      ],
+      "team_labels": [
+        "andrewwelle"
+      ],
+      "consenter_ids": [
+        6
+      ],
+      "consenter_team_labels": [
+        "andrewwelle"
+      ],
+      "adds": [
+        {
+          "player_id": "13075",
+          "player_name": "Myles Price",
+          "roster_id": 6,
+          "team_label": "andrewwelle"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 4,
+        "waiver_bid": 10
+      },
+      "metadata": {
+        "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 10,
+      "transaction_id": "1428640864111951872",
+      "type": "waiver",
+      "status": "failed",
+      "created": 1794977034170,
+      "created_at": "2026-11-18T04:43:54.170000Z",
+      "status_updated": 1794989777518,
+      "status_updated_at": "2026-11-18T08:16:17.518000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [
+        {
+          "player_id": "10218",
+          "player_name": "Xavier Hutchinson",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 12
       },
       "metadata": {
         "notes": "This player was claimed by another owner."
@@ -22406,23 +23322,152 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1428756004111142912",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795004485684,
+      "created_at": "2026-11-18T12:21:25.684000Z",
+      "status_updated": 1795004485684,
+      "status_updated_at": "2026-11-18T12:21:25.684000Z",
+      "creator_user_id": "471457570825957376",
+      "roster_ids": [
+        8
+      ],
+      "team_labels": [
+        "Back to the Future"
+      ],
+      "consenter_ids": [
+        8
+      ],
+      "consenter_team_labels": [
+        "Back to the Future"
+      ],
+      "adds": [
+        {
+          "player_id": "11199",
+          "player_name": "Emari Demercado",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11569",
+          "player_name": "Jarquez Hunter",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1428756369950928896",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795004572907,
+      "created_at": "2026-11-18T12:22:52.907000Z",
+      "status_updated": 1795004572907,
+      "status_updated_at": "2026-11-18T12:22:52.907000Z",
+      "creator_user_id": "471415197991432192",
+      "roster_ids": [
+        3
+      ],
+      "team_labels": [
+        "Laporta Potty"
+      ],
+      "consenter_ids": [
+        3
+      ],
+      "consenter_team_labels": [
+        "Laporta Potty"
+      ],
+      "adds": [
+        {
+          "player_id": "4147",
+          "player_name": "Samaje Perine",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4981",
+          "player_name": "Calvin Ridley",
+          "roster_id": 3,
+          "team_label": "Laporta Potty"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1428833257100677120",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795022904232,
+      "created_at": "2026-11-18T17:28:24.232000Z",
+      "status_updated": 1795022904232,
+      "status_updated_at": "2026-11-18T17:28:24.232000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "11593",
+          "player_name": "Brevyn Spann-Ford",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "7562",
+          "player_name": "Tutu Atwell",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 11,
-    "transactions": 170,
+    "transactions": 178,
     "trades": 17,
-    "waivers": 34,
-    "free_agent_moves": 118,
+    "waivers": 39,
+    "free_agent_moves": 121,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 118,
+      "free_agent": 121,
       "trade": 17,
-      "waiver": 34
+      "waiver": 39
     },
     "by_status": {
-      "complete": 158,
-      "failed": 12
+      "complete": 163,
+      "failed": 15
     }
   }
 }

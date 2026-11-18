@@ -289,7 +289,7 @@
       "ties": 0,
       "total_moves": 0,
       "waiver_budget_used": 30,
-      "waiver_position": 11,
+      "waiver_position": 10,
       "wins": 2
     },
     "metadata": {
@@ -301,6 +301,7 @@
     "roster_id": 3,
     "owner_user_id": "471415197991432192",
     "players": [
+      "10218",
       "10859",
       "11579",
       "11584",
@@ -310,7 +311,7 @@
       "2216",
       "2449",
       "4046",
-      "4981",
+      "4147",
       "4993",
       "5995",
       "6427",
@@ -321,7 +322,6 @@
       "8110",
       "8112",
       "8121",
-      "8161",
       "9501",
       "9502",
       "9506",
@@ -334,7 +334,7 @@
       "7525",
       "2449",
       "10859",
-      "5995",
+      "10218",
       "2216",
       "4993"
     ],
@@ -343,12 +343,12 @@
       "11655",
       "13150",
       "13269",
-      "4981",
+      "4147",
+      "5995",
       "6427",
       "6804",
       "8110",
       "8112",
-      "8161",
       "9501",
       "9502",
       "9506",
@@ -366,6 +366,7 @@
     "taxi_count": 0,
     "display": {
       "players": [
+        "Xavier Hutchinson",
         "Sam LaPorta",
         "Audric Estime",
         "Bucky Irving",
@@ -375,7 +376,7 @@
         "Mike Evans",
         "Stefon Diggs",
         "Patrick Mahomes",
-        "Calvin Ridley",
+        "Samaje Perine",
         "Mike Gesicki",
         "Justice Hill",
         "Ashton Dulin",
@@ -386,7 +387,6 @@
         "Jake Ferguson",
         "Drake London",
         "Romeo Doubs",
-        "Malik Willis",
         "DeMario Douglas",
         "Tank Dell",
         "Sean Tucker",
@@ -399,7 +399,7 @@
         "DeVonta Smith",
         "Stefon Diggs",
         "Sam LaPorta",
-        "Justice Hill",
+        "Xavier Hutchinson",
         "Mike Evans",
         "Mike Gesicki"
       ],
@@ -408,12 +408,12 @@
         "Tyrone Tracy Jr.",
         "Darius Cooper",
         "Fernando Mendoza",
-        "Calvin Ridley",
+        "Samaje Perine",
+        "Justice Hill",
         "Ashton Dulin",
         "Jordan Love",
         "Jake Ferguson",
         "Drake London",
-        "Malik Willis",
         "DeMario Douglas",
         "Tank Dell",
         "Sean Tucker",
@@ -435,8 +435,8 @@
       "ppts_decimal": 0,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 16,
-      "waiver_position": 12,
+      "waiver_budget_used": 32,
+      "waiver_position": 11,
       "wins": 5
     },
     "metadata": {
@@ -753,8 +753,8 @@
       "12508",
       "12527",
       "12534",
+      "13075",
       "13353",
-      "13420",
       "1479",
       "4034",
       "4137",
@@ -777,16 +777,16 @@
       "8146",
       "5872",
       "4217",
-      "12506",
+      "12534",
       "12527",
       "11834"
     ],
     "bench": [
       "11628",
       "12483",
+      "12506",
       "12508",
-      "12534",
-      "13420",
+      "13075",
       "1479",
       "4137",
       "4199",
@@ -818,8 +818,8 @@
         "Jaxson Dart",
         "Ashton Jeanty",
         "Kyle Monangai",
+        "Myles Price",
         "Chris Brazzell II",
-        "Bryce Lance",
         "Keenan Allen",
         "Christian McCaffrey",
         "James Conner",
@@ -842,16 +842,16 @@
         "Garrett Wilson",
         "Deebo Samuel Sr.",
         "George Kittle",
-        "Harold Fannin Jr.",
+        "Kyle Monangai",
         "Ashton Jeanty",
         "Devaughn Vele"
       ],
       "bench": [
         "Marvin Harrison Jr.",
         "Jack Bech",
+        "Harold Fannin Jr.",
         "Jaxson Dart",
-        "Kyle Monangai",
-        "Bryce Lance",
+        "Myles Price",
         "Keenan Allen",
         "James Conner",
         "Aaron Jones Sr.",
@@ -878,8 +878,8 @@
       "ppts_decimal": 22,
       "ties": 0,
       "total_moves": 0,
-      "waiver_budget_used": 5,
-      "waiver_position": 10,
+      "waiver_budget_used": 15,
+      "waiver_position": 12,
       "wins": 6
     },
     "metadata": {
@@ -1039,9 +1039,9 @@
     "roster_id": 8,
     "owner_user_id": "471457570825957376",
     "players": [
+      "11199",
       "11435",
       "11564",
-      "11569",
       "11581",
       "11630",
       "11646",
@@ -1066,19 +1066,19 @@
       "9753"
     ],
     "starters": [
-      "11564",
-      "9753",
-      "8150",
+      "6797",
+      "8151",
+      "11199",
       "6786",
       "6794",
       "8130",
-      "13346",
+      "8131",
       "11646",
-      "7611"
+      "9500"
     ],
     "bench": [
       "11435",
-      "11569",
+      "11564",
       "11581",
       "11630",
       "12514",
@@ -1086,11 +1086,11 @@
       "12531",
       "13270",
       "13301",
-      "6797",
-      "8131",
+      "13346",
+      "7611",
       "8142",
-      "8151",
-      "9500"
+      "8150",
+      "9753"
     ],
     "reserve": [
       "12484",
@@ -1104,9 +1104,9 @@
     "taxi_count": 0,
     "display": {
       "players": [
+        "Emari Demercado",
         "Emanuel Wilson",
         "Drake Maye",
-        "Jarquez Hunter",
         "MarShawn Lloyd",
         "Roman Wilson",
         "Jalen Coker",
@@ -1131,19 +1131,19 @@
         "Zach Charbonnet"
       ],
       "starters": [
-        "Drake Maye",
-        "Zach Charbonnet",
-        "Kyren Williams",
+        "Justin Herbert",
+        "Kenneth Walker III",
+        "Emari Demercado",
         "CeeDee Lamb",
         "Justin Jefferson",
         "Trey McBride",
-        "Denzel Boston",
+        "Isaiah Likely",
         "Jalen Coker",
-        "Rhamondre Stevenson"
+        "Josh Downs"
       ],
       "bench": [
         "Emanuel Wilson",
-        "Jarquez Hunter",
+        "Drake Maye",
         "MarShawn Lloyd",
         "Roman Wilson",
         "Emeka Egbuka",
@@ -1151,11 +1151,11 @@
         "Trevor Etienne",
         "CJ Daniels",
         "Antonio Williams",
-        "Justin Herbert",
-        "Isaiah Likely",
+        "Denzel Boston",
+        "Rhamondre Stevenson",
         "Alec Pierce",
-        "Kenneth Walker III",
-        "Josh Downs"
+        "Kyren Williams",
+        "Zach Charbonnet"
       ],
       "reserve": [
         "Jayden Higgins",
@@ -1484,6 +1484,7 @@
     "players": [
       "11563",
       "11575",
+      "11593",
       "11604",
       "11627",
       "12469",
@@ -1502,7 +1503,6 @@
       "6801",
       "7021",
       "7526",
-      "7562",
       "8138",
       "8228",
       "9228",
@@ -1522,6 +1522,7 @@
     "bench": [
       "11563",
       "11575",
+      "11593",
       "11627",
       "12469",
       "12482",
@@ -1531,7 +1532,6 @@
       "5892",
       "6039",
       "7526",
-      "7562",
       "9228",
       "9482"
     ],
@@ -1549,6 +1549,7 @@
       "players": [
         "Bo Nix",
         "Ray Davis",
+        "Brevyn Spann-Ford",
         "Brock Bowers",
         "Troy Franklin",
         "Dylan Sampson",
@@ -1567,7 +1568,6 @@
         "Tee Higgins",
         "Rico Dowdle",
         "Jaylen Waddle",
-        "Tutu Atwell",
         "James Cook III",
         "Jaylen Warren",
         "Bryce Young",
@@ -1587,6 +1587,7 @@
       "bench": [
         "Bo Nix",
         "Ray Davis",
+        "Brevyn Spann-Ford",
         "Troy Franklin",
         "Dylan Sampson",
         "Savion Williams",
@@ -1596,7 +1597,6 @@
         "David Montgomery",
         "Ty Johnson",
         "Jaylen Waddle",
-        "Tutu Atwell",
         "Bryce Young",
         "Michael Mayer"
       ],

@@ -1,7 +1,7 @@
 {
   "metadata": {
     "schema_version": "1.0.0",
-    "generated_at": "2026-11-17T19:54:14.396603Z",
+    "generated_at": "2026-11-18T19:25:35.562938Z",
     "league_id": "1312581067286282240",
     "sport": "nfl",
     "phase": "phase_3_matchups_snapshot"
@@ -89,7 +89,7 @@
       "trade_review_days": 0,
       "bench_lock": 1,
       "offseason_adds": 0,
-      "leg": 10,
+      "leg": 11,
       "reserve_slots": 2,
       "reserve_allow_cov": 1,
       "daily_waivers_last_ran": 9
@@ -220,7 +220,7 @@
       "league_season": "2026",
       "previous_season": "2025",
       "season_start_date": "2026-09-09",
-      "display_week": 10,
+      "display_week": 11,
       "league_create_season": "2026",
       "season_has_scores": true
     }
@@ -370,7 +370,7 @@
         "raw_fpts_against_decimal": 96
       },
       "waivers": {
-        "waiver_position": 11,
+        "waiver_position": 10,
         "waiver_budget_used": 30
       },
       "activity": {
@@ -387,7 +387,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 2
       },
       "metadata": {
@@ -427,8 +427,8 @@
         "raw_fpts_against_decimal": 44
       },
       "waivers": {
-        "waiver_position": 12,
-        "waiver_budget_used": 16
+        "waiver_position": 11,
+        "waiver_budget_used": 32
       },
       "activity": {
         "total_moves": 0
@@ -443,8 +443,8 @@
         "ppts_decimal": 0,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 16,
-        "waiver_position": 12,
+        "waiver_budget_used": 32,
+        "waiver_position": 11,
         "wins": 5
       },
       "metadata": {
@@ -596,8 +596,8 @@
         "raw_fpts_against_decimal": 18
       },
       "waivers": {
-        "waiver_position": 10,
-        "waiver_budget_used": 5
+        "waiver_position": 12,
+        "waiver_budget_used": 15
       },
       "activity": {
         "total_moves": 0
@@ -612,8 +612,8 @@
         "ppts_decimal": 22,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 5,
-        "waiver_position": 10,
+        "waiver_budget_used": 15,
+        "waiver_position": 12,
         "wins": 6
       },
       "metadata": {
@@ -1342,7 +1342,7 @@
         "ties": 0,
         "total_moves": 0,
         "waiver_budget_used": 30,
-        "waiver_position": 11,
+        "waiver_position": 10,
         "wins": 2
       },
       "metadata": {
@@ -1354,6 +1354,7 @@
       "roster_id": 3,
       "owner_user_id": "471415197991432192",
       "players": [
+        "10218",
         "10859",
         "11579",
         "11584",
@@ -1363,7 +1364,7 @@
         "2216",
         "2449",
         "4046",
-        "4981",
+        "4147",
         "4993",
         "5995",
         "6427",
@@ -1374,7 +1375,6 @@
         "8110",
         "8112",
         "8121",
-        "8161",
         "9501",
         "9502",
         "9506",
@@ -1387,7 +1387,7 @@
         "7525",
         "2449",
         "10859",
-        "5995",
+        "10218",
         "2216",
         "4993"
       ],
@@ -1396,12 +1396,12 @@
         "11655",
         "13150",
         "13269",
-        "4981",
+        "4147",
+        "5995",
         "6427",
         "6804",
         "8110",
         "8112",
-        "8161",
         "9501",
         "9502",
         "9506",
@@ -1419,6 +1419,7 @@
       "taxi_count": 0,
       "display": {
         "players": [
+          "Xavier Hutchinson",
           "Sam LaPorta",
           "Audric Estime",
           "Bucky Irving",
@@ -1428,7 +1429,7 @@
           "Mike Evans",
           "Stefon Diggs",
           "Patrick Mahomes",
-          "Calvin Ridley",
+          "Samaje Perine",
           "Mike Gesicki",
           "Justice Hill",
           "Ashton Dulin",
@@ -1439,7 +1440,6 @@
           "Jake Ferguson",
           "Drake London",
           "Romeo Doubs",
-          "Malik Willis",
           "DeMario Douglas",
           "Tank Dell",
           "Sean Tucker",
@@ -1452,7 +1452,7 @@
           "DeVonta Smith",
           "Stefon Diggs",
           "Sam LaPorta",
-          "Justice Hill",
+          "Xavier Hutchinson",
           "Mike Evans",
           "Mike Gesicki"
         ],
@@ -1461,12 +1461,12 @@
           "Tyrone Tracy Jr.",
           "Darius Cooper",
           "Fernando Mendoza",
-          "Calvin Ridley",
+          "Samaje Perine",
+          "Justice Hill",
           "Ashton Dulin",
           "Jordan Love",
           "Jake Ferguson",
           "Drake London",
-          "Malik Willis",
           "DeMario Douglas",
           "Tank Dell",
           "Sean Tucker",
@@ -1488,8 +1488,8 @@
         "ppts_decimal": 0,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 16,
-        "waiver_position": 12,
+        "waiver_budget_used": 32,
+        "waiver_position": 11,
         "wins": 5
       },
       "metadata": {
@@ -1806,8 +1806,8 @@
         "12508",
         "12527",
         "12534",
+        "13075",
         "13353",
-        "13420",
         "1479",
         "4034",
         "4137",
@@ -1830,16 +1830,16 @@
         "8146",
         "5872",
         "4217",
-        "12506",
+        "12534",
         "12527",
         "11834"
       ],
       "bench": [
         "11628",
         "12483",
+        "12506",
         "12508",
-        "12534",
-        "13420",
+        "13075",
         "1479",
         "4137",
         "4199",
@@ -1871,8 +1871,8 @@
           "Jaxson Dart",
           "Ashton Jeanty",
           "Kyle Monangai",
+          "Myles Price",
           "Chris Brazzell II",
-          "Bryce Lance",
           "Keenan Allen",
           "Christian McCaffrey",
           "James Conner",
@@ -1895,16 +1895,16 @@
           "Garrett Wilson",
           "Deebo Samuel Sr.",
           "George Kittle",
-          "Harold Fannin Jr.",
+          "Kyle Monangai",
           "Ashton Jeanty",
           "Devaughn Vele"
         ],
         "bench": [
           "Marvin Harrison Jr.",
           "Jack Bech",
+          "Harold Fannin Jr.",
           "Jaxson Dart",
-          "Kyle Monangai",
-          "Bryce Lance",
+          "Myles Price",
           "Keenan Allen",
           "James Conner",
           "Aaron Jones Sr.",
@@ -1931,8 +1931,8 @@
         "ppts_decimal": 22,
         "ties": 0,
         "total_moves": 0,
-        "waiver_budget_used": 5,
-        "waiver_position": 10,
+        "waiver_budget_used": 15,
+        "waiver_position": 12,
         "wins": 6
       },
       "metadata": {
@@ -2092,9 +2092,9 @@
       "roster_id": 8,
       "owner_user_id": "471457570825957376",
       "players": [
+        "11199",
         "11435",
         "11564",
-        "11569",
         "11581",
         "11630",
         "11646",
@@ -2119,19 +2119,19 @@
         "9753"
       ],
       "starters": [
-        "11564",
-        "9753",
-        "8150",
+        "6797",
+        "8151",
+        "11199",
         "6786",
         "6794",
         "8130",
-        "13346",
+        "8131",
         "11646",
-        "7611"
+        "9500"
       ],
       "bench": [
         "11435",
-        "11569",
+        "11564",
         "11581",
         "11630",
         "12514",
@@ -2139,11 +2139,11 @@
         "12531",
         "13270",
         "13301",
-        "6797",
-        "8131",
+        "13346",
+        "7611",
         "8142",
-        "8151",
-        "9500"
+        "8150",
+        "9753"
       ],
       "reserve": [
         "12484",
@@ -2157,9 +2157,9 @@
       "taxi_count": 0,
       "display": {
         "players": [
+          "Emari Demercado",
           "Emanuel Wilson",
           "Drake Maye",
-          "Jarquez Hunter",
           "MarShawn Lloyd",
           "Roman Wilson",
           "Jalen Coker",
@@ -2184,19 +2184,19 @@
           "Zach Charbonnet"
         ],
         "starters": [
-          "Drake Maye",
-          "Zach Charbonnet",
-          "Kyren Williams",
+          "Justin Herbert",
+          "Kenneth Walker III",
+          "Emari Demercado",
           "CeeDee Lamb",
           "Justin Jefferson",
           "Trey McBride",
-          "Denzel Boston",
+          "Isaiah Likely",
           "Jalen Coker",
-          "Rhamondre Stevenson"
+          "Josh Downs"
         ],
         "bench": [
           "Emanuel Wilson",
-          "Jarquez Hunter",
+          "Drake Maye",
           "MarShawn Lloyd",
           "Roman Wilson",
           "Emeka Egbuka",
@@ -2204,11 +2204,11 @@
           "Trevor Etienne",
           "CJ Daniels",
           "Antonio Williams",
-          "Justin Herbert",
-          "Isaiah Likely",
+          "Denzel Boston",
+          "Rhamondre Stevenson",
           "Alec Pierce",
-          "Kenneth Walker III",
-          "Josh Downs"
+          "Kyren Williams",
+          "Zach Charbonnet"
         ],
         "reserve": [
           "Jayden Higgins",
@@ -2537,6 +2537,7 @@
       "players": [
         "11563",
         "11575",
+        "11593",
         "11604",
         "11627",
         "12469",
@@ -2555,7 +2556,6 @@
         "6801",
         "7021",
         "7526",
-        "7562",
         "8138",
         "8228",
         "9228",
@@ -2575,6 +2575,7 @@
       "bench": [
         "11563",
         "11575",
+        "11593",
         "11627",
         "12469",
         "12482",
@@ -2584,7 +2585,6 @@
         "5892",
         "6039",
         "7526",
-        "7562",
         "9228",
         "9482"
       ],
@@ -2602,6 +2602,7 @@
         "players": [
           "Bo Nix",
           "Ray Davis",
+          "Brevyn Spann-Ford",
           "Brock Bowers",
           "Troy Franklin",
           "Dylan Sampson",
@@ -2620,7 +2621,6 @@
           "Tee Higgins",
           "Rico Dowdle",
           "Jaylen Waddle",
-          "Tutu Atwell",
           "James Cook III",
           "Jaylen Warren",
           "Bryce Young",
@@ -2640,6 +2640,7 @@
         "bench": [
           "Bo Nix",
           "Ray Davis",
+          "Brevyn Spann-Ford",
           "Troy Franklin",
           "Dylan Sampson",
           "Savion Williams",
@@ -2649,7 +2650,6 @@
           "David Montgomery",
           "Ty Johnson",
           "Jaylen Waddle",
-          "Tutu Atwell",
           "Bryce Young",
           "Michael Mayer"
         ],
@@ -2845,6 +2845,23 @@
         "depth_chart_position": "LWR",
         "search_rank": 184
       },
+      "10218": {
+        "player_id": "10218",
+        "name": "Xavier Hutchinson",
+        "first_name": "Xavier",
+        "last_name": "Hutchinson",
+        "team": "HOU",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 3,
+        "age": 26,
+        "depth_chart_position": "LWR",
+        "search_rank": 679
+      },
       "10219": {
         "player_id": "10219",
         "name": "Chris Rodriguez Jr.",
@@ -2860,7 +2877,7 @@
         "years_exp": 3,
         "age": 27,
         "depth_chart_position": "RB",
-        "search_rank": 125
+        "search_rank": 127
       },
       "10222": {
         "player_id": "10222",
@@ -2964,6 +2981,23 @@
         "depth_chart_position": "TE",
         "search_rank": 58
       },
+      "11199": {
+        "player_id": "11199",
+        "name": "Emari Demercado",
+        "first_name": "Emari",
+        "last_name": "Demercado",
+        "team": "HOU",
+        "position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 3,
+        "age": 27,
+        "depth_chart_position": "RB",
+        "search_rank": 502
+      },
       "11237": {
         "player_id": "11237",
         "name": "Jacob Saylors",
@@ -3045,9 +3079,9 @@
         "status": "Active",
         "injury_status": null,
         "years_exp": 2,
-        "age": 24,
+        "age": 25,
         "depth_chart_position": "QB",
-        "search_rank": 22
+        "search_rank": 23
       },
       "11563": {
         "player_id": "11563",
@@ -3064,7 +3098,7 @@
         "years_exp": 2,
         "age": 26,
         "depth_chart_position": "QB",
-        "search_rank": 45
+        "search_rank": 46
       },
       "11564": {
         "player_id": "11564",
@@ -3115,24 +3149,7 @@
         "years_exp": 2,
         "age": 25,
         "depth_chart_position": "QB",
-        "search_rank": 21
-      },
-      "11569": {
-        "player_id": "11569",
-        "name": "Jarquez Hunter",
-        "first_name": "Jarquez",
-        "last_name": "Hunter",
-        "team": null,
-        "position": "RB",
-        "fantasy_positions": [
-          "RB"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 1,
-        "age": 23,
-        "depth_chart_position": null,
-        "search_rank": 191
+        "search_rank": 22
       },
       "11575": {
         "player_id": "11575",
@@ -3253,6 +3270,23 @@
         "depth_chart_position": "RB",
         "search_rank": 68
       },
+      "11593": {
+        "player_id": "11593",
+        "name": "Brevyn Spann-Ford",
+        "first_name": "Brevyn",
+        "last_name": "Spann-Ford",
+        "team": "DAL",
+        "position": "TE",
+        "fantasy_positions": [
+          "TE"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 2,
+        "age": 26,
+        "depth_chart_position": "TE",
+        "search_rank": 634
+      },
       "11603": {
         "player_id": "11603",
         "name": "AJ Barner",
@@ -3281,7 +3315,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "TE",
@@ -3298,7 +3332,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": null,
+        "injury_status": "Questionable",
         "years_exp": 2,
         "age": 25,
         "depth_chart_position": "SWR",
@@ -3353,7 +3387,7 @@
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "LWR",
-        "search_rank": 65
+        "search_rank": 63
       },
       "11624": {
         "player_id": "11624",
@@ -3434,7 +3468,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 2,
         "age": 24,
         "depth_chart_position": "RWR",
@@ -3502,7 +3536,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 2,
         "age": 25,
         "depth_chart_position": "SWR",
@@ -3625,7 +3659,7 @@
         "years_exp": 14,
         "age": 38,
         "depth_chart_position": "QB",
-        "search_rank": 261
+        "search_rank": 263
       },
       "11729": {
         "player_id": "11729",
@@ -3709,7 +3743,7 @@
         "injury_status": null,
         "years_exp": 1,
         "age": 22,
-        "depth_chart_position": null,
+        "depth_chart_position": "RB",
         "search_rank": 189
       },
       "12467": {
@@ -3774,7 +3808,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Doubtful",
         "years_exp": 1,
         "age": 25,
         "depth_chart_position": "RB",
@@ -3944,7 +3978,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 1,
         "age": 23,
         "depth_chart_position": "TE",
@@ -4199,7 +4233,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 1,
         "age": 22,
         "depth_chart_position": "RWR",
@@ -4353,7 +4387,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 1,
         "age": 24,
         "depth_chart_position": "RB",
@@ -4442,7 +4476,7 @@
         "years_exp": 1,
         "age": 27,
         "depth_chart_position": "QB",
-        "search_rank": 87
+        "search_rank": 88
       },
       "12547": {
         "player_id": "12547",
@@ -4495,6 +4529,23 @@
         "depth_chart_position": "SWR",
         "search_rank": 678
       },
+      "13075": {
+        "player_id": "13075",
+        "name": "Myles Price",
+        "first_name": "Myles",
+        "last_name": "Price",
+        "team": "MIN",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 1,
+        "age": 24,
+        "depth_chart_position": "SWR",
+        "search_rank": 700
+      },
       "13150": {
         "player_id": "13150",
         "name": "Darius Cooper",
@@ -4544,7 +4595,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "QB",
-        "search_rank": 110
+        "search_rank": 109
       },
       "13270": {
         "player_id": "13270",
@@ -4578,7 +4629,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "QB",
-        "search_rank": 286
+        "search_rank": 288
       },
       "13274": {
         "player_id": "13274",
@@ -4625,7 +4676,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
@@ -4642,7 +4693,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "RB",
@@ -4676,7 +4727,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 0,
         "age": 21,
         "depth_chart_position": "RWR",
@@ -4714,7 +4765,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RWR",
-        "search_rank": 201
+        "search_rank": 199
       },
       "13286": {
         "player_id": "13286",
@@ -4761,7 +4812,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "RB",
@@ -4884,7 +4935,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "RB",
-        "search_rank": 410
+        "search_rank": 411
       },
       "13305": {
         "player_id": "13305",
@@ -4914,7 +4965,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "LWR",
@@ -5118,7 +5169,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "SWR",
@@ -5156,7 +5207,7 @@
         "years_exp": 0,
         "age": 24,
         "depth_chart_position": "SWR",
-        "search_rank": 390
+        "search_rank": 391
       },
       "13405": {
         "player_id": "13405",
@@ -5224,7 +5275,7 @@
         "years_exp": 0,
         "age": 25,
         "depth_chart_position": "RB",
-        "search_rank": 161
+        "search_rank": 162
       },
       "13417": {
         "player_id": "13417",
@@ -5243,23 +5294,6 @@
         "depth_chart_position": "SWR",
         "search_rank": 112
       },
-      "13420": {
-        "player_id": "13420",
-        "name": "Bryce Lance",
-        "first_name": "Bryce",
-        "last_name": "Lance",
-        "team": "NO",
-        "position": "WR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 0,
-        "age": 24,
-        "depth_chart_position": "LWR",
-        "search_rank": 486
-      },
       "13421": {
         "player_id": "13421",
         "name": "Eli Raridon",
@@ -5275,7 +5309,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "TE",
-        "search_rank": 363
+        "search_rank": 364
       },
       "13424": {
         "player_id": "13424",
@@ -5292,7 +5326,7 @@
         "years_exp": 0,
         "age": 25,
         "depth_chart_position": "RB",
-        "search_rank": 377
+        "search_rank": 379
       },
       "13533": {
         "player_id": "13533",
@@ -5309,7 +5343,7 @@
         "years_exp": 0,
         "age": 22,
         "depth_chart_position": "SWR",
-        "search_rank": 454
+        "search_rank": 453
       },
       "1373": {
         "player_id": "1373",
@@ -5322,11 +5356,11 @@
           "QB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 13,
         "age": 36,
         "depth_chart_position": "QB",
-        "search_rank": 209
+        "search_rank": 211
       },
       "1466": {
         "player_id": "1466",
@@ -5339,7 +5373,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 13,
         "age": 37,
         "depth_chart_position": "TE",
@@ -5390,7 +5424,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 12,
         "age": 33,
         "depth_chart_position": "LWR",
@@ -5411,7 +5445,7 @@
         "years_exp": 11,
         "age": 32,
         "depth_chart_position": "SWR",
-        "search_rank": 105
+        "search_rank": 104
       },
       "2505": {
         "player_id": "2505",
@@ -5428,7 +5462,7 @@
         "years_exp": 11,
         "age": 34,
         "depth_chart_position": "TE",
-        "search_rank": 355
+        "search_rank": 357
       },
       "3163": {
         "player_id": "3163",
@@ -5543,7 +5577,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "",
+        "injury_status": "Questionable",
         "years_exp": 10,
         "age": 31,
         "depth_chart_position": null,
@@ -5685,6 +5719,23 @@
         "depth_chart_position": "RB",
         "search_rank": 92
       },
+      "4147": {
+        "player_id": "4147",
+        "name": "Samaje Perine",
+        "first_name": "Samaje",
+        "last_name": "Perine",
+        "team": "CIN",
+        "position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 9,
+        "age": 31,
+        "depth_chart_position": "RB",
+        "search_rank": 458
+      },
       "4177": {
         "player_id": "4177",
         "name": "Mack Hollins",
@@ -5734,7 +5785,7 @@
         "years_exp": 17,
         "age": 38,
         "depth_chart_position": "QB",
-        "search_rank": 65
+        "search_rank": 66
       },
       "4217": {
         "player_id": "4217",
@@ -5836,7 +5887,7 @@
         "years_exp": 8,
         "age": 31,
         "depth_chart_position": "QB",
-        "search_rank": 77
+        "search_rank": 76
       },
       "4943": {
         "player_id": "4943",
@@ -5853,7 +5904,7 @@
         "years_exp": 8,
         "age": 29,
         "depth_chart_position": "QB",
-        "search_rank": 92
+        "search_rank": 93
       },
       "4950": {
         "player_id": "4950",
@@ -5868,26 +5919,9 @@
         "status": "Inactive",
         "injury_status": "IR",
         "years_exp": 8,
-        "age": 29,
+        "age": 30,
         "depth_chart_position": "SWR",
         "search_rank": 210
-      },
-      "4981": {
-        "player_id": "4981",
-        "name": "Calvin Ridley",
-        "first_name": "Calvin",
-        "last_name": "Ridley",
-        "team": "TEN",
-        "position": "WR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 8,
-        "age": 31,
-        "depth_chart_position": "LWR",
-        "search_rank": 180
       },
       "4983": {
         "player_id": "4983",
@@ -6019,7 +6053,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "TE",
@@ -6172,7 +6206,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 7,
         "age": 29,
         "depth_chart_position": "RB",
@@ -6397,7 +6431,7 @@
         "years_exp": 6,
         "age": 28,
         "depth_chart_position": "QB",
-        "search_rank": 34
+        "search_rank": 33
       },
       "6801": {
         "player_id": "6801",
@@ -6448,7 +6482,7 @@
         "years_exp": 6,
         "age": 28,
         "depth_chart_position": "QB",
-        "search_rank": 67
+        "search_rank": 66
       },
       "6806": {
         "player_id": "6806",
@@ -6563,7 +6597,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 6,
         "age": 29,
         "depth_chart_position": "SWR",
@@ -6584,7 +6618,7 @@
         "years_exp": 5,
         "age": 27,
         "depth_chart_position": "QB",
-        "search_rank": 41
+        "search_rank": 42
       },
       "7525": {
         "player_id": "7525",
@@ -6597,7 +6631,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 5,
         "age": 28,
         "depth_chart_position": "LWR",
@@ -6614,7 +6648,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 5,
         "age": 27,
         "depth_chart_position": "RWR",
@@ -6670,23 +6704,6 @@
         "age": 26,
         "depth_chart_position": "TE",
         "search_rank": 67
-      },
-      "7562": {
-        "player_id": "7562",
-        "name": "Tutu Atwell",
-        "first_name": "Tutu",
-        "last_name": "Atwell",
-        "team": "LAR",
-        "position": "WR",
-        "fantasy_positions": [
-          "WR"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 5,
-        "age": 27,
-        "depth_chart_position": "RWR",
-        "search_rank": 691
       },
       "7564": {
         "player_id": "7564",
@@ -6953,8 +6970,8 @@
         "fantasy_positions": [
           "WR"
         ],
-        "status": "Active",
-        "injury_status": "Questionable",
+        "status": "Inactive",
+        "injury_status": "IR",
         "years_exp": 4,
         "age": 25,
         "depth_chart_position": "SWR",
@@ -7192,7 +7209,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "RB",
@@ -7231,23 +7248,6 @@
         "age": 25,
         "depth_chart_position": "RB",
         "search_rank": 27
-      },
-      "8161": {
-        "player_id": "8161",
-        "name": "Malik Willis",
-        "first_name": "Malik",
-        "last_name": "Willis",
-        "team": "MIA",
-        "position": "QB",
-        "fantasy_positions": [
-          "QB"
-        ],
-        "status": "Inactive",
-        "injury_status": "IR",
-        "years_exp": 4,
-        "age": 27,
-        "depth_chart_position": "QB",
-        "search_rank": 123
       },
       "8167": {
         "player_id": "8167",
@@ -7315,7 +7315,7 @@
         "years_exp": 4,
         "age": 26,
         "depth_chart_position": "QB",
-        "search_rank": 55
+        "search_rank": 56
       },
       "8188": {
         "player_id": "8188",
@@ -7362,7 +7362,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Questionable",
+        "injury_status": null,
         "years_exp": 4,
         "age": 27,
         "depth_chart_position": "TE",
@@ -7570,7 +7570,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "TE",
-        "search_rank": 421
+        "search_rank": 422
       },
       "9484": {
         "player_id": "9484",
@@ -7587,7 +7587,7 @@
         "years_exp": 3,
         "age": 26,
         "depth_chart_position": "TE",
-        "search_rank": 65
+        "search_rank": 64
       },
       "9486": {
         "player_id": "9486",
@@ -7600,7 +7600,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": "Questionable",
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "RWR",
@@ -7893,7 +7893,7 @@
         "years_exp": 3,
         "age": 25,
         "depth_chart_position": "QB",
-        "search_rank": 102
+        "search_rank": 101
       },
       "9997": {
         "player_id": "9997",
@@ -7946,23 +7946,6 @@
         "depth_chart_position": null,
         "search_rank": 667
       },
-      "11199": {
-        "player_id": "11199",
-        "name": "Emari Demercado",
-        "first_name": "Emari",
-        "last_name": "Demercado",
-        "team": "HOU",
-        "position": "RB",
-        "fantasy_positions": [
-          "RB"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 3,
-        "age": 27,
-        "depth_chart_position": "RB",
-        "search_rank": 502
-      },
       "11370": {
         "player_id": "11370",
         "name": "Chris Brooks",
@@ -7996,6 +7979,23 @@
         "age": 26,
         "depth_chart_position": "RB",
         "search_rank": 696
+      },
+      "11569": {
+        "player_id": "11569",
+        "name": "Jarquez Hunter",
+        "first_name": "Jarquez",
+        "last_name": "Hunter",
+        "team": null,
+        "position": "RB",
+        "fantasy_positions": [
+          "RB"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 1,
+        "age": 23,
+        "depth_chart_position": null,
+        "search_rank": 191
       },
       "11571": {
         "player_id": "11571",
@@ -8076,7 +8076,7 @@
           "TE"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 2,
         "age": 23,
         "depth_chart_position": "TE",
@@ -8263,7 +8263,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "LWR",
@@ -8301,7 +8301,7 @@
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "QB",
-        "search_rank": 394
+        "search_rank": 395
       },
       "13329": {
         "player_id": "13329",
@@ -8314,7 +8314,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 0,
         "age": 24,
         "depth_chart_position": "SWR",
@@ -8348,11 +8348,28 @@
           "QB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 0,
         "age": 24,
         "depth_chart_position": "QB",
         "search_rank": 515
+      },
+      "13420": {
+        "player_id": "13420",
+        "name": "Bryce Lance",
+        "first_name": "Bryce",
+        "last_name": "Lance",
+        "team": "NO",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 0,
+        "age": 24,
+        "depth_chart_position": "LWR",
+        "search_rank": 486
       },
       "13423": {
         "player_id": "13423",
@@ -8365,11 +8382,11 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 0,
         "age": 23,
         "depth_chart_position": "RB",
-        "search_rank": 489
+        "search_rank": 487
       },
       "13425": {
         "player_id": "13425",
@@ -8416,7 +8433,7 @@
           "WR"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 12,
         "age": 33,
         "depth_chart_position": "LWR",
@@ -8575,23 +8592,6 @@
         "depth_chart_position": null,
         "search_rank": 242
       },
-      "4147": {
-        "player_id": "4147",
-        "name": "Samaje Perine",
-        "first_name": "Samaje",
-        "last_name": "Perine",
-        "team": "CIN",
-        "position": "RB",
-        "fantasy_positions": [
-          "RB"
-        ],
-        "status": "Active",
-        "injury_status": null,
-        "years_exp": 9,
-        "age": 31,
-        "depth_chart_position": "RB",
-        "search_rank": 458
-      },
       "4219": {
         "player_id": "4219",
         "name": "Jeremy McNichols",
@@ -8625,6 +8625,23 @@
         "age": 35,
         "depth_chart_position": null,
         "search_rank": 321
+      },
+      "4981": {
+        "player_id": "4981",
+        "name": "Calvin Ridley",
+        "first_name": "Calvin",
+        "last_name": "Ridley",
+        "team": "TEN",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 8,
+        "age": 31,
+        "depth_chart_position": "LWR",
+        "search_rank": 180
       },
       "4988": {
         "player_id": "4988",
@@ -8739,7 +8756,7 @@
           "RB"
         ],
         "status": "Active",
-        "injury_status": "Out",
+        "injury_status": null,
         "years_exp": 6,
         "age": 28,
         "depth_chart_position": "RB",
@@ -8830,12 +8847,29 @@
         "depth_chart_position": null,
         "search_rank": 170
       },
+      "7562": {
+        "player_id": "7562",
+        "name": "Tutu Atwell",
+        "first_name": "Tutu",
+        "last_name": "Atwell",
+        "team": "LAR",
+        "position": "WR",
+        "fantasy_positions": [
+          "WR"
+        ],
+        "status": "Active",
+        "injury_status": null,
+        "years_exp": 5,
+        "age": 27,
+        "depth_chart_position": "RWR",
+        "search_rank": 691
+      },
       "7607": {
         "player_id": "7607",
         "name": "Michael Carter",
         "first_name": "Michael",
         "last_name": "Carter",
-        "team": null,
+        "team": "TEN",
         "position": "RB",
         "fantasy_positions": [
           "RB"
@@ -8948,6 +8982,23 @@
         "age": 26,
         "depth_chart_position": "LWR",
         "search_rank": 697
+      },
+      "8161": {
+        "player_id": "8161",
+        "name": "Malik Willis",
+        "first_name": "Malik",
+        "last_name": "Willis",
+        "team": "MIA",
+        "position": "QB",
+        "fantasy_positions": [
+          "QB"
+        ],
+        "status": "Inactive",
+        "injury_status": "IR",
+        "years_exp": 4,
+        "age": 27,
+        "depth_chart_position": "QB",
+        "search_rank": 123
       },
       "8207": {
         "player_id": "8207",
@@ -28695,6 +28746,7 @@
             "points": 0.0,
             "custom_points": null,
             "players": [
+              "10218",
               "10859",
               "11579",
               "11584",
@@ -28704,7 +28756,7 @@
               "2216",
               "2449",
               "4046",
-              "4981",
+              "4147",
               "4993",
               "5995",
               "6427",
@@ -28715,7 +28767,6 @@
               "8110",
               "8112",
               "8121",
-              "8161",
               "9501",
               "9502",
               "9506",
@@ -28728,7 +28779,7 @@
               "7525",
               "2449",
               "10859",
-              "5995",
+              "10218",
               "2216",
               "4993"
             ],
@@ -28737,20 +28788,21 @@
               "11655",
               "13150",
               "13269",
-              "4981",
+              "4147",
+              "5995",
               "6427",
               "6804",
               "6819",
               "8110",
               "8112",
               "8121",
-              "8161",
               "9501",
               "9502",
               "9506",
               "9509"
             ],
             "players_points": {
+              "10218": 0.0,
               "10859": 0.0,
               "11579": 0.0,
               "11584": 0.0,
@@ -28760,7 +28812,7 @@
               "2216": 0.0,
               "2449": 0.0,
               "4046": 0.0,
-              "4981": 0.0,
+              "4147": 0.0,
               "4993": 0.0,
               "5995": 0.0,
               "6427": 0.0,
@@ -28771,7 +28823,6 @@
               "8110": 0.0,
               "8112": 0.0,
               "8121": 0.0,
-              "8161": 0.0,
               "9501": 0.0,
               "9502": 0.0,
               "9506": 0.0,
@@ -28780,6 +28831,7 @@
             "starters_points": {},
             "display": {
               "players": [
+                "Xavier Hutchinson",
                 "Sam LaPorta",
                 "Audric Estime",
                 "Bucky Irving",
@@ -28789,7 +28841,7 @@
                 "Mike Evans",
                 "Stefon Diggs",
                 "Patrick Mahomes",
-                "Calvin Ridley",
+                "Samaje Perine",
                 "Mike Gesicki",
                 "Justice Hill",
                 "Ashton Dulin",
@@ -28800,7 +28852,6 @@
                 "Jake Ferguson",
                 "Drake London",
                 "Romeo Doubs",
-                "Malik Willis",
                 "DeMario Douglas",
                 "Tank Dell",
                 "Sean Tucker",
@@ -28813,7 +28864,7 @@
                 "DeVonta Smith",
                 "Stefon Diggs",
                 "Sam LaPorta",
-                "Justice Hill",
+                "Xavier Hutchinson",
                 "Mike Evans",
                 "Mike Gesicki"
               ],
@@ -28822,14 +28873,14 @@
                 "Tyrone Tracy Jr.",
                 "Darius Cooper",
                 "Fernando Mendoza",
-                "Calvin Ridley",
+                "Samaje Perine",
+                "Justice Hill",
                 "Ashton Dulin",
                 "Jordan Love",
                 "Michael Pittman Jr.",
                 "Jake Ferguson",
                 "Drake London",
                 "Romeo Doubs",
-                "Malik Willis",
                 "DeMario Douglas",
                 "Tank Dell",
                 "Sean Tucker",
@@ -29154,8 +29205,8 @@
               "12508",
               "12527",
               "12534",
+              "13075",
               "13353",
-              "13420",
               "1479",
               "4034",
               "4137",
@@ -29178,7 +29229,7 @@
               "8146",
               "5872",
               "4217",
-              "12506",
+              "12534",
               "12527",
               "11834"
             ],
@@ -29186,10 +29237,10 @@
               "11628",
               "11638",
               "12483",
+              "12506",
               "12508",
-              "12534",
+              "13075",
               "13353",
-              "13420",
               "1479",
               "4137",
               "4199",
@@ -29210,8 +29261,8 @@
               "12508": 0.0,
               "12527": 0.0,
               "12534": 0.0,
+              "13075": 0.0,
               "13353": 0.0,
-              "13420": 0.0,
               "1479": 0.0,
               "4034": 0.0,
               "4137": 0.0,
@@ -29239,8 +29290,8 @@
                 "Jaxson Dart",
                 "Ashton Jeanty",
                 "Kyle Monangai",
+                "Myles Price",
                 "Chris Brazzell II",
-                "Bryce Lance",
                 "Keenan Allen",
                 "Christian McCaffrey",
                 "James Conner",
@@ -29263,7 +29314,7 @@
                 "Garrett Wilson",
                 "Deebo Samuel Sr.",
                 "George Kittle",
-                "Harold Fannin Jr.",
+                "Kyle Monangai",
                 "Ashton Jeanty",
                 "Devaughn Vele"
               ],
@@ -29271,10 +29322,10 @@
                 "Marvin Harrison Jr.",
                 "Ricky Pearsall",
                 "Jack Bech",
+                "Harold Fannin Jr.",
                 "Jaxson Dart",
-                "Kyle Monangai",
+                "Myles Price",
                 "Chris Brazzell II",
-                "Bryce Lance",
                 "Keenan Allen",
                 "James Conner",
                 "Aaron Jones Sr.",
@@ -29445,9 +29496,9 @@
             "points": 0.0,
             "custom_points": null,
             "players": [
+              "11199",
               "11435",
               "11564",
-              "11569",
               "11581",
               "11630",
               "11646",
@@ -29472,19 +29523,19 @@
               "9753"
             ],
             "starters": [
-              "11564",
-              "9753",
-              "8150",
+              "6797",
+              "8151",
+              "11199",
               "6786",
               "6794",
               "8130",
-              "13346",
+              "8131",
               "11646",
-              "7611"
+              "9500"
             ],
             "bench": [
               "11435",
-              "11569",
+              "11564",
               "11581",
               "11630",
               "12484",
@@ -29493,17 +29544,17 @@
               "12531",
               "13270",
               "13301",
-              "6797",
+              "13346",
+              "7611",
               "8125",
-              "8131",
               "8142",
-              "8151",
-              "9500"
+              "8150",
+              "9753"
             ],
             "players_points": {
+              "11199": 0.0,
               "11435": 0.0,
               "11564": 0.0,
-              "11569": 0.0,
               "11581": 0.0,
               "11630": 0.0,
               "11646": 0.0,
@@ -29530,9 +29581,9 @@
             "starters_points": {},
             "display": {
               "players": [
+                "Emari Demercado",
                 "Emanuel Wilson",
                 "Drake Maye",
-                "Jarquez Hunter",
                 "MarShawn Lloyd",
                 "Roman Wilson",
                 "Jalen Coker",
@@ -29557,19 +29608,19 @@
                 "Zach Charbonnet"
               ],
               "starters": [
-                "Drake Maye",
-                "Zach Charbonnet",
-                "Kyren Williams",
+                "Justin Herbert",
+                "Kenneth Walker III",
+                "Emari Demercado",
                 "CeeDee Lamb",
                 "Justin Jefferson",
                 "Trey McBride",
-                "Denzel Boston",
+                "Isaiah Likely",
                 "Jalen Coker",
-                "Rhamondre Stevenson"
+                "Josh Downs"
               ],
               "bench": [
                 "Emanuel Wilson",
-                "Jarquez Hunter",
+                "Drake Maye",
                 "MarShawn Lloyd",
                 "Roman Wilson",
                 "Jayden Higgins",
@@ -29578,12 +29629,12 @@
                 "Trevor Etienne",
                 "CJ Daniels",
                 "Antonio Williams",
-                "Justin Herbert",
+                "Denzel Boston",
+                "Rhamondre Stevenson",
                 "Calvin Austin III",
-                "Isaiah Likely",
                 "Alec Pierce",
-                "Kenneth Walker III",
-                "Josh Downs"
+                "Kyren Williams",
+                "Zach Charbonnet"
               ]
             }
           },
@@ -29892,6 +29943,7 @@
             "players": [
               "11563",
               "11575",
+              "11593",
               "11604",
               "11627",
               "12469",
@@ -29910,7 +29962,6 @@
               "6801",
               "7021",
               "7526",
-              "7562",
               "8138",
               "8228",
               "9228",
@@ -29930,6 +29981,7 @@
             "bench": [
               "11563",
               "11575",
+              "11593",
               "11627",
               "12469",
               "12482",
@@ -29941,13 +29993,13 @@
               "5850",
               "5859",
               "6039",
-              "7562",
               "9228",
               "9482"
             ],
             "players_points": {
               "11563": 0.0,
               "11575": 0.0,
+              "11593": 0.0,
               "11604": 0.0,
               "11627": 0.0,
               "12469": 0.0,
@@ -29966,7 +30018,6 @@
               "6801": 0.0,
               "7021": 0.0,
               "7526": 0.0,
-              "7562": 0.0,
               "8138": 0.0,
               "8228": 0.0,
               "9228": 0.0,
@@ -29977,6 +30028,7 @@
               "players": [
                 "Bo Nix",
                 "Ray Davis",
+                "Brevyn Spann-Ford",
                 "Brock Bowers",
                 "Troy Franklin",
                 "Dylan Sampson",
@@ -29995,7 +30047,6 @@
                 "Tee Higgins",
                 "Rico Dowdle",
                 "Jaylen Waddle",
-                "Tutu Atwell",
                 "James Cook III",
                 "Jaylen Warren",
                 "Bryce Young",
@@ -30015,6 +30066,7 @@
               "bench": [
                 "Bo Nix",
                 "Ray Davis",
+                "Brevyn Spann-Ford",
                 "Troy Franklin",
                 "Dylan Sampson",
                 "Savion Williams",
@@ -30026,7 +30078,6 @@
                 "Josh Jacobs",
                 "A.J. Brown",
                 "Ty Johnson",
-                "Tutu Atwell",
                 "Bryce Young",
                 "Michael Mayer"
               ]
@@ -37735,23 +37786,372 @@
             "waiver_budget": [],
             "settings": {},
             "metadata": {}
+          },
+          {
+            "week": 10,
+            "transaction_id": "1428405896223916032",
+            "type": "waiver",
+            "status": "complete",
+            "created": 1794921013459,
+            "created_at": "2026-11-17T13:10:13.459000Z",
+            "status_updated": 1794989777518,
+            "status_updated_at": "2026-11-18T08:16:17.518000Z",
+            "creator_user_id": "471415197991432192",
+            "roster_ids": [
+              3
+            ],
+            "team_labels": [
+              "Laporta Potty"
+            ],
+            "consenter_ids": [
+              3
+            ],
+            "consenter_team_labels": [
+              "Laporta Potty"
+            ],
+            "adds": [
+              {
+                "player_id": "10218",
+                "player_name": "Xavier Hutchinson",
+                "roster_id": 3,
+                "team_label": "Laporta Potty"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "8161",
+                "player_name": "Malik Willis",
+                "roster_id": 3,
+                "team_label": "Laporta Potty"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {
+              "seq": 0,
+              "waiver_bid": 16
+            },
+            "metadata": {
+              "notes": "Your waiver claim was processed successfully!"
+            }
+          },
+          {
+            "week": 10,
+            "transaction_id": "1428618089766866944",
+            "type": "waiver",
+            "status": "failed",
+            "created": 1794971604343,
+            "created_at": "2026-11-18T03:13:24.343000Z",
+            "status_updated": 1794989777518,
+            "status_updated_at": "2026-11-18T08:16:17.518000Z",
+            "creator_user_id": "471451909446692864",
+            "roster_ids": [
+              6
+            ],
+            "team_labels": [
+              "andrewwelle"
+            ],
+            "consenter_ids": [
+              6
+            ],
+            "consenter_team_labels": [
+              "andrewwelle"
+            ],
+            "adds": [
+              {
+                "player_id": "10218",
+                "player_name": "Xavier Hutchinson",
+                "roster_id": 6,
+                "team_label": "andrewwelle"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {
+              "seq": 2,
+              "waiver_bid": 10
+            },
+            "metadata": {
+              "notes": "This player was claimed by another owner."
+            }
+          },
+          {
+            "week": 10,
+            "transaction_id": "1428618311880417281",
+            "type": "waiver",
+            "status": "complete",
+            "created": 1794971657299,
+            "created_at": "2026-11-18T03:14:17.299000Z",
+            "status_updated": 1794989777518,
+            "status_updated_at": "2026-11-18T08:16:17.518000Z",
+            "creator_user_id": "471451909446692864",
+            "roster_ids": [
+              6
+            ],
+            "team_labels": [
+              "andrewwelle"
+            ],
+            "consenter_ids": [
+              6
+            ],
+            "consenter_team_labels": [
+              "andrewwelle"
+            ],
+            "adds": [
+              {
+                "player_id": "13075",
+                "player_name": "Myles Price",
+                "roster_id": 6,
+                "team_label": "andrewwelle"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "13420",
+                "player_name": "Bryce Lance",
+                "roster_id": 6,
+                "team_label": "andrewwelle"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {
+              "seq": 3,
+              "waiver_bid": 10
+            },
+            "metadata": {
+              "notes": "Your waiver claim was processed successfully!"
+            }
+          },
+          {
+            "week": 10,
+            "transaction_id": "1428618666886316032",
+            "type": "waiver",
+            "status": "failed",
+            "created": 1794971741938,
+            "created_at": "2026-11-18T03:15:41.938000Z",
+            "status_updated": 1794989777518,
+            "status_updated_at": "2026-11-18T08:16:17.518000Z",
+            "creator_user_id": "471451909446692864",
+            "roster_ids": [
+              6
+            ],
+            "team_labels": [
+              "andrewwelle"
+            ],
+            "consenter_ids": [
+              6
+            ],
+            "consenter_team_labels": [
+              "andrewwelle"
+            ],
+            "adds": [
+              {
+                "player_id": "13075",
+                "player_name": "Myles Price",
+                "roster_id": 6,
+                "team_label": "andrewwelle"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {
+              "seq": 4,
+              "waiver_bid": 10
+            },
+            "metadata": {
+              "notes": "This player was claimed by another owner."
+            }
+          },
+          {
+            "week": 10,
+            "transaction_id": "1428640864111951872",
+            "type": "waiver",
+            "status": "failed",
+            "created": 1794977034170,
+            "created_at": "2026-11-18T04:43:54.170000Z",
+            "status_updated": 1794989777518,
+            "status_updated_at": "2026-11-18T08:16:17.518000Z",
+            "creator_user_id": "471424563457028096",
+            "roster_ids": [
+              5
+            ],
+            "team_labels": [
+              "White Ice"
+            ],
+            "consenter_ids": [
+              5
+            ],
+            "consenter_team_labels": [
+              "White Ice"
+            ],
+            "adds": [
+              {
+                "player_id": "10218",
+                "player_name": "Xavier Hutchinson",
+                "roster_id": 5,
+                "team_label": "White Ice"
+              }
+            ],
+            "drops": [],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {
+              "seq": 1,
+              "waiver_bid": 12
+            },
+            "metadata": {
+              "notes": "This player was claimed by another owner."
+            }
           }
         ],
         "counts": {
-          "transactions": 7,
+          "transactions": 12,
           "trades": 0,
-          "waivers": 0,
+          "waivers": 5,
           "free_agent_moves": 7
         }
       },
       "11": {
         "week": 11,
-        "transactions": [],
+        "transactions": [
+          {
+            "week": 11,
+            "transaction_id": "1428756004111142912",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1795004485684,
+            "created_at": "2026-11-18T12:21:25.684000Z",
+            "status_updated": 1795004485684,
+            "status_updated_at": "2026-11-18T12:21:25.684000Z",
+            "creator_user_id": "471457570825957376",
+            "roster_ids": [
+              8
+            ],
+            "team_labels": [
+              "Back to the Future"
+            ],
+            "consenter_ids": [
+              8
+            ],
+            "consenter_team_labels": [
+              "Back to the Future"
+            ],
+            "adds": [
+              {
+                "player_id": "11199",
+                "player_name": "Emari Demercado",
+                "roster_id": 8,
+                "team_label": "Back to the Future"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "11569",
+                "player_name": "Jarquez Hunter",
+                "roster_id": 8,
+                "team_label": "Back to the Future"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
+          },
+          {
+            "week": 11,
+            "transaction_id": "1428756369950928896",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1795004572907,
+            "created_at": "2026-11-18T12:22:52.907000Z",
+            "status_updated": 1795004572907,
+            "status_updated_at": "2026-11-18T12:22:52.907000Z",
+            "creator_user_id": "471415197991432192",
+            "roster_ids": [
+              3
+            ],
+            "team_labels": [
+              "Laporta Potty"
+            ],
+            "consenter_ids": [
+              3
+            ],
+            "consenter_team_labels": [
+              "Laporta Potty"
+            ],
+            "adds": [
+              {
+                "player_id": "4147",
+                "player_name": "Samaje Perine",
+                "roster_id": 3,
+                "team_label": "Laporta Potty"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "4981",
+                "player_name": "Calvin Ridley",
+                "roster_id": 3,
+                "team_label": "Laporta Potty"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
+          },
+          {
+            "week": 11,
+            "transaction_id": "1428833257100677120",
+            "type": "free_agent",
+            "status": "complete",
+            "created": 1795022904232,
+            "created_at": "2026-11-18T17:28:24.232000Z",
+            "status_updated": 1795022904232,
+            "status_updated_at": "2026-11-18T17:28:24.232000Z",
+            "creator_user_id": "471724614532198400",
+            "roster_ids": [
+              11
+            ],
+            "team_labels": [
+              "MOJO"
+            ],
+            "consenter_ids": [
+              11
+            ],
+            "consenter_team_labels": [
+              "MOJO"
+            ],
+            "adds": [
+              {
+                "player_id": "11593",
+                "player_name": "Brevyn Spann-Ford",
+                "roster_id": 11,
+                "team_label": "MOJO"
+              }
+            ],
+            "drops": [
+              {
+                "player_id": "7562",
+                "player_name": "Tutu Atwell",
+                "roster_id": 11,
+                "team_label": "MOJO"
+              }
+            ],
+            "draft_picks": [],
+            "waiver_budget": [],
+            "settings": {},
+            "metadata": {}
+          }
+        ],
         "counts": {
-          "transactions": 0,
+          "transactions": 3,
           "trades": 0,
           "waivers": 0,
-          "free_agent_moves": 0
+          "free_agent_moves": 3
         }
       }
     },
@@ -45192,6 +45592,354 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 10,
+        "transaction_id": "1428405896223916032",
+        "type": "waiver",
+        "status": "complete",
+        "created": 1794921013459,
+        "created_at": "2026-11-17T13:10:13.459000Z",
+        "status_updated": 1794989777518,
+        "status_updated_at": "2026-11-18T08:16:17.518000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "10218",
+            "player_name": "Xavier Hutchinson",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "8161",
+            "player_name": "Malik Willis",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 0,
+          "waiver_bid": 16
+        },
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        }
+      },
+      {
+        "week": 10,
+        "transaction_id": "1428618089766866944",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1794971604343,
+        "created_at": "2026-11-18T03:13:24.343000Z",
+        "status_updated": 1794989777518,
+        "status_updated_at": "2026-11-18T08:16:17.518000Z",
+        "creator_user_id": "471451909446692864",
+        "roster_ids": [
+          6
+        ],
+        "team_labels": [
+          "andrewwelle"
+        ],
+        "consenter_ids": [
+          6
+        ],
+        "consenter_team_labels": [
+          "andrewwelle"
+        ],
+        "adds": [
+          {
+            "player_id": "10218",
+            "player_name": "Xavier Hutchinson",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 2,
+          "waiver_bid": 10
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 10,
+        "transaction_id": "1428618311880417281",
+        "type": "waiver",
+        "status": "complete",
+        "created": 1794971657299,
+        "created_at": "2026-11-18T03:14:17.299000Z",
+        "status_updated": 1794989777518,
+        "status_updated_at": "2026-11-18T08:16:17.518000Z",
+        "creator_user_id": "471451909446692864",
+        "roster_ids": [
+          6
+        ],
+        "team_labels": [
+          "andrewwelle"
+        ],
+        "consenter_ids": [
+          6
+        ],
+        "consenter_team_labels": [
+          "andrewwelle"
+        ],
+        "adds": [
+          {
+            "player_id": "13075",
+            "player_name": "Myles Price",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13420",
+            "player_name": "Bryce Lance",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 3,
+          "waiver_bid": 10
+        },
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        }
+      },
+      {
+        "week": 10,
+        "transaction_id": "1428618666886316032",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1794971741938,
+        "created_at": "2026-11-18T03:15:41.938000Z",
+        "status_updated": 1794989777518,
+        "status_updated_at": "2026-11-18T08:16:17.518000Z",
+        "creator_user_id": "471451909446692864",
+        "roster_ids": [
+          6
+        ],
+        "team_labels": [
+          "andrewwelle"
+        ],
+        "consenter_ids": [
+          6
+        ],
+        "consenter_team_labels": [
+          "andrewwelle"
+        ],
+        "adds": [
+          {
+            "player_id": "13075",
+            "player_name": "Myles Price",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 4,
+          "waiver_bid": 10
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 10,
+        "transaction_id": "1428640864111951872",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1794977034170,
+        "created_at": "2026-11-18T04:43:54.170000Z",
+        "status_updated": 1794989777518,
+        "status_updated_at": "2026-11-18T08:16:17.518000Z",
+        "creator_user_id": "471424563457028096",
+        "roster_ids": [
+          5
+        ],
+        "team_labels": [
+          "White Ice"
+        ],
+        "consenter_ids": [
+          5
+        ],
+        "consenter_team_labels": [
+          "White Ice"
+        ],
+        "adds": [
+          {
+            "player_id": "10218",
+            "player_name": "Xavier Hutchinson",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 1,
+          "waiver_bid": 12
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 11,
+        "transaction_id": "1428756004111142912",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1795004485684,
+        "created_at": "2026-11-18T12:21:25.684000Z",
+        "status_updated": 1795004485684,
+        "status_updated_at": "2026-11-18T12:21:25.684000Z",
+        "creator_user_id": "471457570825957376",
+        "roster_ids": [
+          8
+        ],
+        "team_labels": [
+          "Back to the Future"
+        ],
+        "consenter_ids": [
+          8
+        ],
+        "consenter_team_labels": [
+          "Back to the Future"
+        ],
+        "adds": [
+          {
+            "player_id": "11199",
+            "player_name": "Emari Demercado",
+            "roster_id": 8,
+            "team_label": "Back to the Future"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "11569",
+            "player_name": "Jarquez Hunter",
+            "roster_id": 8,
+            "team_label": "Back to the Future"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 11,
+        "transaction_id": "1428756369950928896",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1795004572907,
+        "created_at": "2026-11-18T12:22:52.907000Z",
+        "status_updated": 1795004572907,
+        "status_updated_at": "2026-11-18T12:22:52.907000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "4147",
+            "player_name": "Samaje Perine",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "4981",
+            "player_name": "Calvin Ridley",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 11,
+        "transaction_id": "1428833257100677120",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1795022904232,
+        "created_at": "2026-11-18T17:28:24.232000Z",
+        "status_updated": 1795022904232,
+        "status_updated_at": "2026-11-18T17:28:24.232000Z",
+        "creator_user_id": "471724614532198400",
+        "roster_ids": [
+          11
+        ],
+        "team_labels": [
+          "MOJO"
+        ],
+        "consenter_ids": [
+          11
+        ],
+        "consenter_team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "11593",
+            "player_name": "Brevyn Spann-Ford",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "7562",
+            "player_name": "Tutu Atwell",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "trades": [
@@ -47971,6 +48719,225 @@
         "settings": {
           "seq": 2,
           "waiver_bid": 14
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 10,
+        "transaction_id": "1428405896223916032",
+        "type": "waiver",
+        "status": "complete",
+        "created": 1794921013459,
+        "created_at": "2026-11-17T13:10:13.459000Z",
+        "status_updated": 1794989777518,
+        "status_updated_at": "2026-11-18T08:16:17.518000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "10218",
+            "player_name": "Xavier Hutchinson",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "8161",
+            "player_name": "Malik Willis",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 0,
+          "waiver_bid": 16
+        },
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        }
+      },
+      {
+        "week": 10,
+        "transaction_id": "1428618089766866944",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1794971604343,
+        "created_at": "2026-11-18T03:13:24.343000Z",
+        "status_updated": 1794989777518,
+        "status_updated_at": "2026-11-18T08:16:17.518000Z",
+        "creator_user_id": "471451909446692864",
+        "roster_ids": [
+          6
+        ],
+        "team_labels": [
+          "andrewwelle"
+        ],
+        "consenter_ids": [
+          6
+        ],
+        "consenter_team_labels": [
+          "andrewwelle"
+        ],
+        "adds": [
+          {
+            "player_id": "10218",
+            "player_name": "Xavier Hutchinson",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 2,
+          "waiver_bid": 10
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 10,
+        "transaction_id": "1428618311880417281",
+        "type": "waiver",
+        "status": "complete",
+        "created": 1794971657299,
+        "created_at": "2026-11-18T03:14:17.299000Z",
+        "status_updated": 1794989777518,
+        "status_updated_at": "2026-11-18T08:16:17.518000Z",
+        "creator_user_id": "471451909446692864",
+        "roster_ids": [
+          6
+        ],
+        "team_labels": [
+          "andrewwelle"
+        ],
+        "consenter_ids": [
+          6
+        ],
+        "consenter_team_labels": [
+          "andrewwelle"
+        ],
+        "adds": [
+          {
+            "player_id": "13075",
+            "player_name": "Myles Price",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13420",
+            "player_name": "Bryce Lance",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 3,
+          "waiver_bid": 10
+        },
+        "metadata": {
+          "notes": "Your waiver claim was processed successfully!"
+        }
+      },
+      {
+        "week": 10,
+        "transaction_id": "1428618666886316032",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1794971741938,
+        "created_at": "2026-11-18T03:15:41.938000Z",
+        "status_updated": 1794989777518,
+        "status_updated_at": "2026-11-18T08:16:17.518000Z",
+        "creator_user_id": "471451909446692864",
+        "roster_ids": [
+          6
+        ],
+        "team_labels": [
+          "andrewwelle"
+        ],
+        "consenter_ids": [
+          6
+        ],
+        "consenter_team_labels": [
+          "andrewwelle"
+        ],
+        "adds": [
+          {
+            "player_id": "13075",
+            "player_name": "Myles Price",
+            "roster_id": 6,
+            "team_label": "andrewwelle"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 4,
+          "waiver_bid": 10
+        },
+        "metadata": {
+          "notes": "This player was claimed by another owner."
+        }
+      },
+      {
+        "week": 10,
+        "transaction_id": "1428640864111951872",
+        "type": "waiver",
+        "status": "failed",
+        "created": 1794977034170,
+        "created_at": "2026-11-18T04:43:54.170000Z",
+        "status_updated": 1794989777518,
+        "status_updated_at": "2026-11-18T08:16:17.518000Z",
+        "creator_user_id": "471424563457028096",
+        "roster_ids": [
+          5
+        ],
+        "team_labels": [
+          "White Ice"
+        ],
+        "consenter_ids": [
+          5
+        ],
+        "consenter_team_labels": [
+          "White Ice"
+        ],
+        "adds": [
+          {
+            "player_id": "10218",
+            "player_name": "Xavier Hutchinson",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          }
+        ],
+        "drops": [],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {
+          "seq": 1,
+          "waiver_bid": 12
         },
         "metadata": {
           "notes": "This player was claimed by another owner."
@@ -52603,23 +53570,152 @@
         "waiver_budget": [],
         "settings": {},
         "metadata": {}
+      },
+      {
+        "week": 11,
+        "transaction_id": "1428756004111142912",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1795004485684,
+        "created_at": "2026-11-18T12:21:25.684000Z",
+        "status_updated": 1795004485684,
+        "status_updated_at": "2026-11-18T12:21:25.684000Z",
+        "creator_user_id": "471457570825957376",
+        "roster_ids": [
+          8
+        ],
+        "team_labels": [
+          "Back to the Future"
+        ],
+        "consenter_ids": [
+          8
+        ],
+        "consenter_team_labels": [
+          "Back to the Future"
+        ],
+        "adds": [
+          {
+            "player_id": "11199",
+            "player_name": "Emari Demercado",
+            "roster_id": 8,
+            "team_label": "Back to the Future"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "11569",
+            "player_name": "Jarquez Hunter",
+            "roster_id": 8,
+            "team_label": "Back to the Future"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 11,
+        "transaction_id": "1428756369950928896",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1795004572907,
+        "created_at": "2026-11-18T12:22:52.907000Z",
+        "status_updated": 1795004572907,
+        "status_updated_at": "2026-11-18T12:22:52.907000Z",
+        "creator_user_id": "471415197991432192",
+        "roster_ids": [
+          3
+        ],
+        "team_labels": [
+          "Laporta Potty"
+        ],
+        "consenter_ids": [
+          3
+        ],
+        "consenter_team_labels": [
+          "Laporta Potty"
+        ],
+        "adds": [
+          {
+            "player_id": "4147",
+            "player_name": "Samaje Perine",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "4981",
+            "player_name": "Calvin Ridley",
+            "roster_id": 3,
+            "team_label": "Laporta Potty"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
+      },
+      {
+        "week": 11,
+        "transaction_id": "1428833257100677120",
+        "type": "free_agent",
+        "status": "complete",
+        "created": 1795022904232,
+        "created_at": "2026-11-18T17:28:24.232000Z",
+        "status_updated": 1795022904232,
+        "status_updated_at": "2026-11-18T17:28:24.232000Z",
+        "creator_user_id": "471724614532198400",
+        "roster_ids": [
+          11
+        ],
+        "team_labels": [
+          "MOJO"
+        ],
+        "consenter_ids": [
+          11
+        ],
+        "consenter_team_labels": [
+          "MOJO"
+        ],
+        "adds": [
+          {
+            "player_id": "11593",
+            "player_name": "Brevyn Spann-Ford",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "7562",
+            "player_name": "Tutu Atwell",
+            "roster_id": 11,
+            "team_label": "MOJO"
+          }
+        ],
+        "draft_picks": [],
+        "waiver_budget": [],
+        "settings": {},
+        "metadata": {}
       }
     ],
     "counts": {
       "weeks": 11,
-      "transactions": 170,
+      "transactions": 178,
       "trades": 17,
-      "waivers": 34,
-      "free_agent_moves": 118,
+      "waivers": 39,
+      "free_agent_moves": 121,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 118,
+        "free_agent": 121,
         "trade": 17,
-        "waiver": 34
+        "waiver": 39
       },
       "by_status": {
-        "complete": 158,
-        "failed": 12
+        "complete": 163,
+        "failed": 15
       }
     }
   },
@@ -56542,11 +57638,11 @@
       "breece hall": "8155",
       "brenen thompson": "13380",
       "brenton strange": "9480",
+      "brevyn spann-ford": "11593",
       "brian robinson jr.": "8154",
       "brian thomas jr.": "11631",
       "brock bowers": "11604",
       "brock purdy": "8183",
-      "bryce lance": "13420",
       "bryce young": "9228",
       "bucky irving": "11584",
       "c.j. stroud": "9758",
@@ -56554,7 +57650,6 @@
       "caleb douglas": "13296",
       "caleb williams": "11560",
       "calvin austin iii": "8125",
-      "calvin ridley": "4981",
       "cam skattebo": "12481",
       "cam ward": "12522",
       "carnell tate": "13279",
@@ -56617,6 +57712,7 @@
       "elic ayomanor": "12499",
       "elijah arroyo": "12521",
       "emanuel wilson": "11435",
+      "emari demercado": "11199",
       "emeka egbuka": "12514",
       "emmett johnson": "13337",
       "fernando mendoza": "13269",
@@ -56655,7 +57751,6 @@
       "james cook iii": "8138",
       "jameson williams": "8148",
       "jared goff": "3163",
-      "jarquez hunter": "11569",
       "jauan jennings": "7049",
       "javonte williams": "7588",
       "jaxon smith-njigba": "9488",
@@ -56720,7 +57815,6 @@
       "malachi fields": "13285",
       "malik nabers": "11632",
       "malik washington": "11610",
-      "malik willis": "8161",
       "mark andrews": "5012",
       "marquise brown": "5848",
       "marshawn lloyd": "11581",
@@ -56736,6 +57830,7 @@
       "mike evans": "2216",
       "mike gesicki": "4993",
       "mike washington jr.": "13305",
+      "myles price": "13075",
       "nicholas singleton": "13288",
       "nico collins": "7569",
       "off defense": "off",
@@ -56768,6 +57863,7 @@
       "ryan flournoy": "11783",
       "sam darnold": "4943",
       "sam laporta": "10859",
+      "samaje perine": "4147",
       "saquon barkley": "4866",
       "savion williams": "12482",
       "sean tucker": "9506",
@@ -56797,7 +57893,6 @@
       "treylon burks": "8135",
       "troy franklin": "11627",
       "tucker kraft": "9484",
-      "tutu atwell": "7562",
       "ty johnson": "6039",
       "ty simpson": "13275",
       "tyjae spears": "9508",
@@ -56810,6 +57905,7 @@
       "tyrone tracy jr.": "11655",
       "wan'dale robinson": "8126",
       "woody marks": "12474",
+      "xavier hutchinson": "10218",
       "xavier legette": "11626",
       "xavier worthy": "11624",
       "zach charbonnet": "9753",
