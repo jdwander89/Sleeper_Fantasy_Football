@@ -7897,13 +7897,56 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 11,
+          "transaction_id": "1428895403926904832",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1795037721190,
+          "created_at": "2026-11-18T21:35:21.190000Z",
+          "status_updated": 1795037721190,
+          "status_updated_at": "2026-11-18T21:35:21.190000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [
+            {
+              "player_id": "9227",
+              "player_name": "Israel Abanikanda",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "13333",
+              "player_name": "Deion Burks",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 3,
+        "transactions": 4,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 3
+        "free_agent_moves": 4
       }
     }
   },
@@ -15692,6 +15735,49 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1428895403926904832",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795037721190,
+      "created_at": "2026-11-18T21:35:21.190000Z",
+      "status_updated": 1795037721190,
+      "status_updated_at": "2026-11-18T21:35:21.190000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "9227",
+          "player_name": "Israel Abanikanda",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13333",
+          "player_name": "Deion Burks",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -23451,22 +23537,65 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1428895403926904832",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795037721190,
+      "created_at": "2026-11-18T21:35:21.190000Z",
+      "status_updated": 1795037721190,
+      "status_updated_at": "2026-11-18T21:35:21.190000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "9227",
+          "player_name": "Israel Abanikanda",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "13333",
+          "player_name": "Deion Burks",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 11,
-    "transactions": 178,
+    "transactions": 179,
     "trades": 17,
     "waivers": 39,
-    "free_agent_moves": 121,
+    "free_agent_moves": 122,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 121,
+      "free_agent": 122,
       "trade": 17,
       "waiver": 39
     },
     "by_status": {
-      "complete": 163,
+      "complete": 164,
       "failed": 15
     }
   }

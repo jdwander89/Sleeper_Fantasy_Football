@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-18T19:25:37.736196Z",
-    "source_snapshot_generated_at": "2026-11-18T19:25:35.603108Z",
+    "generated_at": "2026-11-19T19:30:28.497137Z",
+    "source_snapshot_generated_at": "2026-11-19T19:30:26.587281Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,13 +52,13 @@
     "included_weeks": 11,
     "matchups": 66,
     "matchup_roster_results": 132,
-    "required_player_ids": 366,
-    "compact_player_lookup": 366,
+    "required_player_ids": 367,
+    "compact_player_lookup": 367,
     "missing_player_ids": 0,
-    "transactions": 178,
+    "transactions": 179,
     "trades": 17,
     "waivers": 39,
-    "free_agent_moves": 121,
+    "free_agent_moves": 122,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
@@ -95,9 +95,9 @@
       },
       "position_counts": {
         "QB": 3,
-        "RB": 8,
+        "RB": 9,
         "TE": 3,
-        "WR": 11
+        "WR": 10
       },
       "starters": [
         {
@@ -126,14 +126,14 @@
           "name": "Caleb Douglas",
           "team": "MIA",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "13281",
           "name": "Jordyn Tyson",
           "team": "NO",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12498",
@@ -456,16 +456,16 @@
           "injury_status": null
         },
         {
-          "player_id": "11610",
-          "name": "Malik Washington",
-          "team": "MIA",
+          "player_id": "13279",
+          "name": "Carnell Tate",
+          "team": "TEN",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
-          "player_id": "11631",
-          "name": "Brian Thomas Jr.",
-          "team": "JAX",
+          "player_id": "12519",
+          "name": "Luther Burden III",
+          "team": "CHI",
           "position": "WR",
           "injury_status": null
         },
@@ -484,33 +484,33 @@
           "injury_status": null
         },
         {
-          "player_id": "8132",
-          "name": "Tyler Allgeier",
-          "team": "ARI",
+          "player_id": "13345",
+          "name": "Jonah Coleman",
+          "team": "DEN",
           "position": "RB",
           "injury_status": null
         },
         {
-          "player_id": "11603",
-          "name": "AJ Barner",
-          "team": "SEA",
-          "position": "TE",
+          "player_id": "4037",
+          "name": "Chris Godwin Jr.",
+          "team": "TB",
+          "position": "WR",
           "injury_status": null
         }
       ],
       "reserve": [
         {
-          "player_id": "4033",
-          "name": "David Njoku",
-          "team": "LAC",
-          "position": "TE",
-          "injury_status": null
-        },
-        {
           "player_id": "8698",
           "name": "Jake Tonges",
           "team": "SF",
           "position": "TE",
+          "injury_status": "IR"
+        },
+        {
+          "player_id": "9493",
+          "name": "Puka Nacua",
+          "team": "LAR",
+          "position": "WR",
           "injury_status": "IR"
         }
       ]
@@ -703,7 +703,7 @@
           "name": "Kyle Monangai",
           "team": "CHI",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12527",
@@ -713,9 +713,9 @@
           "injury_status": null
         },
         {
-          "player_id": "11834",
-          "name": "Devaughn Vele",
-          "team": "NO",
+          "player_id": "13075",
+          "name": "Myles Price",
+          "team": "MIN",
           "position": "WR",
           "injury_status": null
         }
@@ -782,16 +782,16 @@
           "injury_status": null
         },
         {
-          "player_id": "12474",
-          "name": "Woody Marks",
-          "team": "HOU",
+          "player_id": "7567",
+          "name": "Kenny Gainwell",
+          "team": "TB",
           "position": "RB",
-          "injury_status": "Doubtful"
+          "injury_status": null
         },
         {
-          "player_id": "8167",
-          "name": "Christian Watson",
-          "team": "GB",
+          "player_id": "11637",
+          "name": "Keon Coleman",
+          "team": "BUF",
           "position": "WR",
           "injury_status": null
         },
@@ -810,9 +810,9 @@
           "injury_status": null
         },
         {
-          "player_id": "9488",
-          "name": "Jaxon Smith-Njigba",
-          "team": "SEA",
+          "player_id": "13264",
+          "name": "Dohnte Meyers",
+          "team": "CIN",
           "position": "WR",
           "injury_status": null
         },
@@ -824,10 +824,10 @@
           "injury_status": null
         },
         {
-          "player_id": "13298",
-          "name": "KC Concepcion Jr.",
-          "team": "CLE",
-          "position": "WR",
+          "player_id": "13414",
+          "name": "Kaelon Black",
+          "team": "SF",
+          "position": "RB",
           "injury_status": null
         }
       ],
@@ -1001,7 +1001,7 @@
           "name": "Chris Rodriguez Jr.",
           "team": "JAX",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12507",
@@ -1112,7 +1112,7 @@
           "name": "Bhayshul Tuten",
           "team": "JAX",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "3198",
@@ -1126,7 +1126,7 @@
           "name": "Jakobi Meyers",
           "team": "JAX",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "5846",
@@ -1362,7 +1362,7 @@
           "name": "Darren Waller",
           "team": "CAR",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "5012",
@@ -2952,18 +2952,18 @@
   "transactions": {
     "counts": {
       "weeks": 11,
-      "transactions": 178,
+      "transactions": 179,
       "trades": 17,
       "waivers": 39,
-      "free_agent_moves": 121,
+      "free_agent_moves": 122,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 121,
+        "free_agent": 122,
         "trade": 17,
         "waiver": 39
       },
       "by_status": {
-        "complete": 163,
+        "complete": 164,
         "failed": 15
       }
     },
@@ -2987,10 +2987,10 @@
         "free_agent_moves": 9
       },
       "1": {
-        "transactions": 21,
+        "transactions": 22,
         "trades": 5,
         "waivers": 2,
-        "free_agent_moves": 14
+        "free_agent_moves": 15
       },
       "11": {
         "transactions": 33,
@@ -3042,6 +3042,33 @@
       }
     },
     "recent_transactions": [
+      {
+        "week": 11,
+        "transaction_id": "1428895403926904832",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-11-18T21:35:21.190000Z",
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [
+          {
+            "player_id": "9227",
+            "player_name": "Israel Abanikanda",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "13333",
+            "player_name": "Deion Burks",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": []
+      },
       {
         "week": 11,
         "transaction_id": "1428833257100677120",
@@ -3625,33 +3652,6 @@
           }
         ],
         "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 9,
-        "transaction_id": "1423820075726544896",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-11-04T21:27:48.652000Z",
-        "team_labels": [
-          "It’s Herbie Hancock"
-        ],
-        "adds": [
-          {
-            "player_id": "11557",
-            "player_name": "Joe Milton",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "9504",
-            "player_name": "Kayshon Boutte",
-            "roster_id": 1,
-            "team_label": "It’s Herbie Hancock"
-          }
-        ],
         "draft_picks": []
       }
     ]
