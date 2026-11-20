@@ -7940,13 +7940,241 @@
           "waiver_budget": [],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 11,
+          "transaction_id": "1429259830572380160",
+          "type": "trade",
+          "status": "complete",
+          "created": 1795124607274,
+          "created_at": "2026-11-19T21:43:27.274000Z",
+          "status_updated": 1795126375922,
+          "status_updated_at": "2026-11-19T22:12:55.922000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1,
+            2
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock",
+            "Washington Monument"
+          ],
+          "consenter_ids": [
+            1,
+            2
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock",
+            "Washington Monument"
+          ],
+          "adds": [
+            {
+              "player_id": "12495",
+              "player_name": "Ollie Gordon II",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "12495",
+              "player_name": "Ollie Gordon II",
+              "roster_id": 2,
+              "team_label": "Washington Monument"
+            }
+          ],
+          "draft_picks": [
+            {
+              "season": "2027",
+              "round": 3,
+              "original_roster_id": 1,
+              "original_team_label": "It’s Herbie Hancock",
+              "previous_owner_id": 1,
+              "previous_owner_team_label": "It’s Herbie Hancock",
+              "owner_id": 2,
+              "owner_team_label": "Washington Monument"
+            },
+            {
+              "season": "2028",
+              "round": 2,
+              "original_roster_id": 1,
+              "original_team_label": "It’s Herbie Hancock",
+              "previous_owner_id": 1,
+              "previous_owner_team_label": "It’s Herbie Hancock",
+              "owner_id": 2,
+              "owner_team_label": "Washington Monument"
+            }
+          ],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 11,
+          "transaction_id": "1429267520921018368",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1795126440795,
+          "created_at": "2026-11-19T22:14:00.795000Z",
+          "status_updated": 1795126440795,
+          "status_updated_at": "2026-11-19T22:14:00.795000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "Washington Monument"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "Washington Monument"
+          ],
+          "adds": [
+            {
+              "player_id": "4718",
+              "player_name": "Dare Ogunbowale",
+              "roster_id": 2,
+              "team_label": "Washington Monument"
+            }
+          ],
+          "drops": [],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 11,
+          "transaction_id": "1429269051355459584",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1795126805680,
+          "created_at": "2026-11-19T22:20:05.680000Z",
+          "status_updated": 1795126805680,
+          "status_updated_at": "2026-11-19T22:20:05.680000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "9227",
+              "player_name": "Israel Abanikanda",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 11,
+          "transaction_id": "1429530133336698880",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1795189052474,
+          "created_at": "2026-11-20T15:37:32.474000Z",
+          "status_updated": 1795189052474,
+          "status_updated_at": "2026-11-20T15:37:32.474000Z",
+          "creator_user_id": "471424563457028096",
+          "roster_ids": [
+            5
+          ],
+          "team_labels": [
+            "White Ice"
+          ],
+          "consenter_ids": [
+            5
+          ],
+          "consenter_team_labels": [
+            "White Ice"
+          ],
+          "adds": [],
+          "drops": [
+            {
+              "player_id": "4177",
+              "player_name": "Mack Hollins",
+              "roster_id": 5,
+              "team_label": "White Ice"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        },
+        {
+          "week": 11,
+          "transaction_id": "1429575156681965568",
+          "type": "trade",
+          "status": "complete",
+          "created": 1795199786877,
+          "created_at": "2026-11-20T18:36:26.877000Z",
+          "status_updated": 1795199910001,
+          "status_updated_at": "2026-11-20T18:38:30.001000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1,
+            12
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock",
+            "gullickson"
+          ],
+          "consenter_ids": [
+            1,
+            12
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock",
+            "gullickson"
+          ],
+          "adds": [],
+          "drops": [],
+          "draft_picks": [
+            {
+              "season": "2027",
+              "round": 4,
+              "original_roster_id": 1,
+              "original_team_label": "It’s Herbie Hancock",
+              "previous_owner_id": 1,
+              "previous_owner_team_label": "It’s Herbie Hancock",
+              "owner_id": 12,
+              "owner_team_label": "gullickson"
+            }
+          ],
+          "waiver_budget": [
+            {
+              "sender_roster_id": 12,
+              "sender_team_label": "gullickson",
+              "receiver_roster_id": 1,
+              "receiver_team_label": "It’s Herbie Hancock",
+              "amount": 100
+            }
+          ],
+          "settings": {},
+          "metadata": {}
         }
       ],
       "counts": {
-        "transactions": 4,
-        "trades": 0,
+        "transactions": 9,
+        "trades": 2,
         "waivers": 0,
-        "free_agent_moves": 4
+        "free_agent_moves": 7
       }
     }
   },
@@ -15778,6 +16006,234 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1429259830572380160",
+      "type": "trade",
+      "status": "complete",
+      "created": 1795124607274,
+      "created_at": "2026-11-19T21:43:27.274000Z",
+      "status_updated": 1795126375922,
+      "status_updated_at": "2026-11-19T22:12:55.922000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1,
+        2
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "Washington Monument"
+      ],
+      "consenter_ids": [
+        1,
+        2
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "Washington Monument"
+      ],
+      "adds": [
+        {
+          "player_id": "12495",
+          "player_name": "Ollie Gordon II",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12495",
+          "player_name": "Ollie Gordon II",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 2,
+          "owner_team_label": "Washington Monument"
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 2,
+          "owner_team_label": "Washington Monument"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1429267520921018368",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795126440795,
+      "created_at": "2026-11-19T22:14:00.795000Z",
+      "status_updated": 1795126440795,
+      "status_updated_at": "2026-11-19T22:14:00.795000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "Washington Monument"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "Washington Monument"
+      ],
+      "adds": [
+        {
+          "player_id": "4718",
+          "player_name": "Dare Ogunbowale",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1429269051355459584",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795126805680,
+      "created_at": "2026-11-19T22:20:05.680000Z",
+      "status_updated": 1795126805680,
+      "status_updated_at": "2026-11-19T22:20:05.680000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "9227",
+          "player_name": "Israel Abanikanda",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1429530133336698880",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795189052474,
+      "created_at": "2026-11-20T15:37:32.474000Z",
+      "status_updated": 1795189052474,
+      "status_updated_at": "2026-11-20T15:37:32.474000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4177",
+          "player_name": "Mack Hollins",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1429575156681965568",
+      "type": "trade",
+      "status": "complete",
+      "created": 1795199786877,
+      "created_at": "2026-11-20T18:36:26.877000Z",
+      "status_updated": 1795199910001,
+      "status_updated_at": "2026-11-20T18:38:30.001000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1,
+        12
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "gullickson"
+      ],
+      "consenter_ids": [
+        1,
+        12
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "gullickson"
+      ],
+      "adds": [],
+      "drops": [],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 12,
+          "owner_team_label": "gullickson"
+        }
+      ],
+      "waiver_budget": [
+        {
+          "sender_roster_id": 12,
+          "sender_team_label": "gullickson",
+          "receiver_roster_id": 1,
+          "receiver_team_label": "It’s Herbie Hancock",
+          "amount": 100
+        }
+      ],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "trades": [
@@ -17070,6 +17526,126 @@
         }
       ],
       "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1429259830572380160",
+      "type": "trade",
+      "status": "complete",
+      "created": 1795124607274,
+      "created_at": "2026-11-19T21:43:27.274000Z",
+      "status_updated": 1795126375922,
+      "status_updated_at": "2026-11-19T22:12:55.922000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1,
+        2
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "Washington Monument"
+      ],
+      "consenter_ids": [
+        1,
+        2
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "Washington Monument"
+      ],
+      "adds": [
+        {
+          "player_id": "12495",
+          "player_name": "Ollie Gordon II",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "12495",
+          "player_name": "Ollie Gordon II",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 3,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 2,
+          "owner_team_label": "Washington Monument"
+        },
+        {
+          "season": "2028",
+          "round": 2,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 2,
+          "owner_team_label": "Washington Monument"
+        }
+      ],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1429575156681965568",
+      "type": "trade",
+      "status": "complete",
+      "created": 1795199786877,
+      "created_at": "2026-11-20T18:36:26.877000Z",
+      "status_updated": 1795199910001,
+      "status_updated_at": "2026-11-20T18:38:30.001000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1,
+        12
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock",
+        "gullickson"
+      ],
+      "consenter_ids": [
+        1,
+        12
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock",
+        "gullickson"
+      ],
+      "adds": [],
+      "drops": [],
+      "draft_picks": [
+        {
+          "season": "2027",
+          "round": 4,
+          "original_roster_id": 1,
+          "original_team_label": "It’s Herbie Hancock",
+          "previous_owner_id": 1,
+          "previous_owner_team_label": "It’s Herbie Hancock",
+          "owner_id": 12,
+          "owner_team_label": "gullickson"
+        }
+      ],
+      "waiver_budget": [
+        {
+          "sender_roster_id": 12,
+          "sender_team_label": "gullickson",
+          "receiver_roster_id": 1,
+          "receiver_team_label": "It’s Herbie Hancock",
+          "amount": 100
+        }
+      ],
       "settings": {},
       "metadata": {}
     }
@@ -23580,22 +24156,130 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1429267520921018368",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795126440795,
+      "created_at": "2026-11-19T22:14:00.795000Z",
+      "status_updated": 1795126440795,
+      "status_updated_at": "2026-11-19T22:14:00.795000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "Washington Monument"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "Washington Monument"
+      ],
+      "adds": [
+        {
+          "player_id": "4718",
+          "player_name": "Dare Ogunbowale",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "drops": [],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1429269051355459584",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795126805680,
+      "created_at": "2026-11-19T22:20:05.680000Z",
+      "status_updated": 1795126805680,
+      "status_updated_at": "2026-11-19T22:20:05.680000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "9227",
+          "player_name": "Israel Abanikanda",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1429530133336698880",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795189052474,
+      "created_at": "2026-11-20T15:37:32.474000Z",
+      "status_updated": 1795189052474,
+      "status_updated_at": "2026-11-20T15:37:32.474000Z",
+      "creator_user_id": "471424563457028096",
+      "roster_ids": [
+        5
+      ],
+      "team_labels": [
+        "White Ice"
+      ],
+      "consenter_ids": [
+        5
+      ],
+      "consenter_team_labels": [
+        "White Ice"
+      ],
+      "adds": [],
+      "drops": [
+        {
+          "player_id": "4177",
+          "player_name": "Mack Hollins",
+          "roster_id": 5,
+          "team_label": "White Ice"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 11,
-    "transactions": 179,
-    "trades": 17,
+    "transactions": 184,
+    "trades": 19,
     "waivers": 39,
-    "free_agent_moves": 122,
+    "free_agent_moves": 125,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 122,
-      "trade": 17,
+      "free_agent": 125,
+      "trade": 19,
       "waiver": 39
     },
     "by_status": {
-      "complete": 164,
+      "complete": 169,
       "failed": 15
     }
   }

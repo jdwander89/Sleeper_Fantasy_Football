@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-11-19T19:30:28.349542Z",
+  "generated_at": "2026-11-20T19:08:45.532774Z",
   "counts": {
-    "required_player_ids": 367,
-    "resolved_player_ids": 367,
+    "required_player_ids": 368,
+    "resolved_player_ids": 368,
     "missing_player_ids": 0,
     "defense_ids": 0
   },
@@ -90,6 +90,7 @@
       "dalton schultz": "5001",
       "dameon pierce": "8129",
       "daniel jones": "5870",
+      "dare ogunbowale": "4718",
       "darius cooper": "13150",
       "darius slayton": "6149",
       "darnell mooney": "7090",
@@ -522,7 +523,6 @@
         "12504",
         "5850",
         "6804",
-        "8116",
         "8167",
         "9481",
         "9484"
@@ -534,6 +534,7 @@
         "12474",
         "12484",
         "12536",
+        "4718",
         "5001",
         "5892",
         "7569",
@@ -920,6 +921,7 @@
         "4199",
         "4219",
         "4663",
+        "4718",
         "4866",
         "4988",
         "5850",

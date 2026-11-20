@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-19T19:30:28.497137Z",
-    "source_snapshot_generated_at": "2026-11-19T19:30:26.587281Z",
+    "generated_at": "2026-11-20T19:08:45.653123Z",
+    "source_snapshot_generated_at": "2026-11-20T19:08:43.802303Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -52,17 +52,17 @@
     "included_weeks": 11,
     "matchups": 66,
     "matchup_roster_results": 132,
-    "required_player_ids": 367,
-    "compact_player_lookup": 367,
+    "required_player_ids": 368,
+    "compact_player_lookup": 368,
     "missing_player_ids": 0,
-    "transactions": 179,
-    "trades": 17,
+    "transactions": 184,
+    "trades": 19,
     "waivers": 39,
-    "free_agent_moves": 122,
+    "free_agent_moves": 125,
     "drafts": 1,
     "draft_picks": 60,
     "draft_traded_picks": 8,
-    "league_traded_picks": 38
+    "league_traded_picks": 41
   },
   "data_quality": {
     "warnings": [],
@@ -108,9 +108,9 @@
           "injury_status": null
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
-          "team": "NYJ",
+          "player_id": "12495",
+          "name": "Ollie Gordon II",
+          "team": "MIA",
           "position": "RB",
           "injury_status": null
         },
@@ -157,9 +157,9 @@
           "injury_status": null
         },
         {
-          "player_id": "13305",
-          "name": "Mike Washington Jr.",
-          "team": "LV",
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "team": "NYJ",
           "position": "RB",
           "injury_status": null
         }
@@ -219,9 +219,9 @@
           "injury_status": null
         },
         {
-          "player_id": "12495",
-          "name": "Ollie Gordon II",
-          "team": "MIA",
+          "player_id": "4718",
+          "name": "Dare Ogunbowale",
+          "team": "HOU",
           "position": "RB",
           "injury_status": null
         },
@@ -230,7 +230,7 @@
           "name": "Seth McGowan",
           "team": "IND",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Out"
         },
         {
           "player_id": "9487",
@@ -240,11 +240,11 @@
           "injury_status": null
         },
         {
-          "player_id": "13276",
-          "name": "Omar Cooper Jr.",
-          "team": "NYJ",
+          "player_id": "12509",
+          "name": "Tre' Harris",
+          "team": "LAC",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12517",
@@ -348,7 +348,7 @@
           "name": "DeVonta Smith",
           "team": "PHI",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "2449",
@@ -533,16 +533,16 @@
         "raw_fpts_against_decimal": 58
       },
       "counts": {
-        "players": 25,
+        "players": 24,
         "starters": 9,
         "bench": 14,
-        "reserve": 2
+        "reserve": 1
       },
       "position_counts": {
         "QB": 2,
         "RB": 7,
         "TE": 4,
-        "WR": 12
+        "WR": 11
       },
       "starters": [
         {
@@ -595,10 +595,10 @@
           "injury_status": null
         },
         {
-          "player_id": "11586",
-          "name": "Blake Corum",
-          "team": "LAR",
-          "position": "RB",
+          "player_id": "12499",
+          "name": "Elic Ayomanor",
+          "team": "TEN",
+          "position": "WR",
           "injury_status": null
         },
         {
@@ -616,13 +616,6 @@
           "team": "PHI",
           "position": "RB",
           "injury_status": "IR"
-        },
-        {
-          "player_id": "9486",
-          "name": "Dontayvion Wicks",
-          "team": "PHI",
-          "position": "WR",
-          "injury_status": "Questionable"
         }
       ]
     },
@@ -925,7 +918,7 @@
           "name": "Isaiah Likely",
           "team": "NYG",
           "position": "TE",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "11646",
@@ -1200,8 +1193,8 @@
       },
       "counts": {
         "players": 25,
-        "starters": 9,
-        "bench": 14,
+        "starters": 8,
+        "bench": 15,
         "reserve": 2
       },
       "position_counts": {
@@ -1238,13 +1231,6 @@
           "team": "CIN",
           "position": "WR",
           "injury_status": null
-        },
-        {
-          "player_id": "5859",
-          "name": "A.J. Brown",
-          "team": "NE",
-          "position": "WR",
-          "injury_status": "Out"
         },
         {
           "player_id": "11604",
@@ -1284,11 +1270,11 @@
           "injury_status": "Out"
         },
         {
-          "player_id": "2133",
-          "name": "Davante Adams",
-          "team": "LAR",
+          "player_id": "5859",
+          "name": "A.J. Brown",
+          "team": "NE",
           "position": "WR",
-          "injury_status": "IR"
+          "injury_status": "Out"
         }
       ]
     },
@@ -2840,11 +2826,15 @@
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 0.0,
+                "points": 14.8,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 5,
+              "team_label": "White Ice",
+              "points": 14.8
+            }
           },
           {
             "matchup_id": "2",
@@ -2852,17 +2842,21 @@
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 0.0,
+                "points": 3.2,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 0.0,
+                "points": 15.4,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 11,
+              "team_label": "MOJO",
+              "points": 15.4
+            }
           },
           {
             "matchup_id": "3",
@@ -2888,7 +2882,7 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 0.0,
+                "points": 10.0,
                 "custom_points": null
               },
               {
@@ -2898,7 +2892,11 @@
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 3,
+              "team_label": "Laporta Potty",
+              "points": 10.0
+            }
           },
           {
             "matchup_id": "5",
@@ -2906,17 +2904,21 @@
               {
                 "roster_id": 2,
                 "team_label": "Washington Monument",
-                "points": 0.0,
+                "points": 1.8,
                 "custom_points": null
               },
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 0.0,
+                "points": 4.9,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 8,
+              "team_label": "Back to the Future",
+              "points": 4.9
+            }
           },
           {
             "matchup_id": "6",
@@ -2952,18 +2954,18 @@
   "transactions": {
     "counts": {
       "weeks": 11,
-      "transactions": 179,
-      "trades": 17,
+      "transactions": 184,
+      "trades": 19,
       "waivers": 39,
-      "free_agent_moves": 122,
+      "free_agent_moves": 125,
       "by_type": {
         "commissioner": 1,
-        "free_agent": 122,
-        "trade": 17,
+        "free_agent": 125,
+        "trade": 19,
         "waiver": 39
       },
       "by_status": {
-        "complete": 164,
+        "complete": 169,
         "failed": 15
       }
     },
@@ -2975,8 +2977,8 @@
         "free_agent_moves": 11
       },
       "12": {
-        "transactions": 8,
-        "trades": 1,
+        "transactions": 9,
+        "trades": 2,
         "waivers": 0,
         "free_agent_moves": 7
       },
@@ -2987,10 +2989,10 @@
         "free_agent_moves": 9
       },
       "1": {
-        "transactions": 22,
-        "trades": 5,
+        "transactions": 25,
+        "trades": 7,
         "waivers": 2,
-        "free_agent_moves": 15
+        "free_agent_moves": 16
       },
       "11": {
         "transactions": 33,
@@ -2999,10 +3001,10 @@
         "free_agent_moves": 24
       },
       "2": {
-        "transactions": 38,
-        "trades": 12,
+        "transactions": 40,
+        "trades": 13,
         "waivers": 8,
-        "free_agent_moves": 17
+        "free_agent_moves": 18
       },
       "10": {
         "transactions": 7,
@@ -3035,13 +3037,147 @@
         "free_agent_moves": 3
       },
       "5": {
-        "transactions": 14,
+        "transactions": 15,
         "trades": 3,
         "waivers": 6,
-        "free_agent_moves": 5
+        "free_agent_moves": 6
       }
     },
     "recent_transactions": [
+      {
+        "week": 11,
+        "transaction_id": "1429575156681965568",
+        "type": "trade",
+        "status": "complete",
+        "created_at": "2026-11-20T18:36:26.877000Z",
+        "team_labels": [
+          "It’s Herbie Hancock",
+          "gullickson"
+        ],
+        "adds": [],
+        "drops": [],
+        "draft_picks": [
+          {
+            "season": "2027",
+            "round": 4,
+            "original_roster_id": 1,
+            "original_team_label": "It’s Herbie Hancock",
+            "previous_owner_id": 1,
+            "previous_owner_team_label": "It’s Herbie Hancock",
+            "owner_id": 12,
+            "owner_team_label": "gullickson"
+          }
+        ]
+      },
+      {
+        "week": 11,
+        "transaction_id": "1429530133336698880",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-11-20T15:37:32.474000Z",
+        "team_labels": [
+          "White Ice"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "4177",
+            "player_name": "Mack Hollins",
+            "roster_id": 5,
+            "team_label": "White Ice"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 11,
+        "transaction_id": "1429269051355459584",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-11-19T22:20:05.680000Z",
+        "team_labels": [
+          "It’s Herbie Hancock"
+        ],
+        "adds": [],
+        "drops": [
+          {
+            "player_id": "9227",
+            "player_name": "Israel Abanikanda",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "draft_picks": []
+      },
+      {
+        "week": 11,
+        "transaction_id": "1429267520921018368",
+        "type": "free_agent",
+        "status": "complete",
+        "created_at": "2026-11-19T22:14:00.795000Z",
+        "team_labels": [
+          "Washington Monument"
+        ],
+        "adds": [
+          {
+            "player_id": "4718",
+            "player_name": "Dare Ogunbowale",
+            "roster_id": 2,
+            "team_label": "Washington Monument"
+          }
+        ],
+        "drops": [],
+        "draft_picks": []
+      },
+      {
+        "week": 11,
+        "transaction_id": "1429259830572380160",
+        "type": "trade",
+        "status": "complete",
+        "created_at": "2026-11-19T21:43:27.274000Z",
+        "team_labels": [
+          "It’s Herbie Hancock",
+          "Washington Monument"
+        ],
+        "adds": [
+          {
+            "player_id": "12495",
+            "player_name": "Ollie Gordon II",
+            "roster_id": 1,
+            "team_label": "It’s Herbie Hancock"
+          }
+        ],
+        "drops": [
+          {
+            "player_id": "12495",
+            "player_name": "Ollie Gordon II",
+            "roster_id": 2,
+            "team_label": "Washington Monument"
+          }
+        ],
+        "draft_picks": [
+          {
+            "season": "2027",
+            "round": 3,
+            "original_roster_id": 1,
+            "original_team_label": "It’s Herbie Hancock",
+            "previous_owner_id": 1,
+            "previous_owner_team_label": "It’s Herbie Hancock",
+            "owner_id": 2,
+            "owner_team_label": "Washington Monument"
+          },
+          {
+            "season": "2028",
+            "round": 2,
+            "original_roster_id": 1,
+            "original_team_label": "It’s Herbie Hancock",
+            "previous_owner_id": 1,
+            "previous_owner_team_label": "It’s Herbie Hancock",
+            "owner_id": 2,
+            "owner_team_label": "Washington Monument"
+          }
+        ]
+      },
       {
         "week": 11,
         "transaction_id": "1428895403926904832",
@@ -3539,120 +3675,6 @@
         ],
         "drops": [],
         "draft_picks": []
-      },
-      {
-        "week": 9,
-        "transaction_id": "1425879887645769728",
-        "type": "waiver",
-        "status": "failed",
-        "created_at": "2026-11-10T13:52:46.083000Z",
-        "team_labels": [
-          "Washington Monument"
-        ],
-        "adds": [
-          {
-            "player_id": "11579",
-            "player_name": "Audric Estime",
-            "roster_id": 2,
-            "team_label": "Washington Monument"
-          }
-        ],
-        "drops": [],
-        "draft_picks": []
-      },
-      {
-        "week": 9,
-        "transaction_id": "1425534285900750848",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-11-09T14:59:28.207000Z",
-        "team_labels": [
-          "Washington Monument"
-        ],
-        "adds": [],
-        "drops": [
-          {
-            "player_id": "8129",
-            "player_name": "Dameon Pierce",
-            "roster_id": 2,
-            "team_label": "Washington Monument"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 9,
-        "transaction_id": "1424287084537008128",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-11-06T04:23:32.230000Z",
-        "team_labels": [
-          "MOJO"
-        ],
-        "adds": [
-          {
-            "player_id": "3286",
-            "player_name": "Demarcus Robinson",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "13297",
-            "player_name": "Reggie Virgil",
-            "roster_id": 11,
-            "team_label": "MOJO"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 9,
-        "transaction_id": "1423886291136729088",
-        "type": "waiver",
-        "status": "complete",
-        "created_at": "2026-11-05T01:50:55.637000Z",
-        "team_labels": [
-          "Washington Monument"
-        ],
-        "adds": [
-          {
-            "player_id": "9504",
-            "player_name": "Kayshon Boutte",
-            "roster_id": 2,
-            "team_label": "Washington Monument"
-          }
-        ],
-        "drops": [
-          {
-            "player_id": "8116",
-            "player_name": "Pierre Strong Jr.",
-            "roster_id": 2,
-            "team_label": "Washington Monument"
-          }
-        ],
-        "draft_picks": []
-      },
-      {
-        "week": 9,
-        "transaction_id": "1423863260268048384",
-        "type": "free_agent",
-        "status": "complete",
-        "created_at": "2026-11-05T00:19:24.649000Z",
-        "team_labels": [
-          "Goin in Ra"
-        ],
-        "adds": [
-          {
-            "player_id": "6011",
-            "player_name": "Gardner Minshew II",
-            "roster_id": 10,
-            "team_label": "Goin in Ra"
-          }
-        ],
-        "drops": [],
-        "draft_picks": []
       }
     ]
   },
@@ -3775,7 +3797,7 @@
       }
     ],
     "traded_picks": {
-      "league_traded_picks": 38,
+      "league_traded_picks": 41,
       "draft_traded_picks": 8
     }
   },
