@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-20T19:08:45.653123Z",
-    "source_snapshot_generated_at": "2026-11-20T19:08:43.802303Z",
+    "generated_at": "2026-11-21T18:02:51.321209Z",
+    "source_snapshot_generated_at": "2026-11-21T18:02:49.231728Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -43,7 +43,7 @@
       "trade_deadline": 12,
       "waiver_budget": 100,
       "max_keepers": 1,
-      "draft_rounds": 5
+      "draft_rounds": 4
     }
   },
   "counts": {
@@ -119,21 +119,21 @@
           "name": "Rachaad White",
           "team": "WAS",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "13296",
           "name": "Caleb Douglas",
           "team": "MIA",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "13281",
           "name": "Jordyn Tyson",
           "team": "NO",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12498",
@@ -879,11 +879,11 @@
           "injury_status": null
         },
         {
-          "player_id": "8151",
-          "name": "Kenneth Walker III",
-          "team": "KC",
+          "player_id": "12531",
+          "name": "Trevor Etienne",
+          "team": "CAR",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11199",
@@ -918,7 +918,7 @@
           "name": "Isaiah Likely",
           "team": "NYG",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "11646",
@@ -994,7 +994,7 @@
           "name": "Chris Rodriguez Jr.",
           "team": "JAX",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12507",
@@ -1105,7 +1105,7 @@
           "name": "Bhayshul Tuten",
           "team": "JAX",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "3198",
@@ -1119,7 +1119,7 @@
           "name": "Jakobi Meyers",
           "team": "JAX",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5846",

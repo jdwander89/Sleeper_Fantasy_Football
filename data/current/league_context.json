@@ -40,7 +40,7 @@
     "disable_adds": 0,
     "capacity_override": 0,
     "taxi_deadline": 0,
-    "draft_rounds": 5,
+    "draft_rounds": 4,
     "reserve_allow_na": 1,
     "start_week": 1,
     "playoff_seed_type": 0,
