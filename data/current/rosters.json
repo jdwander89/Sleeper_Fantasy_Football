@@ -32,13 +32,13 @@
     "starters": [
       "11566",
       "12495",
-      "8136",
+      "11576",
       "13296",
       "13281",
       "12498",
       "11625",
       "11624",
-      "11576"
+      "8136"
     ],
     "bench": [
       "11557",
@@ -97,13 +97,13 @@
       "starters": [
         "Jayden Daniels",
         "Ollie Gordon II",
-        "Rachaad White",
+        "Braelon Allen",
         "Caleb Douglas",
         "Jordyn Tyson",
         "Mason Taylor",
         "Adonai Mitchell",
         "Xavier Worthy",
-        "Braelon Allen"
+        "Rachaad White"
       ],
       "bench": [
         "Joe Milton",
@@ -623,7 +623,7 @@
       "9757"
     ],
     "starters": [
-      "3294",
+      "11560",
       "9221",
       "9224",
       "7564",
@@ -636,12 +636,12 @@
     "bench": [
       "10213",
       "10236",
-      "11560",
       "11586",
       "12467",
       "12497",
       "13288",
       "13317",
+      "3294",
       "5001",
       "7002",
       "7049",
@@ -686,7 +686,7 @@
         "Kendre Miller"
       ],
       "starters": [
-        "Dak Prescott",
+        "Caleb Williams",
         "Jahmyr Gibbs",
         "Chase Brown",
         "Ja'Marr Chase",
@@ -699,12 +699,12 @@
       "bench": [
         "Tre Tucker",
         "Dalton Kincaid",
-        "Caleb Williams",
         "Blake Corum",
         "Jordan James",
         "Tory Horton",
         "Nicholas Singleton",
         "Ted Hurst III",
+        "Dak Prescott",
         "Dalton Schultz",
         "Juwan Johnson",
         "Jauan Jennings",
@@ -1509,27 +1509,27 @@
       "12481",
       "8138",
       "6801",
-      "11604",
+      "7526",
+      "9482",
       "8228",
       "7021",
-      "3214"
+      "5892"
     ],
     "bench": [
       "11563",
       "11575",
       "11593",
+      "11604",
       "11627",
       "12469",
       "12482",
       "12540",
       "2133",
+      "3214",
       "5045",
       "5850",
-      "5892",
       "6039",
-      "7526",
-      "9228",
-      "9482"
+      "9228"
     ],
     "reserve": [
       "13320",
@@ -1538,7 +1538,7 @@
     "taxi": [],
     "player_count": 25,
     "starter_count": 9,
-    "bench_count": 15,
+    "bench_count": 14,
     "reserve_count": 2,
     "taxi_count": 0,
     "display": {
@@ -1574,27 +1574,27 @@
         "Cam Skattebo",
         "James Cook III",
         "Tee Higgins",
-        "Brock Bowers",
+        "Jaylen Waddle",
+        "Michael Mayer",
         "Jaylen Warren",
         "Rico Dowdle",
-        "Hunter Henry"
+        "David Montgomery"
       ],
       "bench": [
         "Bo Nix",
         "Ray Davis",
         "Brevyn Spann-Ford",
+        "Brock Bowers",
         "Troy Franklin",
         "Dylan Sampson",
         "Savion Williams",
         "Chimere Dike",
         "Davante Adams",
+        "Hunter Henry",
         "Courtland Sutton",
         "Josh Jacobs",
-        "David Montgomery",
         "Ty Johnson",
-        "Jaylen Waddle",
-        "Bryce Young",
-        "Michael Mayer"
+        "Bryce Young"
       ],
       "reserve": [
         "Zachariah Branch",

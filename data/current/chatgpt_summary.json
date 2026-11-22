@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-21T18:02:51.321209Z",
-    "source_snapshot_generated_at": "2026-11-21T18:02:49.231728Z",
+    "generated_at": "2026-11-22T18:33:49.525504Z",
+    "source_snapshot_generated_at": "2026-11-22T18:33:46.707894Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -115,11 +115,11 @@
           "injury_status": null
         },
         {
-          "player_id": "8136",
-          "name": "Rachaad White",
-          "team": "WAS",
+          "player_id": "11576",
+          "name": "Braelon Allen",
+          "team": "NYJ",
           "position": "RB",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "13296",
@@ -157,11 +157,11 @@
           "injury_status": null
         },
         {
-          "player_id": "11576",
-          "name": "Braelon Allen",
-          "team": "NYJ",
+          "player_id": "8136",
+          "name": "Rachaad White",
+          "team": "WAS",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -460,7 +460,7 @@
           "name": "Carnell Tate",
           "team": "TEN",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "12519",
@@ -546,9 +546,9 @@
       },
       "starters": [
         {
-          "player_id": "3294",
-          "name": "Dak Prescott",
-          "team": "DAL",
+          "player_id": "11560",
+          "name": "Caleb Williams",
+          "team": "CHI",
           "position": "QB",
           "injury_status": null
         },
@@ -1193,8 +1193,8 @@
       },
       "counts": {
         "players": 25,
-        "starters": 8,
-        "bench": 15,
+        "starters": 9,
+        "bench": 14,
         "reserve": 2
       },
       "position_counts": {
@@ -1233,11 +1233,18 @@
           "injury_status": null
         },
         {
-          "player_id": "11604",
-          "name": "Brock Bowers",
+          "player_id": "7526",
+          "name": "Jaylen Waddle",
+          "team": "DEN",
+          "position": "WR",
+          "injury_status": null
+        },
+        {
+          "player_id": "9482",
+          "name": "Michael Mayer",
           "team": "LV",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "8228",
@@ -1254,10 +1261,10 @@
           "injury_status": null
         },
         {
-          "player_id": "3214",
-          "name": "Hunter Henry",
-          "team": "NE",
-          "position": "TE",
+          "player_id": "5892",
+          "name": "David Montgomery",
+          "team": "HOU",
+          "position": "RB",
           "injury_status": null
         }
       ],
@@ -1348,7 +1355,7 @@
           "name": "Darren Waller",
           "team": "CAR",
           "position": "TE",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "5012",
@@ -2820,20 +2827,20 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 0.0,
+                "points": 3.3,
                 "custom_points": null
               },
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 14.8,
+                "points": 36.22,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 5,
               "team_label": "White Ice",
-              "points": 14.8
+              "points": 36.22
             }
           },
           {
@@ -2842,20 +2849,20 @@
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 3.2,
+                "points": 7.16,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 15.4,
+                "points": 17.94,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 11,
               "team_label": "MOJO",
-              "points": 15.4
+              "points": 17.94
             }
           },
           {
@@ -2864,17 +2871,21 @@
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 0.0,
+                "points": 16.1,
                 "custom_points": null
               },
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 0.0,
+                "points": 12.1,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 10,
+              "team_label": "Goin in Ra",
+              "points": 16.1
+            }
           },
           {
             "matchup_id": "4",
@@ -2882,20 +2893,20 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 10.0,
+                "points": 26.46,
                 "custom_points": null
               },
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 0.0,
+                "points": 7.9,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 3,
               "team_label": "Laporta Potty",
-              "points": 10.0
+              "points": 26.46
             }
           },
           {
@@ -2904,20 +2915,20 @@
               {
                 "roster_id": 2,
                 "team_label": "Washington Monument",
-                "points": 1.8,
+                "points": 3.1,
                 "custom_points": null
               },
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 4.9,
+                "points": 8.3,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 8,
               "team_label": "Back to the Future",
-              "points": 4.9
+              "points": 8.3
             }
           },
           {
@@ -2926,17 +2937,21 @@
               {
                 "roster_id": 6,
                 "team_label": "andrewwelle",
-                "points": 0.0,
+                "points": 8.3,
                 "custom_points": null
               },
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 0.0,
+                "points": 12.1,
                 "custom_points": null
               }
             ],
-            "winner": null
+            "winner": {
+              "roster_id": 9,
+              "team_label": "off",
+              "points": 12.1
+            }
           }
         ],
         "counts": {
