@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "generated_at": "2026-11-22T18:33:49.525504Z",
-    "source_snapshot_generated_at": "2026-11-22T18:33:46.707894Z",
+    "generated_at": "2026-11-23T22:43:19.516972Z",
+    "source_snapshot_generated_at": "2026-11-23T22:43:17.757052Z",
     "league_id": "1312581067286282240",
     "season": "2026",
     "season_type": "regular",
@@ -376,7 +376,7 @@
           "name": "Mike Evans",
           "team": "SF",
           "position": "WR",
-          "injury_status": "Questionable"
+          "injury_status": null
         },
         {
           "player_id": "4993",
@@ -876,7 +876,7 @@
           "name": "Justin Herbert",
           "team": "LAC",
           "position": "QB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "12531",
@@ -925,7 +925,7 @@
           "name": "Jalen Coker",
           "team": "CAR",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "9500",
@@ -1105,14 +1105,14 @@
           "name": "Bhayshul Tuten",
           "team": "JAX",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "3198",
           "name": "Derrick Henry",
           "team": "BAL",
           "position": "RB",
-          "injury_status": null
+          "injury_status": "Questionable"
         },
         {
           "player_id": "5947",
@@ -1376,7 +1376,7 @@
           "name": "DJ Moore",
           "team": "BUF",
           "position": "WR",
-          "injury_status": null
+          "injury_status": "Questionable"
         }
       ],
       "reserve": [
@@ -2827,20 +2827,20 @@
               {
                 "roster_id": 1,
                 "team_label": "It’s Herbie Hancock",
-                "points": 3.3,
+                "points": 46.4,
                 "custom_points": null
               },
               {
                 "roster_id": 5,
                 "team_label": "White Ice",
-                "points": 36.22,
+                "points": 115.84,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 5,
               "team_label": "White Ice",
-              "points": 36.22
+              "points": 115.84
             }
           },
           {
@@ -2849,20 +2849,20 @@
               {
                 "roster_id": 7,
                 "team_label": "Commish is a bitch",
-                "points": 7.16,
+                "points": 75.88,
                 "custom_points": null
               },
               {
                 "roster_id": 11,
                 "team_label": "MOJO",
-                "points": 17.94,
+                "points": 72.36,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 11,
-              "team_label": "MOJO",
-              "points": 17.94
+              "roster_id": 7,
+              "team_label": "Commish is a bitch",
+              "points": 75.88
             }
           },
           {
@@ -2871,20 +2871,20 @@
               {
                 "roster_id": 10,
                 "team_label": "Goin in Ra",
-                "points": 16.1,
+                "points": 102.42,
                 "custom_points": null
               },
               {
                 "roster_id": 12,
                 "team_label": "gullickson",
-                "points": 12.1,
+                "points": 102.3,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 10,
               "team_label": "Goin in Ra",
-              "points": 16.1
+              "points": 102.42
             }
           },
           {
@@ -2893,20 +2893,20 @@
               {
                 "roster_id": 3,
                 "team_label": "Laporta Potty",
-                "points": 26.46,
+                "points": 95.16,
                 "custom_points": null
               },
               {
                 "roster_id": 4,
                 "team_label": "Puka Troopas",
-                "points": 7.9,
+                "points": 139.1,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 3,
-              "team_label": "Laporta Potty",
-              "points": 26.46
+              "roster_id": 4,
+              "team_label": "Puka Troopas",
+              "points": 139.1
             }
           },
           {
@@ -2915,20 +2915,20 @@
               {
                 "roster_id": 2,
                 "team_label": "Washington Monument",
-                "points": 3.1,
+                "points": 55.04,
                 "custom_points": null
               },
               {
                 "roster_id": 8,
                 "team_label": "Back to the Future",
-                "points": 8.3,
+                "points": 111.74,
                 "custom_points": null
               }
             ],
             "winner": {
               "roster_id": 8,
               "team_label": "Back to the Future",
-              "points": 8.3
+              "points": 111.74
             }
           },
           {
@@ -2937,20 +2937,20 @@
               {
                 "roster_id": 6,
                 "team_label": "andrewwelle",
-                "points": 8.3,
+                "points": 112.0,
                 "custom_points": null
               },
               {
                 "roster_id": 9,
                 "team_label": "off",
-                "points": 12.1,
+                "points": 97.62,
                 "custom_points": null
               }
             ],
             "winner": {
-              "roster_id": 9,
-              "team_label": "off",
-              "points": 12.1
+              "roster_id": 6,
+              "team_label": "andrewwelle",
+              "points": 112.0
             }
           }
         ],
