@@ -20474,6 +20474,7 @@
             "13270",
             "13301",
             "13346",
+            "4017",
             "6786",
             "6794",
             "6797",
@@ -20509,6 +20510,7 @@
             "13270",
             "13301",
             "13346",
+            "4017",
             "7611",
             "8125",
             "8142",
@@ -20530,6 +20532,7 @@
             "13270": 0.0,
             "13301": 21.2,
             "13346": 0.0,
+            "4017": 0.0,
             "6786": 30.2,
             "6794": 12.7,
             "6797": 21.44,
@@ -20559,6 +20562,7 @@
               "CJ Daniels",
               "Antonio Williams",
               "Denzel Boston",
+              "Deshaun Watson",
               "CeeDee Lamb",
               "Justin Jefferson",
               "Justin Herbert",
@@ -20594,6 +20598,7 @@
               "CJ Daniels",
               "Antonio Williams",
               "Denzel Boston",
+              "Deshaun Watson",
               "Rhamondre Stevenson",
               "Calvin Austin III",
               "Alec Pierce",
@@ -21331,7 +21336,6 @@
           "points": 0.0,
           "custom_points": null,
           "players": [
-            "11557",
             "11566",
             "11576",
             "11624",
@@ -21354,6 +21358,7 @@
             "13411",
             "13421",
             "8136",
+            "9229",
             "9756",
             "9758"
           ],
@@ -21369,7 +21374,6 @@
             "8136"
           ],
           "bench": [
-            "11557",
             "11624",
             "11643",
             "12529",
@@ -21383,11 +21387,11 @@
             "13402",
             "13411",
             "13421",
+            "9229",
             "9756",
             "9758"
           ],
           "players_points": {
-            "11557": 0.0,
             "11566": 0.0,
             "11576": 0.0,
             "11624": 0.0,
@@ -21410,13 +21414,13 @@
             "13411": 0.0,
             "13421": 0.0,
             "8136": 0.0,
+            "9229": 0.0,
             "9756": 0.0,
             "9758": 0.0
           },
           "starters_points": {},
           "display": {
             "players": [
-              "Joe Milton",
               "Jayden Daniels",
               "Braelon Allen",
               "Xavier Worthy",
@@ -21439,6 +21443,7 @@
               "Zavion Thomas",
               "Eli Raridon",
               "Rachaad White",
+              "Anthony Richardson Sr.",
               "Jordan Addison",
               "C.J. Stroud"
             ],
@@ -21454,7 +21459,6 @@
               "Rachaad White"
             ],
             "bench": [
-              "Joe Milton",
               "Xavier Worthy",
               "Jaylen Wright",
               "TreVeyon Henderson",
@@ -21468,6 +21472,7 @@
               "Skyler Bell",
               "Zavion Thomas",
               "Eli Raridon",
+              "Anthony Richardson Sr.",
               "Jordan Addison",
               "C.J. Stroud"
             ]
@@ -21486,6 +21491,7 @@
             "12472",
             "12491",
             "12492",
+            "12496",
             "12504",
             "12509",
             "12517",
@@ -21497,43 +21503,42 @@
             "13413",
             "13417",
             "13424",
-            "4718",
+            "4972",
             "6904",
             "7523",
             "8210",
             "8676",
             "9487",
             "9504",
-            "96",
             "9754"
           ],
           "starters": [
             "7523",
             "12491",
             "12504",
-            "9487",
-            "12509",
+            "13294",
+            "13276",
             "12517",
-            "12492",
+            "12718",
             "8210",
-            "13294"
+            "9487"
           ],
           "bench": [
             "10235",
             "12048",
             "12472",
-            "12718",
-            "13276",
+            "12492",
+            "12496",
+            "12509",
             "13297",
             "13338",
             "13413",
             "13417",
             "13424",
-            "4718",
+            "4972",
             "6904",
             "8676",
             "9504",
-            "96",
             "9754"
           ],
           "players_points": {
@@ -21542,6 +21547,7 @@
             "12472": 0.0,
             "12491": 0.0,
             "12492": 0.0,
+            "12496": 0.0,
             "12504": 0.0,
             "12509": 0.0,
             "12517": 0.0,
@@ -21553,14 +21559,13 @@
             "13413": 0.0,
             "13417": 0.0,
             "13424": 0.0,
-            "4718": 0.0,
+            "4972": 0.0,
             "6904": 0.0,
             "7523": 0.0,
             "8210": 0.0,
             "8676": 0.0,
             "9487": 0.0,
             "9504": 0.0,
-            "96": 0.0,
             "9754": 0.0
           },
           "starters_points": {},
@@ -21571,6 +21576,7 @@
               "Raheim Sanders",
               "Corey Kiner",
               "Pat Bryant",
+              "Tai Felton",
               "Kaleb Johnson",
               "Tre' Harris",
               "Colston Loveland",
@@ -21582,43 +21588,42 @@
               "Cyrus Allen",
               "De'Zhaun Stribling",
               "Seth McGowan",
-              "Dare Ogunbowale",
+              "Mason Rudolph",
               "Jalen Hurts",
               "Trevor Lawrence",
               "Chig Okonkwo",
               "Rashid Shaheed",
               "Parker Washington",
               "Kayshon Boutte",
-              "Aaron Rodgers",
               "Quentin Johnston"
             ],
             "starters": [
               "Trevor Lawrence",
               "Corey Kiner",
               "Kaleb Johnson",
-              "Parker Washington",
-              "Tre' Harris",
+              "Makai Lemon",
+              "Omar Cooper Jr.",
               "Colston Loveland",
-              "Pat Bryant",
+              "Konata Mumpfield",
               "Chig Okonkwo",
-              "Makai Lemon"
+              "Parker Washington"
             ],
             "bench": [
               "Roschon Johnson",
               "George Holani",
               "Raheim Sanders",
-              "Konata Mumpfield",
-              "Omar Cooper Jr.",
+              "Pat Bryant",
+              "Tai Felton",
+              "Tre' Harris",
               "Reggie Virgil",
               "Kevin Coleman Jr.",
               "Cyrus Allen",
               "De'Zhaun Stribling",
               "Seth McGowan",
-              "Dare Ogunbowale",
+              "Mason Rudolph",
               "Jalen Hurts",
               "Rashid Shaheed",
               "Kayshon Boutte",
-              "Aaron Rodgers",
               "Quentin Johnston"
             ]
           }
@@ -22256,30 +22261,30 @@
             "12545",
             "8408",
             "7567",
-            "11637",
+            "8167",
             "12526",
             "12518",
-            "13264",
+            "13298",
             "11632",
-            "13414"
+            "9488"
           ],
           "bench": [
             "10222",
             "11559",
+            "11637",
             "12474",
             "12535",
             "12547",
+            "13264",
             "13275",
             "13277",
-            "13298",
             "13311",
+            "13414",
             "13533",
             "4663",
             "4892",
-            "8167",
             "8205",
-            "9479",
-            "9488"
+            "9479"
           ],
           "players_points": {
             "10222": 0.0,
@@ -22341,30 +22346,30 @@
               "Tyler Shough",
               "Jordan Mason",
               "Kenny Gainwell",
-              "Keon Coleman",
+              "Christian Watson",
               "Tetairoa McMillan",
               "Tyler Warren",
-              "Dohnte Meyers",
+              "KC Concepcion Jr.",
               "Malik Nabers",
-              "Kaelon Black"
+              "Jaxon Smith-Njigba"
             ],
             "bench": [
               "Jayden Reed",
               "Michael Penix Jr.",
+              "Keon Coleman",
               "Woody Marks",
               "Isaac TeSlaa",
               "Kyle Williams",
+              "Dohnte Meyers",
               "Ty Simpson",
               "CJ Donaldson",
-              "KC Concepcion Jr.",
               "Chris Bell",
+              "Kaelon Black",
               "Barion Brown",
               "Austin Ekeler",
               "Baker Mayfield",
-              "Christian Watson",
               "Isiah Pacheco",
-              "Darnell Washington",
-              "Jaxon Smith-Njigba"
+              "Darnell Washington"
             ]
           }
         },
@@ -22376,7 +22381,6 @@
           "points": 0.0,
           "custom_points": null,
           "players": [
-            "11199",
             "11435",
             "11564",
             "11581",
@@ -22389,6 +22393,7 @@
             "13270",
             "13301",
             "13346",
+            "4017",
             "6786",
             "6794",
             "6797",
@@ -22403,18 +22408,17 @@
             "9753"
           ],
           "starters": [
-            "6797",
-            "8151",
+            "4017",
+            "7611",
             "8150",
             "6786",
             "6794",
             "8130",
             "8131",
             "13346",
-            "7611"
+            "9753"
           ],
           "bench": [
-            "11199",
             "11435",
             "11564",
             "11581",
@@ -22426,13 +22430,13 @@
             "12531",
             "13270",
             "13301",
+            "6797",
             "8125",
             "8142",
-            "9500",
-            "9753"
+            "8151",
+            "9500"
           ],
           "players_points": {
-            "11199": 0.0,
             "11435": 0.0,
             "11564": 0.0,
             "11581": 0.0,
@@ -22445,6 +22449,7 @@
             "13270": 0.0,
             "13301": 0.0,
             "13346": 0.0,
+            "4017": 0.0,
             "6786": 0.0,
             "6794": 0.0,
             "6797": 0.0,
@@ -22461,7 +22466,6 @@
           "starters_points": {},
           "display": {
             "players": [
-              "Emari Demercado",
               "Emanuel Wilson",
               "Drake Maye",
               "MarShawn Lloyd",
@@ -22474,6 +22478,7 @@
               "CJ Daniels",
               "Antonio Williams",
               "Denzel Boston",
+              "Deshaun Watson",
               "CeeDee Lamb",
               "Justin Jefferson",
               "Justin Herbert",
@@ -22488,18 +22493,17 @@
               "Zach Charbonnet"
             ],
             "starters": [
-              "Justin Herbert",
-              "Kenneth Walker III",
+              "Deshaun Watson",
+              "Rhamondre Stevenson",
               "Kyren Williams",
               "CeeDee Lamb",
               "Justin Jefferson",
               "Trey McBride",
               "Isaiah Likely",
               "Denzel Boston",
-              "Rhamondre Stevenson"
+              "Zach Charbonnet"
             ],
             "bench": [
-              "Emari Demercado",
               "Emanuel Wilson",
               "Drake Maye",
               "MarShawn Lloyd",
@@ -22511,10 +22515,11 @@
               "Trevor Etienne",
               "CJ Daniels",
               "Antonio Williams",
+              "Justin Herbert",
               "Calvin Austin III",
               "Alec Pierce",
-              "Josh Downs",
-              "Zach Charbonnet"
+              "Kenneth Walker III",
+              "Josh Downs"
             ]
           }
         },
@@ -22823,7 +22828,6 @@
           "players": [
             "11563",
             "11575",
-            "11593",
             "11604",
             "11627",
             "12469",
@@ -22833,6 +22837,7 @@
             "13320",
             "2133",
             "3214",
+            "4066",
             "4984",
             "5045",
             "5850",
@@ -22861,13 +22866,13 @@
           "bench": [
             "11563",
             "11575",
-            "11593",
             "11627",
             "12482",
             "12540",
             "13320",
             "2133",
             "3214",
+            "4066",
             "5045",
             "5850",
             "5859",
@@ -22879,7 +22884,6 @@
           "players_points": {
             "11563": 0.0,
             "11575": 0.0,
-            "11593": 0.0,
             "11604": 0.0,
             "11627": 0.0,
             "12469": 0.0,
@@ -22889,6 +22893,7 @@
             "13320": 0.0,
             "2133": 0.0,
             "3214": 0.0,
+            "4066": 0.0,
             "4984": 0.0,
             "5045": 0.0,
             "5850": 0.0,
@@ -22908,7 +22913,6 @@
             "players": [
               "Bo Nix",
               "Ray Davis",
-              "Brevyn Spann-Ford",
               "Brock Bowers",
               "Troy Franklin",
               "Dylan Sampson",
@@ -22918,6 +22922,7 @@
               "Zachariah Branch",
               "Davante Adams",
               "Hunter Henry",
+              "Evan Engram",
               "Josh Allen",
               "Courtland Sutton",
               "Josh Jacobs",
@@ -22946,13 +22951,13 @@
             "bench": [
               "Bo Nix",
               "Ray Davis",
-              "Brevyn Spann-Ford",
               "Troy Franklin",
               "Savion Williams",
               "Chimere Dike",
               "Zachariah Branch",
               "Davante Adams",
               "Hunter Henry",
+              "Evan Engram",
               "Courtland Sutton",
               "Josh Jacobs",
               "A.J. Brown",
@@ -23001,12 +23006,12 @@
             "6770",
             "12512",
             "4866",
-            "13274",
+            "4983",
             "9997",
             "5022",
             "7543",
             "11635",
-            "4983"
+            "2505"
           ],
           "bench": [
             "10232",
@@ -23015,9 +23020,9 @@
             "11618",
             "11647",
             "12487",
+            "13274",
             "13278",
             "13287",
-            "2505",
             "3163",
             "421",
             "4454",
@@ -23086,12 +23091,12 @@
               "Joe Burrow",
               "Quinshon Judkins",
               "Saquon Barkley",
-              "Germie Bernard",
+              "DJ Moore",
               "Zay Flowers",
               "Dallas Goedert",
               "Travis Etienne Jr.",
               "Ladd McConkey",
-              "DJ Moore"
+              "Darren Waller"
             ],
             "bench": [
               "Michael Wilson",
@@ -23100,9 +23105,9 @@
               "Jalen McMillan",
               "Kimani Vidal",
               "Terrance Ferguson",
+              "Germie Bernard",
               "Max Klare",
               "Jeremiyah Love",
-              "Darren Waller",
               "Jared Goff",
               "Matthew Stafford",
               "Kendrick Bourne",

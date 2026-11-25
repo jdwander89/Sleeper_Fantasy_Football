@@ -8119,6 +8119,54 @@
         },
         {
           "week": 11,
+          "transaction_id": "1429572212288929792",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1795199084879,
+          "created_at": "2026-11-20T18:24:44.879000Z",
+          "status_updated": 1795594537593,
+          "status_updated_at": "2026-11-25T08:15:37.593000Z",
+          "creator_user_id": "464915162038530048",
+          "roster_ids": [
+            1
+          ],
+          "team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "consenter_ids": [
+            1
+          ],
+          "consenter_team_labels": [
+            "It’s Herbie Hancock"
+          ],
+          "adds": [
+            {
+              "player_id": "9229",
+              "player_name": "Anthony Richardson Sr.",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "11557",
+              "player_name": "Joe Milton",
+              "roster_id": 1,
+              "team_label": "It’s Herbie Hancock"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 0,
+            "waiver_bid": 101
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 11,
           "transaction_id": "1429575156681965568",
           "type": "trade",
           "status": "complete",
@@ -8168,23 +8216,211 @@
           ],
           "settings": {},
           "metadata": {}
+        },
+        {
+          "week": 11,
+          "transaction_id": "1430809602856861696",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1795494101780,
+          "created_at": "2026-11-24T04:21:41.780000Z",
+          "status_updated": 1795594537593,
+          "status_updated_at": "2026-11-25T08:15:37.593000Z",
+          "creator_user_id": "471724614532198400",
+          "roster_ids": [
+            11
+          ],
+          "team_labels": [
+            "MOJO"
+          ],
+          "consenter_ids": [
+            11
+          ],
+          "consenter_team_labels": [
+            "MOJO"
+          ],
+          "adds": [
+            {
+              "player_id": "4066",
+              "player_name": "Evan Engram",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "11593",
+              "player_name": "Brevyn Spann-Ford",
+              "roster_id": 11,
+              "team_label": "MOJO"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 3,
+            "waiver_bid": 8
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 11,
+          "transaction_id": "1430937438947139584",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1795524580278,
+          "created_at": "2026-11-24T12:49:40.278000Z",
+          "status_updated": 1795594537593,
+          "status_updated_at": "2026-11-25T08:15:37.593000Z",
+          "creator_user_id": "471457570825957376",
+          "roster_ids": [
+            8
+          ],
+          "team_labels": [
+            "Back to the Future"
+          ],
+          "consenter_ids": [
+            8
+          ],
+          "consenter_team_labels": [
+            "Back to the Future"
+          ],
+          "adds": [
+            {
+              "player_id": "4017",
+              "player_name": "Deshaun Watson",
+              "roster_id": 8,
+              "team_label": "Back to the Future"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "11199",
+              "player_name": "Emari Demercado",
+              "roster_id": 8,
+              "team_label": "Back to the Future"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 1,
+            "waiver_bid": 32
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
+        },
+        {
+          "week": 11,
+          "transaction_id": "1430996394730086400",
+          "type": "waiver",
+          "status": "complete",
+          "created": 1795538636433,
+          "created_at": "2026-11-24T16:43:56.433000Z",
+          "status_updated": 1795594537593,
+          "status_updated_at": "2026-11-25T08:15:37.593000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "Washington Monument"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "Washington Monument"
+          ],
+          "adds": [
+            {
+              "player_id": "12496",
+              "player_name": "Tai Felton",
+              "roster_id": 2,
+              "team_label": "Washington Monument"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "96",
+              "player_name": "Aaron Rodgers",
+              "roster_id": 2,
+              "team_label": "Washington Monument"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {
+            "seq": 2,
+            "waiver_bid": 15
+          },
+          "metadata": {
+            "notes": "Your waiver claim was processed successfully!"
+          }
         }
       ],
       "counts": {
-        "transactions": 9,
+        "transactions": 13,
         "trades": 2,
-        "waivers": 0,
+        "waivers": 4,
         "free_agent_moves": 7
       }
     },
     "12": {
       "week": 12,
-      "transactions": [],
+      "transactions": [
+        {
+          "week": 12,
+          "transaction_id": "1431405255756619776",
+          "type": "free_agent",
+          "status": "complete",
+          "created": 1795636116497,
+          "created_at": "2026-11-25T19:48:36.497000Z",
+          "status_updated": 1795636116497,
+          "status_updated_at": "2026-11-25T19:48:36.497000Z",
+          "creator_user_id": "471403228244733952",
+          "roster_ids": [
+            2
+          ],
+          "team_labels": [
+            "Washington Monument"
+          ],
+          "consenter_ids": [
+            2
+          ],
+          "consenter_team_labels": [
+            "Washington Monument"
+          ],
+          "adds": [
+            {
+              "player_id": "4972",
+              "player_name": "Mason Rudolph",
+              "roster_id": 2,
+              "team_label": "Washington Monument"
+            }
+          ],
+          "drops": [
+            {
+              "player_id": "4718",
+              "player_name": "Dare Ogunbowale",
+              "roster_id": 2,
+              "team_label": "Washington Monument"
+            }
+          ],
+          "draft_picks": [],
+          "waiver_budget": [],
+          "settings": {},
+          "metadata": {}
+        }
+      ],
       "counts": {
-        "transactions": 0,
+        "transactions": 1,
         "trades": 0,
         "waivers": 0,
-        "free_agent_moves": 0
+        "free_agent_moves": 1
       }
     }
   },
@@ -16195,6 +16431,54 @@
     },
     {
       "week": 11,
+      "transaction_id": "1429572212288929792",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795199084879,
+      "created_at": "2026-11-20T18:24:44.879000Z",
+      "status_updated": 1795594537593,
+      "status_updated_at": "2026-11-25T08:15:37.593000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "9229",
+          "player_name": "Anthony Richardson Sr.",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11557",
+          "player_name": "Joe Milton",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 101
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 11,
       "transaction_id": "1429575156681965568",
       "type": "trade",
       "status": "complete",
@@ -16242,6 +16526,193 @@
           "amount": 100
         }
       ],
+      "settings": {},
+      "metadata": {}
+    },
+    {
+      "week": 11,
+      "transaction_id": "1430809602856861696",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795494101780,
+      "created_at": "2026-11-24T04:21:41.780000Z",
+      "status_updated": 1795594537593,
+      "status_updated_at": "2026-11-25T08:15:37.593000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "4066",
+          "player_name": "Evan Engram",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11593",
+          "player_name": "Brevyn Spann-Ford",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 3,
+        "waiver_bid": 8
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 11,
+      "transaction_id": "1430937438947139584",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795524580278,
+      "created_at": "2026-11-24T12:49:40.278000Z",
+      "status_updated": 1795594537593,
+      "status_updated_at": "2026-11-25T08:15:37.593000Z",
+      "creator_user_id": "471457570825957376",
+      "roster_ids": [
+        8
+      ],
+      "team_labels": [
+        "Back to the Future"
+      ],
+      "consenter_ids": [
+        8
+      ],
+      "consenter_team_labels": [
+        "Back to the Future"
+      ],
+      "adds": [
+        {
+          "player_id": "4017",
+          "player_name": "Deshaun Watson",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11199",
+          "player_name": "Emari Demercado",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 32
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 11,
+      "transaction_id": "1430996394730086400",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795538636433,
+      "created_at": "2026-11-24T16:43:56.433000Z",
+      "status_updated": 1795594537593,
+      "status_updated_at": "2026-11-25T08:15:37.593000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "Washington Monument"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "Washington Monument"
+      ],
+      "adds": [
+        {
+          "player_id": "12496",
+          "player_name": "Tai Felton",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "96",
+          "player_name": "Aaron Rodgers",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 2,
+        "waiver_bid": 15
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 12,
+      "transaction_id": "1431405255756619776",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795636116497,
+      "created_at": "2026-11-25T19:48:36.497000Z",
+      "status_updated": 1795636116497,
+      "status_updated_at": "2026-11-25T19:48:36.497000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "Washington Monument"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "Washington Monument"
+      ],
+      "adds": [
+        {
+          "player_id": "4972",
+          "player_name": "Mason Rudolph",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4718",
+          "player_name": "Dare Ogunbowale",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
       "settings": {},
       "metadata": {}
     }
@@ -19365,6 +19836,198 @@
       },
       "metadata": {
         "notes": "This player was claimed by another owner."
+      }
+    },
+    {
+      "week": 11,
+      "transaction_id": "1429572212288929792",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795199084879,
+      "created_at": "2026-11-20T18:24:44.879000Z",
+      "status_updated": 1795594537593,
+      "status_updated_at": "2026-11-25T08:15:37.593000Z",
+      "creator_user_id": "464915162038530048",
+      "roster_ids": [
+        1
+      ],
+      "team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "consenter_ids": [
+        1
+      ],
+      "consenter_team_labels": [
+        "It’s Herbie Hancock"
+      ],
+      "adds": [
+        {
+          "player_id": "9229",
+          "player_name": "Anthony Richardson Sr.",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11557",
+          "player_name": "Joe Milton",
+          "roster_id": 1,
+          "team_label": "It’s Herbie Hancock"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 0,
+        "waiver_bid": 101
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 11,
+      "transaction_id": "1430809602856861696",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795494101780,
+      "created_at": "2026-11-24T04:21:41.780000Z",
+      "status_updated": 1795594537593,
+      "status_updated_at": "2026-11-25T08:15:37.593000Z",
+      "creator_user_id": "471724614532198400",
+      "roster_ids": [
+        11
+      ],
+      "team_labels": [
+        "MOJO"
+      ],
+      "consenter_ids": [
+        11
+      ],
+      "consenter_team_labels": [
+        "MOJO"
+      ],
+      "adds": [
+        {
+          "player_id": "4066",
+          "player_name": "Evan Engram",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11593",
+          "player_name": "Brevyn Spann-Ford",
+          "roster_id": 11,
+          "team_label": "MOJO"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 3,
+        "waiver_bid": 8
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 11,
+      "transaction_id": "1430937438947139584",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795524580278,
+      "created_at": "2026-11-24T12:49:40.278000Z",
+      "status_updated": 1795594537593,
+      "status_updated_at": "2026-11-25T08:15:37.593000Z",
+      "creator_user_id": "471457570825957376",
+      "roster_ids": [
+        8
+      ],
+      "team_labels": [
+        "Back to the Future"
+      ],
+      "consenter_ids": [
+        8
+      ],
+      "consenter_team_labels": [
+        "Back to the Future"
+      ],
+      "adds": [
+        {
+          "player_id": "4017",
+          "player_name": "Deshaun Watson",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "11199",
+          "player_name": "Emari Demercado",
+          "roster_id": 8,
+          "team_label": "Back to the Future"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 1,
+        "waiver_bid": 32
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
+      }
+    },
+    {
+      "week": 11,
+      "transaction_id": "1430996394730086400",
+      "type": "waiver",
+      "status": "complete",
+      "created": 1795538636433,
+      "created_at": "2026-11-24T16:43:56.433000Z",
+      "status_updated": 1795594537593,
+      "status_updated_at": "2026-11-25T08:15:37.593000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "Washington Monument"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "Washington Monument"
+      ],
+      "adds": [
+        {
+          "player_id": "12496",
+          "player_name": "Tai Felton",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "96",
+          "player_name": "Aaron Rodgers",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {
+        "seq": 2,
+        "waiver_bid": 15
+      },
+      "metadata": {
+        "notes": "Your waiver claim was processed successfully!"
       }
     }
   ],
@@ -24274,22 +24937,65 @@
       "waiver_budget": [],
       "settings": {},
       "metadata": {}
+    },
+    {
+      "week": 12,
+      "transaction_id": "1431405255756619776",
+      "type": "free_agent",
+      "status": "complete",
+      "created": 1795636116497,
+      "created_at": "2026-11-25T19:48:36.497000Z",
+      "status_updated": 1795636116497,
+      "status_updated_at": "2026-11-25T19:48:36.497000Z",
+      "creator_user_id": "471403228244733952",
+      "roster_ids": [
+        2
+      ],
+      "team_labels": [
+        "Washington Monument"
+      ],
+      "consenter_ids": [
+        2
+      ],
+      "consenter_team_labels": [
+        "Washington Monument"
+      ],
+      "adds": [
+        {
+          "player_id": "4972",
+          "player_name": "Mason Rudolph",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "drops": [
+        {
+          "player_id": "4718",
+          "player_name": "Dare Ogunbowale",
+          "roster_id": 2,
+          "team_label": "Washington Monument"
+        }
+      ],
+      "draft_picks": [],
+      "waiver_budget": [],
+      "settings": {},
+      "metadata": {}
     }
   ],
   "counts": {
     "weeks": 12,
-    "transactions": 184,
+    "transactions": 189,
     "trades": 19,
-    "waivers": 39,
-    "free_agent_moves": 125,
+    "waivers": 43,
+    "free_agent_moves": 126,
     "by_type": {
       "commissioner": 1,
-      "free_agent": 125,
+      "free_agent": 126,
       "trade": 19,
-      "waiver": 39
+      "waiver": 43
     },
     "by_status": {
-      "complete": 169,
+      "complete": 174,
       "failed": 15
     }
   }
