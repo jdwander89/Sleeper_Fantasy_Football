@@ -185,18 +185,17 @@
       "12491",
       "12504",
       "13294",
-      "13276",
+      "12492",
       "12517",
       "12718",
       "8210",
-      "9487"
+      "12496"
     ],
     "bench": [
       "10235",
       "12048",
-      "12492",
-      "12496",
       "12509",
+      "13276",
       "13289",
       "13297",
       "13338",
@@ -204,6 +203,7 @@
       "13417",
       "13424",
       "8676",
+      "9487",
       "9504",
       "9754"
     ],
@@ -250,18 +250,17 @@
         "Corey Kiner",
         "Kaleb Johnson",
         "Makai Lemon",
-        "Omar Cooper Jr.",
+        "Pat Bryant",
         "Colston Loveland",
         "Konata Mumpfield",
         "Chig Okonkwo",
-        "Parker Washington"
+        "Tai Felton"
       ],
       "bench": [
         "Roschon Johnson",
         "George Holani",
-        "Pat Bryant",
-        "Tai Felton",
         "Tre' Harris",
+        "Omar Cooper Jr.",
         "Drew Allar",
         "Reggie Virgil",
         "Kevin Coleman Jr.",
@@ -269,6 +268,7 @@
         "De'Zhaun Stribling",
         "Seth McGowan",
         "Rashid Shaheed",
+        "Parker Washington",
         "Kayshon Boutte",
         "Quentin Johnston"
       ],
@@ -475,7 +475,7 @@
       "9493"
     ],
     "starters": [
-      "8183",
+      "1373",
       "5967",
       "7594",
       "13279",
@@ -483,7 +483,7 @@
       "9480",
       "8155",
       "13345",
-      "4037"
+      "8132"
     ],
     "bench": [
       "11603",
@@ -492,14 +492,14 @@
       "12457",
       "12530",
       "13293",
-      "1373",
       "4033",
       "4035",
+      "4037",
       "4039",
       "5870",
       "7571",
       "8111",
-      "8132"
+      "8183"
     ],
     "reserve": [
       "8698",
@@ -540,7 +540,7 @@
         "Puka Nacua"
       ],
       "starters": [
-        "Brock Purdy",
+        "Geno Smith",
         "Tony Pollard",
         "Chuba Hubbard",
         "Carnell Tate",
@@ -548,7 +548,7 @@
         "Brenton Strange",
         "Breece Hall",
         "Jonah Coleman",
-        "Chris Godwin Jr."
+        "Tyler Allgeier"
       ],
       "bench": [
         "AJ Barner",
@@ -557,14 +557,14 @@
         "Jaydon Blue",
         "Travis Hunter",
         "Ja'Kobi Lane",
-        "Geno Smith",
         "David Njoku",
         "Alvin Kamara",
+        "Chris Godwin Jr.",
         "Cooper Kupp",
         "Daniel Jones",
         "Rashod Bateman",
         "Cade Otton",
-        "Tyler Allgeier"
+        "Brock Purdy"
       ],
       "reserve": [
         "Jake Tonges",
